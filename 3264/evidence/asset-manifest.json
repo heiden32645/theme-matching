@@ -1,0 +1,469 @@
+{
+  "assets": [
+    {
+      "contentType": "text/css",
+      "id": "87043a37deb41f36",
+      "kind": "stylesheet",
+      "name": "base.css",
+      "path": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/08c296bc-5bd9-4466-9f3f-034529390dd7/87043a37deb41f36.css",
+      "url": "https://5jdnwynzho9akz1t-69620498584.shopifypreview.com/cdn/shop/t/84/assets/base.css?v=133248915533610283331791284912"
+    },
+    {
+      "contentType": "text/css",
+      "id": "fd70bea35c01117f",
+      "kind": "stylesheet",
+      "name": "section-showcase.css",
+      "path": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/08c296bc-5bd9-4466-9f3f-034529390dd7/fd70bea35c01117f.css",
+      "url": "https://5jdnwynzho9akz1t-69620498584.shopifypreview.com/cdn/shop/t/84/assets/section-showcase.css?v=56767113312381061651791284912"
+    },
+    {
+      "contentType": "text/css",
+      "id": "a2fe70c2a19dc9fc",
+      "kind": "stylesheet",
+      "name": "section-multiple-scrolling-banner.css",
+      "path": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/08c296bc-5bd9-4466-9f3f-034529390dd7/a2fe70c2a19dc9fc.css",
+      "url": "https://5jdnwynzho9akz1t-69620498584.shopifypreview.com/cdn/shop/t/84/assets/section-multiple-scrolling-banner.css?v=22185926028817325021791284912"
+    },
+    {
+      "contentType": "text/css",
+      "id": "97eb3268f45ac7ba",
+      "kind": "stylesheet",
+      "name": "component-localization-form.css",
+      "path": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/08c296bc-5bd9-4466-9f3f-034529390dd7/97eb3268f45ac7ba.css",
+      "url": "https://5jdnwynzho9akz1t-69620498584.shopifypreview.com/cdn/shop/t/84/assets/component-localization-form.css?v=162349764571555042831791284912"
+    },
+    {
+      "contentType": "text/css",
+      "id": "9e2f91ce98926310",
+      "kind": "stylesheet",
+      "name": "section-scrolling-banner.css",
+      "path": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/08c296bc-5bd9-4466-9f3f-034529390dd7/9e2f91ce98926310.css",
+      "url": "https://5jdnwynzho9akz1t-69620498584.shopifypreview.com/cdn/shop/t/84/assets/section-scrolling-banner.css?v=141101741851943527981791284912"
+    },
+    {
+      "contentType": "text/css",
+      "id": "382e5dbb53b52663",
+      "kind": "stylesheet",
+      "name": "section-testimonials-banner.css",
+      "path": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/08c296bc-5bd9-4466-9f3f-034529390dd7/382e5dbb53b52663.css",
+      "url": "https://5jdnwynzho9akz1t-69620498584.shopifypreview.com/cdn/shop/t/84/assets/section-testimonials-banner.css?v=139401821570358853691791284912"
+    },
+    {
+      "contentType": "text/css",
+      "id": "ed141c849371a1f6",
+      "kind": "stylesheet",
+      "name": "swiper.css",
+      "path": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/08c296bc-5bd9-4466-9f3f-034529390dd7/ed141c849371a1f6.css",
+      "url": "https://5jdnwynzho9akz1t-69620498584.shopifypreview.com/cdn/shop/t/84/assets/swiper.css?v=6432174544386802721791284912"
+    },
+    {
+      "contentType": "",
+      "id": "62f4cf02855107e6",
+      "kind": "stylesheet",
+      "name": "accelerated-checkout.css",
+      "path": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/08c296bc-5bd9-4466-9f3f-034529390dd7/62f4cf02855107e6.css",
+      "url": "https://5jdnwynzho9akz1t-69620498584.shopifypreview.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout.css"
+    },
+    {
+      "contentType": "text/css",
+      "id": "e93b5604f898850c",
+      "kind": "stylesheet",
+      "name": "section-image-banner.css",
+      "path": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/08c296bc-5bd9-4466-9f3f-034529390dd7/e93b5604f898850c.css",
+      "url": "https://5jdnwynzho9akz1t-69620498584.shopifypreview.com/cdn/shop/t/84/assets/section-image-banner.css?v=5136341895429135701791284912"
+    },
+    {
+      "contentType": "text/css",
+      "id": "5176a91bb6776124",
+      "kind": "stylesheet",
+      "name": "swiper-bundle.min.css",
+      "path": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/08c296bc-5bd9-4466-9f3f-034529390dd7/5176a91bb6776124.css",
+      "url": "https://5jdnwynzho9akz1t-69620498584.shopifypreview.com/cdn/shop/t/84/assets/swiper-bundle.min.css?v=170185683471740649831791284912"
+    },
+    {
+      "contentType": "font/woff2",
+      "id": "fd34be757ca64806",
+      "kind": "font",
+      "name": "jost_n4.d47a1b6347ce4a4c9f437608011273009d91f2b7.woff2",
+      "path": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/08c296bc-5bd9-4466-9f3f-034529390dd7/fd34be757ca64806.woff2",
+      "url": "https://5jdnwynzho9akz1t-69620498584.shopifypreview.com/cdn/fonts/jost/jost_n4.d47a1b6347ce4a4c9f437608011273009d91f2b7.woff2"
+    },
+    {
+      "contentType": "font/woff2",
+      "id": "be957b5143615c90",
+      "kind": "font",
+      "name": "jost_n5.7c8497861ffd15f4e1284cd221f14658b0e95d61.woff2",
+      "path": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/08c296bc-5bd9-4466-9f3f-034529390dd7/be957b5143615c90.woff2",
+      "url": "https://5jdnwynzho9akz1t-69620498584.shopifypreview.com/cdn/fonts/jost/jost_n5.7c8497861ffd15f4e1284cd221f14658b0e95d61.woff2"
+    },
+    {
+      "contentType": "text/css",
+      "id": "b15a169866689e9f",
+      "kind": "stylesheet",
+      "name": "component-predictive-search.css",
+      "path": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/08c296bc-5bd9-4466-9f3f-034529390dd7/b15a169866689e9f.css",
+      "url": "https://5jdnwynzho9akz1t-69620498584.shopifypreview.com/cdn/shop/t/84/assets/component-predictive-search.css?v=32259965310679679111791284912"
+    },
+    {
+      "contentType": "text/css",
+      "id": "ce0187dd5118218f",
+      "kind": "stylesheet",
+      "name": "component-list-menu.css",
+      "path": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/08c296bc-5bd9-4466-9f3f-034529390dd7/ce0187dd5118218f.css",
+      "url": "https://5jdnwynzho9akz1t-69620498584.shopifypreview.com/cdn/shop/t/84/assets/component-list-menu.css?v=108623009567541562551791284912"
+    },
+    {
+      "contentType": "text/css",
+      "id": "b8b9c286dfead074",
+      "kind": "stylesheet",
+      "name": "component-search.css",
+      "path": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/08c296bc-5bd9-4466-9f3f-034529390dd7/b8b9c286dfead074.css",
+      "url": "https://5jdnwynzho9akz1t-69620498584.shopifypreview.com/cdn/shop/t/84/assets/component-search.css?v=7149651736699209381791284912"
+    },
+    {
+      "contentType": "text/css",
+      "id": "6dc90276025d203a",
+      "kind": "stylesheet",
+      "name": "component-menu-drawer.css",
+      "path": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/08c296bc-5bd9-4466-9f3f-034529390dd7/6dc90276025d203a.css",
+      "url": "https://5jdnwynzho9akz1t-69620498584.shopifypreview.com/cdn/shop/t/84/assets/component-menu-drawer.css?v=82593741146962979721791284912"
+    },
+    {
+      "contentType": "text/css",
+      "id": "cc28695846ef4a7f",
+      "kind": "stylesheet",
+      "name": "component-cart-notification.css",
+      "path": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/08c296bc-5bd9-4466-9f3f-034529390dd7/cc28695846ef4a7f.css",
+      "url": "https://5jdnwynzho9akz1t-69620498584.shopifypreview.com/cdn/shop/t/84/assets/component-cart-notification.css?v=46228310469519535161791284912"
+    },
+    {
+      "contentType": "text/css",
+      "id": "3667938988b6be01",
+      "kind": "stylesheet",
+      "name": "component-cart-items.css",
+      "path": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/08c296bc-5bd9-4466-9f3f-034529390dd7/3667938988b6be01.css",
+      "url": "https://5jdnwynzho9akz1t-69620498584.shopifypreview.com/cdn/shop/t/84/assets/component-cart-items.css?v=82672877751657065471791284912"
+    },
+    {
+      "contentType": "text/css",
+      "id": "6a5f81c3c22e3cc2",
+      "kind": "stylesheet",
+      "name": "component-mega-menu.css",
+      "path": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/08c296bc-5bd9-4466-9f3f-034529390dd7/6a5f81c3c22e3cc2.css",
+      "url": "https://5jdnwynzho9akz1t-69620498584.shopifypreview.com/cdn/shop/t/84/assets/component-mega-menu.css?v=169972589843485958131791284912"
+    },
+    {
+      "contentType": "text/css",
+      "id": "2c4edeb52f21c4e6",
+      "kind": "stylesheet",
+      "name": "component-price.css",
+      "path": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/08c296bc-5bd9-4466-9f3f-034529390dd7/2c4edeb52f21c4e6.css",
+      "url": "https://5jdnwynzho9akz1t-69620498584.shopifypreview.com/cdn/shop/t/84/assets/component-price.css?v=50559792421452787831791284912"
+    },
+    {
+      "contentType": "text/css",
+      "id": "614aea4d63547345",
+      "kind": "stylesheet",
+      "name": "component-cart-drawer.css",
+      "path": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/08c296bc-5bd9-4466-9f3f-034529390dd7/614aea4d63547345.css",
+      "url": "https://5jdnwynzho9akz1t-69620498584.shopifypreview.com/cdn/shop/t/84/assets/component-cart-drawer.css?v=65005668454463042231791284912"
+    },
+    {
+      "contentType": "text/css",
+      "id": "df7f3e926d0e950d",
+      "kind": "stylesheet",
+      "name": "component-cart.css",
+      "path": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/08c296bc-5bd9-4466-9f3f-034529390dd7/df7f3e926d0e950d.css",
+      "url": "https://5jdnwynzho9akz1t-69620498584.shopifypreview.com/cdn/shop/t/84/assets/component-cart.css?v=142591845452749300081791284912"
+    },
+    {
+      "contentType": "text/css",
+      "id": "338b780ced6bcd3f",
+      "kind": "stylesheet",
+      "name": "component-totals.css",
+      "path": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/08c296bc-5bd9-4466-9f3f-034529390dd7/338b780ced6bcd3f.css",
+      "url": "https://5jdnwynzho9akz1t-69620498584.shopifypreview.com/cdn/shop/t/84/assets/component-totals.css?v=178992369162756178751791284912"
+    },
+    {
+      "contentType": "text/css",
+      "id": "64ea3530fd1322b4",
+      "kind": "stylesheet",
+      "name": "component-discounts.css",
+      "path": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/08c296bc-5bd9-4466-9f3f-034529390dd7/64ea3530fd1322b4.css",
+      "url": "https://5jdnwynzho9akz1t-69620498584.shopifypreview.com/cdn/shop/t/84/assets/component-discounts.css?v=117875846674053446951791284912"
+    },
+    {
+      "contentType": "text/css",
+      "id": "c826e5fb03b5afb2",
+      "kind": "stylesheet",
+      "name": "component-card.css",
+      "path": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/08c296bc-5bd9-4466-9f3f-034529390dd7/c826e5fb03b5afb2.css",
+      "url": "https://5jdnwynzho9akz1t-69620498584.shopifypreview.com/cdn/shop/t/84/assets/component-card.css?v=72570470703491305011791284912"
+    },
+    {
+      "contentType": "font/woff2",
+      "id": "236b35aff0a0675e",
+      "kind": "font",
+      "name": "jost_n6.ec1178db7a7515114a2d84e3dd680832b7af8b99.woff2",
+      "path": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/08c296bc-5bd9-4466-9f3f-034529390dd7/236b35aff0a0675e.woff2",
+      "url": "https://5jdnwynzho9akz1t-69620498584.shopifypreview.com/cdn/fonts/jost/jost_n6.ec1178db7a7515114a2d84e3dd680832b7af8b99.woff2"
+    },
+    {
+      "contentType": "font/woff2",
+      "id": "ebd651a2b8bb1426",
+      "kind": "font",
+      "name": "jost_n7.921dc18c13fa0b0c94c5e2517ffe06139c3615a3.woff2",
+      "path": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/08c296bc-5bd9-4466-9f3f-034529390dd7/ebd651a2b8bb1426.woff2",
+      "url": "https://5jdnwynzho9akz1t-69620498584.shopifypreview.com/cdn/fonts/jost/jost_n7.921dc18c13fa0b0c94c5e2517ffe06139c3615a3.woff2"
+    },
+    {
+      "contentType": "text/css",
+      "id": "45d75944bbe2ab2d",
+      "kind": "stylesheet",
+      "name": "component-breadcrumb.css",
+      "path": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/08c296bc-5bd9-4466-9f3f-034529390dd7/45d75944bbe2ab2d.css",
+      "url": "https://5jdnwynzho9akz1t-69620498584.shopifypreview.com/cdn/shop/t/84/assets/component-breadcrumb.css?v=162952599553564847651791284912"
+    },
+    {
+      "contentType": "text/css",
+      "id": "3ecef505bc51e9ba",
+      "kind": "stylesheet",
+      "name": "section-main-product.css",
+      "path": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/08c296bc-5bd9-4466-9f3f-034529390dd7/3ecef505bc51e9ba.css",
+      "url": "https://5jdnwynzho9akz1t-69620498584.shopifypreview.com/cdn/shop/t/84/assets/section-main-product.css?v=141618364227826258301791284912"
+    },
+    {
+      "contentType": "text/css",
+      "id": "56227a1d609008a5",
+      "kind": "stylesheet",
+      "name": "component-slider.css",
+      "path": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/08c296bc-5bd9-4466-9f3f-034529390dd7/56227a1d609008a5.css",
+      "url": "https://5jdnwynzho9akz1t-69620498584.shopifypreview.com/cdn/shop/t/84/assets/component-slider.css?v=91702428880302504331791284912"
+    },
+    {
+      "contentType": "text/css",
+      "id": "80c33a31bacd17ac",
+      "kind": "stylesheet",
+      "name": "component-deferred-media.css",
+      "path": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/08c296bc-5bd9-4466-9f3f-034529390dd7/80c33a31bacd17ac.css",
+      "url": "https://5jdnwynzho9akz1t-69620498584.shopifypreview.com/cdn/shop/t/84/assets/component-deferred-media.css?v=35239958662571427691791284912"
+    },
+    {
+      "contentType": "text/css",
+      "id": "7b8b8c6e6e09a5fd",
+      "kind": "stylesheet",
+      "name": "component-product-variant-picker.css",
+      "path": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/08c296bc-5bd9-4466-9f3f-034529390dd7/7b8b8c6e6e09a5fd.css",
+      "url": "https://5jdnwynzho9akz1t-69620498584.shopifypreview.com/cdn/shop/t/84/assets/component-product-variant-picker.css?v=52268652583121891681791284912"
+    },
+    {
+      "contentType": "text/css",
+      "id": "9d3b08fc798c6218",
+      "kind": "stylesheet",
+      "name": "component-loading-spinner.css",
+      "path": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/08c296bc-5bd9-4466-9f3f-034529390dd7/9d3b08fc798c6218.css",
+      "url": "https://5jdnwynzho9akz1t-69620498584.shopifypreview.com/cdn/shop/t/84/assets/component-loading-spinner.css?v=116724955567955766481791284912"
+    },
+    {
+      "contentType": "text/css",
+      "id": "28cc5dd8b28b8bd1",
+      "kind": "stylesheet",
+      "name": "component-pickup-availability.css",
+      "path": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/08c296bc-5bd9-4466-9f3f-034529390dd7/28cc5dd8b28b8bd1.css",
+      "url": "https://5jdnwynzho9akz1t-69620498584.shopifypreview.com/cdn/shop/t/84/assets/component-pickup-availability.css?v=95741214254002386091791284912"
+    },
+    {
+      "contentType": "text/css",
+      "id": "47a58a868dc3536d",
+      "kind": "stylesheet",
+      "name": "component-accordion.css",
+      "path": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/08c296bc-5bd9-4466-9f3f-034529390dd7/47a58a868dc3536d.css",
+      "url": "https://5jdnwynzho9akz1t-69620498584.shopifypreview.com/cdn/shop/t/84/assets/component-accordion.css?v=42638365016980415951791284912"
+    },
+    {
+      "contentType": "text/css",
+      "id": "8b5b71b705d6e624",
+      "kind": "stylesheet",
+      "name": "component-rating.css",
+      "path": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/08c296bc-5bd9-4466-9f3f-034529390dd7/8b5b71b705d6e624.css",
+      "url": "https://5jdnwynzho9akz1t-69620498584.shopifypreview.com/cdn/shop/t/84/assets/component-rating.css?v=179577762467860590411791284912"
+    },
+    {
+      "contentType": "text/css",
+      "id": "3d3606e5ee86bc3b",
+      "kind": "stylesheet",
+      "name": "component-swatch.css",
+      "path": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/08c296bc-5bd9-4466-9f3f-034529390dd7/3d3606e5ee86bc3b.css",
+      "url": "https://5jdnwynzho9akz1t-69620498584.shopifypreview.com/cdn/shop/t/84/assets/component-swatch.css?v=99122446252175013841791284912"
+    },
+    {
+      "contentType": "text/css",
+      "id": "7de5e2a003baead6",
+      "kind": "stylesheet",
+      "name": "component-swatch-input.css",
+      "path": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/08c296bc-5bd9-4466-9f3f-034529390dd7/7de5e2a003baead6.css",
+      "url": "https://5jdnwynzho9akz1t-69620498584.shopifypreview.com/cdn/shop/t/84/assets/component-swatch-input.css?v=173635336588285435191791284912"
+    },
+    {
+      "contentType": "text/css",
+      "id": "ebb891b30322086e",
+      "kind": "stylesheet",
+      "name": "component-complementary-products.css",
+      "path": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/08c296bc-5bd9-4466-9f3f-034529390dd7/ebb891b30322086e.css",
+      "url": "https://5jdnwynzho9akz1t-69620498584.shopifypreview.com/cdn/shop/t/84/assets/component-complementary-products.css?v=27290111764350280721791284912"
+    },
+    {
+      "contentType": "text/css",
+      "id": "f8c8726a7bfb377a",
+      "kind": "stylesheet",
+      "name": "video-section.css",
+      "path": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/08c296bc-5bd9-4466-9f3f-034529390dd7/f8c8726a7bfb377a.css",
+      "url": "https://5jdnwynzho9akz1t-69620498584.shopifypreview.com/cdn/shop/t/84/assets/video-section.css?v=115462313837081190721791284912"
+    },
+    {
+      "contentType": "text/css",
+      "id": "e48e2ad56cc31fb7",
+      "kind": "stylesheet",
+      "name": "quick-add.css",
+      "path": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/08c296bc-5bd9-4466-9f3f-034529390dd7/e48e2ad56cc31fb7.css",
+      "url": "https://5jdnwynzho9akz1t-69620498584.shopifypreview.com/cdn/shop/t/84/assets/quick-add.css?v=163166470240090943991791284912"
+    },
+    {
+      "contentType": "text/css",
+      "id": "a071e92a1a1e8dd8",
+      "kind": "stylesheet",
+      "name": "section-sticky-multicolumn.css",
+      "path": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/08c296bc-5bd9-4466-9f3f-034529390dd7/a071e92a1a1e8dd8.css",
+      "url": "https://5jdnwynzho9akz1t-69620498584.shopifypreview.com/cdn/shop/t/84/assets/section-sticky-multicolumn.css?v=55117605140513438831791284912"
+    },
+    {
+      "contentType": "text/css",
+      "id": "d80f61727ec4ea8e",
+      "kind": "stylesheet",
+      "name": "section-related-products.css",
+      "path": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/08c296bc-5bd9-4466-9f3f-034529390dd7/d80f61727ec4ea8e.css",
+      "url": "https://5jdnwynzho9akz1t-69620498584.shopifypreview.com/cdn/shop/t/84/assets/section-related-products.css?v=5486905511611905801791284912"
+    },
+    {
+      "contentType": "text/css",
+      "id": "96a0b648242d2d9c",
+      "kind": "stylesheet",
+      "name": "section-faq.css",
+      "path": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/08c296bc-5bd9-4466-9f3f-034529390dd7/96a0b648242d2d9c.css",
+      "url": "https://5jdnwynzho9akz1t-69620498584.shopifypreview.com/cdn/shop/t/84/assets/section-faq.css?v=178172144170642954431791284912"
+    },
+    {
+      "contentType": "text/css",
+      "id": "333ed0715b636d2f",
+      "kind": "stylesheet",
+      "name": "product-card-variants.css",
+      "path": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/08c296bc-5bd9-4466-9f3f-034529390dd7/333ed0715b636d2f.css",
+      "url": "https://5jdnwynzho9akz1t-69620498584.shopifypreview.com/cdn/shop/t/84/assets/product-card-variants.css?v=180512952026985455551791284912"
+    },
+    {
+      "contentType": "text/css",
+      "id": "eabfe48c2088e261",
+      "kind": "stylesheet",
+      "name": "section-icon-with-text.css",
+      "path": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/08c296bc-5bd9-4466-9f3f-034529390dd7/eabfe48c2088e261.css",
+      "url": "https://5jdnwynzho9akz1t-69620498584.shopifypreview.com/cdn/shop/t/84/assets/section-icon-with-text.css?v=57190491520934676581791284912"
+    },
+    {
+      "contentType": "text/css",
+      "id": "a07147507a0a9044",
+      "kind": "stylesheet",
+      "name": "section-recently-viewed-products.css",
+      "path": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/08c296bc-5bd9-4466-9f3f-034529390dd7/a07147507a0a9044.css",
+      "url": "https://5jdnwynzho9akz1t-69620498584.shopifypreview.com/cdn/shop/t/84/assets/section-recently-viewed-products.css?v=133952306262479568361791284912"
+    },
+    {
+      "contentType": "text/css",
+      "id": "e6c8c83e2afd1750",
+      "kind": "stylesheet",
+      "name": "sticky-add-to-cart.css",
+      "path": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/08c296bc-5bd9-4466-9f3f-034529390dd7/e6c8c83e2afd1750.css",
+      "url": "https://5jdnwynzho9akz1t-69620498584.shopifypreview.com/cdn/shop/t/84/assets/sticky-add-to-cart.css?v=20870861655792486781791284912"
+    },
+    {
+      "contentType": "text/css",
+      "id": "7035cae022df6929",
+      "kind": "stylesheet",
+      "name": "scroll-to-top.css",
+      "path": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/08c296bc-5bd9-4466-9f3f-034529390dd7/7035cae022df6929.css",
+      "url": "https://5jdnwynzho9akz1t-69620498584.shopifypreview.com/cdn/shop/t/84/assets/scroll-to-top.css?v=62778239629708077411791284912"
+    },
+    {
+      "contentType": "text/css",
+      "id": "f49d1984bac93311",
+      "kind": "stylesheet",
+      "name": "section-mobile-sticky-bar.css",
+      "path": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/08c296bc-5bd9-4466-9f3f-034529390dd7/f49d1984bac93311.css",
+      "url": "https://5jdnwynzho9akz1t-69620498584.shopifypreview.com/cdn/shop/t/84/assets/section-mobile-sticky-bar.css?v=158623913779278686011791284912"
+    },
+    {
+      "contentType": "text/css",
+      "id": "2412a1ecc2360e14",
+      "kind": "stylesheet",
+      "name": "section-footer.css",
+      "path": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/08c296bc-5bd9-4466-9f3f-034529390dd7/2412a1ecc2360e14.css",
+      "url": "https://5jdnwynzho9akz1t-69620498584.shopifypreview.com/cdn/shop/t/84/assets/section-footer.css?v=27115020954786909831791284912"
+    },
+    {
+      "contentType": "text/css",
+      "id": "cdeb447dc6e2efc5",
+      "kind": "stylesheet",
+      "name": "component-newsletter.css",
+      "path": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/08c296bc-5bd9-4466-9f3f-034529390dd7/cdeb447dc6e2efc5.css",
+      "url": "https://5jdnwynzho9akz1t-69620498584.shopifypreview.com/cdn/shop/t/84/assets/component-newsletter.css?v=73458941070024865041791284912"
+    },
+    {
+      "contentType": "text/css",
+      "id": "a5cbebd051d9baba",
+      "kind": "stylesheet",
+      "name": "component-list-payment.css",
+      "path": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/08c296bc-5bd9-4466-9f3f-034529390dd7/a5cbebd051d9baba.css",
+      "url": "https://5jdnwynzho9akz1t-69620498584.shopifypreview.com/cdn/shop/t/84/assets/component-list-payment.css?v=69253961410771838501791284912"
+    },
+    {
+      "contentType": "text/css",
+      "id": "a13f32bed95e2f91",
+      "kind": "stylesheet",
+      "name": "component-list-social.css",
+      "path": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/08c296bc-5bd9-4466-9f3f-034529390dd7/a13f32bed95e2f91.css",
+      "url": "https://5jdnwynzho9akz1t-69620498584.shopifypreview.com/cdn/shop/t/84/assets/component-list-social.css?v=4601993647297134051791284912"
+    },
+    {
+      "contentType": "text/css",
+      "id": "5a5b1921630d937d",
+      "kind": "stylesheet",
+      "name": "quantity-popover.css",
+      "path": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/08c296bc-5bd9-4466-9f3f-034529390dd7/5a5b1921630d937d.css",
+      "url": "https://5jdnwynzho9akz1t-69620498584.shopifypreview.com/cdn/shop/t/84/assets/quantity-popover.css?v=153075665213740339621791284912"
+    },
+    {
+      "contentType": "text/css",
+      "id": "31fae72f441f3c03",
+      "kind": "stylesheet",
+      "name": "component-countdown-bar.css",
+      "path": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/08c296bc-5bd9-4466-9f3f-034529390dd7/31fae72f441f3c03.css",
+      "url": "https://5jdnwynzho9akz1t-69620498584.shopifypreview.com/cdn/shop/t/84/assets/component-countdown-bar.css?v=146807968812327358041791284912"
+    },
+    {
+      "contentType": "text/css",
+      "id": "33da3403da971581",
+      "kind": "stylesheet",
+      "name": "css",
+      "path": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/08c296bc-5bd9-4466-9f3f-034529390dd7/33da3403da971581",
+      "url": "https://fonts.googleapis.com/css?family=Roboto|Open+Sans|Montserrat|Poppins|Oswald&display=swap"
+    }
+  ],
+  "directoryPath": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/08c296bc-5bd9-4466-9f3f-034529390dd7",
+  "failures": [],
+  "manifestPath": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/08c296bc-5bd9-4466-9f3f-034529390dd7/manifest.json",
+  "summary": {
+    "downloadedCount": 57,
+    "elapsedMs": 186.07858299999495,
+    "failedCount": 0,
+    "requestedCount": 57
+  }
+}

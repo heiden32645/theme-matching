@@ -1,0 +1,205 @@
+{
+  "checked": [
+    {
+      "id": "dropdown-1_2",
+      "value": "option_2"
+    },
+    {
+      "id": "image-dropdown-1_2",
+      "value": "option_2"
+    },
+    {
+      "id": "google-font-1_2",
+      "value": "Open Sans"
+    },
+    {
+      "id": "switch-1",
+      "value": "Yes"
+    },
+    {
+      "id": "radio-1_2",
+      "value": "option_2"
+    },
+    {
+      "id": "checkbox-1_2",
+      "value": "option_2"
+    },
+    {
+      "id": "buttons-1_2",
+      "value": "option_2"
+    },
+    {
+      "id": "color-swatches-1_2",
+      "value": "option_2"
+    },
+    {
+      "id": "image-swatches-1_2",
+      "value": "option_2"
+    },
+    {
+      "id": "google-font-2_4",
+      "value": "Poppins"
+    }
+  ],
+  "fields": [
+    {
+      "h": 50
+    },
+    {
+      "h": 106.34375
+    },
+    {
+      "h": 50
+    },
+    {
+      "h": 50
+    }
+  ],
+  "focus": {
+    "id": "text-1",
+    "outline": "rgb(0, 0, 0) auto 1px"
+  },
+  "gpoBounds": {
+    "left": 806.5,
+    "right": 1385
+  },
+  "native": [
+    {
+      "cls": "",
+      "h": 30,
+      "w": 30
+    },
+    {
+      "cls": "",
+      "h": 30,
+      "w": 30
+    },
+    {
+      "cls": "",
+      "h": 30,
+      "w": 34.328125
+    },
+    {
+      "cls": "",
+      "h": 30,
+      "w": 32.9140625
+    },
+    {
+      "cls": "swatch_label square use_variant_image",
+      "h": 40,
+      "w": 40
+    },
+    {
+      "cls": "swatch_label square use_variant_image",
+      "h": 40,
+      "w": 40
+    },
+    {
+      "cls": "swatch_label square use_variant_image",
+      "h": 40,
+      "w": 40
+    },
+    {
+      "cls": "quantity_inner",
+      "h": 42,
+      "w": 122
+    }
+  ],
+  "pageWidth": 1430,
+  "viewport": [
+    1440,
+    1000
+  ],
+  "dropdownChecks": [
+    {
+      "id": "dropdown-1",
+      "state": "open",
+      "caret": "none",
+      "display": "block",
+      "duration": "0s",
+      "expanded": true,
+      "value": "-- Please select --"
+    },
+    {
+      "id": "dropdown-1",
+      "state": "trigger-close",
+      "caret": "none",
+      "display": "none",
+      "duration": "0s",
+      "expanded": false,
+      "value": "-- Please select --"
+    },
+    {
+      "id": "dropdown-1",
+      "state": "selected",
+      "caret": "none",
+      "display": "none",
+      "duration": "0s",
+      "expanded": false,
+      "value": "option_2"
+    },
+    {
+      "id": "image-dropdown-1",
+      "state": "open",
+      "caret": "none",
+      "display": "block",
+      "duration": "0s",
+      "expanded": true,
+      "value": "-- Please select --"
+    },
+    {
+      "id": "image-dropdown-1",
+      "state": "trigger-close",
+      "caret": "none",
+      "display": "none",
+      "duration": "0s",
+      "expanded": false,
+      "value": "-- Please select --"
+    },
+    {
+      "id": "image-dropdown-1",
+      "state": "selected",
+      "caret": "none",
+      "display": "none",
+      "duration": "0s",
+      "expanded": false,
+      "value": "option_2"
+    },
+    {
+      "id": "google-font-1",
+      "state": "open",
+      "caret": "none",
+      "display": "block",
+      "duration": "0s",
+      "expanded": true,
+      "value": "-- Select a font --"
+    },
+    {
+      "id": "google-font-1",
+      "state": "trigger-close",
+      "caret": "none",
+      "display": "none",
+      "duration": "0s",
+      "expanded": false,
+      "value": "-- Select a font --"
+    },
+    {
+      "id": "google-font-1",
+      "state": "selected",
+      "caret": "none",
+      "display": "none",
+      "duration": "0s",
+      "expanded": false,
+      "value": "Open Sans"
+    },
+    {
+      "id": "dropdown-1",
+      "state": "outside-close",
+      "caret": "none",
+      "display": "none",
+      "duration": "0s",
+      "expanded": false,
+      "value": "option_2"
+    }
+  ]
+}

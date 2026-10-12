@@ -1,0 +1,89 @@
+{
+  "forms": [
+    {
+      "cls": "gpo-select",
+      "html": "<div class=\"gpo-select\">\n            <select data-type=\"select\" id=\"select-1\" name=\"select-1\" data-name=\"properties[select-1]\" data-field-name=\"select-1\">\n        <option value=\"\" disabled=\"disabled\" selected=\"\">\n          -- Please select --        </option>\n                            <option value=\"option_1\" original-value=\"option_1\">\n            option_1          </option>\n                            <option value=\"option_2\" original-value=\"option_2\">\n            option_2          </option>\n                            <option value=\"option_3\" original-value=\"option_3\">\n            option_3          </option>\n                            <option value=\"option_4\" original-value=\"option_4\">\n"
+    },
+    {
+      "cls": "gpo-dropdown gpo-oos--show",
+      "html": "<div class=\"gpo-dropdown gpo-oos--show\">\n      <div class=\"dropdown-button\">\n                <div class=\"dropdown-button__value\">-- Please select --</div>\n        <div class=\"dropdown-button__icon\"></div>\n      </div>\n      <div class=\"dropdown-list\">\n                                    <div class=\"dropdown-item gpo-ov-item\">\n            <input type=\"radio\" data-type=\"dropdown\" id=\"dropdown-1_1\" name=\"dropdown-1\" data-name=\"properties[dropdown-1]\" data-field-name=\"dropdown-1\" value=\"option_1\" original-value=\"option_1\" presence=\"\">\n            <label for=\"dropdown-1_1\">\n            <span class=\"dropdown-item__value\">\n              option_1                          </span>\n            </label>"
+    },
+    {
+      "cls": "gpo-dropdown gpo-image-dropdown gpo-oos--show",
+      "html": "<div class=\"gpo-dropdown gpo-image-dropdown gpo-oos--show\">\n        <div class=\"dropdown-button\">\n          <div class=\"dropdown-button__value\">-- Please select --</div>\n          <div class=\"dropdown-button__icon\"></div>\n        </div>\n        <div class=\"dropdown-list\">\n                                            <div class=\"dropdown-item gpo-ov-item\">\n              <input type=\"radio\" data-type=\"image-dropdown\" id=\"image-dropdown-1_1\" name=\"image-dropdown-1\" data-name=\"properties[image-dropdown-1]\" data-field-name=\"image-dropdown-1\" value=\"option_1\" original-value=\"option_1\" presence=\"\" data-url-img=\"https://6e1n3938ctsuty60-69620498584.shopifypreview.com/cdn/shop/files/swatch-17905859926"
+    },
+    {
+      "cls": "gpo-font-picker gpo-dropdown googlefont-dropdown",
+      "html": "<div class=\"gpo-font-picker gpo-dropdown googlefont-dropdown\">\n        <div class=\"dropdown-button\">\n                    <div class=\"dropdown-button__value\">-- Select a font --</div>\n          <div class=\"dropdown-button__icon\"></div>\n        </div>\n        <div class=\"dropdown-list\">\n                                            <div class=\"dropdown-item\">\n              <input type=\"radio\" data-type=\"google-font\" id=\"google-font-1_1\" name=\"google-font-1\" data-name=\"properties[google-font-1]\" data-field-name=\"google-font-1\" data-font-type=\"google\" value=\"Roboto\">\n              <label for=\"google-font-1_1\" style=\"font-family:'Roboto';\">\n                <span>Roboto</span>\n              </label>"
+    },
+    {
+      "cls": "gpo-input-wrap",
+      "html": "<div class=\"gpo-input-wrap\">\n      <div class=\"gpo-input-prefix\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 20 20\"><path fill-rule=\"evenodd\" d=\"M7 3.25a.75.75 0 0 1 .695.467l2.75 6.75a.75.75 0 0 1-1.39.566l-.632-1.553a.752.752 0 0 1-.173.02h-2.68l-.625 1.533a.75.75 0 1 1-1.39-.566l2.75-6.75a.75.75 0 0 1 .695-.467Zm.82 4.75-.82-2.012-.82 2.012h1.64Z\"></path><path d=\"M4.25 12.5a.75.75 0 0 0 0 1.5h11.5a.75.75 0 0 0 0-1.5h-11.5Z\"></path><path d=\"M4.25 15a.75.75 0 0 0 0 1.5h7a.75.75 0 0 0 0-1.5h-7Z\"></path><path fill-rule=\"evenodd\" d=\"M15.066 5.94a3 3 0 1 0 0 5.118.75.75 0 0 0 1.434-.308v-4.5a.75.75 0 0 0-1.434-.31Zm-1.566 4.06a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z\"></path></svg></div>  "
+    },
+    {
+      "cls": "gpo-input-wrap",
+      "html": "<div class=\"gpo-input-wrap\">\n            <textarea rows=\"4\" data-type=\"textarea\" id=\"textarea-1\" class=\"gpo-input gpo-textarea\" name=\"textarea-1\" data-name=\"properties[textarea-1]\" data-field-name=\"textarea-1\" data-text-transform=\"default\" data-allowed-value=\"default\"></textarea>\n          </div>"
+    },
+    {
+      "cls": "gpo-input-wrap",
+      "html": "<div class=\"gpo-input-wrap\">\n            <div class=\"iti iti--allow-dropdown iti--separate-dial-code\"><div class=\"iti__flag-container\"><div class=\"iti__selected-flag\" role=\"combobox\" aria-controls=\"iti-0__country-listbox\" aria-owns=\"iti-0__country-listbox\" aria-expanded=\"false\" tabindex=\"0\" title=\"United States: +1\" aria-activedescendant=\"iti-0__item-us-preferred\"><div class=\"iti__flag iti__us\"></div><div class=\"iti__selected-dial-code\">+1</div><div class=\"iti__arrow\"></div></div><ul class=\"iti__country-list iti__hide\" id=\"iti-0__country-listbox\" role=\"listbox\" aria-label=\"List of countries\"><li class=\"iti__country iti__preferred iti__active\" tabindex=\"-1\" id=\"iti-0__item-us-preferred\" role="
+    }
+  ],
+  "label": "<h2 class=\"h6\">\n            Size: \n            <span>8</span>\n          </h2>",
+  "styles": [
+    null,
+    null,
+    "https://6e1n3938ctsuty60-69620498584.shopifypreview.com/cdn/shop/t/85/assets/main.css?v=136175536528497264671791290900",
+    "https://6e1n3938ctsuty60-69620498584.shopifypreview.com/cdn/shop/t/85/assets/quick-add-drawer.css?v=150722354828905144791791290900",
+    "https://6e1n3938ctsuty60-69620498584.shopifypreview.com/cdn/shop/t/85/assets/lenis.css?v=172205975082022919421791290900",
+    "https://6e1n3938ctsuty60-69620498584.shopifypreview.com/cdn/shop/t/85/assets/swiper.css?v=52107734202767392341791290900",
+    "https://6e1n3938ctsuty60-69620498584.shopifypreview.com/cdn/shop/t/85/assets/fancybox.css?v=66927026278031565281791290900",
+    "https://6e1n3938ctsuty60-69620498584.shopifypreview.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout.css",
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "https://6e1n3938ctsuty60-69620498584.shopifypreview.com/cdn/shop/t/85/assets/announcement-bar.css?v=173177528311209739301791290900",
+    null,
+    "https://6e1n3938ctsuty60-69620498584.shopifypreview.com/cdn/shop/t/85/assets/header.css?v=99188944640159213511791290900",
+    "https://6e1n3938ctsuty60-69620498584.shopifypreview.com/cdn/shop/t/85/assets/breadcrumbs.css?v=75779989738077471591791290900",
+    null,
+    "https://6e1n3938ctsuty60-69620498584.shopifypreview.com/cdn/shop/t/85/assets/page-banner.css?v=142899964227529050531791290900",
+    null,
+    "https://6e1n3938ctsuty60-69620498584.shopifypreview.com/cdn/shop/t/85/assets/product.css?v=48570915917737571871791290900",
+    "https://6e1n3938ctsuty60-69620498584.shopifypreview.com/cdn/shop/t/85/assets/quick-add-drawer.css?v=150722354828905144791791290900",
+    "https://6e1n3938ctsuty60-69620498584.shopifypreview.com/cdn/shop/t/85/assets/product-card.css?v=94711606159439296721791290900",
+    "https://fonts.googleapis.com/css?family=Roboto|Open+Sans|Montserrat|Poppins|Oswald&display=swap",
+    null,
+    null,
+    "https://6e1n3938ctsuty60-69620498584.shopifypreview.com/cdn/shop/t/85/assets/scroll-list.css?v=30949213142508910611791290900",
+    null,
+    "https://6e1n3938ctsuty60-69620498584.shopifypreview.com/cdn/shop/t/85/assets/image-hotspots.css?v=107207610529754084811791290900",
+    null,
+    "https://6e1n3938ctsuty60-69620498584.shopifypreview.com/cdn/shop/t/85/assets/info-with-image.css?v=27055930123191672241791290900",
+    null,
+    "https://6e1n3938ctsuty60-69620498584.shopifypreview.com/cdn/shop/t/85/assets/product-card.css?v=94711606159439296721791290900",
+    null,
+    "https://6e1n3938ctsuty60-69620498584.shopifypreview.com/cdn/shop/t/85/assets/recently-viewed.css?v=101723444082579788621791290900",
+    null,
+    "https://6e1n3938ctsuty60-69620498584.shopifypreview.com/cdn/shop/t/85/assets/footer.css?v=94849504775423108671791290900",
+    null,
+    "https://6e1n3938ctsuty60-69620498584.shopifypreview.com/cdn/shop/t/85/assets/search-drawer.css?v=117663956388302663681791290900",
+    "https://6e1n3938ctsuty60-69620498584.shopifypreview.com/cdn/shop/t/85/assets/cart-drawer.css?v=52091805200325474101791290900",
+    null,
+    "https://6e1n3938ctsuty60-69620498584.shopifypreview.com/cdn/shop/t/85/assets/localization.css?v=117329373291368355401791290900",
+    "https://6e1n3938ctsuty60-69620498584.shopifypreview.com/cdn/shop/t/85/assets/product_model.css?v=111730425153017858421791290900",
+    "https://cdn.shopify.com/shopifycloud/model-viewer-ui/assets/v1.0/model-viewer-ui.css",
+    "https://6e1n3938ctsuty60-69620498584.shopifypreview.com/cdn/shop/t/85/assets/product_model_viewer_ui.css?v=26977051232397109651791290900",
+    null
+  ],
+  "viewport": [
+    1440,
+    1000
+  ]
+}

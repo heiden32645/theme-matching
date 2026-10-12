@@ -1,0 +1,20 @@
+{
+  "theme": "Soul",
+  "version": "5.1.0",
+  "themeStoreId": 2825,
+  "cssIncludedInServed": true,
+  "desktop": [
+    1598,
+    933
+  ],
+  "mobile": [
+    390,
+    844
+  ],
+  "mobileScrollWidth": 390,
+  "dropdowns": "ordinary/image/font selection verified",
+  "focus": "pointer input and keyboard textarea",
+  "quantity": "34px; mobile increment verified",
+  "fileUpload": "not exercised",
+  "verticalTabs": "not rendered"
+}

@@ -1,0 +1,33 @@
+{
+  "items": [
+    {
+      "border": "0px none rgb(37, 37, 37)",
+      "height": 30,
+      "labelBorder": "1px solid rgb(117, 127, 88)",
+      "left": 15,
+      "padding": "0px",
+      "right": 223.7890625
+    },
+    {
+      "border": "0px none rgb(37, 37, 37)",
+      "height": 30,
+      "labelBorder": "1px solid rgb(117, 127, 88)",
+      "left": 15,
+      "padding": "0px",
+      "right": 303.3984375
+    },
+    {
+      "border": "0px none rgb(37, 37, 37)",
+      "height": 30,
+      "labelBorder": "1px solid rgb(117, 127, 88)",
+      "left": 15,
+      "padding": "0px",
+      "right": 232.640625
+    }
+  ],
+  "pageWidth": 380,
+  "viewport": [
+    390,
+    844
+  ]
+}

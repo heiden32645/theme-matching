@@ -1,0 +1,164 @@
+[
+  {
+    "after": {
+      "border": "0px none rgb(37, 37, 37)",
+      "content": "none"
+    },
+    "before": {
+      "border": "0px none rgb(37, 37, 37)",
+      "content": "none"
+    },
+    "border": "1px solid rgb(117, 127, 88)",
+    "cls": "gpo-pdLinks--item buttons gpo-swatches",
+    "height": 32,
+    "padding": "0px 10px",
+    "shadow": "none",
+    "tag": "DIV",
+    "text": "NIKE | TODDLER ROSHE ONE 2\n                  ",
+    "width": 230.7890625
+  },
+  {
+    "after": {
+      "border": "0px none rgb(37, 37, 37)",
+      "content": "none"
+    },
+    "before": {
+      "border": "0px none rgb(37, 37, 37)",
+      "content": "none"
+    },
+    "border": "1px solid rgb(117, 127, 88)",
+    "cls": "",
+    "height": 30,
+    "padding": "0px 10px",
+    "shadow": "none",
+    "tag": "LABEL",
+    "text": "NIKE | TODDLER ROSHE ONE 2\n                  ",
+    "width": 208.7890625
+  },
+  {
+    "after": {
+      "border": "0px none rgb(37, 37, 37)",
+      "content": "none"
+    },
+    "before": {
+      "border": "0px none rgb(37, 37, 37)",
+      "content": "none"
+    },
+    "border": "0px none rgb(37, 37, 37)",
+    "cls": "break-word",
+    "height": 22.3984375,
+    "padding": "0px",
+    "shadow": "none",
+    "tag": "SPAN",
+    "text": "NIKE | TODDLER ROSHE ONE 2",
+    "width": 186.7890625
+  },
+  {
+    "after": {
+      "border": "0px none rgb(37, 37, 37)",
+      "content": "none"
+    },
+    "before": {
+      "border": "0px none rgb(37, 37, 37)",
+      "content": "none"
+    },
+    "border": "1px solid rgb(117, 127, 88)",
+    "cls": "gpo-pdLinks--item buttons gpo-swatches",
+    "height": 32,
+    "padding": "0px 10px",
+    "shadow": "none",
+    "tag": "DIV",
+    "text": "PALLADIUM | PALLATECH HI TX | CHEVRON\n       ",
+    "width": 310.3984375
+  },
+  {
+    "after": {
+      "border": "0px none rgb(37, 37, 37)",
+      "content": "none"
+    },
+    "before": {
+      "border": "0px none rgb(37, 37, 37)",
+      "content": "none"
+    },
+    "border": "1px solid rgb(117, 127, 88)",
+    "cls": "",
+    "height": 30,
+    "padding": "0px 10px",
+    "shadow": "none",
+    "tag": "LABEL",
+    "text": "PALLADIUM | PALLATECH HI TX | CHEVRON\n       ",
+    "width": 288.3984375
+  },
+  {
+    "after": {
+      "border": "0px none rgb(37, 37, 37)",
+      "content": "none"
+    },
+    "before": {
+      "border": "0px none rgb(37, 37, 37)",
+      "content": "none"
+    },
+    "border": "0px none rgb(37, 37, 37)",
+    "cls": "break-word",
+    "height": 22.3984375,
+    "padding": "0px",
+    "shadow": "none",
+    "tag": "SPAN",
+    "text": "PALLADIUM | PALLATECH HI TX | CHEVRON",
+    "width": 266.3984375
+  },
+  {
+    "after": {
+      "border": "0px none rgb(37, 37, 37)",
+      "content": "none"
+    },
+    "before": {
+      "border": "0px none rgb(37, 37, 37)",
+      "content": "none"
+    },
+    "border": "1px solid rgb(117, 127, 88)",
+    "cls": "gpo-pdLinks--item buttons gpo-swatches",
+    "height": 32,
+    "padding": "0px 10px",
+    "shadow": "none",
+    "tag": "DIV",
+    "text": "PUMA | SUEDE CLASSIC REGAL\n                  ",
+    "width": 239.640625
+  },
+  {
+    "after": {
+      "border": "0px none rgb(37, 37, 37)",
+      "content": "none"
+    },
+    "before": {
+      "border": "0px none rgb(37, 37, 37)",
+      "content": "none"
+    },
+    "border": "1px solid rgb(117, 127, 88)",
+    "cls": "",
+    "height": 30,
+    "padding": "0px 10px",
+    "shadow": "none",
+    "tag": "LABEL",
+    "text": "PUMA | SUEDE CLASSIC REGAL\n                  ",
+    "width": 217.640625
+  },
+  {
+    "after": {
+      "border": "0px none rgb(37, 37, 37)",
+      "content": "none"
+    },
+    "before": {
+      "border": "0px none rgb(37, 37, 37)",
+      "content": "none"
+    },
+    "border": "0px none rgb(37, 37, 37)",
+    "cls": "break-word",
+    "height": 22.3984375,
+    "padding": "0px",
+    "shadow": "none",
+    "tag": "SPAN",
+    "text": "PUMA | SUEDE CLASSIC REGAL",
+    "width": 195.640625
+  }
+]

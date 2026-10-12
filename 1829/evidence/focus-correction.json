@@ -1,0 +1,80 @@
+{
+  "cssIncluded": true,
+  "pointerSelect": {
+    "active": "select-1",
+    "body": "template-product js-theme-loaded header-stuck header-up",
+    "border": "1px solid rgba(33, 33, 33, 0.2)",
+    "focusVisible": true,
+    "height": 48,
+    "outline": "rgb(33, 33, 33) none 3px"
+  },
+  "pointerText": {
+    "active": "text-1",
+    "body": "template-product js-theme-loaded header-stuck header-up",
+    "border": "1px solid rgba(33, 33, 33, 0.2)",
+    "focusVisible": true,
+    "height": 48,
+    "outline": "rgb(33, 33, 33) none 3px"
+  },
+  "pointerFields": [
+    {
+      "active": "textarea-1",
+      "body": "template-product js-theme-loaded header-stuck header-up",
+      "border": "1px solid rgba(33, 33, 33, 0.2)",
+      "height": 120,
+      "outline": "rgb(33, 33, 33) none 3px"
+    },
+    {
+      "active": "phone-1",
+      "body": "template-product js-theme-loaded header-stuck header-up",
+      "border": "1px solid rgba(33, 33, 33, 0.2)",
+      "height": 48,
+      "outline": "rgb(33, 33, 33) none 3px"
+    },
+    {
+      "active": "dimension-1_0",
+      "body": "template-product js-theme-loaded header-stuck header-up",
+      "border": "1px solid rgba(33, 33, 33, 0.2)",
+      "height": 48,
+      "outline": "rgb(33, 33, 33) none 3px"
+    },
+    {
+      "active": "buttons-1_quantity",
+      "body": "template-product js-theme-loaded header-stuck header-up",
+      "border": "1px solid rgba(33, 33, 33, 0.2)",
+      "height": 29.1953125,
+      "outline": "rgb(33, 33, 33) none 3px"
+    }
+  ],
+  "keyboardNative": {
+    "active": "Option-template--27869742399640__main-1",
+    "body": "template-product js-theme-loaded header-stuck header-up js-using-tab",
+    "border": "1px solid rgba(33, 33, 33, 0.2)",
+    "outline": "rgb(0, 95, 204) auto 1px"
+  },
+  "keyboardGpoSelect": {
+    "active": "select-1",
+    "body": "template-product js-theme-loaded header-stuck header-up js-using-tab",
+    "border": "1px solid rgba(33, 33, 33, 0.2)",
+    "outline": "rgb(0, 95, 204) auto 1px"
+  },
+  "keyboardGpoTextarea": {
+    "active": "textarea-1",
+    "body": "template-product js-theme-loaded header-stuck header-up js-using-tab",
+    "border": "1px solid rgba(33, 33, 33, 0.2)",
+    "outline": "rgb(0, 95, 204) auto 1px"
+  },
+  "pointerAfterKeyboard": {
+    "active": "text-1",
+    "body": "template-product js-theme-loaded header-stuck js-using-tab header-down",
+    "border": "1px solid rgba(33, 33, 33, 0.2)",
+    "outline": "rgb(0, 95, 204) auto 1px"
+  },
+  "finalPointer": {
+    "active": "text-1",
+    "body": "template-product js-theme-loaded header-stuck header-up",
+    "border": "1px solid rgba(33, 33, 33, 0.2)",
+    "includesThemeFocusGate": true,
+    "outline": "rgb(33, 33, 33) none 3px"
+  }
+}

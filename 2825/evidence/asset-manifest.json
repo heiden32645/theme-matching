@@ -1,0 +1,629 @@
+{
+  "assets": [
+    {
+      "contentType": "text/css",
+      "id": "d486c0bd0116208e",
+      "kind": "stylesheet",
+      "name": "base.css",
+      "path": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/e9c31bb6-20fa-460a-9e1c-4b421978398b/d486c0bd0116208e.css",
+      "url": "https://minky-store-one.myshopify.com/cdn/shop/t/87/assets/base.css?v=74964100559819424771791391951"
+    },
+    {
+      "contentType": "text/css",
+      "id": "919bfb970caa3d5b",
+      "kind": "stylesheet",
+      "name": "component-localization-form.css",
+      "path": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/e9c31bb6-20fa-460a-9e1c-4b421978398b/919bfb970caa3d5b.css",
+      "url": "https://minky-store-one.myshopify.com/cdn/shop/t/87/assets/component-localization-form.css?v=70845240170754571501791391951"
+    },
+    {
+      "contentType": "",
+      "id": "5d2ba58262b42230",
+      "kind": "stylesheet",
+      "name": "accelerated-checkout.css",
+      "path": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/e9c31bb6-20fa-460a-9e1c-4b421978398b/5d2ba58262b42230.css",
+      "url": "https://minky-store-one.myshopify.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout.css"
+    },
+    {
+      "contentType": "text/css",
+      "id": "f9d3d0b093c031a9",
+      "kind": "stylesheet",
+      "name": "component-predictive-search.css",
+      "path": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/e9c31bb6-20fa-460a-9e1c-4b421978398b/f9d3d0b093c031a9.css",
+      "url": "https://minky-store-one.myshopify.com/cdn/shop/t/87/assets/component-predictive-search.css?v=112589899787357547381791391951"
+    },
+    {
+      "contentType": "text/css",
+      "id": "6ac89c64b89960d9",
+      "kind": "stylesheet",
+      "name": "preload-screen.css",
+      "path": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/e9c31bb6-20fa-460a-9e1c-4b421978398b/6ac89c64b89960d9.css",
+      "url": "https://minky-store-one.myshopify.com/cdn/shop/t/87/assets/preload-screen.css?v=4060370336083797581791391951"
+    },
+    {
+      "contentType": "text/css",
+      "id": "bd5cfe06e6dc5877",
+      "kind": "stylesheet",
+      "name": "quantity-popover.css",
+      "path": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/e9c31bb6-20fa-460a-9e1c-4b421978398b/bd5cfe06e6dc5877.css",
+      "url": "https://minky-store-one.myshopify.com/cdn/shop/t/87/assets/quantity-popover.css?v=14485078543059993661791391951"
+    },
+    {
+      "contentType": "text/css",
+      "id": "21b34bed89512b26",
+      "kind": "stylesheet",
+      "name": "component-search.css",
+      "path": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/e9c31bb6-20fa-460a-9e1c-4b421978398b/21b34bed89512b26.css",
+      "url": "https://minky-store-one.myshopify.com/cdn/shop/t/87/assets/component-search.css?v=17160956227898187431791391951"
+    },
+    {
+      "contentType": "text/css",
+      "id": "3deb49b4d976c262",
+      "kind": "stylesheet",
+      "name": "component-cart-items.css",
+      "path": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/e9c31bb6-20fa-460a-9e1c-4b421978398b/3deb49b4d976c262.css",
+      "url": "https://minky-store-one.myshopify.com/cdn/shop/t/87/assets/component-cart-items.css?v=59008460864813719911791391951"
+    },
+    {
+      "contentType": "text/css",
+      "id": "568115dce69e54aa",
+      "kind": "stylesheet",
+      "name": "component-menu-drawer.css",
+      "path": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/e9c31bb6-20fa-460a-9e1c-4b421978398b/568115dce69e54aa.css",
+      "url": "https://minky-store-one.myshopify.com/cdn/shop/t/87/assets/component-menu-drawer.css?v=81454826441211107161791391951"
+    },
+    {
+      "contentType": "text/css",
+      "id": "4cd7696e0fc2e7ac",
+      "kind": "stylesheet",
+      "name": "component-loading-overlay.css",
+      "path": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/e9c31bb6-20fa-460a-9e1c-4b421978398b/4cd7696e0fc2e7ac.css",
+      "url": "https://minky-store-one.myshopify.com/cdn/shop/t/87/assets/component-loading-overlay.css?v=87670890015801302181791391951"
+    },
+    {
+      "contentType": "text/css",
+      "id": "80e2c57db6faffb7",
+      "kind": "stylesheet",
+      "name": "component-cart-drawer.css",
+      "path": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/e9c31bb6-20fa-460a-9e1c-4b421978398b/80e2c57db6faffb7.css",
+      "url": "https://minky-store-one.myshopify.com/cdn/shop/t/87/assets/component-cart-drawer.css?v=163817764715058188061791391951"
+    },
+    {
+      "contentType": "text/css",
+      "id": "cc8051f99650b98c",
+      "kind": "stylesheet",
+      "name": "component-cart.css",
+      "path": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/e9c31bb6-20fa-460a-9e1c-4b421978398b/cc8051f99650b98c.css",
+      "url": "https://minky-store-one.myshopify.com/cdn/shop/t/87/assets/component-cart.css?v=104869393431890850361791391951"
+    },
+    {
+      "contentType": "text/css",
+      "id": "8c6f5894184ab39d",
+      "kind": "stylesheet",
+      "name": "component-totals.css",
+      "path": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/e9c31bb6-20fa-460a-9e1c-4b421978398b/8c6f5894184ab39d.css",
+      "url": "https://minky-store-one.myshopify.com/cdn/shop/t/87/assets/component-totals.css?v=147232198724345649761791391951"
+    },
+    {
+      "contentType": "text/css",
+      "id": "9f7145346dcf7801",
+      "kind": "stylesheet",
+      "name": "component-discounts.css",
+      "path": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/e9c31bb6-20fa-460a-9e1c-4b421978398b/9f7145346dcf7801.css",
+      "url": "https://minky-store-one.myshopify.com/cdn/shop/t/87/assets/component-discounts.css?v=17507117277384236031791391951"
+    },
+    {
+      "contentType": "text/css",
+      "id": "f722a569ec16e7c8",
+      "kind": "stylesheet",
+      "name": "component-mega-menu.css",
+      "path": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/e9c31bb6-20fa-460a-9e1c-4b421978398b/f722a569ec16e7c8.css",
+      "url": "https://minky-store-one.myshopify.com/cdn/shop/t/87/assets/component-mega-menu.css?v=117989533498007837041791391951"
+    },
+    {
+      "contentType": "text/css",
+      "id": "572d6ece77107c21",
+      "kind": "stylesheet",
+      "name": "section-main-product.css",
+      "path": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/e9c31bb6-20fa-460a-9e1c-4b421978398b/572d6ece77107c21.css",
+      "url": "https://minky-store-one.myshopify.com/cdn/shop/t/87/assets/section-main-product.css?v=120134932339493371711791391951"
+    },
+    {
+      "contentType": "text/css",
+      "id": "b104e157c022b4c0",
+      "kind": "stylesheet",
+      "name": "component-deferred-media.css",
+      "path": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/e9c31bb6-20fa-460a-9e1c-4b421978398b/b104e157c022b4c0.css",
+      "url": "https://minky-store-one.myshopify.com/cdn/shop/t/87/assets/component-deferred-media.css?v=100882185006016879481791391951"
+    },
+    {
+      "contentType": "text/css",
+      "id": "77d90a164b275eed",
+      "kind": "stylesheet",
+      "name": "component-swatch-input.css",
+      "path": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/e9c31bb6-20fa-460a-9e1c-4b421978398b/77d90a164b275eed.css",
+      "url": "https://minky-store-one.myshopify.com/cdn/shop/t/87/assets/component-swatch-input.css?v=126334841927285015771791391951"
+    },
+    {
+      "contentType": "text/css",
+      "id": "ba520150c4ea2618",
+      "kind": "stylesheet",
+      "name": "component-accordion.css",
+      "path": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/e9c31bb6-20fa-460a-9e1c-4b421978398b/ba520150c4ea2618.css",
+      "url": "https://minky-store-one.myshopify.com/cdn/shop/t/87/assets/component-accordion.css?v=88704085242740239631791391951"
+    },
+    {
+      "contentType": "text/css",
+      "id": "6546e59d2b074a09",
+      "kind": "stylesheet",
+      "name": "component-swatch.css",
+      "path": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/e9c31bb6-20fa-460a-9e1c-4b421978398b/6546e59d2b074a09.css",
+      "url": "https://minky-store-one.myshopify.com/cdn/shop/t/87/assets/component-swatch.css?v=3627977182854131681791391951"
+    },
+    {
+      "contentType": "text/css",
+      "id": "23f27f93b0fc7b5d",
+      "kind": "stylesheet",
+      "name": "share-button.css",
+      "path": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/e9c31bb6-20fa-460a-9e1c-4b421978398b/23f27f93b0fc7b5d.css",
+      "url": "https://minky-store-one.myshopify.com/cdn/shop/t/87/assets/share-button.css?v=154273509621925928981791391951"
+    },
+    {
+      "contentType": "text/css",
+      "id": "9d97c8de34c5c801",
+      "kind": "stylesheet",
+      "name": "component-pickup-availability.css",
+      "path": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/e9c31bb6-20fa-460a-9e1c-4b421978398b/9d97c8de34c5c801.css",
+      "url": "https://minky-store-one.myshopify.com/cdn/shop/t/87/assets/component-pickup-availability.css?v=135496830844966614471791391951"
+    },
+    {
+      "contentType": "text/css",
+      "id": "266e045c3a9392de",
+      "kind": "stylesheet",
+      "name": "component-complementary-products.css",
+      "path": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/e9c31bb6-20fa-460a-9e1c-4b421978398b/266e045c3a9392de.css",
+      "url": "https://minky-store-one.myshopify.com/cdn/shop/t/87/assets/component-complementary-products.css?v=13124914758981600221791391951"
+    },
+    {
+      "contentType": "text/css",
+      "id": "3ae2c7a50d472426",
+      "kind": "stylesheet",
+      "name": "collage.css",
+      "path": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/e9c31bb6-20fa-460a-9e1c-4b421978398b/3ae2c7a50d472426.css",
+      "url": "https://minky-store-one.myshopify.com/cdn/shop/t/87/assets/collage.css?v=99242263531607900791791391951"
+    },
+    {
+      "contentType": "text/css",
+      "id": "0d04a34343639195",
+      "kind": "stylesheet",
+      "name": "component-modal-video.css",
+      "path": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/e9c31bb6-20fa-460a-9e1c-4b421978398b/0d04a34343639195.css",
+      "url": "https://minky-store-one.myshopify.com/cdn/shop/t/87/assets/component-modal-video.css?v=119458962570875817071791391951"
+    },
+    {
+      "contentType": "text/css",
+      "id": "dcbb95b07404cd95",
+      "kind": "stylesheet",
+      "name": "component-tabs.css",
+      "path": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/e9c31bb6-20fa-460a-9e1c-4b421978398b/dcbb95b07404cd95.css",
+      "url": "https://minky-store-one.myshopify.com/cdn/shop/t/87/assets/component-tabs.css?v=166830622208066963761791391951"
+    },
+    {
+      "contentType": "text/css",
+      "id": "ce1038d86399cd5b",
+      "kind": "stylesheet",
+      "name": "quick-add.css",
+      "path": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/e9c31bb6-20fa-460a-9e1c-4b421978398b/ce1038d86399cd5b.css",
+      "url": "https://minky-store-one.myshopify.com/cdn/shop/t/87/assets/quick-add.css?v=33011493488169935681791391951"
+    },
+    {
+      "contentType": "text/css",
+      "id": "b86fead43594245d",
+      "kind": "stylesheet",
+      "name": "section-footer.css",
+      "path": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/e9c31bb6-20fa-460a-9e1c-4b421978398b/b86fead43594245d.css",
+      "url": "https://minky-store-one.myshopify.com/cdn/shop/t/87/assets/section-footer.css?v=36940861122526662061791391951"
+    },
+    {
+      "contentType": "text/css",
+      "id": "3479f623173a17ef",
+      "kind": "stylesheet",
+      "name": "component-newsletter.css",
+      "path": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/e9c31bb6-20fa-460a-9e1c-4b421978398b/3479f623173a17ef.css",
+      "url": "https://minky-store-one.myshopify.com/cdn/shop/t/87/assets/component-newsletter.css?v=162673036751439648501791391951"
+    },
+    {
+      "contentType": "text/css",
+      "id": "ea030833fea11699",
+      "kind": "stylesheet",
+      "name": "section-related-products.css",
+      "path": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/e9c31bb6-20fa-460a-9e1c-4b421978398b/ea030833fea11699.css",
+      "url": "https://minky-store-one.myshopify.com/cdn/shop/t/87/assets/section-related-products.css?v=22049685180974529491791391951"
+    },
+    {
+      "contentType": "text/css",
+      "id": "576523c94e48edfb",
+      "kind": "stylesheet",
+      "name": "component-list-social.css",
+      "path": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/e9c31bb6-20fa-460a-9e1c-4b421978398b/576523c94e48edfb.css",
+      "url": "https://minky-store-one.myshopify.com/cdn/shop/t/87/assets/component-list-social.css?v=161356935918357875521791391951"
+    },
+    {
+      "contentType": "text/css",
+      "id": "21adc6771df5f5f7",
+      "kind": "stylesheet",
+      "name": "back-to-top.css",
+      "path": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/e9c31bb6-20fa-460a-9e1c-4b421978398b/21adc6771df5f5f7.css",
+      "url": "https://minky-store-one.myshopify.com/cdn/shop/t/87/assets/back-to-top.css?v=45906388386796467311791391951"
+    },
+    {
+      "contentType": "text/css",
+      "id": "9b7a25bcb2fe36fd",
+      "kind": "stylesheet",
+      "name": "animation.css",
+      "path": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/e9c31bb6-20fa-460a-9e1c-4b421978398b/9b7a25bcb2fe36fd.css",
+      "url": "https://minky-store-one.myshopify.com/cdn/shop/t/87/assets/animation.css?v=159421139623750167721791391951"
+    },
+    {
+      "contentType": "text/css",
+      "id": "33da3403da971581",
+      "kind": "stylesheet",
+      "name": "css",
+      "path": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/e9c31bb6-20fa-460a-9e1c-4b421978398b/33da3403da971581",
+      "url": "https://fonts.googleapis.com/css?family=Roboto|Open+Sans|Montserrat|Poppins|Oswald&display=swap"
+    },
+    {
+      "contentType": "text/css",
+      "id": "373cdb5b5106ffa2",
+      "kind": "stylesheet",
+      "name": "app.CcGlIMpn.css",
+      "path": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/e9c31bb6-20fa-460a-9e1c-4b421978398b/373cdb5b5106ffa2.css",
+      "url": "https://minky-store-one.myshopify.com/cdn/shopifycloud/checkout-web/assets/c1/assets/app.CcGlIMpn.css"
+    },
+    {
+      "contentType": "text/css",
+      "id": "be43bb268cbe09ce",
+      "kind": "stylesheet",
+      "name": "wallet-prefilled-guest-return.BJvF0-q4.css",
+      "path": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/e9c31bb6-20fa-460a-9e1c-4b421978398b/be43bb268cbe09ce.css",
+      "url": "https://minky-store-one.myshopify.com/cdn/shopifycloud/checkout-web/assets/c1/assets/wallet-prefilled-guest-return.BJvF0-q4.css"
+    },
+    {
+      "contentType": "text/css",
+      "id": "2464742ef748446e",
+      "kind": "stylesheet",
+      "name": "hydrate.BtZpYm2T.css",
+      "path": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/e9c31bb6-20fa-460a-9e1c-4b421978398b/2464742ef748446e.css",
+      "url": "https://minky-store-one.myshopify.com/cdn/shopifycloud/checkout-web/assets/c1/assets/hydrate.BtZpYm2T.css"
+    },
+    {
+      "contentType": "text/css",
+      "id": "dfbe5d76f6590605",
+      "kind": "stylesheet",
+      "name": "OnePage.B-NX-U9c.css",
+      "path": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/e9c31bb6-20fa-460a-9e1c-4b421978398b/dfbe5d76f6590605.css",
+      "url": "https://minky-store-one.myshopify.com/cdn/shopifycloud/checkout-web/assets/c1/assets/OnePage.B-NX-U9c.css"
+    },
+    {
+      "contentType": "text/css",
+      "id": "fb5b9f7f9c19575d",
+      "kind": "stylesheet",
+      "name": "VatNumberValidationField.CYhzzEkL.css",
+      "path": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/e9c31bb6-20fa-460a-9e1c-4b421978398b/fb5b9f7f9c19575d.css",
+      "url": "https://minky-store-one.myshopify.com/cdn/shopifycloud/checkout-web/assets/c1/assets/VatNumberValidationField.CYhzzEkL.css"
+    },
+    {
+      "contentType": "text/css",
+      "id": "71a1c00b53816027",
+      "kind": "stylesheet",
+      "name": "StickyPayButton.Cv62Qqkq.css",
+      "path": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/e9c31bb6-20fa-460a-9e1c-4b421978398b/71a1c00b53816027.css",
+      "url": "https://minky-store-one.myshopify.com/cdn/shopifycloud/checkout-web/assets/c1/assets/StickyPayButton.Cv62Qqkq.css"
+    },
+    {
+      "contentType": "text/css",
+      "id": "d20aaf9b82b04ed4",
+      "kind": "stylesheet",
+      "name": "hasViolationsIgnoringCodes.BcTJoNaV.css",
+      "path": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/e9c31bb6-20fa-460a-9e1c-4b421978398b/d20aaf9b82b04ed4.css",
+      "url": "https://minky-store-one.myshopify.com/cdn/shopifycloud/checkout-web/assets/c1/assets/hasViolationsIgnoringCodes.BcTJoNaV.css"
+    },
+    {
+      "contentType": "text/css",
+      "id": "087440ee2ce42cdd",
+      "kind": "stylesheet",
+      "name": "Section.CU18S7Ap.css",
+      "path": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/e9c31bb6-20fa-460a-9e1c-4b421978398b/087440ee2ce42cdd.css",
+      "url": "https://minky-store-one.myshopify.com/cdn/shopifycloud/checkout-web/assets/c1/assets/Section.CU18S7Ap.css"
+    },
+    {
+      "contentType": "text/css",
+      "id": "62da4a3febbdc616",
+      "kind": "stylesheet",
+      "name": "PaymentLine.DT05kVlY.css",
+      "path": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/e9c31bb6-20fa-460a-9e1c-4b421978398b/62da4a3febbdc616.css",
+      "url": "https://minky-store-one.myshopify.com/cdn/shopifycloud/checkout-web/assets/c1/assets/PaymentLine.DT05kVlY.css"
+    },
+    {
+      "contentType": "text/css",
+      "id": "a00a10eadefba564",
+      "kind": "stylesheet",
+      "name": "PaymentIcon.gzvCNwz_.css",
+      "path": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/e9c31bb6-20fa-460a-9e1c-4b421978398b/a00a10eadefba564.css",
+      "url": "https://minky-store-one.myshopify.com/cdn/shopifycloud/checkout-web/assets/c1/assets/PaymentIcon.gzvCNwz_.css"
+    },
+    {
+      "contentType": "text/css",
+      "id": "f3cecb9ffa5b338d",
+      "kind": "stylesheet",
+      "name": "useShopPayProgressIntercepts.CIy8uDiZ.css",
+      "path": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/e9c31bb6-20fa-460a-9e1c-4b421978398b/f3cecb9ffa5b338d.css",
+      "url": "https://minky-store-one.myshopify.com/cdn/shopifycloud/checkout-web/assets/c1/assets/useShopPayProgressIntercepts.CIy8uDiZ.css"
+    },
+    {
+      "contentType": "text/css",
+      "id": "41eb51a8083dc9de",
+      "kind": "stylesheet",
+      "name": "Choice.CrYuHUmO.css",
+      "path": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/e9c31bb6-20fa-460a-9e1c-4b421978398b/41eb51a8083dc9de.css",
+      "url": "https://minky-store-one.myshopify.com/cdn/shopifycloud/checkout-web/assets/c1/assets/Choice.CrYuHUmO.css"
+    },
+    {
+      "contentType": "text/css",
+      "id": "d5ef7c3e62eaa97d",
+      "kind": "stylesheet",
+      "name": "constants.xO_7ctnq.css",
+      "path": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/e9c31bb6-20fa-460a-9e1c-4b421978398b/d5ef7c3e62eaa97d.css",
+      "url": "https://minky-store-one.myshopify.com/cdn/shopifycloud/checkout-web/assets/c1/assets/constants.xO_7ctnq.css"
+    },
+    {
+      "contentType": "text/css",
+      "id": "4a7f356112ffe314",
+      "kind": "stylesheet",
+      "name": "BillingAddressForm.BdwN7V1K.css",
+      "path": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/e9c31bb6-20fa-460a-9e1c-4b421978398b/4a7f356112ffe314.css",
+      "url": "https://minky-store-one.myshopify.com/cdn/shopifycloud/checkout-web/assets/c1/assets/BillingAddressForm.BdwN7V1K.css"
+    },
+    {
+      "contentType": "text/css",
+      "id": "385a4b18cd03b436",
+      "kind": "stylesheet",
+      "name": "useHasViolations.BnDF3H7t.css",
+      "path": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/e9c31bb6-20fa-460a-9e1c-4b421978398b/385a4b18cd03b436.css",
+      "url": "https://minky-store-one.myshopify.com/cdn/shopifycloud/checkout-web/assets/c1/assets/useHasViolations.BnDF3H7t.css"
+    },
+    {
+      "contentType": "text/css",
+      "id": "2babae5df5e84acb",
+      "kind": "stylesheet",
+      "name": "ShopPayLogo.87JMHPUK.css",
+      "path": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/e9c31bb6-20fa-460a-9e1c-4b421978398b/2babae5df5e84acb.css",
+      "url": "https://minky-store-one.myshopify.com/cdn/shopifycloud/checkout-web/assets/c1/assets/ShopPayLogo.87JMHPUK.css"
+    },
+    {
+      "contentType": "text/css",
+      "id": "7e406fb95a1d33ca",
+      "kind": "stylesheet",
+      "name": "Switch.BS8yVgoP.css",
+      "path": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/e9c31bb6-20fa-460a-9e1c-4b421978398b/7e406fb95a1d33ca.css",
+      "url": "https://minky-store-one.myshopify.com/cdn/shopifycloud/checkout-web/assets/c1/assets/Switch.BS8yVgoP.css"
+    },
+    {
+      "contentType": "text/css",
+      "id": "4fb78c0d70f0560a",
+      "kind": "stylesheet",
+      "name": "EmptyState.BEvzDDvy.css",
+      "path": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/e9c31bb6-20fa-460a-9e1c-4b421978398b/4fb78c0d70f0560a.css",
+      "url": "https://minky-store-one.myshopify.com/cdn/shopifycloud/checkout-web/assets/c1/assets/EmptyState.BEvzDDvy.css"
+    },
+    {
+      "contentType": "text/css",
+      "id": "81537364c196f1e1",
+      "kind": "stylesheet",
+      "name": "PhoneField.uZEuHncj.css",
+      "path": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/e9c31bb6-20fa-460a-9e1c-4b421978398b/81537364c196f1e1.css",
+      "url": "https://minky-store-one.myshopify.com/cdn/shopifycloud/checkout-web/assets/c1/assets/PhoneField.uZEuHncj.css"
+    },
+    {
+      "contentType": "text/css",
+      "id": "49be1efeb0dee421",
+      "kind": "stylesheet",
+      "name": "Middot.D7Ujmshx.css",
+      "path": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/e9c31bb6-20fa-460a-9e1c-4b421978398b/49be1efeb0dee421.css",
+      "url": "https://minky-store-one.myshopify.com/cdn/shopifycloud/checkout-web/assets/c1/assets/Middot.D7Ujmshx.css"
+    },
+    {
+      "contentType": "text/css",
+      "id": "3f644d185c157ec1",
+      "kind": "stylesheet",
+      "name": "ShippingLines.LcqrKXE1.css",
+      "path": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/e9c31bb6-20fa-460a-9e1c-4b421978398b/3f644d185c157ec1.css",
+      "url": "https://minky-store-one.myshopify.com/cdn/shopifycloud/checkout-web/assets/c1/assets/ShippingLines.LcqrKXE1.css"
+    },
+    {
+      "contentType": "text/css",
+      "id": "07bc9583eaae7958",
+      "kind": "stylesheet",
+      "name": "EstimatedDeliveryContent.B_THySFF.css",
+      "path": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/e9c31bb6-20fa-460a-9e1c-4b421978398b/07bc9583eaae7958.css",
+      "url": "https://minky-store-one.myshopify.com/cdn/shopifycloud/checkout-web/assets/c1/assets/EstimatedDeliveryContent.B_THySFF.css"
+    },
+    {
+      "contentType": "text/css",
+      "id": "10770587957f8d67",
+      "kind": "stylesheet",
+      "name": "TransitionHeight.CuRoM9zv.css",
+      "path": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/e9c31bb6-20fa-460a-9e1c-4b421978398b/10770587957f8d67.css",
+      "url": "https://minky-store-one.myshopify.com/cdn/shopifycloud/checkout-web/assets/c1/assets/TransitionHeight.CuRoM9zv.css"
+    },
+    {
+      "contentType": "text/css",
+      "id": "a9a8616f5528af5a",
+      "kind": "stylesheet",
+      "name": "BelowTheFoldContent.CyS-bj2t.css",
+      "path": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/e9c31bb6-20fa-460a-9e1c-4b421978398b/a9a8616f5528af5a.css",
+      "url": "https://minky-store-one.myshopify.com/cdn/shopifycloud/checkout-web/assets/c1/assets/BelowTheFoldContent.CyS-bj2t.css"
+    },
+    {
+      "contentType": "text/css",
+      "id": "5b4945cc18d2597e",
+      "kind": "stylesheet",
+      "name": "RememberMeSection.JBO5WNhc.css",
+      "path": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/e9c31bb6-20fa-460a-9e1c-4b421978398b/5b4945cc18d2597e.css",
+      "url": "https://minky-store-one.myshopify.com/cdn/shopifycloud/checkout-web/assets/c1/assets/RememberMeSection.JBO5WNhc.css"
+    },
+    {
+      "contentType": "text/css",
+      "id": "284d7899c5b68971",
+      "kind": "stylesheet",
+      "name": "PayButtonSection.CZuxzxFG.css",
+      "path": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/e9c31bb6-20fa-460a-9e1c-4b421978398b/284d7899c5b68971.css",
+      "url": "https://minky-store-one.myshopify.com/cdn/shopifycloud/checkout-web/assets/c1/assets/PayButtonSection.CZuxzxFG.css"
+    },
+    {
+      "contentType": "text/css",
+      "id": "85e668c2cca005da",
+      "kind": "stylesheet",
+      "name": "MobileOrderSummary.DjDhVpQB.css",
+      "path": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/e9c31bb6-20fa-460a-9e1c-4b421978398b/85e668c2cca005da.css",
+      "url": "https://minky-store-one.myshopify.com/cdn/shopifycloud/checkout-web/assets/c1/assets/MobileOrderSummary.DjDhVpQB.css"
+    },
+    {
+      "contentType": "text/css",
+      "id": "052ad7c23912a4ed",
+      "kind": "stylesheet",
+      "name": "hooks.CKE1iCma.css",
+      "path": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/e9c31bb6-20fa-460a-9e1c-4b421978398b/052ad7c23912a4ed.css",
+      "url": "https://minky-store-one.myshopify.com/cdn/shopifycloud/checkout-web/assets/c1/assets/hooks.CKE1iCma.css"
+    },
+    {
+      "contentType": "text/css",
+      "id": "35d8d6cd25efea4e",
+      "kind": "stylesheet",
+      "name": "PaymentOptionSelector.s-Kd_X2E.css",
+      "path": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/e9c31bb6-20fa-460a-9e1c-4b421978398b/35d8d6cd25efea4e.css",
+      "url": "https://minky-store-one.myshopify.com/cdn/shopifycloud/checkout-web/assets/c1/assets/PaymentOptionSelector.s-Kd_X2E.css"
+    },
+    {
+      "contentType": "text/css",
+      "id": "2ebd2879b8dcee61",
+      "kind": "stylesheet",
+      "name": "PaymentMethodProgressionHost.BIxPaYCu.css",
+      "path": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/e9c31bb6-20fa-460a-9e1c-4b421978398b/2ebd2879b8dcee61.css",
+      "url": "https://minky-store-one.myshopify.com/cdn/shopifycloud/checkout-web/assets/c1/assets/PaymentMethodProgressionHost.BIxPaYCu.css"
+    },
+    {
+      "contentType": "text/css",
+      "id": "9320291a17fdb907",
+      "kind": "stylesheet",
+      "name": "Popover.Bi1nHaU-.css",
+      "path": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/e9c31bb6-20fa-460a-9e1c-4b421978398b/9320291a17fdb907.css",
+      "url": "https://minky-store-one.myshopify.com/cdn/shopifycloud/checkout-web/assets/c1/assets/Popover.Bi1nHaU-.css"
+    },
+    {
+      "contentType": "text/css",
+      "id": "97cbdf114c3d3a38",
+      "kind": "stylesheet",
+      "name": "floating-layer.DfWUBaTh.css",
+      "path": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/e9c31bb6-20fa-460a-9e1c-4b421978398b/97cbdf114c3d3a38.css",
+      "url": "https://minky-store-one.myshopify.com/cdn/shopifycloud/checkout-web/assets/c1/assets/floating-layer.DfWUBaTh.css"
+    },
+    {
+      "contentType": "text/css",
+      "id": "02cafe03c0eead09",
+      "kind": "stylesheet",
+      "name": "useShopPayButtonClassName.BrcQzLuH.css",
+      "path": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/e9c31bb6-20fa-460a-9e1c-4b421978398b/02cafe03c0eead09.css",
+      "url": "https://minky-store-one.myshopify.com/cdn/shopifycloud/checkout-web/assets/c1/assets/useShopPayButtonClassName.BrcQzLuH.css"
+    },
+    {
+      "contentType": "text/css",
+      "id": "cbf6bc27c8cf14fb",
+      "kind": "stylesheet",
+      "name": "ShippingMethodSelector.B0hio2RO.css",
+      "path": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/e9c31bb6-20fa-460a-9e1c-4b421978398b/cbf6bc27c8cf14fb.css",
+      "url": "https://minky-store-one.myshopify.com/cdn/shopifycloud/checkout-web/assets/c1/assets/ShippingMethodSelector.B0hio2RO.css"
+    },
+    {
+      "contentType": "text/css",
+      "id": "3e8ec51ce21d468f",
+      "kind": "stylesheet",
+      "name": "SubscriptionPriceBreakdown.vTcdVGq4.css",
+      "path": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/e9c31bb6-20fa-460a-9e1c-4b421978398b/3e8ec51ce21d468f.css",
+      "url": "https://minky-store-one.myshopify.com/cdn/shopifycloud/checkout-web/assets/c1/assets/SubscriptionPriceBreakdown.vTcdVGq4.css"
+    },
+    {
+      "contentType": "text/css",
+      "id": "47db07f6511e8403",
+      "kind": "stylesheet",
+      "name": "RedirectionNotice.DgiInWJ-.css",
+      "path": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/e9c31bb6-20fa-460a-9e1c-4b421978398b/47db07f6511e8403.css",
+      "url": "https://minky-store-one.myshopify.com/cdn/shopifycloud/checkout-web/assets/c1/assets/RedirectionNotice.DgiInWJ-.css"
+    },
+    {
+      "contentType": "text/css",
+      "id": "1cdfc1f0df4a3121",
+      "kind": "stylesheet",
+      "name": "RuntimeExtension.DWkDBM73.css",
+      "path": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/e9c31bb6-20fa-460a-9e1c-4b421978398b/1cdfc1f0df4a3121.css",
+      "url": "https://minky-store-one.myshopify.com/cdn/shopifycloud/checkout-web/assets/c1/assets/RuntimeExtension.DWkDBM73.css"
+    },
+    {
+      "contentType": "text/css",
+      "id": "9bcefbf1f072dfa5",
+      "kind": "stylesheet",
+      "name": "AnnouncementRuntimeExtensions.DbBB6lBJ.css",
+      "path": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/e9c31bb6-20fa-460a-9e1c-4b421978398b/9bcefbf1f072dfa5.css",
+      "url": "https://minky-store-one.myshopify.com/cdn/shopifycloud/checkout-web/assets/c1/assets/AnnouncementRuntimeExtensions.DbBB6lBJ.css"
+    },
+    {
+      "contentType": "text/css",
+      "id": "02c1ac5d03fecd38",
+      "kind": "stylesheet",
+      "name": "QRCode.BZ_m5G5a.css",
+      "path": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/e9c31bb6-20fa-460a-9e1c-4b421978398b/02c1ac5d03fecd38.css",
+      "url": "https://minky-store-one.myshopify.com/cdn/shopifycloud/checkout-web/assets/c1/assets/QRCode.BZ_m5G5a.css"
+    },
+    {
+      "contentType": "text/css",
+      "id": "e541920e6f7a6396",
+      "kind": "stylesheet",
+      "name": "Pressable.D9SfDfsb.css",
+      "path": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/e9c31bb6-20fa-460a-9e1c-4b421978398b/e541920e6f7a6396.css",
+      "url": "https://minky-store-one.myshopify.com/cdn/shopifycloud/checkout-web/assets/c1/assets/Pressable.D9SfDfsb.css"
+    },
+    {
+      "contentType": "text/css",
+      "id": "eb1ab041d499b64d",
+      "kind": "stylesheet",
+      "name": "DateField.CFFsBmUK.css",
+      "path": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/e9c31bb6-20fa-460a-9e1c-4b421978398b/eb1ab041d499b64d.css",
+      "url": "https://minky-store-one.myshopify.com/cdn/shopifycloud/checkout-web/assets/c1/assets/DateField.CFFsBmUK.css"
+    },
+    {
+      "contentType": "text/css",
+      "id": "70909a7ef6247f29",
+      "kind": "stylesheet",
+      "name": "NumberField.CRpcZnVJ.css",
+      "path": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/e9c31bb6-20fa-460a-9e1c-4b421978398b/70909a7ef6247f29.css",
+      "url": "https://minky-store-one.myshopify.com/cdn/shopifycloud/checkout-web/assets/c1/assets/NumberField.CRpcZnVJ.css"
+    },
+    {
+      "contentType": "text/css",
+      "id": "1503b6fdef0c692b",
+      "kind": "stylesheet",
+      "name": "Sheet.CpR5hiDV.css",
+      "path": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/e9c31bb6-20fa-460a-9e1c-4b421978398b/1503b6fdef0c692b.css",
+      "url": "https://minky-store-one.myshopify.com/cdn/shopifycloud/checkout-web/assets/c1/assets/Sheet.CpR5hiDV.css"
+    }
+  ],
+  "directoryPath": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/e9c31bb6-20fa-460a-9e1c-4b421978398b",
+  "failures": [],
+  "manifestPath": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/e9c31bb6-20fa-460a-9e1c-4b421978398b/manifest.json",
+  "summary": {
+    "downloadedCount": 77,
+    "elapsedMs": 174.23220800000126,
+    "failedCount": 0,
+    "requestedCount": 77
+  }
+}

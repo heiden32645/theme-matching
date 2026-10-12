@@ -1,0 +1,70 @@
+{
+  "controls": [
+    {
+      "font": "700 11px / 16.5px \"Instrument Sans\", sans-serif",
+      "h": 16.5,
+      "s": ".product-form__group-name",
+      "w": 350
+    },
+    {
+      "font": "500 16px / 24px \"Instrument Sans\", sans-serif",
+      "h": 50,
+      "s": ".quantity",
+      "w": 350
+    },
+    {
+      "font": "700 11px / 16.5px \"Instrument Sans\", sans-serif",
+      "h": 16.5,
+      "s": ".gpo-label .label-content",
+      "w": 47.2890625
+    },
+    {
+      "font": "12px / 18px \"Instrument Sans\", sans-serif",
+      "h": 50,
+      "s": ".gpo-select",
+      "w": 350
+    },
+    {
+      "font": "12px / 18px \"Instrument Sans\", sans-serif",
+      "h": 50,
+      "s": ".gpo-dropdown .dropdown-button",
+      "w": 350
+    },
+    {
+      "font": "500 16px / 24px \"Instrument Sans\", sans-serif",
+      "h": 50,
+      "s": ".gpo-input-wrap",
+      "w": 350
+    },
+    {
+      "font": "500 16px / 24px \"Instrument Sans\", sans-serif",
+      "h": 50,
+      "s": ".gpo-dimension-input-wrap",
+      "w": 111.328125
+    },
+    {
+      "font": "500 14px Arial, sans-serif",
+      "h": 50,
+      "s": ".gpo-quantity__input",
+      "w": 100
+    },
+    {
+      "font": "500 16px / 24px \"Instrument Sans\", sans-serif",
+      "h": 50,
+      "s": ".gpo-ov-quantity",
+      "w": 130
+    },
+    {
+      "font": "500 16px / 24px \"Instrument Sans\", sans-serif",
+      "h": 50,
+      "s": ".gpo-swatches.buttons input+label",
+      "w": 97.9921875
+    }
+  ],
+  "overflow": [],
+  "pageWidth": 390,
+  "viewport": [
+    390,
+    844
+  ]
+}

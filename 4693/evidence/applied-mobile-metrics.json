@@ -1,0 +1,99 @@
+{
+  "controls": [
+    {
+      "cls": "gpo-select",
+      "h": 36,
+      "w": 335,
+      "x": 20
+    },
+    {
+      "cls": "dropdown-button",
+      "h": 36,
+      "w": 335,
+      "x": 20
+    },
+    {
+      "cls": "dropdown-button",
+      "h": 36,
+      "w": 335,
+      "x": 20
+    },
+    {
+      "cls": "dropdown-button",
+      "h": 36,
+      "w": 335,
+      "x": 20
+    },
+    {
+      "cls": "gpo-input-wrap",
+      "h": 34,
+      "w": 335,
+      "x": 20
+    },
+    {
+      "cls": "gpo-input-wrap",
+      "h": 111.59375,
+      "w": 335,
+      "x": 20
+    },
+    {
+      "cls": "gpo-input-wrap",
+      "h": 34,
+      "w": 335,
+      "x": 20
+    },
+    {
+      "cls": "gpo-input-wrap gpo-color-box",
+      "h": 34,
+      "w": 335,
+      "x": 20
+    },
+    {
+      "cls": "gpo-dimension-input-wrap",
+      "h": 34,
+      "w": 106.328125,
+      "x": 20
+    },
+    {
+      "cls": "gpo-dimension-input-wrap",
+      "h": 34,
+      "w": 106.3359375,
+      "x": 134.328125
+    },
+    {
+      "cls": "gpo-dimension-input-wrap",
+      "h": 34,
+      "w": 106.3359375,
+      "x": 248.6640625
+    },
+    {
+      "cls": "gpo-quantity__input",
+      "h": 36,
+      "w": 100,
+      "x": 116.8828125
+    },
+    {
+      "cls": "gpo-ov-quantity",
+      "h": 36,
+      "w": 122,
+      "x": 20
+    },
+    {
+      "cls": "gpo-ov-quantity",
+      "h": 36,
+      "w": 122,
+      "x": 152
+    }
+  ],
+  "gpoBox": {
+    "left": 15,
+    "right": 360,
+    "width": 345
+  },
+  "overflow": [],
+  "pageWidth": 375,
+  "viewport": [
+    375,
+    667
+  ]
+}

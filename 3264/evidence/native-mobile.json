@@ -1,0 +1,34 @@
+{
+  "controls": [
+    {
+      "font": "500 16px / 24px Jost, sans-serif",
+      "height": 52,
+      "selector": "variant-selects .select"
+    },
+    {
+      "font": "500 16px / 25.6px Jost, sans-serif",
+      "height": 50,
+      "selector": "variant-selects .select__select"
+    },
+    {
+      "font": "500 16px / 20px Jost, sans-serif",
+      "height": 23,
+      "selector": "variant-selects .product-form__label"
+    },
+    {
+      "font": "16px / 24px Jost, sans-serif",
+      "height": 50,
+      "selector": "quantity-input.quantity"
+    },
+    {
+      "font": "500 16px / 19.2px Jost, sans-serif",
+      "height": 50,
+      "selector": ".product-form__submit"
+    }
+  ],
+  "gpo": false,
+  "viewport": [
+    390,
+    844
+  ]
+}

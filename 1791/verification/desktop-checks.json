@@ -1,0 +1,83 @@
+[
+  {
+    "test": "dropdown selection",
+    "text": "option_2"
+  },
+  {
+    "test": "dropdown reopen",
+    "visible": true
+  },
+  {
+    "test": "dropdown trigger close",
+    "visible": false
+  },
+  {
+    "test": "image dropdown open",
+    "visible": true
+  },
+  {
+    "test": "image selection",
+    "text": "option_2"
+  },
+  {
+    "test": "font dropdown open",
+    "visible": true
+  },
+  {
+    "test": "font selection",
+    "text": "Open Sans"
+  },
+  {
+    "test": "dropdown before outside click",
+    "visible": true
+  },
+  {
+    "test": "text retained",
+    "value": "Aroma test"
+  },
+  {
+    "test": "textarea multiline",
+    "value": "Line one\nLine two"
+  },
+  {
+    "test": "phone country list opens",
+    "visible": true
+  },
+  {
+    "test": "phone country list closes",
+    "visible": false
+  },
+  {
+    "test": "button selection",
+    "value": true,
+    "h": 50
+  },
+  {
+    "test": "option quantity increments",
+    "value": "2"
+  },
+  {
+    "test": "checkbox",
+    "checked": true
+  },
+  {
+    "test": "radio",
+    "checked": true
+  },
+  {
+    "test": "image swatch",
+    "checked": true
+  },
+  {
+    "test": "tab changes",
+    "cls": "gpo-tabs-tab gpo-tab-active"
+  },
+  {
+    "test": "font button",
+    "font": "Montserrat"
+  },
+  {
+    "test": "real outside click closes",
+    "visible": false
+  }
+]

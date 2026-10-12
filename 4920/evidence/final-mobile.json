@@ -1,0 +1,130 @@
+{
+  "focus": {
+    "id": "textarea-1",
+    "outline": "rgb(0, 95, 204) auto 1px"
+  },
+  "fontPreviews": [
+    {
+      "font": "Roboto",
+      "text": "Roboto"
+    },
+    {
+      "font": "\"Open Sans\"",
+      "text": "Open Sans"
+    },
+    {
+      "font": "Montserrat",
+      "text": "Montserrat"
+    },
+    {
+      "font": "Poppins",
+      "text": "Poppins"
+    },
+    {
+      "font": "Oswald",
+      "text": "Oswald"
+    },
+    {
+      "font": "Roboto",
+      "text": "Roboto"
+    },
+    {
+      "font": "\"Open Sans\"",
+      "text": "Open Sans"
+    },
+    {
+      "font": "Montserrat",
+      "text": "Montserrat"
+    },
+    {
+      "font": "Poppins",
+      "text": "Poppins"
+    },
+    {
+      "font": "Oswald",
+      "text": "Oswald"
+    }
+  ],
+  "pageWidth": 380,
+  "phoneMenu": [
+    {
+      "maxWidth": "350px",
+      "width": "max-content"
+    }
+  ],
+  "suffix": [
+    {
+      "height": 49,
+      "width": 280.6484375
+    },
+    {
+      "height": 105.34375,
+      "width": 350
+    },
+    {
+      "height": 49,
+      "width": 350
+    },
+    {
+      "height": 49,
+      "width": 350
+    }
+  ],
+  "viewport": [
+    390,
+    844
+  ],
+  "phoneMenuOpened": {
+    "left": 14,
+    "right": 364,
+    "width": 350
+  },
+  "savedOverrideIncluded": true,
+  "dropdownChecks": [
+    {
+      "id": "dropdown-1",
+      "state": "open",
+      "caret": "none",
+      "display": "block",
+      "duration": "0s",
+      "expanded": true,
+      "value": "option_2"
+    },
+    {
+      "id": "image-dropdown-1",
+      "state": "open",
+      "caret": "none",
+      "display": "block",
+      "duration": "0s",
+      "expanded": true,
+      "value": "option_2"
+    },
+    {
+      "id": "image-dropdown-1",
+      "state": "selected",
+      "caret": "none",
+      "display": "none",
+      "duration": "0s",
+      "expanded": false,
+      "value": "option_3"
+    },
+    {
+      "id": "google-font-1",
+      "state": "open",
+      "caret": "none",
+      "display": "block",
+      "duration": "0s",
+      "expanded": true,
+      "value": "Open Sans"
+    },
+    {
+      "id": "google-font-1",
+      "state": "selected",
+      "caret": "none",
+      "display": "none",
+      "duration": "0s",
+      "expanded": false,
+      "value": "Montserrat"
+    }
+  ]
+}

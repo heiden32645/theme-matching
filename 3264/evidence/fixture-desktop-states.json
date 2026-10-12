@@ -1,0 +1,18 @@
+{
+  "triggerClose": true,
+  "outsideClose": true,
+  "fontPreview": "Roboto",
+  "loaded": [
+    "http://127.0.0.1:8765/3264/5.0.0.css"
+  ],
+  "phoneMenuOverflow": "visible",
+  "textarea": {
+    "height": 136,
+    "resize": "vertical",
+    "value": "Dòng thứ nhất\nDòng thứ hai"
+  },
+  "viewport": [
+    1440,
+    1000
+  ]
+}

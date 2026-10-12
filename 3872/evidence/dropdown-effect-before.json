@@ -1,0 +1,31 @@
+{
+  "before": {
+    "gpo": {
+      "caretTransform": "matrix(1, 0, 0, 1, 0, -9)",
+      "listDisplay": "block",
+      "listMaxHeight": "0px",
+      "listTransition": "0.3s"
+    },
+    "native": {
+      "caretTransform": "none",
+      "listDisplay": "none",
+      "listTransition": "all"
+    }
+  },
+  "nativeOpen": {
+    "caretTransform": "none",
+    "caretTransition": "all",
+    "height": 44.5859375,
+    "listDisplay": "block",
+    "listTransition": "all",
+    "open": "true"
+  },
+  "gpoOpen": {
+    "caretTransform": "matrix(1, 0, 0, 1, 0, -9)",
+    "height": 44,
+    "listDisplay": "block",
+    "listMaxHeight": "285.045px",
+    "listTransition": "0.3s",
+    "open": true
+  }
+}

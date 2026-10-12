@@ -1,0 +1,50 @@
+[
+  {
+    "border": "0px none rgb(37, 37, 37)",
+    "cls": "gpo-pdLinks--item buttons gpo-swatches",
+    "height": 30,
+    "padding": "0px",
+    "tag": "DIV",
+    "width": 208.7890625
+  },
+  {
+    "border": "1px solid rgb(117, 127, 88)",
+    "cls": "",
+    "height": 30,
+    "padding": "0px 10px",
+    "tag": "LABEL",
+    "width": 208.7890625
+  },
+  {
+    "border": "0px none rgb(37, 37, 37)",
+    "cls": "gpo-pdLinks--item buttons gpo-swatches",
+    "height": 30,
+    "padding": "0px",
+    "tag": "DIV",
+    "width": 288.3984375
+  },
+  {
+    "border": "1px solid rgb(117, 127, 88)",
+    "cls": "",
+    "height": 30,
+    "padding": "0px 10px",
+    "tag": "LABEL",
+    "width": 288.3984375
+  },
+  {
+    "border": "0px none rgb(37, 37, 37)",
+    "cls": "gpo-pdLinks--item buttons gpo-swatches",
+    "height": 30,
+    "padding": "0px",
+    "tag": "DIV",
+    "width": 217.640625
+  },
+  {
+    "border": "1px solid rgb(117, 127, 88)",
+    "cls": "",
+    "height": 30,
+    "padding": "0px 10px",
+    "tag": "LABEL",
+    "width": 217.640625
+  }
+]

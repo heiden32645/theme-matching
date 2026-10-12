@@ -1,0 +1,327 @@
+{
+  "controls": [
+    {
+      "items": [
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "border": "0px none rgb(118, 118, 118)",
+          "font": "Jost, sans-serif",
+          "h": 16.796875,
+          "lineHeight": "16.8px",
+          "padding": "0px",
+          "radius": "0px",
+          "size": "14px",
+          "w": 35.5390625
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "border": "0px none rgb(118, 118, 118)",
+          "font": "Jost, sans-serif",
+          "h": 16.796875,
+          "lineHeight": "16.8px",
+          "padding": "0px",
+          "radius": "0px",
+          "size": "14px",
+          "w": 73.265625
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "border": "0px none rgb(118, 118, 118)",
+          "font": "Jost, sans-serif",
+          "h": 16.796875,
+          "lineHeight": "16.8px",
+          "padding": "0px",
+          "radius": "0px",
+          "size": "14px",
+          "w": 113.5859375
+        }
+      ],
+      "sel": ".gpo-label .label-content"
+    },
+    {
+      "items": [
+        {
+          "bg": "rgb(0, 0, 0)",
+          "border": "0px none rgb(255, 255, 255)",
+          "font": "\"Instrument Sans\", sans-serif",
+          "h": 27.1953125,
+          "lineHeight": "19.2px",
+          "padding": "4px 6px",
+          "radius": "0px",
+          "size": "12px",
+          "w": 56.0546875
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "border": "0px none rgb(118, 118, 118)",
+          "font": "\"Instrument Sans\", sans-serif",
+          "h": 27.1953125,
+          "lineHeight": "19.2px",
+          "padding": "4px 6px",
+          "radius": "0px",
+          "size": "12px",
+          "w": 59.0078125
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "border": "0px none rgb(118, 118, 118)",
+          "font": "\"Instrument Sans\", sans-serif",
+          "h": 27.1953125,
+          "lineHeight": "19.2px",
+          "padding": "4px 6px",
+          "radius": "0px",
+          "size": "12px",
+          "w": 184.9609375
+        }
+      ],
+      "sel": ".gpo-swatches.buttons input + label"
+    },
+    {
+      "items": [
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "border": "0px none rgb(0, 0, 0)",
+          "font": "\"Instrument Sans\", sans-serif",
+          "h": 29,
+          "lineHeight": "22.4px",
+          "padding": "0px",
+          "radius": "0px",
+          "size": "14px",
+          "w": 24
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "border": "0px none rgb(0, 0, 0)",
+          "font": "\"Instrument Sans\", sans-serif",
+          "h": 29,
+          "lineHeight": "22.4px",
+          "padding": "0px",
+          "radius": "0px",
+          "size": "14px",
+          "w": 24
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "border": "0px none rgb(0, 0, 0)",
+          "font": "\"Instrument Sans\", sans-serif",
+          "h": 29,
+          "lineHeight": "22.4px",
+          "padding": "0px",
+          "radius": "0px",
+          "size": "14px",
+          "w": 24
+        }
+      ],
+      "sel": ".gpo-swatches.color-swatches input + label"
+    },
+    {
+      "items": [
+        {
+          "bg": "rgb(244, 244, 244)",
+          "border": "1px solid rgb(244, 244, 244)",
+          "font": "\"Instrument Sans\", sans-serif",
+          "h": 36,
+          "lineHeight": "22.4px",
+          "padding": "0px",
+          "radius": "3px",
+          "size": "14px",
+          "w": 122
+        },
+        {
+          "bg": "rgb(244, 244, 244)",
+          "border": "1px solid rgb(244, 244, 244)",
+          "font": "\"Instrument Sans\", sans-serif",
+          "h": 36,
+          "lineHeight": "22.4px",
+          "padding": "0px",
+          "radius": "3px",
+          "size": "14px",
+          "w": 122
+        }
+      ],
+      "sel": ".gpo-ov-quantity"
+    },
+    {
+      "items": [
+        {
+          "bg": "rgb(244, 244, 244)",
+          "border": "1px solid rgb(244, 244, 244)",
+          "font": "\"Instrument Sans\", sans-serif",
+          "h": 36,
+          "lineHeight": "normal",
+          "padding": "0px 3px",
+          "radius": "3px",
+          "size": "12px",
+          "w": 100
+        }
+      ],
+      "sel": ".gpo-quantity__input"
+    },
+    {
+      "items": [
+        {
+          "bg": "rgb(244, 244, 244)",
+          "border": "1px solid rgb(244, 244, 244)",
+          "font": "\"Instrument Sans\", sans-serif",
+          "h": 36,
+          "lineHeight": "normal",
+          "padding": "0px",
+          "radius": "0px",
+          "size": "12px",
+          "w": 340
+        }
+      ],
+      "sel": ".gpo-select"
+    },
+    {
+      "items": [
+        {
+          "bg": "rgb(244, 244, 244)",
+          "border": "1px solid rgb(244, 244, 244)",
+          "font": "\"Instrument Sans\", sans-serif",
+          "h": 36,
+          "lineHeight": "normal",
+          "padding": "9px 32px 9px 16px",
+          "radius": "0px",
+          "size": "12px",
+          "w": 340
+        },
+        {
+          "bg": "rgb(244, 244, 244)",
+          "border": "1px solid rgb(244, 244, 244)",
+          "font": "\"Instrument Sans\", sans-serif",
+          "h": 36,
+          "lineHeight": "normal",
+          "padding": "9px 32px 9px 16px",
+          "radius": "0px",
+          "size": "12px",
+          "w": 340
+        },
+        {
+          "bg": "rgb(244, 244, 244)",
+          "border": "1px solid rgb(244, 244, 244)",
+          "font": "\"Instrument Sans\", sans-serif",
+          "h": 36,
+          "lineHeight": "normal",
+          "padding": "9px 32px 9px 16px",
+          "radius": "0px",
+          "size": "12px",
+          "w": 340
+        }
+      ],
+      "sel": ".gpo-dropdown .dropdown-button"
+    },
+    {
+      "items": [
+        {
+          "bg": "rgb(244, 244, 244)",
+          "border": "1px solid rgb(244, 244, 244)",
+          "font": "\"Instrument Sans\", sans-serif",
+          "h": 34,
+          "lineHeight": "22.4px",
+          "padding": "0px",
+          "radius": "3px",
+          "size": "14px",
+          "w": 340
+        },
+        {
+          "bg": "rgb(244, 244, 244)",
+          "border": "1px solid rgb(244, 244, 244)",
+          "font": "\"Instrument Sans\", sans-serif",
+          "h": 111.59375,
+          "lineHeight": "22.4px",
+          "padding": "0px",
+          "radius": "3px",
+          "size": "14px",
+          "w": 340
+        },
+        {
+          "bg": "rgb(244, 244, 244)",
+          "border": "1px solid rgb(244, 244, 244)",
+          "font": "\"Instrument Sans\", sans-serif",
+          "h": 34,
+          "lineHeight": "22.4px",
+          "padding": "0px",
+          "radius": "3px",
+          "size": "14px",
+          "w": 340
+        }
+      ],
+      "sel": ".gpo-input-wrap"
+    },
+    {
+      "items": [
+        {
+          "bg": "rgb(244, 244, 244)",
+          "border": "1px solid rgb(244, 244, 244)",
+          "font": "\"Instrument Sans\", sans-serif",
+          "h": 34,
+          "lineHeight": "22.4px",
+          "padding": "0px",
+          "radius": "3px",
+          "size": "14px",
+          "w": 108
+        },
+        {
+          "bg": "rgb(244, 244, 244)",
+          "border": "1px solid rgb(244, 244, 244)",
+          "font": "\"Instrument Sans\", sans-serif",
+          "h": 34,
+          "lineHeight": "22.4px",
+          "padding": "0px",
+          "radius": "3px",
+          "size": "14px",
+          "w": 108
+        },
+        {
+          "bg": "rgb(244, 244, 244)",
+          "border": "1px solid rgb(244, 244, 244)",
+          "font": "\"Instrument Sans\", sans-serif",
+          "h": 34,
+          "lineHeight": "22.4px",
+          "padding": "0px",
+          "radius": "3px",
+          "size": "14px",
+          "w": 108
+        }
+      ],
+      "sel": ".gpo-dimension-input-wrap"
+    },
+    {
+      "items": [
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "border": "0px none rgb(0, 0, 0)",
+          "font": "\"Instrument Sans\", sans-serif",
+          "h": 109.59375,
+          "lineHeight": "22.4px",
+          "padding": "10px 16px",
+          "radius": "3px",
+          "size": "14px",
+          "w": 338
+        }
+      ],
+      "sel": ".gpo-textarea"
+    },
+    {
+      "items": [
+        {
+          "bg": "rgb(0, 0, 0)",
+          "border": "1px solid rgba(0, 0, 0, 0)",
+          "font": "Jost, sans-serif",
+          "h": 36,
+          "lineHeight": "12px",
+          "padding": "10px 13px",
+          "radius": "3px",
+          "size": "10px",
+          "w": 99.515625
+        }
+      ],
+      "sel": ".gpo-dropzone__action"
+    }
+  ],
+  "viewport": [
+    1598,
+    933
+  ]
+}

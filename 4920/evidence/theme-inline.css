@@ -1,0 +1,185 @@
+
+  @font-face {
+  font-family: Urbanist;
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+  src: url("//6e1n3938ctsuty60-69620498584.shopifypreview.com/cdn/fonts/urbanist/urbanist_n5.6682d3f5f9aa0a473dd41f68e30f97f00b72f685.woff2") format("woff2"),
+       url("//6e1n3938ctsuty60-69620498584.shopifypreview.com/cdn/fonts/urbanist/urbanist_n5.8b38238aeecc7132f9fa294cad03c2b685695378.woff") format("woff");
+}
+
+  @font-face {
+  font-family: Urbanist;
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url("//6e1n3938ctsuty60-69620498584.shopifypreview.com/cdn/fonts/urbanist/urbanist_n7.6864a1afc49c5ce0c3bc1bd5e8b3f12350242a65.woff2") format("woff2"),
+       url("//6e1n3938ctsuty60-69620498584.shopifypreview.com/cdn/fonts/urbanist/urbanist_n7.612da29083b748d1cce532849a87a86935e9fdc7.woff") format("woff");
+}
+
+  @font-face {
+  font-family: Urbanist;
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+  src: url("//6e1n3938ctsuty60-69620498584.shopifypreview.com/cdn/fonts/urbanist/urbanist_i5.00a0d9674474b97551d56e148dd43963b7020889.woff2") format("woff2"),
+       url("//6e1n3938ctsuty60-69620498584.shopifypreview.com/cdn/fonts/urbanist/urbanist_i5.658d4007a50e87abb8a7015b2953e732f18fd62c.woff") format("woff");
+}
+
+  @font-face {
+  font-family: Urbanist;
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+  src: url("//6e1n3938ctsuty60-69620498584.shopifypreview.com/cdn/fonts/urbanist/urbanist_i7.54a83d1364de37331c1b106d1378c758e809c241.woff2") format("woff2"),
+       url("//6e1n3938ctsuty60-69620498584.shopifypreview.com/cdn/fonts/urbanist/urbanist_i7.22e1f3cae8d98ca9c7aef94d2d3f4c884cec3925.woff") format("woff");
+}
+
+  @font-face {
+  font-family: Urbanist;
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+  src: url("//6e1n3938ctsuty60-69620498584.shopifypreview.com/cdn/fonts/urbanist/urbanist_n5.6682d3f5f9aa0a473dd41f68e30f97f00b72f685.woff2") format("woff2"),
+       url("//6e1n3938ctsuty60-69620498584.shopifypreview.com/cdn/fonts/urbanist/urbanist_n5.8b38238aeecc7132f9fa294cad03c2b685695378.woff") format("woff");
+}
+
+
+  :root {
+    /* FONTS */
+    --font-body-family: Urbanist, sans-serif;
+    --font-body-style: normal;
+    --font-body-weight: 500;
+    --font-body-weight-bold: 800;
+
+    --font-heading-family: Urbanist, sans-serif;
+    --font-heading-style: normal;
+    --font-heading-weight: 500;
+
+    --font-body-scale: 1.0;
+    --font-heading-scale: 1.0;
+
+    /* CONTAINER */
+    --container: 1920px;
+
+    /* GRID SPACINGS */
+    --column-spacing: 17px;
+    --row-spacing: 17px;
+
+    /* BORDER RADIUS */
+    --btn-border-radius: 10px;
+    --img-border-radius: 30px;
+    --input-border-radius: 10px;
+    --badge-border-radius: 30px;
+    --swatch-border-radius: 5px;
+  }
+
+  * {
+    margin: 0;
+    -webkit-tap-highlight-color: transparent;
+    word-break: break-word;
+  }
+
+  *, *::before, *::after {
+    box-sizing: border-box;
+  }
+
+  html {
+    box-sizing: border-box;
+    font-size: calc(var(--font-body-scale) * 62.5%);
+    height: 100%;
+    padding-bottom: 0 !important;
+  }
+
+  html[data-overlay-enabled] #MainContent {
+    margin-top: calc(var(--announcement-bar-height) * -1)
+  }
+
+  body::selection {
+    background: #000;
+    color: #fff;
+  }
+
+  body {
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+    min-height: 100svh;
+  }
+
+  main#MainContent {
+    flex: 1;
+  }
+
+  img,
+  picture,
+  video,
+  canvas,
+  svg {
+    display: block;
+    max-width: 100%;
+    height: auto;
+  }
+
+  p {
+    text-wrap: pretty;
+  }
+
+  p,
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    overflow-wrap: break-word;
+  }
+
+  p:empty {
+    display: none;
+  }.
+
+  .shopify-challenge__container {
+    margin: 5rem auto !important;
+  }
+
+  .shopify-policy__container {
+    max-width: var(--container) !important;
+    padding: 5rem !important;
+  }
+
+  html[data-overlay-enabled] .shopify-policy__container {
+    padding-top: calc(var(--announcement-bar-height) + var(--header-height) + 5rem) !important;
+  }
+
+  .shopify-policy__title {
+    margin: 0 0 3rem;
+  }
+
+  @media screen and (max-width: 1299px) {
+    .shopify-policy__container {
+      padding: 3rem !important;
+    }
+
+    html[data-overlay-enabled] .shopify-policy__container {
+      padding-top: calc(var(--announcement-bar-height) + var(--header-height) + 3rem) !important;
+    }
+  }
+
+  @media screen and (max-width: 640px) {
+    html[data-overlay-mobile-disabled] #MainContent {
+      margin-top: 0;
+    } 
+
+    .shopify-policy__container {
+      padding: 3rem 1.5rem  !important;
+    }
+
+    html[data-overlay-mobile-enabled] .shopify-policy__container {
+      padding-top: calc(var(--announcement-bar-height) + var(--header-height) + 3rem) !important;
+    } 
+    
+    html[data-overlay-mobile-disabled] .shopify-policy__container {
+      padding-top: 3rem !important;
+    } 
+  }

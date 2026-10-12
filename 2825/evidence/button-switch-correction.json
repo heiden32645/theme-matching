@@ -1,0 +1,40 @@
+{
+  "cssIncludedInServed": true,
+  "desktop": {
+    "hoverExit": {
+      "animation": "1.5s cubic-bezier(0.19, 1, 0.22, 1) forwards outlineIn",
+      "hover": false,
+      "transform": "none"
+    },
+    "switch": {
+      "checked": false,
+      "thumbRadius": "0px",
+      "trackRadius": "0px"
+    },
+    "viewport": [
+      1598,
+      933
+    ]
+  },
+  "mobile": {
+    "action": "1.5s cubic-bezier(0.19, 1, 0.22, 1) forwards outlineIn",
+    "scrollWidth": 390,
+    "switch": {
+      "checked": true,
+      "thumbRadius": "0px",
+      "trackRadius": "0px"
+    },
+    "viewport": [
+      390,
+      844
+    ]
+  },
+  "hover": {
+    "exercised": true,
+    "animation": "outlineOut 1.5s cubic-bezier(.19,1,.22,1)",
+    "transform": "translateY(-5px)",
+    "outlineOffsetObserved": "13.5px during animation",
+    "glowObserved": true
+  },
+  "upload": "no file chosen or uploaded"
+}

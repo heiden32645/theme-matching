@@ -1,0 +1,35 @@
+[
+  {
+    "checked": "option_1",
+    "closed": "none",
+    "kind": "gpo-dropdown gpo-oos--show",
+    "open": {
+      "caret": "none",
+      "display": "block",
+      "transition": "0s"
+    },
+    "text": "\n              option_1                          "
+  },
+  {
+    "checked": "option_1",
+    "closed": "none",
+    "kind": "gpo-dropdown gpo-image-dropdown gpo-oos--show",
+    "open": {
+      "caret": "none",
+      "display": "block",
+      "transition": "0s"
+    },
+    "text": "\n                  option_1                                  "
+  },
+  {
+    "checked": "Roboto",
+    "closed": "none",
+    "kind": "gpo-font-picker gpo-dropdown googlefont-dropdown",
+    "open": {
+      "caret": "none",
+      "display": "block",
+      "transition": "0s"
+    },
+    "text": "\n                Roboto\n              "
+  }
+]

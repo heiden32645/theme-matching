@@ -1,0 +1,10 @@
+.accordion summary { display: flex; position: relative; line-height: 1; padding: 1.5rem 0px; }
+.accordion .summary__title { display: flex; flex: 1 1 0%; }
+.accordion + .accordion { margin-top: 0px; border-top-width: medium; border-top-style: none; border-top-color: currentcolor; }
+.accordion { margin-top: 2.5rem; margin-bottom: 0px; border-top: .1rem solid rgba(var(--color-foreground),.2); border-bottom: .1rem solid rgba(var(--color-foreground),.2); }
+.accordion__title { display: inline-block; max-width: calc(100% - 6rem); min-height: 1.6rem; margin: 0px; word-break: break-word; }
+.accordion .icon-accordion { align-self: center; min-width: 1.6rem; margin-right: 1rem; fill: rgb(var(--color-foreground)); }
+.accordion details[open] > summary .icon-caret { transform: rotate(-90deg); }
+.accordion__content { margin-bottom: 1.5rem; word-break: break-word; }
+.accordion__content img { max-width: 100%; }
+.footer .accordion__title { text-transform: var(--font-header-menu-text-transform); }

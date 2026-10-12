@@ -1,0 +1,45 @@
+{
+  "controls": [
+    {
+      "class": "dropdown-button",
+      "height": 40,
+      "width": 568.5
+    },
+    {
+      "class": "dropdown-button",
+      "height": 40,
+      "width": 568.5
+    },
+    {
+      "class": "dropdown-button",
+      "height": 40,
+      "width": 568.5
+    },
+    {
+      "class": "gpo-input-wrap",
+      "height": 50,
+      "width": 568.5
+    },
+    {
+      "class": "gpo-input-wrap",
+      "height": 106.34375,
+      "width": 568.5
+    },
+    {
+      "class": "gpo-input-wrap",
+      "height": 50,
+      "width": 568.5
+    },
+    {
+      "class": "gpo-input-wrap gpo-color-box",
+      "height": 50,
+      "width": 568.5
+    }
+  ],
+  "overrideHeader": true,
+  "pageWidth": 1430,
+  "viewport": [
+    1440,
+    1000
+  ]
+}

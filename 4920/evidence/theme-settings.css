@@ -1,0 +1,229 @@
+
+  
+    
+      :root,
+    
+    .color-scheme-1 {
+        --color-background: rgba(255 255 255 / 1.0);
+        --color-secondary-background: rgba(209 209 209 / 1.0);
+        --color-heading: rgba(37 37 37 / 1.0);
+        --color-secondary-heading: rgba(255 255 255 / 1.0);
+        --color-text: rgba(37 37 37 / 1.0);
+        --color-secondary-text: rgba(37 37 37 / 1.0);
+        --color-link: rgba(37 37 37 / 1.0);
+        --color-link-hover: rgba(0 0 0 / 1.0);
+        --color-border: rgba(117 127 88 / 1.0);
+        --color-shadow: rgba(0 0 0 / 1.0);
+        --color-primary-button-background: rgba(117 127 88 / 1.0);
+        --color-primary-button-text: rgba(255 255 255 / 1.0);
+        --color-primary-button-border: rgba(117 127 88 / 1.0);
+        --color-primary-button-hover-background: rgba(255 255 255 / 1.0);
+        --color-primary-button-hover-text: rgba(117 127 88 / 1.0);
+        --color-primary-button-hover-border: rgba(117 127 88 / 1.0);
+        --color-secondary-button-background: rgba(255 255 255 / 1.0);
+        --color-secondary-button-text: rgba(117 127 88 / 1.0);
+        --color-secondary-button-border: rgba(117 127 88 / 1.0);
+        --color-secondary-button-hover-background: rgba(117 127 88 / 1.0);
+        --color-secondary-button-hover-text: rgba(255 255 255 / 1.0);
+        --color-secondary-button-hover-border: rgba(117 127 88 / 1.0);
+        --color-link-button-text: rgba(37 37 37 / 1.0);
+        --color-link-button-hover-text: rgba(0 0 0 / 1.0);
+        --color-arrow-button-text: rgba(0 0 0 / 1.0);
+        --color-arrow-button-hover-text: rgba(0 0 0 / 1.0);
+        --color-arrow-button-bg: rgba(0 0 0 / 0.0);
+        --color-arrow-button-hover-bg: rgba(0 0 0 / 0.0);
+        --color-animated-button-text: rgba(117 127 88 / 1.0); 
+        --color-animated-button-background: rgba(255 255 255 / 1.0); 
+        --color-animated-button-sec-background: rgba(144 156 112 / 1.0); 
+        --color-disbled-button-background: rgba(201 201 201 / 1.0);
+        --color-disabled-button-text: rgba(0 0 0 / 1.0);
+        --color-input-background: rgba(245 245 245 / 1.0);
+        --color-input-text: rgba(0 0 0 / 1.0);
+        --color-input-border: rgba();
+        --color-highlight: rgba(117 127 88 / 1.0);
+        --color-arrows-bg: rgba(255 255 255 / 1.0);
+        --color-arrows: rgba(117 127 88 / 1.0);
+        --color-arrows-border: rgba(255 255 255 / 1.0);
+      }
+  
+    
+    .color-scheme-2 {
+        --color-background: rgba(117 127 88 / 1.0);
+        --color-secondary-background: rgba(241 241 241 / 1.0);
+        --color-heading: rgba(255 255 255 / 1.0);
+        --color-secondary-heading: rgba(255 255 255 / 1.0);
+        --color-text: rgba(255 255 255 / 1.0);
+        --color-secondary-text: rgba(0 0 0 / 1.0);
+        --color-link: rgba(255 255 255 / 1.0);
+        --color-link-hover: rgba(245 245 245 / 1.0);
+        --color-border: rgba(72 68 68 / 1.0);
+        --color-shadow: rgba(0 0 0 / 1.0);
+        --color-primary-button-background: rgba(255 255 255 / 1.0);
+        --color-primary-button-text: rgba(117 127 88 / 1.0);
+        --color-primary-button-border: rgba(255 255 255 / 1.0);
+        --color-primary-button-hover-background: rgba(117 127 88 / 1.0);
+        --color-primary-button-hover-text: rgba(255 255 255 / 1.0);
+        --color-primary-button-hover-border: rgba(255 255 255 / 1.0);
+        --color-secondary-button-background: rgba(37 37 37 / 1.0);
+        --color-secondary-button-text: rgba(255 255 255 / 1.0);
+        --color-secondary-button-border: rgba(255 255 255 / 1.0);
+        --color-secondary-button-hover-background: rgba(255 255 255 / 1.0);
+        --color-secondary-button-hover-text: rgba(37 37 37 / 1.0);
+        --color-secondary-button-hover-border: rgba(255 255 255 / 1.0);
+        --color-link-button-text: rgba(37 37 37 / 1.0);
+        --color-link-button-hover-text: rgba(0 0 0 / 1.0);
+        --color-arrow-button-text: rgba(0 0 0 / 1.0);
+        --color-arrow-button-hover-text: rgba(0 0 0 / 1.0);
+        --color-arrow-button-bg: rgba(0 0 0 / 0.0);
+        --color-arrow-button-hover-bg: rgba(0 0 0 / 0.0);
+        --color-animated-button-text: rgba(117 127 88 / 1.0); 
+        --color-animated-button-background: rgba(255 255 255 / 1.0); 
+        --color-animated-button-sec-background: rgba(144 156 112 / 1.0); 
+        --color-disbled-button-background: rgba(201 201 201 / 1.0);
+        --color-disabled-button-text: rgba(255 255 255 / 1.0);
+        --color-input-background: rgba(255 255 255 / 1.0);
+        --color-input-text: rgba(0 0 0 / 1.0);
+        --color-input-border: rgba();
+        --color-highlight: rgba(217 9 9 / 1.0);
+        --color-arrows-bg: rgba(37 37 37 / 1.0);
+        --color-arrows: rgba(255 255 255 / 1.0);
+        --color-arrows-border: rgba(37 37 37 / 1.0);
+      }
+  
+    
+    .color-scheme-3 {
+        --color-background: rgba(192 203 160 / 1.0);
+        --color-secondary-background: rgba(37 37 37 / 0.84);
+        --color-heading: rgba(255 255 255 / 1.0);
+        --color-secondary-heading: rgba(255 255 255 / 1.0);
+        --color-text: rgba(255 255 255 / 1.0);
+        --color-secondary-text: rgba(98 98 98 / 1.0);
+        --color-link: rgba(255 255 255 / 1.0);
+        --color-link-hover: rgba(0 0 0 / 1.0);
+        --color-border: rgba(230 230 230 / 1.0);
+        --color-shadow: rgba(0 0 0 / 1.0);
+        --color-primary-button-background: rgba(255 255 255 / 1.0);
+        --color-primary-button-text: rgba(117 127 88 / 1.0);
+        --color-primary-button-border: rgba(117 127 88 / 1.0);
+        --color-primary-button-hover-background: rgba(117 127 88 / 1.0);
+        --color-primary-button-hover-text: rgba(255 255 255 / 1.0);
+        --color-primary-button-hover-border: rgba(117 127 88 / 1.0);
+        --color-secondary-button-background: rgba(255 255 255 / 1.0);
+        --color-secondary-button-text: rgba(37 37 37 / 1.0);
+        --color-secondary-button-border: rgba(255 255 255 / 1.0);
+        --color-secondary-button-hover-background: rgba(37 37 37 / 1.0);
+        --color-secondary-button-hover-text: rgba(255 255 255 / 1.0);
+        --color-secondary-button-hover-border: rgba(37 37 37 / 1.0);
+        --color-link-button-text: rgba(37 37 37 / 1.0);
+        --color-link-button-hover-text: rgba(0 0 0 / 1.0);
+        --color-arrow-button-text: rgba(0 0 0 / 1.0);
+        --color-arrow-button-hover-text: rgba(0 0 0 / 1.0);
+        --color-arrow-button-bg: rgba(0 0 0 / 0.0);
+        --color-arrow-button-hover-bg: rgba(0 0 0 / 0.0);
+        --color-animated-button-text: rgba(95 108 59 / 1.0); 
+        --color-animated-button-background: rgba(255 255 255 / 1.0); 
+        --color-animated-button-sec-background: rgba(144 156 112 / 1.0); 
+        --color-disbled-button-background: rgba(201 201 201 / 1.0);
+        --color-disabled-button-text: rgba(0 0 0 / 1.0);
+        --color-input-background: rgba(255 255 255 / 1.0);
+        --color-input-text: rgba(0 0 0 / 1.0);
+        --color-input-border: rgba();
+        --color-highlight: rgba(255 255 255 / 1.0);
+        --color-arrows-bg: rgba(255 255 255 / 1.0);
+        --color-arrows: rgba(0 0 0 / 1.0);
+        --color-arrows-border: rgba(255 255 255 / 1.0);
+      }
+  
+    
+    .color-scheme-4 {
+        --color-background: rgba(144 156 112 / 1.0);
+        --color-secondary-background: rgba(144 156 112 / 1.0);
+        --color-heading: rgba(255 255 255 / 1.0);
+        --color-secondary-heading: rgba(255 255 255 / 1.0);
+        --color-text: rgba(255 255 255 / 1.0);
+        --color-secondary-text: rgba(255 255 255 / 1.0);
+        --color-link: rgba(255 255 255 / 1.0);
+        --color-link-hover: rgba(255 255 255 / 1.0);
+        --color-border: rgba(201 201 201 / 1.0);
+        --color-shadow: rgba(0 0 0 / 1.0);
+        --color-primary-button-background: rgba(255 255 255 / 1.0);
+        --color-primary-button-text: rgba(117 127 88 / 1.0);
+        --color-primary-button-border: rgba(95 108 59 / 1.0);
+        --color-primary-button-hover-background: rgba(117 127 88 / 1.0);
+        --color-primary-button-hover-text: rgba(255 255 255 / 1.0);
+        --color-primary-button-hover-border: rgba(117 127 88 / 1.0);
+        --color-secondary-button-background: rgba(245 245 245 / 1.0);
+        --color-secondary-button-text: rgba(37 37 37 / 1.0);
+        --color-secondary-button-border: rgba(245 245 245 / 1.0);
+        --color-secondary-button-hover-background: rgba(37 37 37 / 1.0);
+        --color-secondary-button-hover-text: rgba(255 255 255 / 1.0);
+        --color-secondary-button-hover-border: rgba(37 37 37 / 1.0);
+        --color-link-button-text: rgba(37 37 37 / 1.0);
+        --color-link-button-hover-text: rgba(0 0 0 / 1.0);
+        --color-arrow-button-text: rgba(0 0 0 / 1.0);
+        --color-arrow-button-hover-text: rgba(0 0 0 / 1.0);
+        --color-arrow-button-bg: rgba(0 0 0 / 0.0);
+        --color-arrow-button-hover-bg: rgba(0 0 0 / 0.0);
+        --color-animated-button-text: rgba(95 108 59 / 1.0); 
+        --color-animated-button-background: rgba(255 255 255 / 1.0); 
+        --color-animated-button-sec-background: rgba(144 156 112 / 1.0); 
+        --color-disbled-button-background: rgba(201 201 201 / 1.0);
+        --color-disabled-button-text: rgba(0 0 0 / 1.0);
+        --color-input-background: rgba(0 0 0 / 0.0);
+        --color-input-text: rgba(0 0 0 / 1.0);
+        --color-input-border: rgba();
+        --color-highlight: rgba(192 203 160 / 1.0);
+        --color-arrows-bg: rgba(255 255 255 / 1.0);
+        --color-arrows: rgba(0 0 0 / 1.0);
+        --color-arrows-border: rgba(255 255 255 / 1.0);
+      }
+  
+    
+    .color-scheme-5 {
+        --color-background: rgba(255 255 255 / 1.0);
+        --color-secondary-background: rgba(230 230 230 / 1.0);
+        --color-heading: rgba(0 0 0 / 1.0);
+        --color-secondary-heading: rgba(255 255 255 / 1.0);
+        --color-text: rgba(37 37 37 / 1.0);
+        --color-secondary-text: rgba(255 255 255 / 1.0);
+        --color-link: rgba(255 255 255 / 1.0);
+        --color-link-hover: rgba(0 0 0 / 1.0);
+        --color-border: rgba(117 127 88 / 1.0);
+        --color-shadow: rgba(0 0 0 / 1.0);
+        --color-primary-button-background: rgba(255 255 255 / 1.0);
+        --color-primary-button-text: rgba(117 127 88 / 1.0);
+        --color-primary-button-border: rgba(255 255 255 / 1.0);
+        --color-primary-button-hover-background: rgba(117 127 88 / 1.0);
+        --color-primary-button-hover-text: rgba(255 255 255 / 1.0);
+        --color-primary-button-hover-border: rgba(117 127 88 / 1.0);
+        --color-secondary-button-background: rgba(255 255 255 / 1.0);
+        --color-secondary-button-text: rgba(117 127 88 / 1.0);
+        --color-secondary-button-border: rgba(117 127 88 / 1.0);
+        --color-secondary-button-hover-background: rgba(117 127 88 / 1.0);
+        --color-secondary-button-hover-text: rgba(255 255 255 / 1.0);
+        --color-secondary-button-hover-border: rgba(117 127 88 / 1.0);
+        --color-link-button-text: rgba(37 37 37 / 1.0);
+        --color-link-button-hover-text: rgba(0 0 0 / 1.0);
+        --color-arrow-button-text: rgba(0 0 0 / 1.0);
+        --color-arrow-button-hover-text: rgba(0 0 0 / 1.0);
+        --color-arrow-button-bg: rgba(0 0 0 / 0.0);
+        --color-arrow-button-hover-bg: rgba(0 0 0 / 0.0);
+        --color-animated-button-text: rgba(117 127 88 / 1.0); 
+        --color-animated-button-background: rgba(255 255 255 / 1.0); 
+        --color-animated-button-sec-background: rgba(144 156 112 / 1.0); 
+        --color-disbled-button-background: rgba(201 201 201 / 1.0);
+        --color-disabled-button-text: rgba(0 0 0 / 1.0);
+        --color-input-background: rgba(238 238 238 / 1.0);
+        --color-input-text: rgba(129 129 129 / 1.0);
+        --color-input-border: rgba();
+        --color-highlight: rgba(144 156 112 / 1.0);
+        --color-arrows-bg: rgba(255 255 255 / 1.0);
+        --color-arrows: rgba(0 0 0 / 1.0);
+        --color-arrows-border: rgba(255 255 255 / 1.0);
+      }
+  
+
+  body, .color-scheme-1, .color-scheme-2, .color-scheme-3, .color-scheme-4, .color-scheme-5 {
+    color: var(--color-foreground);
+    background-color: var(--color-background);
+  }

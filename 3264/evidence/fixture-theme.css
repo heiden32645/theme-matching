@@ -1,0 +1,1470 @@
+
+      @font-face {
+  font-family: Jost;
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+  src: url("fonts/jost_n5.7c8497861ffd15f4e1284cd221f14658b0e95d61.woff2") format("woff2"),
+       url("//5jdnwynzho9akz1t-69620498584.shopifypreview.com/cdn/fonts/jost/jost_n5.fb6a06896db583cc2df5ba1b30d9c04383119dd9.woff") format("woff");
+}
+
+      @font-face {
+  font-family: Jost;
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+  src: url("//5jdnwynzho9akz1t-69620498584.shopifypreview.com/cdn/fonts/jost/jost_n3.a5df7448b5b8c9a76542f085341dff794ff2a59d.woff2") format("woff2"),
+       url("//5jdnwynzho9akz1t-69620498584.shopifypreview.com/cdn/fonts/jost/jost_n3.882941f5a26d0660f7dd135c08afc57fc6939a07.woff") format("woff");
+}
+
+      @font-face {
+  font-family: Jost;
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+  src: url("fonts/jost_n5.7c8497861ffd15f4e1284cd221f14658b0e95d61.woff2") format("woff2"),
+       url("//5jdnwynzho9akz1t-69620498584.shopifypreview.com/cdn/fonts/jost/jost_n5.fb6a06896db583cc2df5ba1b30d9c04383119dd9.woff") format("woff");
+}
+
+      @font-face {
+  font-family: Jost;
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+  src: url("fonts/jost_n6.ec1178db7a7515114a2d84e3dd680832b7af8b99.woff2") format("woff2"),
+       url("//5jdnwynzho9akz1t-69620498584.shopifypreview.com/cdn/fonts/jost/jost_n6.b1178bb6bdd3979fef38e103a3816f6980aeaff9.woff") format("woff");
+}
+
+      @font-face {
+  font-family: Jost;
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url("fonts/jost_n7.921dc18c13fa0b0c94c5e2517ffe06139c3615a3.woff2") format("woff2"),
+       url("//5jdnwynzho9akz1t-69620498584.shopifypreview.com/cdn/fonts/jost/jost_n7.cbfc16c98c1e195f46c536e775e4e959c5f2f22b.woff") format("woff");
+}
+
+      @font-face {
+  font-family: Jost;
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+  src: url("//5jdnwynzho9akz1t-69620498584.shopifypreview.com/cdn/fonts/jost/jost_n8.3cf5e98b5ecbf822f9fccf0e49e49a03e21bd8ac.woff2") format("woff2"),
+       url("//5jdnwynzho9akz1t-69620498584.shopifypreview.com/cdn/fonts/jost/jost_n8.dbe90b7c788249ac8931bcf34b35a1a9cdfaf184.woff") format("woff");
+}
+
+      @font-face {
+  font-family: Jost;
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+  src: url("//5jdnwynzho9akz1t-69620498584.shopifypreview.com/cdn/fonts/jost/jost_n9.cd269fa9adcae864ab1df15826ceb2fd310a3d4a.woff2") format("woff2"),
+       url("//5jdnwynzho9akz1t-69620498584.shopifypreview.com/cdn/fonts/jost/jost_n9.fd15e8012129a3f22bd292bf1f8b87a15f894bd5.woff") format("woff");
+}
+
+      @font-face {
+  font-family: Jost;
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+  src: url("//5jdnwynzho9akz1t-69620498584.shopifypreview.com/cdn/fonts/jost/jost_i5.a6c7dbde35f2b89f8461eacda9350127566e5d51.woff2") format("woff2"),
+       url("//5jdnwynzho9akz1t-69620498584.shopifypreview.com/cdn/fonts/jost/jost_i5.2b58baee736487eede6bcdb523ca85eea2418357.woff") format("woff");
+}
+
+      @font-face {
+  font-family: Jost;
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+  src: url("//5jdnwynzho9akz1t-69620498584.shopifypreview.com/cdn/fonts/jost/jost_i3.8d4e97d98751190bb5824cdb405ec5b0049a74c0.woff2") format("woff2"),
+       url("//5jdnwynzho9akz1t-69620498584.shopifypreview.com/cdn/fonts/jost/jost_i3.1b7a65a16099fd3de6fdf1255c696902ed952195.woff") format("woff");
+}
+
+      @font-face {
+  font-family: Jost;
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+  src: url("//5jdnwynzho9akz1t-69620498584.shopifypreview.com/cdn/fonts/jost/jost_i5.a6c7dbde35f2b89f8461eacda9350127566e5d51.woff2") format("woff2"),
+       url("//5jdnwynzho9akz1t-69620498584.shopifypreview.com/cdn/fonts/jost/jost_i5.2b58baee736487eede6bcdb523ca85eea2418357.woff") format("woff");
+}
+
+      @font-face {
+  font-family: Jost;
+  font-weight: 600;
+  font-style: italic;
+  font-display: swap;
+  src: url("//5jdnwynzho9akz1t-69620498584.shopifypreview.com/cdn/fonts/jost/jost_i6.9af7e5f39e3a108c08f24047a4276332d9d7b85e.woff2") format("woff2"),
+       url("//5jdnwynzho9akz1t-69620498584.shopifypreview.com/cdn/fonts/jost/jost_i6.2bf310262638f998ed206777ce0b9a3b98b6fe92.woff") format("woff");
+}
+
+      @font-face {
+  font-family: Jost;
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+  src: url("//5jdnwynzho9akz1t-69620498584.shopifypreview.com/cdn/fonts/jost/jost_i7.d8201b854e41e19d7ed9b1a31fe4fe71deea6d3f.woff2") format("woff2"),
+       url("//5jdnwynzho9akz1t-69620498584.shopifypreview.com/cdn/fonts/jost/jost_i7.eae515c34e26b6c853efddc3fc0c552e0de63757.woff") format("woff");
+}
+
+      @font-face {
+  font-family: Jost;
+  font-weight: 800;
+  font-style: italic;
+  font-display: swap;
+  src: url("//5jdnwynzho9akz1t-69620498584.shopifypreview.com/cdn/fonts/jost/jost_i8.c9686e83cd2cfb3a5bd986d83933736a3315b2e8.woff2") format("woff2"),
+       url("//5jdnwynzho9akz1t-69620498584.shopifypreview.com/cdn/fonts/jost/jost_i8.525974c10da834b988c3927fcde002d48ad15cb1.woff") format("woff");
+}
+
+      @font-face {
+  font-family: Jost;
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+  src: url("//5jdnwynzho9akz1t-69620498584.shopifypreview.com/cdn/fonts/jost/jost_i9.3941bc20c8f9c90d77754a7e7be88c3535a78aee.woff2") format("woff2"),
+       url("//5jdnwynzho9akz1t-69620498584.shopifypreview.com/cdn/fonts/jost/jost_i9.5024ac18628c0cf54c1d7bb7af18af95d9fa0ef9.woff") format("woff");
+}
+
+
+      @font-face {
+  font-family: Jost;
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url("fonts/jost_n4.d47a1b6347ce4a4c9f437608011273009d91f2b7.woff2") format("woff2"),
+       url("//5jdnwynzho9akz1t-69620498584.shopifypreview.com/cdn/fonts/jost/jost_n4.791c46290e672b3f85c3d1c651ef2efa3819eadd.woff") format("woff");
+}
+
+      @font-face {
+  font-family: Jost;
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+  src: url("//5jdnwynzho9akz1t-69620498584.shopifypreview.com/cdn/fonts/jost/jost_n3.a5df7448b5b8c9a76542f085341dff794ff2a59d.woff2") format("woff2"),
+       url("//5jdnwynzho9akz1t-69620498584.shopifypreview.com/cdn/fonts/jost/jost_n3.882941f5a26d0660f7dd135c08afc57fc6939a07.woff") format("woff");
+}
+
+      @font-face {
+  font-family: Jost;
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url("fonts/jost_n4.d47a1b6347ce4a4c9f437608011273009d91f2b7.woff2") format("woff2"),
+       url("//5jdnwynzho9akz1t-69620498584.shopifypreview.com/cdn/fonts/jost/jost_n4.791c46290e672b3f85c3d1c651ef2efa3819eadd.woff") format("woff");
+}
+
+      @font-face {
+  font-family: Jost;
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+  src: url("fonts/jost_n5.7c8497861ffd15f4e1284cd221f14658b0e95d61.woff2") format("woff2"),
+       url("//5jdnwynzho9akz1t-69620498584.shopifypreview.com/cdn/fonts/jost/jost_n5.fb6a06896db583cc2df5ba1b30d9c04383119dd9.woff") format("woff");
+}
+
+      @font-face {
+  font-family: Jost;
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+  src: url("fonts/jost_n6.ec1178db7a7515114a2d84e3dd680832b7af8b99.woff2") format("woff2"),
+       url("//5jdnwynzho9akz1t-69620498584.shopifypreview.com/cdn/fonts/jost/jost_n6.b1178bb6bdd3979fef38e103a3816f6980aeaff9.woff") format("woff");
+}
+
+      @font-face {
+  font-family: Jost;
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url("fonts/jost_n7.921dc18c13fa0b0c94c5e2517ffe06139c3615a3.woff2") format("woff2"),
+       url("//5jdnwynzho9akz1t-69620498584.shopifypreview.com/cdn/fonts/jost/jost_n7.cbfc16c98c1e195f46c536e775e4e959c5f2f22b.woff") format("woff");
+}
+
+      @font-face {
+  font-family: Jost;
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+  src: url("//5jdnwynzho9akz1t-69620498584.shopifypreview.com/cdn/fonts/jost/jost_n8.3cf5e98b5ecbf822f9fccf0e49e49a03e21bd8ac.woff2") format("woff2"),
+       url("//5jdnwynzho9akz1t-69620498584.shopifypreview.com/cdn/fonts/jost/jost_n8.dbe90b7c788249ac8931bcf34b35a1a9cdfaf184.woff") format("woff");
+}
+
+      @font-face {
+  font-family: Jost;
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+  src: url("//5jdnwynzho9akz1t-69620498584.shopifypreview.com/cdn/fonts/jost/jost_n9.cd269fa9adcae864ab1df15826ceb2fd310a3d4a.woff2") format("woff2"),
+       url("//5jdnwynzho9akz1t-69620498584.shopifypreview.com/cdn/fonts/jost/jost_n9.fd15e8012129a3f22bd292bf1f8b87a15f894bd5.woff") format("woff");
+}
+
+      @font-face {
+  font-family: Jost;
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+  src: url("//5jdnwynzho9akz1t-69620498584.shopifypreview.com/cdn/fonts/jost/jost_i3.8d4e97d98751190bb5824cdb405ec5b0049a74c0.woff2") format("woff2"),
+       url("//5jdnwynzho9akz1t-69620498584.shopifypreview.com/cdn/fonts/jost/jost_i3.1b7a65a16099fd3de6fdf1255c696902ed952195.woff") format("woff");
+}
+
+      @font-face {
+  font-family: Jost;
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+  src: url("//5jdnwynzho9akz1t-69620498584.shopifypreview.com/cdn/fonts/jost/jost_i4.b690098389649750ada222b9763d55796c5283a5.woff2") format("woff2"),
+       url("//5jdnwynzho9akz1t-69620498584.shopifypreview.com/cdn/fonts/jost/jost_i4.fd766415a47e50b9e391ae7ec04e2ae25e7e28b0.woff") format("woff");
+}
+
+      @font-face {
+  font-family: Jost;
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+  src: url("//5jdnwynzho9akz1t-69620498584.shopifypreview.com/cdn/fonts/jost/jost_i4.b690098389649750ada222b9763d55796c5283a5.woff2") format("woff2"),
+       url("//5jdnwynzho9akz1t-69620498584.shopifypreview.com/cdn/fonts/jost/jost_i4.fd766415a47e50b9e391ae7ec04e2ae25e7e28b0.woff") format("woff");
+}
+
+      @font-face {
+  font-family: Jost;
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+  src: url("//5jdnwynzho9akz1t-69620498584.shopifypreview.com/cdn/fonts/jost/jost_i5.a6c7dbde35f2b89f8461eacda9350127566e5d51.woff2") format("woff2"),
+       url("//5jdnwynzho9akz1t-69620498584.shopifypreview.com/cdn/fonts/jost/jost_i5.2b58baee736487eede6bcdb523ca85eea2418357.woff") format("woff");
+}
+
+      @font-face {
+  font-family: Jost;
+  font-weight: 600;
+  font-style: italic;
+  font-display: swap;
+  src: url("//5jdnwynzho9akz1t-69620498584.shopifypreview.com/cdn/fonts/jost/jost_i6.9af7e5f39e3a108c08f24047a4276332d9d7b85e.woff2") format("woff2"),
+       url("//5jdnwynzho9akz1t-69620498584.shopifypreview.com/cdn/fonts/jost/jost_i6.2bf310262638f998ed206777ce0b9a3b98b6fe92.woff") format("woff");
+}
+
+      @font-face {
+  font-family: Jost;
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+  src: url("//5jdnwynzho9akz1t-69620498584.shopifypreview.com/cdn/fonts/jost/jost_i7.d8201b854e41e19d7ed9b1a31fe4fe71deea6d3f.woff2") format("woff2"),
+       url("//5jdnwynzho9akz1t-69620498584.shopifypreview.com/cdn/fonts/jost/jost_i7.eae515c34e26b6c853efddc3fc0c552e0de63757.woff") format("woff");
+}
+
+      @font-face {
+  font-family: Jost;
+  font-weight: 800;
+  font-style: italic;
+  font-display: swap;
+  src: url("//5jdnwynzho9akz1t-69620498584.shopifypreview.com/cdn/fonts/jost/jost_i8.c9686e83cd2cfb3a5bd986d83933736a3315b2e8.woff2") format("woff2"),
+       url("//5jdnwynzho9akz1t-69620498584.shopifypreview.com/cdn/fonts/jost/jost_i8.525974c10da834b988c3927fcde002d48ad15cb1.woff") format("woff");
+}
+
+      @font-face {
+  font-family: Jost;
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+  src: url("//5jdnwynzho9akz1t-69620498584.shopifypreview.com/cdn/fonts/jost/jost_i9.3941bc20c8f9c90d77754a7e7be88c3535a78aee.woff2") format("woff2"),
+       url("//5jdnwynzho9akz1t-69620498584.shopifypreview.com/cdn/fonts/jost/jost_i9.5024ac18628c0cf54c1d7bb7af18af95d9fa0ef9.woff") format("woff");
+}
+
+
+      
+      	:root,
+
+.color-scheme-1 {
+      		--color-background: 255,255,255;
+      		
+      			--gradient-background: #ffffff;
+      		
+
+					
+
+      		--color-foreground: 23,23,23;
+      		--color-secondary-foreground: 102,102,102;
+      		--color-heading: 118,118,118;
+      		--color-accent: 23,23,23;
+      		--color-outline: 220,220,220;
+      		--color-background-contrast: 191,191,191;
+      		--color-shadow: 23,23,23;
+
+      		--color-button: 23,23,23;
+      		--color-button-text: 255,255,255;
+      		--color-button-outline: 23,23,23;
+      		--color-button-hover: 23,23,23;
+      		--color-button-text-hover: 255,255,255;
+      		--color-button-outline-hover: 23,23,23;
+      		--color-button-transparent: 23,23,23;
+
+      		--color-secondary-button: 255,255,255;
+      		--color-secondary-button-text: 23,23,23;
+      		--color-secondary-button-outline: 23,23,23;
+      		--color-secondary-button-hover: 255,255,255;
+      		--color-secondary-button-text-hover: 23,23,23;
+      		--color-secondary-button-outline-hover: 23,23,23;
+      		--color-secondary-button-transparent: 23,23,23;
+
+					--socials-button: 23,23,23;
+      		--socials-button-text: 255,255,255;
+      		--socials-button-outline: 23,23,23;
+      		--socials-button-hover: 23,23,23;
+      		--socials-button-text-hover: 255,255,255;
+      		--socials-button-outline-hover: 23,23,23;
+
+					--slider-button: 23, 23, 23;
+					--slider-button-text: 255,255,255;
+					--slider-button-outline: 23,23,23;
+					--slider-button-hover: 23,23,23;
+					--slider-button-text-hover: 255,255,255;
+					--slider-button-outline-hover: 23,23,23;
+
+					--color-badge-foreground: var(--color-secondary-button-text);
+					--color-badge-background: var(--color-secondary-button);
+					--color-badge-border: var(--color-secondary-button-outline);
+					--color-badge-foreground-hover: var(--color-secondary-button-text-hover);
+					--color-badge-background-hover: var(--color-secondary-button-hover);
+					--color-badge-border-hover: var(--color-secondary-button-outline-hover);
+					--payment-terms-background-color: rgb(255 255 255);
+					--input-border-color: 220, 220, 220;
+				}
+			
+      	
+
+.color-scheme-2 {
+      		--color-background: 246,246,246;
+      		
+      			--gradient-background: #f6f6f6;
+      		
+
+					
+
+      		--color-foreground: 23,23,23;
+      		--color-secondary-foreground: 102,102,102;
+      		--color-heading: 220,220,220;
+      		--color-accent: 23,23,23;
+      		--color-outline: 220,220,220;
+      		--color-background-contrast: 182,182,182;
+      		--color-shadow: 23,23,23;
+
+      		--color-button: 23,23,23;
+      		--color-button-text: 255,255,255;
+      		--color-button-outline: 23,23,23;
+      		--color-button-hover: 23,23,23;
+      		--color-button-text-hover: 255,255,255;
+      		--color-button-outline-hover: 23,23,23;
+      		--color-button-transparent: 23,23,23;
+
+      		--color-secondary-button: 255,255,255;
+      		--color-secondary-button-text: 23,23,23;
+      		--color-secondary-button-outline: 255,255,255;
+      		--color-secondary-button-hover: 255,255,255;
+      		--color-secondary-button-text-hover: 23,23,23;
+      		--color-secondary-button-outline-hover: 255,255,255;
+      		--color-secondary-button-transparent: 23,23,23;
+
+					--socials-button: 255,255,255;
+      		--socials-button-text: 23,23,23;
+      		--socials-button-outline: 23,23,23;
+      		--socials-button-hover: 255,255,255;
+      		--socials-button-text-hover: 23,23,23;
+      		--socials-button-outline-hover: 23,23,23;
+
+					--slider-button: 23, 23, 23;
+					--slider-button-text: 255,255,255;
+					--slider-button-outline: 23,23,23;
+					--slider-button-hover: 23,23,23;
+					--slider-button-text-hover: 255,255,255;
+					--slider-button-outline-hover: 23,23,23;
+
+					--color-badge-foreground: var(--color-secondary-button-text);
+					--color-badge-background: var(--color-secondary-button);
+					--color-badge-border: var(--color-secondary-button-outline);
+					--color-badge-foreground-hover: var(--color-secondary-button-text-hover);
+					--color-badge-background-hover: var(--color-secondary-button-hover);
+					--color-badge-border-hover: var(--color-secondary-button-outline-hover);
+					--payment-terms-background-color: rgb(246 246 246);
+					--input-border-color: 220, 220, 220;
+				}
+			
+      	
+
+.color-scheme-1-dark {
+      		--color-background: 255,255,255;
+      		
+      			--gradient-background: #ffffff;
+      		
+
+					
+
+      		--color-foreground: 23,23,23;
+      		--color-secondary-foreground: 102,102,102;
+      		--color-heading: 118,118,118;
+      		--color-accent: 23,23,23;
+      		--color-outline: 220,220,220;
+      		--color-background-contrast: 191,191,191;
+      		--color-shadow: 23,23,23;
+
+      		--color-button: 23,23,23;
+      		--color-button-text: 255,255,255;
+      		--color-button-outline: 23,23,23;
+      		--color-button-hover: 23,23,23;
+      		--color-button-text-hover: 255,255,255;
+      		--color-button-outline-hover: 23,23,23;
+      		--color-button-transparent: 23,23,23;
+
+      		--color-secondary-button: 255,255,255;
+      		--color-secondary-button-text: 23,23,23;
+      		--color-secondary-button-outline: 23,23,23;
+      		--color-secondary-button-hover: 255,255,255;
+      		--color-secondary-button-text-hover: 23,23,23;
+      		--color-secondary-button-outline-hover: 23,23,23;
+      		--color-secondary-button-transparent: 23,23,23;
+
+					--socials-button: 23,23,23;
+      		--socials-button-text: 255,255,255;
+      		--socials-button-outline: 23,23,23;
+      		--socials-button-hover: 23,23,23;
+      		--socials-button-text-hover: 255,255,255;
+      		--socials-button-outline-hover: 23,23,23;
+
+					--slider-button: 23, 23, 23;
+					--slider-button-text: 255,255,255;
+					--slider-button-outline: 23,23,23;
+					--slider-button-hover: 23,23,23;
+					--slider-button-text-hover: 255,255,255;
+					--slider-button-outline-hover: 23,23,23;
+
+					--color-badge-foreground: var(--color-secondary-button-text);
+					--color-badge-background: var(--color-secondary-button);
+					--color-badge-border: var(--color-secondary-button-outline);
+					--color-badge-foreground-hover: var(--color-secondary-button-text-hover);
+					--color-badge-background-hover: var(--color-secondary-button-hover);
+					--color-badge-border-hover: var(--color-secondary-button-outline-hover);
+					--payment-terms-background-color: rgb(255 255 255);
+					--input-border-color: 220, 220, 220;
+				}
+			
+      	
+
+.color-scheme-2-dark {
+      		--color-background: 246,246,246;
+      		
+      			--gradient-background: #f6f6f6;
+      		
+
+					
+
+      		--color-foreground: 23,23,23;
+      		--color-secondary-foreground: 102,102,102;
+      		--color-heading: 220,220,220;
+      		--color-accent: 23,23,23;
+      		--color-outline: 220,220,220;
+      		--color-background-contrast: 182,182,182;
+      		--color-shadow: 23,23,23;
+
+      		--color-button: 23,23,23;
+      		--color-button-text: 255,255,255;
+      		--color-button-outline: 23,23,23;
+      		--color-button-hover: 23,23,23;
+      		--color-button-text-hover: 255,255,255;
+      		--color-button-outline-hover: 23,23,23;
+      		--color-button-transparent: 23,23,23;
+
+      		--color-secondary-button: 255,255,255;
+      		--color-secondary-button-text: 23,23,23;
+      		--color-secondary-button-outline: 255,255,255;
+      		--color-secondary-button-hover: 255,255,255;
+      		--color-secondary-button-text-hover: 23,23,23;
+      		--color-secondary-button-outline-hover: 255,255,255;
+      		--color-secondary-button-transparent: 23,23,23;
+
+					--socials-button: 255,255,255;
+      		--socials-button-text: 23,23,23;
+      		--socials-button-outline: 23,23,23;
+      		--socials-button-hover: 255,255,255;
+      		--socials-button-text-hover: 23,23,23;
+      		--socials-button-outline-hover: 23,23,23;
+
+					--slider-button: 23, 23, 23;
+					--slider-button-text: 255,255,255;
+					--slider-button-outline: 23,23,23;
+					--slider-button-hover: 23,23,23;
+					--slider-button-text-hover: 255,255,255;
+					--slider-button-outline-hover: 23,23,23;
+
+					--color-badge-foreground: var(--color-secondary-button-text);
+					--color-badge-background: var(--color-secondary-button);
+					--color-badge-border: var(--color-secondary-button-outline);
+					--color-badge-foreground-hover: var(--color-secondary-button-text-hover);
+					--color-badge-background-hover: var(--color-secondary-button-hover);
+					--color-badge-border-hover: var(--color-secondary-button-outline-hover);
+					--payment-terms-background-color: rgb(246 246 246);
+					--input-border-color: 220, 220, 220;
+				}
+			
+      	
+
+.color-scheme-3 {
+      		--color-background: 46,55,52;
+      		
+      			--gradient-background: #2e3734;
+      		
+
+					
+
+      		--color-foreground: 255,255,255;
+      		--color-secondary-foreground: 246,246,246;
+      		--color-heading: 255,255,255;
+      		--color-accent: 220,220,220;
+      		--color-outline: 220,220,220;
+      		--color-background-contrast: 58,69,65;
+      		--color-shadow: 255,255,255;
+
+      		--color-button: 255,255,255;
+      		--color-button-text: 46,55,52;
+      		--color-button-outline: 255,255,255;
+      		--color-button-hover: 255,255,255;
+      		--color-button-text-hover: 46,55,52;
+      		--color-button-outline-hover: 255,255,255;
+      		--color-button-transparent: 255,255,255;
+
+      		--color-secondary-button: 46,55,52;
+      		--color-secondary-button-text: 255,255,255;
+      		--color-secondary-button-outline: 255,255,255;
+      		--color-secondary-button-hover: 46,55,52;
+      		--color-secondary-button-text-hover: 255,255,255;
+      		--color-secondary-button-outline-hover: 255,255,255;
+      		--color-secondary-button-transparent: 255,255,255;
+
+					--socials-button: 255,255,255;
+      		--socials-button-text: 46,55,52;
+      		--socials-button-outline: 255,255,255;
+      		--socials-button-hover: 255,255,255;
+      		--socials-button-text-hover: 46,55,52;
+      		--socials-button-outline-hover: 255,255,255;
+
+					--slider-button: 255, 255, 255;
+					--slider-button-text: 46,55,52;
+					--slider-button-outline: 255,255,255;
+					--slider-button-hover: 255,255,255;
+					--slider-button-text-hover: 46,55,52;
+					--slider-button-outline-hover: 255,255,255;
+
+					--color-badge-foreground: var(--color-secondary-button-text);
+					--color-badge-background: var(--color-secondary-button);
+					--color-badge-border: var(--color-secondary-button-outline);
+					--color-badge-foreground-hover: var(--color-secondary-button-text-hover);
+					--color-badge-background-hover: var(--color-secondary-button-hover);
+					--color-badge-border-hover: var(--color-secondary-button-outline-hover);
+					--payment-terms-background-color: rgb(46 55 52);
+					--input-border-color: 220, 220, 220;
+				}
+			
+      	
+
+.color-scheme-4 {
+      		--color-background: 34,45,37;
+      		
+      			--gradient-background: #222d25;
+      		
+
+					
+
+      		--color-foreground: 255,255,255;
+      		--color-secondary-foreground: 255,255,255;
+      		--color-heading: 255,255,255;
+      		--color-accent: 220,220,220;
+      		--color-outline: 220,220,220;
+      		--color-background-contrast: 45,60,49;
+      		--color-shadow: 255,255,255;
+
+      		--color-button: 255,255,255;
+      		--color-button-text: 34,45,37;
+      		--color-button-outline: 255,255,255;
+      		--color-button-hover: 255,255,255;
+      		--color-button-text-hover: 34,45,37;
+      		--color-button-outline-hover: 255,255,255;
+      		--color-button-transparent: 255,255,255;
+
+      		--color-secondary-button: 34,45,37;
+      		--color-secondary-button-text: 255,255,255;
+      		--color-secondary-button-outline: 255,255,255;
+      		--color-secondary-button-hover: 255,255,255;
+      		--color-secondary-button-text-hover: 34,45,37;
+      		--color-secondary-button-outline-hover: 34,45,37;
+      		--color-secondary-button-transparent: 255,255,255;
+
+					--socials-button: 255,255,255;
+      		--socials-button-text: 34,45,37;
+      		--socials-button-outline: 255,255,255;
+      		--socials-button-hover: 255,255,255;
+      		--socials-button-text-hover: 34,45,37;
+      		--socials-button-outline-hover: 255,255,255;
+
+					--slider-button: 255, 255, 255;
+					--slider-button-text: 34,45,37;
+					--slider-button-outline: 255,255,255;
+					--slider-button-hover: 255,255,255;
+					--slider-button-text-hover: 34,45,37;
+					--slider-button-outline-hover: 255,255,255;
+
+					--color-badge-foreground: var(--color-secondary-button-text);
+					--color-badge-background: var(--color-secondary-button);
+					--color-badge-border: var(--color-secondary-button-outline);
+					--color-badge-foreground-hover: var(--color-secondary-button-text-hover);
+					--color-badge-background-hover: var(--color-secondary-button-hover);
+					--color-badge-border-hover: var(--color-secondary-button-outline-hover);
+					--payment-terms-background-color: rgb(34 45 37);
+					--input-border-color: 220, 220, 220;
+				}
+			
+      	
+
+.color-scheme-5 {
+      		--color-background: 28,34,33;
+      		
+      			--gradient-background: #1c2221;
+      		
+
+					
+
+      		--color-foreground: 255,255,255;
+      		--color-secondary-foreground: 246,246,246;
+      		--color-heading: 255,255,255;
+      		--color-accent: 220,220,220;
+      		--color-outline: 220,220,220;
+      		--color-background-contrast: 40,48,47;
+      		--color-shadow: 255,255,255;
+
+      		--color-button: 255,255,255;
+      		--color-button-text: 28,34,33;
+      		--color-button-outline: 255,255,255;
+      		--color-button-hover: 255,255,255;
+      		--color-button-text-hover: 28,34,33;
+      		--color-button-outline-hover: 255,255,255;
+      		--color-button-transparent: 255,255,255;
+
+      		--color-secondary-button: 28,34,33;
+      		--color-secondary-button-text: 255,255,255;
+      		--color-secondary-button-outline: 255,255,255;
+      		--color-secondary-button-hover: 28,34,33;
+      		--color-secondary-button-text-hover: 255,255,255;
+      		--color-secondary-button-outline-hover: 255,255,255;
+      		--color-secondary-button-transparent: 255,255,255;
+
+					--socials-button: 255,255,255;
+      		--socials-button-text: 28,34,33;
+      		--socials-button-outline: 255,255,255;
+      		--socials-button-hover: 255,255,255;
+      		--socials-button-text-hover: 28,34,33;
+      		--socials-button-outline-hover: 255,255,255;
+
+					--slider-button: 255, 255, 255;
+					--slider-button-text: 28,34,33;
+					--slider-button-outline: 255,255,255;
+					--slider-button-hover: 255,255,255;
+					--slider-button-text-hover: 28,34,33;
+					--slider-button-outline-hover: 255,255,255;
+
+					--color-badge-foreground: var(--color-secondary-button-text);
+					--color-badge-background: var(--color-secondary-button);
+					--color-badge-border: var(--color-secondary-button-outline);
+					--color-badge-foreground-hover: var(--color-secondary-button-text-hover);
+					--color-badge-background-hover: var(--color-secondary-button-hover);
+					--color-badge-border-hover: var(--color-secondary-button-outline-hover);
+					--payment-terms-background-color: rgb(28 34 33);
+					--input-border-color: 220, 220, 220;
+				}
+			
+      	
+
+.color-scheme-6 {
+      		--color-background: 23,23,23;
+      		
+      			--gradient-background: #171717;
+      		
+
+					
+
+      		--color-foreground: 255,255,255;
+      		--color-secondary-foreground: 246,246,246;
+      		--color-heading: 255,255,255;
+      		--color-accent: 220,220,220;
+      		--color-outline: 220,220,220;
+      		--color-background-contrast: 151,151,151;
+      		--color-shadow: 255,255,255;
+
+      		--color-button: 255,255,255;
+      		--color-button-text: 23,23,23;
+      		--color-button-outline: 255,255,255;
+      		--color-button-hover: 255,255,255;
+      		--color-button-text-hover: 23,23,23;
+      		--color-button-outline-hover: 255,255,255;
+      		--color-button-transparent: 255,255,255;
+
+      		--color-secondary-button: 23,23,23;
+      		--color-secondary-button-text: 255,255,255;
+      		--color-secondary-button-outline: 255,255,255;
+      		--color-secondary-button-hover: 23,23,23;
+      		--color-secondary-button-text-hover: 255,255,255;
+      		--color-secondary-button-outline-hover: 255,255,255;
+      		--color-secondary-button-transparent: 255,255,255;
+
+					--socials-button: 255,255,255;
+      		--socials-button-text: 23,23,23;
+      		--socials-button-outline: 255,255,255;
+      		--socials-button-hover: 255,255,255;
+      		--socials-button-text-hover: 23,23,23;
+      		--socials-button-outline-hover: 255,255,255;
+
+					--slider-button: 255, 255, 255;
+					--slider-button-text: 23,23,23;
+					--slider-button-outline: 255,255,255;
+					--slider-button-hover: 255,255,255;
+					--slider-button-text-hover: 23,23,23;
+					--slider-button-outline-hover: 255,255,255;
+
+					--color-badge-foreground: var(--color-secondary-button-text);
+					--color-badge-background: var(--color-secondary-button);
+					--color-badge-border: var(--color-secondary-button-outline);
+					--color-badge-foreground-hover: var(--color-secondary-button-text-hover);
+					--color-badge-background-hover: var(--color-secondary-button-hover);
+					--color-badge-border-hover: var(--color-secondary-button-outline-hover);
+					--payment-terms-background-color: rgb(23 23 23);
+					--input-border-color: 220, 220, 220;
+				}
+			
+      	
+
+.color-scheme-7 {
+      		--color-background: 255,255,255;
+      		
+      			--gradient-background: #ffffff;
+      		
+
+					
+
+      		--color-foreground: 23,23,23;
+      		--color-secondary-foreground: 102,102,102;
+      		--color-heading: 118,118,118;
+      		--color-accent: 23,23,23;
+      		--color-outline: 220,220,220;
+      		--color-background-contrast: 191,191,191;
+      		--color-shadow: 23,23,23;
+
+      		--color-button: 23,23,23;
+      		--color-button-text: 255,255,255;
+      		--color-button-outline: 23,23,23;
+      		--color-button-hover: 23,23,23;
+      		--color-button-text-hover: 255,255,255;
+      		--color-button-outline-hover: 23,23,23;
+      		--color-button-transparent: 23,23,23;
+
+      		--color-secondary-button: 255,255,255;
+      		--color-secondary-button-text: 23,23,23;
+      		--color-secondary-button-outline: 23,23,23;
+      		--color-secondary-button-hover: 255,255,255;
+      		--color-secondary-button-text-hover: 23,23,23;
+      		--color-secondary-button-outline-hover: 23,23,23;
+      		--color-secondary-button-transparent: 23,23,23;
+
+					--socials-button: 23,23,23;
+      		--socials-button-text: 255,255,255;
+      		--socials-button-outline: 23,23,23;
+      		--socials-button-hover: 23,23,23;
+      		--socials-button-text-hover: 255,255,255;
+      		--socials-button-outline-hover: 23,23,23;
+
+					--slider-button: 23, 23, 23;
+					--slider-button-text: 255,255,255;
+					--slider-button-outline: 23,23,23;
+					--slider-button-hover: 23,23,23;
+					--slider-button-text-hover: 255,255,255;
+					--slider-button-outline-hover: 23,23,23;
+
+					--color-badge-foreground: var(--color-secondary-button-text);
+					--color-badge-background: var(--color-secondary-button);
+					--color-badge-border: var(--color-secondary-button-outline);
+					--color-badge-foreground-hover: var(--color-secondary-button-text-hover);
+					--color-badge-background-hover: var(--color-secondary-button-hover);
+					--color-badge-border-hover: var(--color-secondary-button-outline-hover);
+					--payment-terms-background-color: rgb(255 255 255);
+					--input-border-color: 220, 220, 220;
+				}
+			
+      	
+
+.color-scheme-8 {
+      		--color-background: 246,246,246;
+      		
+      			--gradient-background: #f6f6f6;
+      		
+
+					
+
+      		--color-foreground: 23,23,23;
+      		--color-secondary-foreground: 102,102,102;
+      		--color-heading: 220,220,220;
+      		--color-accent: 23,23,23;
+      		--color-outline: 220,220,220;
+      		--color-background-contrast: 182,182,182;
+      		--color-shadow: 23,23,23;
+
+      		--color-button: 23,23,23;
+      		--color-button-text: 255,255,255;
+      		--color-button-outline: 23,23,23;
+      		--color-button-hover: 23,23,23;
+      		--color-button-text-hover: 255,255,255;
+      		--color-button-outline-hover: 23,23,23;
+      		--color-button-transparent: 23,23,23;
+
+      		--color-secondary-button: 255,255,255;
+      		--color-secondary-button-text: 23,23,23;
+      		--color-secondary-button-outline: 255,255,255;
+      		--color-secondary-button-hover: 255,255,255;
+      		--color-secondary-button-text-hover: 23,23,23;
+      		--color-secondary-button-outline-hover: 255,255,255;
+      		--color-secondary-button-transparent: 23,23,23;
+
+					--socials-button: 255,255,255;
+      		--socials-button-text: 23,23,23;
+      		--socials-button-outline: 23,23,23;
+      		--socials-button-hover: 255,255,255;
+      		--socials-button-text-hover: 23,23,23;
+      		--socials-button-outline-hover: 23,23,23;
+
+					--slider-button: 23, 23, 23;
+					--slider-button-text: 255,255,255;
+					--slider-button-outline: 23,23,23;
+					--slider-button-hover: 23,23,23;
+					--slider-button-text-hover: 255,255,255;
+					--slider-button-outline-hover: 23,23,23;
+
+					--color-badge-foreground: var(--color-secondary-button-text);
+					--color-badge-background: var(--color-secondary-button);
+					--color-badge-border: var(--color-secondary-button-outline);
+					--color-badge-foreground-hover: var(--color-secondary-button-text-hover);
+					--color-badge-background-hover: var(--color-secondary-button-hover);
+					--color-badge-border-hover: var(--color-secondary-button-outline-hover);
+					--payment-terms-background-color: rgb(246 246 246);
+					--input-border-color: 220, 220, 220;
+				}
+			
+      	
+
+.color-scheme-9 {
+      		--color-background: 46,55,52;
+      		
+      			--gradient-background: #2e3734;
+      		
+
+					
+
+      		--color-foreground: 255,255,255;
+      		--color-secondary-foreground: 246,246,246;
+      		--color-heading: 255,255,255;
+      		--color-accent: 220,220,220;
+      		--color-outline: 220,220,220;
+      		--color-background-contrast: 58,69,65;
+      		--color-shadow: 255,255,255;
+
+      		--color-button: 255,255,255;
+      		--color-button-text: 46,55,52;
+      		--color-button-outline: 255,255,255;
+      		--color-button-hover: 255,255,255;
+      		--color-button-text-hover: 46,55,52;
+      		--color-button-outline-hover: 255,255,255;
+      		--color-button-transparent: 255,255,255;
+
+      		--color-secondary-button: 46,55,52;
+      		--color-secondary-button-text: 255,255,255;
+      		--color-secondary-button-outline: 255,255,255;
+      		--color-secondary-button-hover: 46,55,52;
+      		--color-secondary-button-text-hover: 255,255,255;
+      		--color-secondary-button-outline-hover: 255,255,255;
+      		--color-secondary-button-transparent: 255,255,255;
+
+					--socials-button: 255,255,255;
+      		--socials-button-text: 46,55,52;
+      		--socials-button-outline: 255,255,255;
+      		--socials-button-hover: 255,255,255;
+      		--socials-button-text-hover: 46,55,52;
+      		--socials-button-outline-hover: 255,255,255;
+
+					--slider-button: 255, 255, 255;
+					--slider-button-text: 46,55,52;
+					--slider-button-outline: 255,255,255;
+					--slider-button-hover: 255,255,255;
+					--slider-button-text-hover: 46,55,52;
+					--slider-button-outline-hover: 255,255,255;
+
+					--color-badge-foreground: var(--color-secondary-button-text);
+					--color-badge-background: var(--color-secondary-button);
+					--color-badge-border: var(--color-secondary-button-outline);
+					--color-badge-foreground-hover: var(--color-secondary-button-text-hover);
+					--color-badge-background-hover: var(--color-secondary-button-hover);
+					--color-badge-border-hover: var(--color-secondary-button-outline-hover);
+					--payment-terms-background-color: rgb(46 55 52);
+					--input-border-color: 220, 220, 220;
+				}
+			
+      	
+
+.color-scheme-10 {
+      		--color-background: 34,45,37;
+      		
+      			--gradient-background: #222d25;
+      		
+
+					
+
+      		--color-foreground: 255,255,255;
+      		--color-secondary-foreground: 255,255,255;
+      		--color-heading: 255,255,255;
+      		--color-accent: 220,220,220;
+      		--color-outline: 220,220,220;
+      		--color-background-contrast: 45,60,49;
+      		--color-shadow: 255,255,255;
+
+      		--color-button: 255,255,255;
+      		--color-button-text: 34,45,37;
+      		--color-button-outline: 255,255,255;
+      		--color-button-hover: 255,255,255;
+      		--color-button-text-hover: 34,45,37;
+      		--color-button-outline-hover: 255,255,255;
+      		--color-button-transparent: 255,255,255;
+
+      		--color-secondary-button: 34,45,37;
+      		--color-secondary-button-text: 255,255,255;
+      		--color-secondary-button-outline: 255,255,255;
+      		--color-secondary-button-hover: 255,255,255;
+      		--color-secondary-button-text-hover: 34,45,37;
+      		--color-secondary-button-outline-hover: 34,45,37;
+      		--color-secondary-button-transparent: 255,255,255;
+
+					--socials-button: 255,255,255;
+      		--socials-button-text: 34,45,37;
+      		--socials-button-outline: 255,255,255;
+      		--socials-button-hover: 255,255,255;
+      		--socials-button-text-hover: 34,45,37;
+      		--socials-button-outline-hover: 255,255,255;
+
+					--slider-button: 255, 255, 255;
+					--slider-button-text: 34,45,37;
+					--slider-button-outline: 255,255,255;
+					--slider-button-hover: 255,255,255;
+					--slider-button-text-hover: 34,45,37;
+					--slider-button-outline-hover: 255,255,255;
+
+					--color-badge-foreground: var(--color-secondary-button-text);
+					--color-badge-background: var(--color-secondary-button);
+					--color-badge-border: var(--color-secondary-button-outline);
+					--color-badge-foreground-hover: var(--color-secondary-button-text-hover);
+					--color-badge-background-hover: var(--color-secondary-button-hover);
+					--color-badge-border-hover: var(--color-secondary-button-outline-hover);
+					--payment-terms-background-color: rgb(34 45 37);
+					--input-border-color: 220, 220, 220;
+				}
+			
+
+      body, .color-scheme-1, .color-scheme-2, .color-scheme-1-dark, .color-scheme-2-dark, .color-scheme-3, .color-scheme-4, .color-scheme-5, .color-scheme-6, .color-scheme-7, .color-scheme-8, .color-scheme-9, .color-scheme-10 {
+				color: rgba(var(--color-foreground), 1);
+				background-color: rgb(var(--color-background));
+      }
+
+			
+			@media screen and (max-width: 749px) {
+				.color-mobile-scheme-1 {
+						--color-background: 255,255,255;
+						
+							--gradient-background: #ffffff;
+						
+
+						--color-foreground: 23,23,23;
+						--color-secondary-foreground: 102,102,102;
+						--color-heading: 118,118,118;
+						
+						--color-button: 23,23,23;
+						--color-button-text: 255,255,255;
+						--color-button-outline: 23,23,23;
+						--color-button-hover: 23,23,23;
+						--color-button-text-hover: 255,255,255;
+						--color-button-outline-hover: 23,23,23;
+						--color-button-transparent: 23,23,23;
+
+						--color-secondary-button: 255,255,255;
+						--color-secondary-button-text: 23,23,23;
+						--color-secondary-button-outline: 23,23,23;
+						--color-secondary-button-hover: 255,255,255;
+						--color-secondary-button-text-hover: 23,23,23;
+						--color-secondary-button-outline-hover: 23,23,23;
+						--color-secondary-button-transparent: 23,23,23;
+					}
+				.color-mobile-scheme-2 {
+						--color-background: 246,246,246;
+						
+							--gradient-background: #f6f6f6;
+						
+
+						--color-foreground: 23,23,23;
+						--color-secondary-foreground: 102,102,102;
+						--color-heading: 220,220,220;
+						
+						--color-button: 23,23,23;
+						--color-button-text: 255,255,255;
+						--color-button-outline: 23,23,23;
+						--color-button-hover: 23,23,23;
+						--color-button-text-hover: 255,255,255;
+						--color-button-outline-hover: 23,23,23;
+						--color-button-transparent: 23,23,23;
+
+						--color-secondary-button: 255,255,255;
+						--color-secondary-button-text: 23,23,23;
+						--color-secondary-button-outline: 255,255,255;
+						--color-secondary-button-hover: 255,255,255;
+						--color-secondary-button-text-hover: 23,23,23;
+						--color-secondary-button-outline-hover: 255,255,255;
+						--color-secondary-button-transparent: 23,23,23;
+					}
+				.color-mobile-scheme-1-dark {
+						--color-background: 255,255,255;
+						
+							--gradient-background: #ffffff;
+						
+
+						--color-foreground: 23,23,23;
+						--color-secondary-foreground: 102,102,102;
+						--color-heading: 118,118,118;
+						
+						--color-button: 23,23,23;
+						--color-button-text: 255,255,255;
+						--color-button-outline: 23,23,23;
+						--color-button-hover: 23,23,23;
+						--color-button-text-hover: 255,255,255;
+						--color-button-outline-hover: 23,23,23;
+						--color-button-transparent: 23,23,23;
+
+						--color-secondary-button: 255,255,255;
+						--color-secondary-button-text: 23,23,23;
+						--color-secondary-button-outline: 23,23,23;
+						--color-secondary-button-hover: 255,255,255;
+						--color-secondary-button-text-hover: 23,23,23;
+						--color-secondary-button-outline-hover: 23,23,23;
+						--color-secondary-button-transparent: 23,23,23;
+					}
+				.color-mobile-scheme-2-dark {
+						--color-background: 246,246,246;
+						
+							--gradient-background: #f6f6f6;
+						
+
+						--color-foreground: 23,23,23;
+						--color-secondary-foreground: 102,102,102;
+						--color-heading: 220,220,220;
+						
+						--color-button: 23,23,23;
+						--color-button-text: 255,255,255;
+						--color-button-outline: 23,23,23;
+						--color-button-hover: 23,23,23;
+						--color-button-text-hover: 255,255,255;
+						--color-button-outline-hover: 23,23,23;
+						--color-button-transparent: 23,23,23;
+
+						--color-secondary-button: 255,255,255;
+						--color-secondary-button-text: 23,23,23;
+						--color-secondary-button-outline: 255,255,255;
+						--color-secondary-button-hover: 255,255,255;
+						--color-secondary-button-text-hover: 23,23,23;
+						--color-secondary-button-outline-hover: 255,255,255;
+						--color-secondary-button-transparent: 23,23,23;
+					}
+				.color-mobile-scheme-3 {
+						--color-background: 46,55,52;
+						
+							--gradient-background: #2e3734;
+						
+
+						--color-foreground: 255,255,255;
+						--color-secondary-foreground: 246,246,246;
+						--color-heading: 255,255,255;
+						
+						--color-button: 255,255,255;
+						--color-button-text: 46,55,52;
+						--color-button-outline: 255,255,255;
+						--color-button-hover: 255,255,255;
+						--color-button-text-hover: 46,55,52;
+						--color-button-outline-hover: 255,255,255;
+						--color-button-transparent: 255,255,255;
+
+						--color-secondary-button: 46,55,52;
+						--color-secondary-button-text: 255,255,255;
+						--color-secondary-button-outline: 255,255,255;
+						--color-secondary-button-hover: 46,55,52;
+						--color-secondary-button-text-hover: 255,255,255;
+						--color-secondary-button-outline-hover: 255,255,255;
+						--color-secondary-button-transparent: 255,255,255;
+					}
+				.color-mobile-scheme-4 {
+						--color-background: 34,45,37;
+						
+							--gradient-background: #222d25;
+						
+
+						--color-foreground: 255,255,255;
+						--color-secondary-foreground: 255,255,255;
+						--color-heading: 255,255,255;
+						
+						--color-button: 255,255,255;
+						--color-button-text: 34,45,37;
+						--color-button-outline: 255,255,255;
+						--color-button-hover: 255,255,255;
+						--color-button-text-hover: 34,45,37;
+						--color-button-outline-hover: 255,255,255;
+						--color-button-transparent: 255,255,255;
+
+						--color-secondary-button: 34,45,37;
+						--color-secondary-button-text: 255,255,255;
+						--color-secondary-button-outline: 255,255,255;
+						--color-secondary-button-hover: 255,255,255;
+						--color-secondary-button-text-hover: 34,45,37;
+						--color-secondary-button-outline-hover: 34,45,37;
+						--color-secondary-button-transparent: 255,255,255;
+					}
+				.color-mobile-scheme-5 {
+						--color-background: 28,34,33;
+						
+							--gradient-background: #1c2221;
+						
+
+						--color-foreground: 255,255,255;
+						--color-secondary-foreground: 246,246,246;
+						--color-heading: 255,255,255;
+						
+						--color-button: 255,255,255;
+						--color-button-text: 28,34,33;
+						--color-button-outline: 255,255,255;
+						--color-button-hover: 255,255,255;
+						--color-button-text-hover: 28,34,33;
+						--color-button-outline-hover: 255,255,255;
+						--color-button-transparent: 255,255,255;
+
+						--color-secondary-button: 28,34,33;
+						--color-secondary-button-text: 255,255,255;
+						--color-secondary-button-outline: 255,255,255;
+						--color-secondary-button-hover: 28,34,33;
+						--color-secondary-button-text-hover: 255,255,255;
+						--color-secondary-button-outline-hover: 255,255,255;
+						--color-secondary-button-transparent: 255,255,255;
+					}
+				.color-mobile-scheme-6 {
+						--color-background: 23,23,23;
+						
+							--gradient-background: #171717;
+						
+
+						--color-foreground: 255,255,255;
+						--color-secondary-foreground: 246,246,246;
+						--color-heading: 255,255,255;
+						
+						--color-button: 255,255,255;
+						--color-button-text: 23,23,23;
+						--color-button-outline: 255,255,255;
+						--color-button-hover: 255,255,255;
+						--color-button-text-hover: 23,23,23;
+						--color-button-outline-hover: 255,255,255;
+						--color-button-transparent: 255,255,255;
+
+						--color-secondary-button: 23,23,23;
+						--color-secondary-button-text: 255,255,255;
+						--color-secondary-button-outline: 255,255,255;
+						--color-secondary-button-hover: 23,23,23;
+						--color-secondary-button-text-hover: 255,255,255;
+						--color-secondary-button-outline-hover: 255,255,255;
+						--color-secondary-button-transparent: 255,255,255;
+					}
+				.color-mobile-scheme-7 {
+						--color-background: 255,255,255;
+						
+							--gradient-background: #ffffff;
+						
+
+						--color-foreground: 23,23,23;
+						--color-secondary-foreground: 102,102,102;
+						--color-heading: 118,118,118;
+						
+						--color-button: 23,23,23;
+						--color-button-text: 255,255,255;
+						--color-button-outline: 23,23,23;
+						--color-button-hover: 23,23,23;
+						--color-button-text-hover: 255,255,255;
+						--color-button-outline-hover: 23,23,23;
+						--color-button-transparent: 23,23,23;
+
+						--color-secondary-button: 255,255,255;
+						--color-secondary-button-text: 23,23,23;
+						--color-secondary-button-outline: 23,23,23;
+						--color-secondary-button-hover: 255,255,255;
+						--color-secondary-button-text-hover: 23,23,23;
+						--color-secondary-button-outline-hover: 23,23,23;
+						--color-secondary-button-transparent: 23,23,23;
+					}
+				.color-mobile-scheme-8 {
+						--color-background: 246,246,246;
+						
+							--gradient-background: #f6f6f6;
+						
+
+						--color-foreground: 23,23,23;
+						--color-secondary-foreground: 102,102,102;
+						--color-heading: 220,220,220;
+						
+						--color-button: 23,23,23;
+						--color-button-text: 255,255,255;
+						--color-button-outline: 23,23,23;
+						--color-button-hover: 23,23,23;
+						--color-button-text-hover: 255,255,255;
+						--color-button-outline-hover: 23,23,23;
+						--color-button-transparent: 23,23,23;
+
+						--color-secondary-button: 255,255,255;
+						--color-secondary-button-text: 23,23,23;
+						--color-secondary-button-outline: 255,255,255;
+						--color-secondary-button-hover: 255,255,255;
+						--color-secondary-button-text-hover: 23,23,23;
+						--color-secondary-button-outline-hover: 255,255,255;
+						--color-secondary-button-transparent: 23,23,23;
+					}
+				.color-mobile-scheme-9 {
+						--color-background: 46,55,52;
+						
+							--gradient-background: #2e3734;
+						
+
+						--color-foreground: 255,255,255;
+						--color-secondary-foreground: 246,246,246;
+						--color-heading: 255,255,255;
+						
+						--color-button: 255,255,255;
+						--color-button-text: 46,55,52;
+						--color-button-outline: 255,255,255;
+						--color-button-hover: 255,255,255;
+						--color-button-text-hover: 46,55,52;
+						--color-button-outline-hover: 255,255,255;
+						--color-button-transparent: 255,255,255;
+
+						--color-secondary-button: 46,55,52;
+						--color-secondary-button-text: 255,255,255;
+						--color-secondary-button-outline: 255,255,255;
+						--color-secondary-button-hover: 46,55,52;
+						--color-secondary-button-text-hover: 255,255,255;
+						--color-secondary-button-outline-hover: 255,255,255;
+						--color-secondary-button-transparent: 255,255,255;
+					}
+				.color-mobile-scheme-10 {
+						--color-background: 34,45,37;
+						
+							--gradient-background: #222d25;
+						
+
+						--color-foreground: 255,255,255;
+						--color-secondary-foreground: 255,255,255;
+						--color-heading: 255,255,255;
+						
+						--color-button: 255,255,255;
+						--color-button-text: 34,45,37;
+						--color-button-outline: 255,255,255;
+						--color-button-hover: 255,255,255;
+						--color-button-text-hover: 34,45,37;
+						--color-button-outline-hover: 255,255,255;
+						--color-button-transparent: 255,255,255;
+
+						--color-secondary-button: 34,45,37;
+						--color-secondary-button-text: 255,255,255;
+						--color-secondary-button-outline: 255,255,255;
+						--color-secondary-button-hover: 255,255,255;
+						--color-secondary-button-text-hover: 34,45,37;
+						--color-secondary-button-outline-hover: 34,45,37;
+						--color-secondary-button-transparent: 255,255,255;
+					}
+				
+			}
+
+      :root {
+				--compare-hover: 23,23,23;
+				--compare-text-hover: 255,255,255;
+				--compare-transparent: 23,23,23;
+
+				--font-body-family: Jost, sans-serif;
+				--font-body-style: normal;
+				--font-body-weight: 400;
+				--font-body-weight-bold: 700;
+
+				--font-heading-family: Jost, sans-serif;
+				--font-heading-style: normal;
+				--font-heading-weight: 500;
+
+				--font-heading-0-size: 12.0rem;
+				--font-heading-0-size-mb: 6.4rem;
+				--font-heading-0-xs-size: 8rem;
+				--font-heading-0-xs-size-mb: 4.8rem;
+				--font-heading-1-size: 5.6rem;
+				--font-heading-1-size-mb: 3.4rem;
+				--font-heading-2-size: 4.8rem;
+				--font-heading-2-size-mb: 3.2rem;
+				--font-heading-3-size: 4.0rem;
+				--font-heading-3-size-mb: 2.8rem;
+				--font-heading-4-size: 3.2rem;
+				--font-heading-4-size-mb: 2.4rem;
+				--font-heading-5-size: 2.4rem;
+				--font-heading-5-size-mb: 2.0rem;
+				--font-heading-6-size: 2.0rem;
+				--font-heading-6-size-mb: 1.6rem;
+
+				--f-size-text-lg: 2rem;
+				--f-size-text-md: 1.6rem;
+				--f-size-text-sm: 1.4rem;
+				--f-size-text-x-sm: 1.2rem;
+
+				--letter-spacing-hero: -0.03em;
+				--letter-spacing-h1: -0.03em;
+				--letter-spacing-h2: -0.02em;
+				--letter-spacing-h3: -0.02em;
+				--letter-spacing-h4: -0.02em;
+				--letter-spacing-h5: -0.02em;
+				--letter-spacing-h6: -0.02em;--media-padding: px;
+				--media-border-opacity: 0.05;
+				--media-border-width: 1px;
+				--media-radius: 16px;
+
+				--page-width: 180rem;
+				--container-padding: 5rem;
+				--container-padding-wide: 2rem;
+				--page-width-margin: 0rem;
+
+				--product-card-image-padding: 0.0rem;
+				--product-card-corner-radius: 1.6rem;
+				--product-card-text-alignment: left;
+				--product-card-border-width: 0.0rem;
+				--product-card-border-opacity: 0.0;
+				--product-variants-size: 2.2rem;
+
+				--collection-card-image-padding: 0.0rem;
+				--collection-card-corner-radius: 1.6rem;
+				--collection-card-text-alignment: left;
+				--collection-card-border-width: 0.0rem;
+				--collection-card-border-opacity: 0.1;
+
+				--blog-card-image-padding: 0.0rem;
+				--blog-card-corner-radius: 1.6rem;
+				--blog-card-text-alignment: left;
+				--blog-card-border-width: 0.0rem;
+				--blog-card-border-opacity: 0.1;
+				--blog-card-shadow-opacity: 0.0;
+				--blog-card-shadow-visible: 0;
+				--blog-card-shadow-horizontal-offset: 0.0rem;
+				--blog-card-shadow-vertical-offset: 0.0rem;
+				--blog-card-shadow-blur-radius: 0.0rem;
+
+				--badge-corner-radius: 4.0rem;
+
+				--popup-border-width: 1px;
+				--popup-border-opacity: 1.0;
+				--popup-corner-radius: 16px;
+				--popup-shadow-opacity: 0.05;
+				--popup-shadow-horizontal-offset: 0px;
+				--popup-shadow-vertical-offset: 4px;
+				--popup-shadow-blur-radius: 5px;
+
+				--drawer-border-width: 1px;
+				--drawer-border-opacity: 0.1;
+				--drawer-shadow-opacity: 0.0;
+				--drawer-shadow-horizontal-offset: 0px;
+				--drawer-shadow-vertical-offset: 4px;
+				--drawer-shadow-blur-radius: 5px;
+
+				--spacing-sections-desktop: 0px;
+				--spacing-sections-mobile: 0px;
+
+				--grid-desktop-vertical-spacing: 16px;
+				--grid-desktop-horizontal-spacing: 16px;
+				--grid-mobile-vertical-spacing: 16px;
+				--grid-mobile-horizontal-spacing: 16px;
+
+				--text-boxes-border-opacity: 0.0;
+				--text-boxes-border-width: 0px;
+				--text-boxes-radius: 16px;
+
+				--buttons-radius: 10px;
+				--buttons-radius-hover: 40px;
+				--buttons-radius-outset: 11px;
+				--buttons-border-width: 1px;
+				--buttons-border-opacity: 1.0;
+
+				
+
+				--button-font-weight: 500;
+				--link-font-size: 1.4rem;
+				--link-font-weight: 600;
+
+				--inputs-radius: 40px;
+				--inputs-border-width: 1px;
+				--inputs-border-opacity: 1.0;
+				--inputs-shadow-opacity: 0.0;
+				--inputs-shadow-horizontal-offset: 0px;
+				--inputs-margin-offset: 0px;
+				--inputs-shadow-vertical-offset: 4px;
+				--inputs-shadow-blur-radius: 5px;
+				--inputs-radius-outset: 41px;
+
+				--textarea-radius: 40px;
+
+				--variant-pills-radius: 40px;
+				--variant-pills-border-width: 1px;
+				--variant-pills-border-opacity: 1.0;
+				--variant-pills-shadow-opacity: 0.0;
+				--variant-pills-shadow-horizontal-offset: 0px;
+				--variant-pills-shadow-vertical-offset: 4px;
+				--variant-pills-shadow-blur-radius: 5px;
+				
+				--cart_custom_color_regular_price: #000000;
+				--cart_custom_color_sale_price: #ff0000;
+				--cart_custom_color_old_price: #808080;
+
+				--title-space-bottom: 1.6rem;
+				--title-space-bottom-sm: .8rem;
+				--title-space-bottom-mobile: 1.2rem;
+				--title-space-bottom-sm-mobile: .8rem;
+				--text-space-bottom: 4rem;
+				--text-space-bottom-mobile: 2.4rem;
+				--button-space-top: 4rem;
+				--button-space-top-mobile: 2.4rem;
+      }
+
+      *,
+      *::before,
+      *::after {
+				box-sizing: inherit;
+      }
+
+      html {
+				box-sizing: border-box;
+      	font-size: calc(1 * 62.5%);
+				height: 100%;
+      }
+
+      body {
+				display: grid;
+				grid-template-rows: auto auto 1fr auto;
+				grid-template-columns: 100%;
+				min-height: 100%;
+				margin: 0;
+				font-size: var(--f-size-text-md);
+				letter-spacing: 0;
+				line-height: 1.5;
+				font-family: var(--font-body-family);
+				font-style: var(--font-body-style);
+				font-weight: var(--font-body-weight);
+      }
+    

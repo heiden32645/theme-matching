@@ -1,0 +1,223 @@
+{
+  "appliedExactly": true,
+  "controls": [
+    {
+      "height": 20.5703125,
+      "selector": ".product-form__swatch__title",
+      "styles": {
+        "border": "0px none rgb(33, 33, 33)",
+        "border-radius": "0px",
+        "box-shadow": "none",
+        "color": "rgb(33, 33, 33)",
+        "font-family": "\"Work Sans\", sans-serif",
+        "font-size": "14.5714px",
+        "font-weight": "400",
+        "line-height": "20.57px",
+        "padding": "0px"
+      },
+      "width": 339
+    },
+    {
+      "height": 20.5703125,
+      "selector": ".gpo-label .label-content",
+      "styles": {
+        "border": "0px none rgb(33, 33, 33)",
+        "border-radius": "0px",
+        "box-shadow": "none",
+        "color": "rgb(33, 33, 33)",
+        "font-family": "\"Work Sans\", sans-serif",
+        "font-size": "14.5714px",
+        "font-weight": "400",
+        "line-height": "20.57px",
+        "padding": "0px"
+      },
+      "width": 44.8828125
+    },
+    {
+      "height": 27.1953125,
+      "selector": ".product-form__swatch__item--button label",
+      "styles": {
+        "border": "1px solid rgb(33, 33, 33)",
+        "border-radius": "15px",
+        "box-shadow": "rgba(33, 33, 33, 0.2) 0px 0px 3px 1px",
+        "color": "rgb(33, 33, 33)",
+        "font-family": "\"Work Sans\", sans-serif",
+        "font-size": "12.24px",
+        "font-weight": "400",
+        "line-height": "12.24px",
+        "padding": "0px 18px"
+      },
+      "width": 73.4140625
+    },
+    {
+      "height": 27.1953125,
+      "selector": ".gpo-swatches.buttons label",
+      "styles": {
+        "border": "1px solid rgb(33, 33, 33)",
+        "border-radius": "15px",
+        "box-shadow": "rgba(33, 33, 33, 0.2) 0px 0px 3px 1px",
+        "color": "rgb(33, 33, 33)",
+        "font-family": "\"Work Sans\", sans-serif",
+        "font-size": "12.24px",
+        "font-weight": "400",
+        "line-height": "12.24px",
+        "padding": "0px 18px"
+      },
+      "width": 87.0859375
+    },
+    {
+      "height": 29.1953125,
+      "selector": "quantity-input",
+      "styles": {
+        "border": "1px solid rgba(33, 33, 33, 0.2)",
+        "border-radius": "15px",
+        "box-shadow": "none",
+        "color": "rgb(33, 33, 33)",
+        "font-family": "\"Work Sans\", sans-serif",
+        "font-size": "13.6px",
+        "font-weight": "400",
+        "line-height": "30px",
+        "padding": "0px"
+      },
+      "width": 90.390625
+    },
+    {
+      "height": 29.1953125,
+      "selector": ".gpo-ov-quantity",
+      "styles": {
+        "border": "1px solid rgb(33, 33, 33)",
+        "border-radius": "15px",
+        "box-shadow": "none",
+        "color": "rgb(33, 33, 33)",
+        "font-family": "\"Work Sans\", sans-serif",
+        "font-size": "13.6px",
+        "font-weight": "400",
+        "line-height": "30px",
+        "padding": "0px"
+      },
+      "width": 90.390625
+    },
+    {
+      "height": 29.1953125,
+      "selector": ".gpo-quantity__input",
+      "styles": {
+        "border": "1px solid rgba(33, 33, 33, 0.2)",
+        "border-radius": "15px",
+        "box-shadow": "none",
+        "color": "rgb(33, 33, 33)",
+        "font-family": "\"Work Sans\", sans-serif",
+        "font-size": "12.24px",
+        "font-weight": "400",
+        "line-height": "12.24px",
+        "padding": "0px 12px"
+      },
+      "width": 100
+    },
+    {
+      "height": 22,
+      "selector": ".product-form__swatch__label__graphic",
+      "styles": {
+        "border": "0px none rgb(33, 33, 33)",
+        "border-radius": "50%",
+        "box-shadow": "rgba(33, 33, 33, 0.2) 0px 0px 0px 1px",
+        "color": "rgb(33, 33, 33)",
+        "font-family": "Helvetica, sans-serif",
+        "font-size": "0px",
+        "font-weight": "400",
+        "line-height": "0px",
+        "padding": "0px"
+      },
+      "width": 22
+    },
+    {
+      "height": 22,
+      "selector": ".gpo-swatches.color-swatches .gpo-swatch__inner",
+      "styles": {
+        "border": "0px none rgb(33, 33, 33)",
+        "border-radius": "50%",
+        "box-shadow": "none",
+        "color": "rgb(33, 33, 33)",
+        "font-family": "\"Work Sans\", sans-serif",
+        "font-size": "13.6px",
+        "font-weight": "400",
+        "line-height": "23.12px",
+        "padding": "0px"
+      },
+      "width": 22
+    },
+    {
+      "height": 48,
+      "selector": ".gpo-select",
+      "styles": {
+        "border": "1px solid rgba(33, 33, 33, 0.2)",
+        "border-radius": "30px",
+        "box-shadow": "none",
+        "color": "rgb(33, 33, 33)",
+        "font-family": "\"Work Sans\", sans-serif",
+        "font-size": "13.6px",
+        "font-weight": "400",
+        "line-height": "22px",
+        "padding": "0px"
+      },
+      "width": 339
+    },
+    {
+      "height": 48,
+      "selector": ".gpo-dropdown .dropdown-button",
+      "styles": {
+        "border": "1px solid rgba(33, 33, 33, 0.2)",
+        "border-radius": "30px",
+        "box-shadow": "none",
+        "color": "rgb(33, 33, 33)",
+        "font-family": "\"Work Sans\", sans-serif",
+        "font-size": "13.6px",
+        "font-weight": "400",
+        "line-height": "22px",
+        "padding": "0px 44px 0px 20px"
+      },
+      "width": 339
+    },
+    {
+      "height": 48,
+      "selector": ".gpo-input-wrap",
+      "styles": {
+        "border": "1px solid rgba(33, 33, 33, 0.2)",
+        "border-radius": "30px",
+        "box-shadow": "none",
+        "color": "rgb(33, 33, 33)",
+        "font-family": "\"Work Sans\", sans-serif",
+        "font-size": "13.6px",
+        "font-weight": "400",
+        "line-height": "30px",
+        "padding": "0px"
+      },
+      "width": 339
+    },
+    {
+      "height": 48,
+      "selector": ".gpo-dimension-input-wrap",
+      "styles": {
+        "border": "1px solid rgba(33, 33, 33, 0.2)",
+        "border-radius": "30px",
+        "box-shadow": "none",
+        "color": "rgb(33, 33, 33)",
+        "font-family": "\"Work Sans\", sans-serif",
+        "font-size": "13.6px",
+        "font-weight": "400",
+        "line-height": "30px",
+        "padding": "0px"
+      },
+      "width": 107.6640625
+    }
+  ],
+  "pageWidth": [
+    375,
+    375
+  ],
+  "stylesheet": "style#gpo-dynamic-css",
+  "theme": "Creative 9.2.0 / 1829",
+  "viewport": [
+    390,
+    844
+  ]
+}

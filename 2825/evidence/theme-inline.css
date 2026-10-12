@@ -1,0 +1,651 @@
+@font-face {
+  font-family: "Tenor Sans";
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url("//minky-store-one.myshopify.com/cdn/fonts/tenor_sans/tenorsans_n4.966071a72c28462a9256039d3e3dc5b0cf314f65.woff2") format("woff2"),
+       url("//minky-store-one.myshopify.com/cdn/fonts/tenor_sans/tenorsans_n4.2282841d948f9649ba5c3cad6ea46df268141820.woff") format("woff");
+}
+
+      @font-face {
+  font-family: "Tenor Sans";
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url("//minky-store-one.myshopify.com/cdn/fonts/tenor_sans/tenorsans_n4.966071a72c28462a9256039d3e3dc5b0cf314f65.woff2") format("woff2"),
+       url("//minky-store-one.myshopify.com/cdn/fonts/tenor_sans/tenorsans_n4.2282841d948f9649ba5c3cad6ea46df268141820.woff") format("woff");
+}
+
+      
+      
+      
+      
+      
+      
+      @font-face {
+  font-family: "Tenor Sans";
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url("//minky-store-one.myshopify.com/cdn/fonts/tenor_sans/tenorsans_n4.966071a72c28462a9256039d3e3dc5b0cf314f65.woff2") format("woff2"),
+       url("//minky-store-one.myshopify.com/cdn/fonts/tenor_sans/tenorsans_n4.2282841d948f9649ba5c3cad6ea46df268141820.woff") format("woff");
+}
+
+
+      
+:root,.color-scheme-1 {--color-background: rgb(255 247 239 / 1.0);--color-background-rgb: 255 247 239;--gradient-background: rgb(255 247 239 / 1.0);--color-foreground: rgb(23 8 9 / 1.0);
+            --color-foreground-rgb: 23 8 9;
+            --color-secondary-text: rgb(22 49 41 / 1.0);
+            --color-secondary-text-rgb: 22 49 41;
+
+            --color-shadow: rgb(0 0 0 / 0.0);
+            --color-shadow-rgb: 0 0 0;
+
+            --color-button: rgb(27 55 46 / 1.0);
+            --color-button-rgb: 27 55 46;
+            --color-button-text: rgb(255 247 239 / 1.0);
+            --color-button-text-rgb: 255 247 239;
+            --color-button-outline: rgb(27 55 46 / 1.0);
+            --color-button-outline-rgb: 27 55 46;
+            --gradient-color-button-outline: rgb(var(--color-button-outline-rgb) / 0.8);
+
+            --color-secondary-button-text: rgb(22 49 41 / 1.0);
+            --color-secondary-button-outline: rgb(22 49 41 / 1.0);
+            --color-secondary-button-outline-rgb: 22 49 41;
+            
+              --gradient-color-secondary-button-outline: linear-gradient(to top,var(--color-secondary-button-outline) 0,var(--color-secondary-button-outline) 0),linear-gradient(to top,transparent 0,transparent 0);
+            
+
+            --color-first-icon: #4e4c4c;
+            --color-second-icon: #4e4c4c;
+
+            --main-heading-color: rgb(23 8 9 / 1.0);
+
+            --color-buy-button: rgb(255 247 239 / 1.0);
+            --color-buy-button-text: rgb(255 247 239 / 1.0);
+            --color-buy-button-outline: rgb(27 55 46 / 1.0);
+
+            --color-link: rgb(23 8 9 / 1.0);
+            --color-link-rgb: 23 8 9;
+            --color-badge-foreground: rgb(23 8 9 / 1.0);
+            --color-badge-background: rgb(255 247 239 / 1.0);
+            --color-badge-border-rgb: 23 8 9;
+            --payment-terms-background-color: rgb(255 247 239 / 1.0);
+        }
+      
+.color-scheme-2 {--color-background: rgb(22 49 41 / 1.0);--color-background-rgb: 22 49 41;--gradient-background: rgb(22 49 41 / 1.0);--color-foreground: rgb(253 248 243 / 1.0);
+            --color-foreground-rgb: 253 248 243;
+            --color-secondary-text: rgb(255 247 239 / 1.0);
+            --color-secondary-text-rgb: 255 247 239;
+
+            --color-shadow: rgb(0 0 0 / 0.0);
+            --color-shadow-rgb: 0 0 0;
+
+            --color-button: rgb(27 55 46 / 1.0);
+            --color-button-rgb: 27 55 46;
+            --color-button-text: rgb(255 247 239 / 1.0);
+            --color-button-text-rgb: 255 247 239;
+            --color-button-outline: rgb(27 55 46 / 1.0);
+            --color-button-outline-rgb: 27 55 46;
+            --gradient-color-button-outline: rgb(var(--color-button-outline-rgb) / 0.8);
+
+            --color-secondary-button-text: rgb(253 248 243 / 1.0);
+            --color-secondary-button-outline: rgb(253 248 243 / 1.0);
+            --color-secondary-button-outline-rgb: 253 248 243;
+            
+              --gradient-color-secondary-button-outline: linear-gradient(to top,var(--color-secondary-button-outline) 0,var(--color-secondary-button-outline) 0),linear-gradient(to top,transparent 0,transparent 0);
+            
+
+            --color-first-icon: #fff7ef;
+            --color-second-icon: #fff7ef;
+
+            --main-heading-color: rgb(23 8 9 / 1.0);
+
+            --color-buy-button: rgb(22 49 41 / 1.0);
+            --color-buy-button-text: rgb(255 247 239 / 1.0);
+            --color-buy-button-outline: rgb(27 55 46 / 1.0);
+
+            --color-link: rgb(253 248 243 / 1.0);
+            --color-link-rgb: 253 248 243;
+            --color-badge-foreground: rgb(253 248 243 / 1.0);
+            --color-badge-background: rgb(22 49 41 / 1.0);
+            --color-badge-border-rgb: 253 248 243;
+            --payment-terms-background-color: rgb(22 49 41 / 1.0);
+        }
+      
+.color-scheme-3 {--color-background: rgb(164 121 83 / 1.0);--color-background-rgb: 164 121 83;--gradient-background: rgb(164 121 83 / 1.0);--color-foreground: rgb(253 248 243 / 1.0);
+            --color-foreground-rgb: 253 248 243;
+            --color-secondary-text: rgb(255 247 239 / 1.0);
+            --color-secondary-text-rgb: 255 247 239;
+
+            --color-shadow: rgb(0 0 0 / 0.0);
+            --color-shadow-rgb: 0 0 0;
+
+            --color-button: rgb(255 247 239 / 1.0);
+            --color-button-rgb: 255 247 239;
+            --color-button-text: rgb(22 49 41 / 1.0);
+            --color-button-text-rgb: 22 49 41;
+            --color-button-outline: rgb(255 247 239 / 1.0);
+            --color-button-outline-rgb: 255 247 239;
+            --gradient-color-button-outline: rgb(var(--color-button-outline-rgb) / 0.8);
+
+            --color-secondary-button-text: rgb(22 49 41 / 1.0);
+            --color-secondary-button-outline: rgb(22 49 41 / 1.0);
+            --color-secondary-button-outline-rgb: 22 49 41;
+            
+              --gradient-color-secondary-button-outline: linear-gradient(to top,var(--color-secondary-button-outline) 0,var(--color-secondary-button-outline) 0),linear-gradient(to top,transparent 0,transparent 0);
+            
+
+            --color-first-icon: #fff7ef;
+            --color-second-icon: #fff7ef;
+
+            --main-heading-color: rgb(23 8 9 / 1.0);
+
+            --color-buy-button: rgb(164 121 83 / 1.0);
+            --color-buy-button-text: rgb(22 49 41 / 1.0);
+            --color-buy-button-outline: rgb(255 247 239 / 1.0);
+
+            --color-link: rgb(253 248 243 / 1.0);
+            --color-link-rgb: 253 248 243;
+            --color-badge-foreground: rgb(253 248 243 / 1.0);
+            --color-badge-background: rgb(164 121 83 / 1.0);
+            --color-badge-border-rgb: 253 248 243;
+            --payment-terms-background-color: rgb(164 121 83 / 1.0);
+        }
+      
+.color-scheme-4 {--color-background: rgb(255 247 239 / 1.0);--color-background-rgb: 255 247 239;--gradient-background: rgb(255 247 239 / 1.0);--color-foreground: rgb(23 8 9 / 1.0);
+            --color-foreground-rgb: 23 8 9;
+            --color-secondary-text: rgb(22 49 41 / 1.0);
+            --color-secondary-text-rgb: 22 49 41;
+
+            --color-shadow: rgb(0 0 0 / 0.0);
+            --color-shadow-rgb: 0 0 0;
+
+            --color-button: rgb(22 49 41 / 1.0);
+            --color-button-rgb: 22 49 41;
+            --color-button-text: rgb(253 248 243 / 1.0);
+            --color-button-text-rgb: 253 248 243;
+            --color-button-outline: rgb(22 49 41 / 1.0);
+            --color-button-outline-rgb: 22 49 41;
+            --gradient-color-button-outline: rgb(var(--color-button-outline-rgb) / 0.8);
+
+            --color-secondary-button-text: rgb(22 49 41 / 1.0);
+            --color-secondary-button-outline: rgb(22 49 41 / 1.0);
+            --color-secondary-button-outline-rgb: 22 49 41;
+            
+              --gradient-color-secondary-button-outline: linear-gradient(to top,var(--color-secondary-button-outline) 0,var(--color-secondary-button-outline) 0),linear-gradient(to top,transparent 0,transparent 0);
+            
+
+            --color-first-icon: #fdf8f3;
+            --color-second-icon: #fdf8f3;
+
+            --main-heading-color: rgb(23 8 9 / 1.0);
+
+            --color-buy-button: rgb(255 247 239 / 1.0);
+            --color-buy-button-text: rgb(253 248 243 / 1.0);
+            --color-buy-button-outline: rgb(22 49 41 / 1.0);
+
+            --color-link: rgb(23 8 9 / 1.0);
+            --color-link-rgb: 23 8 9;
+            --color-badge-foreground: rgb(23 8 9 / 1.0);
+            --color-badge-background: rgb(255 247 239 / 1.0);
+            --color-badge-border-rgb: 23 8 9;
+            --payment-terms-background-color: rgb(255 247 239 / 1.0);
+        }
+      
+.color-scheme-5 {--color-background: rgb(219 12 12 / 1.0);--color-background-rgb: 219 12 12;--gradient-background: rgb(219 12 12 / 1.0);--color-foreground: rgb(253 248 243 / 1.0);
+            --color-foreground-rgb: 253 248 243;
+            --color-secondary-text: rgb(255 247 239 / 1.0);
+            --color-secondary-text-rgb: 255 247 239;
+
+            --color-shadow: rgb(0 0 0 / 0.0);
+            --color-shadow-rgb: 0 0 0;
+
+            --color-button: rgb(27 55 46 / 1.0);
+            --color-button-rgb: 27 55 46;
+            --color-button-text: rgb(255 247 239 / 1.0);
+            --color-button-text-rgb: 255 247 239;
+            --color-button-outline: rgb(27 55 46 / 1.0);
+            --color-button-outline-rgb: 27 55 46;
+            --gradient-color-button-outline: rgb(var(--color-button-outline-rgb) / 0.8);
+
+            --color-secondary-button-text: rgb(22 49 41 / 1.0);
+            --color-secondary-button-outline: rgb(22 49 41 / 1.0);
+            --color-secondary-button-outline-rgb: 22 49 41;
+            
+              --gradient-color-secondary-button-outline: linear-gradient(to top,var(--color-secondary-button-outline) 0,var(--color-secondary-button-outline) 0),linear-gradient(to top,transparent 0,transparent 0);
+            
+
+            --color-first-icon: #fff7ef;
+            --color-second-icon: #fff7ef;
+
+            --main-heading-color: rgb(23 8 9 / 1.0);
+
+            --color-buy-button: rgb(219 12 12 / 1.0);
+            --color-buy-button-text: rgb(255 247 239 / 1.0);
+            --color-buy-button-outline: rgb(27 55 46 / 1.0);
+
+            --color-link: rgb(253 248 243 / 1.0);
+            --color-link-rgb: 253 248 243;
+            --color-badge-foreground: rgb(253 248 243 / 1.0);
+            --color-badge-background: rgb(219 12 12 / 1.0);
+            --color-badge-border-rgb: 253 248 243;
+            --payment-terms-background-color: rgb(219 12 12 / 1.0);
+        }
+      
+.color-scheme-6 {--color-background: rgb(0 0 0 / 0.0);--color-background-rgb: 0 0 0;--gradient-background: rgb(0 0 0 / 0.0);--color-foreground: rgb(5 39 28 / 1.0);
+            --color-foreground-rgb: 5 39 28;
+            --color-secondary-text: rgb(253 248 243 / 1.0);
+            --color-secondary-text-rgb: 253 248 243;
+
+            --color-shadow: rgb(0 0 0 / 0.0);
+            --color-shadow-rgb: 0 0 0;
+
+            --color-button: rgb(5 39 28 / 1.0);
+            --color-button-rgb: 5 39 28;
+            --color-button-text: rgb(255 247 239 / 1.0);
+            --color-button-text-rgb: 255 247 239;
+            --color-button-outline: rgb(5 39 28 / 1.0);
+            --color-button-outline-rgb: 5 39 28;
+            --gradient-color-button-outline: rgb(var(--color-button-outline-rgb) / 0.8);
+
+            --color-secondary-button-text: rgb(5 39 28 / 1.0);
+            --color-secondary-button-outline: rgb(5 39 28 / 1.0);
+            --color-secondary-button-outline-rgb: 5 39 28;
+            
+              --gradient-color-secondary-button-outline: linear-gradient(to top,var(--color-secondary-button-outline) 0,var(--color-secondary-button-outline) 0),linear-gradient(to top,transparent 0,transparent 0);
+            
+
+            --color-first-icon: #fdf8f3;
+            --color-second-icon: #fdf8f3;
+
+            --main-heading-color: rgb(23 8 9 / 1.0);
+
+            --color-buy-button: rgb(0 0 0 / 0.0);
+            --color-buy-button-text: rgb(255 247 239 / 1.0);
+            --color-buy-button-outline: rgb(5 39 28 / 1.0);
+
+            --color-link: rgb(5 39 28 / 1.0);
+            --color-link-rgb: 5 39 28;
+            --color-badge-foreground: rgb(5 39 28 / 1.0);
+            --color-badge-background: rgb(0 0 0 / 0.0);
+            --color-badge-border-rgb: 5 39 28;
+            --payment-terms-background-color: rgb(0 0 0 / 0.0);
+        }
+      
+.color-scheme-7 {--color-background: rgb(255 247 239 / 1.0);--color-background-rgb: 255 247 239;--gradient-background: rgb(255 247 239 / 1.0);--color-foreground: rgb(22 49 41 / 1.0);
+            --color-foreground-rgb: 22 49 41;
+            --color-secondary-text: rgb(23 8 9 / 1.0);
+            --color-secondary-text-rgb: 23 8 9;
+
+            --color-shadow: rgb(0 0 0 / 0.0);
+            --color-shadow-rgb: 0 0 0;
+
+            --color-button: rgb(27 55 46 / 1.0);
+            --color-button-rgb: 27 55 46;
+            --color-button-text: rgb(255 247 239 / 1.0);
+            --color-button-text-rgb: 255 247 239;
+            --color-button-outline: rgb(27 55 46 / 1.0);
+            --color-button-outline-rgb: 27 55 46;
+            --gradient-color-button-outline: rgb(var(--color-button-outline-rgb) / 0.8);
+
+            --color-secondary-button-text: rgb(22 49 41 / 1.0);
+            --color-secondary-button-outline: rgb(22 49 41 / 1.0);
+            --color-secondary-button-outline-rgb: 22 49 41;
+            
+              --gradient-color-secondary-button-outline: linear-gradient(to top,var(--color-secondary-button-outline) 0,var(--color-secondary-button-outline) 0),linear-gradient(to top,transparent 0,transparent 0);
+            
+
+            --color-first-icon: #fff7ef;
+            --color-second-icon: #fff7ef;
+
+            --main-heading-color: rgb(23 8 9 / 1.0);
+
+            --color-buy-button: rgb(255 247 239 / 1.0);
+            --color-buy-button-text: rgb(255 247 239 / 1.0);
+            --color-buy-button-outline: rgb(27 55 46 / 1.0);
+
+            --color-link: rgb(22 49 41 / 1.0);
+            --color-link-rgb: 22 49 41;
+            --color-badge-foreground: rgb(22 49 41 / 1.0);
+            --color-badge-background: rgb(255 247 239 / 1.0);
+            --color-badge-border-rgb: 22 49 41;
+            --payment-terms-background-color: rgb(255 247 239 / 1.0);
+        }
+      
+.color-scheme-8 {--color-background: rgb(22 49 41 / 1.0);--color-background-rgb: 22 49 41;--gradient-background: rgb(22 49 41 / 1.0);--color-foreground: rgb(202 174 149 / 1.0);
+            --color-foreground-rgb: 202 174 149;
+            --color-secondary-text: rgb(253 248 243 / 1.0);
+            --color-secondary-text-rgb: 253 248 243;
+
+            --color-shadow: rgb(0 0 0 / 0.0);
+            --color-shadow-rgb: 0 0 0;
+
+            --color-button: rgb(27 55 46 / 1.0);
+            --color-button-rgb: 27 55 46;
+            --color-button-text: rgb(255 247 239 / 1.0);
+            --color-button-text-rgb: 255 247 239;
+            --color-button-outline: rgb(27 55 46 / 1.0);
+            --color-button-outline-rgb: 27 55 46;
+            --gradient-color-button-outline: rgb(var(--color-button-outline-rgb) / 0.8);
+
+            --color-secondary-button-text: rgb(22 49 41 / 1.0);
+            --color-secondary-button-outline: rgb(22 49 41 / 1.0);
+            --color-secondary-button-outline-rgb: 22 49 41;
+            
+              --gradient-color-secondary-button-outline: #CAAE95;
+            
+
+            --color-first-icon: #fdf8f3;
+            --color-second-icon: #fdf8f3;
+
+            --main-heading-color: rgb(23 8 9 / 1.0);
+
+            --color-buy-button: rgb(22 49 41 / 1.0);
+            --color-buy-button-text: rgb(255 247 239 / 1.0);
+            --color-buy-button-outline: rgb(27 55 46 / 1.0);
+
+            --color-link: rgb(202 174 149 / 1.0);
+            --color-link-rgb: 202 174 149;
+            --color-badge-foreground: rgb(202 174 149 / 1.0);
+            --color-badge-background: rgb(22 49 41 / 1.0);
+            --color-badge-border-rgb: 202 174 149;
+            --payment-terms-background-color: rgb(22 49 41 / 1.0);
+        }
+      
+.color-scheme-9 {--color-background: rgb(255 247 239 / 1.0);--color-background-rgb: 255 247 239;--gradient-background: rgb(255 247 239 / 1.0);--color-foreground: rgb(22 49 41 / 1.0);
+            --color-foreground-rgb: 22 49 41;
+            --color-secondary-text: rgb(253 248 243 / 1.0);
+            --color-secondary-text-rgb: 253 248 243;
+
+            --color-shadow: rgb(0 0 0 / 0.0);
+            --color-shadow-rgb: 0 0 0;
+
+            --color-button: rgb(27 55 46 / 1.0);
+            --color-button-rgb: 27 55 46;
+            --color-button-text: rgb(255 247 239 / 1.0);
+            --color-button-text-rgb: 255 247 239;
+            --color-button-outline: rgb(27 55 46 / 1.0);
+            --color-button-outline-rgb: 27 55 46;
+            --gradient-color-button-outline: rgb(var(--color-button-outline-rgb) / 0.8);
+
+            --color-secondary-button-text: rgb(22 49 41 / 1.0);
+            --color-secondary-button-outline: rgb(22 49 41 / 1.0);
+            --color-secondary-button-outline-rgb: 22 49 41;
+            
+              --gradient-color-secondary-button-outline: linear-gradient(to top,var(--color-secondary-button-outline) 0,var(--color-secondary-button-outline) 0),linear-gradient(to top,transparent 0,transparent 0);
+            
+
+            --color-first-icon: #caae95;
+            --color-second-icon: #caae95;
+
+            --main-heading-color: rgb(23 8 9 / 1.0);
+
+            --color-buy-button: rgb(255 247 239 / 1.0);
+            --color-buy-button-text: rgb(255 247 239 / 1.0);
+            --color-buy-button-outline: rgb(27 55 46 / 1.0);
+
+            --color-link: rgb(22 49 41 / 1.0);
+            --color-link-rgb: 22 49 41;
+            --color-badge-foreground: rgb(22 49 41 / 1.0);
+            --color-badge-background: rgb(255 247 239 / 1.0);
+            --color-badge-border-rgb: 22 49 41;
+            --payment-terms-background-color: rgb(255 247 239 / 1.0);
+        }
+      
+.color-scheme-10 {--color-background: rgb(255 247 239 / 1.0);--color-background-rgb: 255 247 239;--gradient-background: rgb(255 247 239 / 1.0);--color-foreground: rgb(23 8 9 / 1.0);
+            --color-foreground-rgb: 23 8 9;
+            --color-secondary-text: rgb(255 247 239 / 1.0);
+            --color-secondary-text-rgb: 255 247 239;
+
+            --color-shadow: rgb(0 0 0 / 0.0);
+            --color-shadow-rgb: 0 0 0;
+
+            --color-button: rgb(255 247 239 / 1.0);
+            --color-button-rgb: 255 247 239;
+            --color-button-text: rgb(27 55 46 / 1.0);
+            --color-button-text-rgb: 27 55 46;
+            --color-button-outline: rgb(27 55 46 / 1.0);
+            --color-button-outline-rgb: 27 55 46;
+            --gradient-color-button-outline: rgb(var(--color-button-outline-rgb) / 0.8);
+
+            --color-secondary-button-text: rgb(27 55 46 / 1.0);
+            --color-secondary-button-outline: rgb(27 55 46 / 1.0);
+            --color-secondary-button-outline-rgb: 27 55 46;
+            
+              --gradient-color-secondary-button-outline: linear-gradient(to top,var(--color-secondary-button-outline) 0,var(--color-secondary-button-outline) 0),linear-gradient(to top,transparent 0,transparent 0);
+            
+
+            --color-first-icon: #fff7ef;
+            --color-second-icon: #fff7ef;
+
+            --main-heading-color: rgb(23 8 9 / 1.0);
+
+            --color-buy-button: rgb(255 247 239 / 1.0);
+            --color-buy-button-text: rgb(27 55 46 / 1.0);
+            --color-buy-button-outline: rgb(27 55 46 / 1.0);
+
+            --color-link: rgb(23 8 9 / 1.0);
+            --color-link-rgb: 23 8 9;
+            --color-badge-foreground: rgb(23 8 9 / 1.0);
+            --color-badge-background: rgb(255 247 239 / 1.0);
+            --color-badge-border-rgb: 23 8 9;
+            --payment-terms-background-color: rgb(255 247 239 / 1.0);
+        }
+      
+.color-scheme-11 {--color-background: rgb(248 239 232 / 1.0);--color-background-rgb: 248 239 232;--gradient-background: rgb(248 239 232 / 1.0);--color-foreground: rgb(23 8 9 / 1.0);
+            --color-foreground-rgb: 23 8 9;
+            --color-secondary-text: rgb(22 49 41 / 1.0);
+            --color-secondary-text-rgb: 22 49 41;
+
+            --color-shadow: rgb(0 0 0 / 0.0);
+            --color-shadow-rgb: 0 0 0;
+
+            --color-button: rgb(22 49 41 / 1.0);
+            --color-button-rgb: 22 49 41;
+            --color-button-text: rgb(255 255 255 / 1.0);
+            --color-button-text-rgb: 255 255 255;
+            --color-button-outline: rgb(22 49 41 / 1.0);
+            --color-button-outline-rgb: 22 49 41;
+            --gradient-color-button-outline: rgb(var(--color-button-outline-rgb) / 0.8);
+
+            --color-secondary-button-text: rgb(23 8 9 / 1.0);
+            --color-secondary-button-outline: rgb(0 0 0 / 0.0);
+            --color-secondary-button-outline-rgb: 0 0 0;
+            
+              --gradient-color-secondary-button-outline: rgba(198, 118, 48, 1);
+            
+
+            --color-first-icon: #163129;
+            --color-second-icon: #163129;
+
+            --main-heading-color: rgb(0 0 0 / 0.0);
+
+            --color-buy-button: rgb(248 239 232 / 1.0);
+            --color-buy-button-text: rgb(255 255 255 / 1.0);
+            --color-buy-button-outline: rgb(22 49 41 / 1.0);
+
+            --color-link: rgb(23 8 9 / 1.0);
+            --color-link-rgb: 23 8 9;
+            --color-badge-foreground: rgb(23 8 9 / 1.0);
+            --color-badge-background: rgb(248 239 232 / 1.0);
+            --color-badge-border-rgb: 23 8 9;
+            --payment-terms-background-color: rgb(248 239 232 / 1.0);
+        }
+      
+.color-scheme-12 {--color-background: rgb(254 247 240 / 1.0);--color-background-rgb: 254 247 240;--gradient-background: rgb(254 247 240 / 1.0);--color-foreground: rgb(29 48 41 / 1.0);
+            --color-foreground-rgb: 29 48 41;
+            --color-secondary-text: rgb(164 121 83 / 1.0);
+            --color-secondary-text-rgb: 164 121 83;
+
+            --color-shadow: rgb(0 0 0 / 0.0);
+            --color-shadow-rgb: 0 0 0;
+
+            --color-button: rgb(22 49 41 / 1.0);
+            --color-button-rgb: 22 49 41;
+            --color-button-text: rgb(253 248 243 / 1.0);
+            --color-button-text-rgb: 253 248 243;
+            --color-button-outline: rgb(22 49 41 / 1.0);
+            --color-button-outline-rgb: 22 49 41;
+            --gradient-color-button-outline: rgb(var(--color-button-outline-rgb) / 0.8);
+
+            --color-secondary-button-text: rgb(253 248 243 / 1.0);
+            --color-secondary-button-outline: rgb(253 248 243 / 1.0);
+            --color-secondary-button-outline-rgb: 253 248 243;
+            
+              --gradient-color-secondary-button-outline: linear-gradient(to top,var(--color-secondary-button-outline) 0,var(--color-secondary-button-outline) 0),linear-gradient(to top,transparent 0,transparent 0);
+            
+
+            --color-first-icon: #a47953;
+            --color-second-icon: #a47953;
+
+            --main-heading-color: rgb(0 0 0 / 0.0);
+
+            --color-buy-button: rgb(254 247 240 / 1.0);
+            --color-buy-button-text: rgb(253 248 243 / 1.0);
+            --color-buy-button-outline: rgb(22 49 41 / 1.0);
+
+            --color-link: rgb(29 48 41 / 1.0);
+            --color-link-rgb: 29 48 41;
+            --color-badge-foreground: rgb(29 48 41 / 1.0);
+            --color-badge-background: rgb(254 247 240 / 1.0);
+            --color-badge-border-rgb: 29 48 41;
+            --payment-terms-background-color: rgb(254 247 240 / 1.0);
+        }
+      
+
+      body, .color-scheme-1, .color-scheme-2, .color-scheme-3, .color-scheme-4, .color-scheme-5, .color-scheme-6, .color-scheme-7, .color-scheme-8, .color-scheme-9, .color-scheme-10, .color-scheme-11, .color-scheme-12 {
+        color: var(--color-foreground);
+        background-color: var(--color-background);
+      }
+
+      :root {
+        --font-heading-family: "Tenor Sans", sans-serif;
+        --font-heading-style: normal;
+        --font-heading-weight: 400;
+
+        --font-body-family: "Tenor Sans", sans-serif;
+        --font-body-style: normal;
+        --font-body-weight: 400;
+
+        --font-weight-medium: 500;
+        --font-weight-semibold: 600;
+        --font-weight-bold: 700;
+        --font-weight-extra-bold: 800;
+        --font-weight-black: 900;
+
+        --heading-text-transform: capitalize;
+        --font-heading-scale: 1.0;
+        --font-body-scale: 1.0;
+        --font-navigation-scale: 1.1;
+        --font-megamenu-scale: 1.0;
+
+        --page-width: 171rem;
+        --page-width-margin: 0rem;
+
+        --product-card-image-padding: 0.0rem;
+        --product-card-corner-radius: 0.0rem;
+        --product-card-text-alignment: left;
+        --quick-add-button-corner-radius: 0px;
+        --product-card-border-width: 0.0rem;
+        --product-card-border-opacity: 0.0;
+
+        --blog-card-text-alignment: left;
+        --blog-card-corner-radius: 4.0rem;
+
+        --badge-border-opacity: 1.0;
+        --badge-corner-radius: 0.4rem;
+
+        --popup-border-width: 1px;
+        --popup-border-opacity: 0.7;
+        --popup-corner-radius: 0px;
+        --popup-shadow-opacity: 0.0;
+        --popup-shadow-horizontal-offset: 0px;
+        --popup-shadow-vertical-offset: 0px;
+        --popup-shadow-blur-radius: 0px;
+
+        --spacing-sections-desktop: 0px;
+        --spacing-sections-mobile: 0px;
+
+        --grid-desktop-vertical-spacing: 24px;
+        --grid-desktop-horizontal-spacing: 24px;
+        --grid-tablet-vertical-spacing: 18.0px;
+        --grid-tablet-horizontal-spacing: 18.0px;
+        --grid-mobile-vertical-spacing: 12.0px;
+        --grid-mobile-horizontal-spacing: 12.0px;
+
+        --buttons-radius: 0px;
+        --buttons-radius-outset: 0px;
+        --buttons-border-width: 1px;
+        --buttons-border-width-md: 1px;
+        --buttons-border-width-mb: 1px;
+        --buttons-border-width-payment: 1px;
+        --buttons-border-opacity: 0.8;
+        --buttons-border-offset: 0px;
+        --buttons-text-weight: 500;
+        --buttons-text-transform: normal;
+
+        --inputs-radius: 0px;
+        --inputs-border-width: 1px;
+        --inputs-border-opacity: 1.0;
+        --inputs-radius-outset: 0px;
+
+        --variant-pills-radius: 0px;
+        --variant-pills-border-width: 1px;
+        --variant-pills-border-opacity: 1.0;
+
+        /* Section Heights */
+        --section-height-small: 36rem;
+        --section-height-medium: 40rem;
+        --section-height-large: 55rem;
+        --section-height-extra-large: 65rem;
+
+        @media screen and (min-width: 750px) {
+          --section-height-small: 76rem;
+          --section-height-medium: 80rem;
+          --section-height-large: 82rem;
+          --section-height-extra-large: 96rem;
+        }
+
+        @media screen and (min-width: 1025px) {
+          --section-height-small: 88rem;
+          --section-height-medium: 91.8rem;
+          --section-height-large: 115rem;
+          --section-height-extra-large: 120rem;
+        }
+      }
+
+      .shopify-design-mode .shopify-section-group-popup-group {
+        position: fixed;
+      }
+
+      *,
+      *::before,
+      *::after {
+        box-sizing: inherit;
+      }
+
+      html {
+        box-sizing: border-box;
+        font-size: calc(var(--font-body-scale) * 62.5%);
+        height: 100%;
+      }
+
+      body {
+        display: grid;
+        grid-template-rows: auto auto 1fr auto;
+        grid-template-columns: 100%;
+        min-height: 100%;
+        margin: 0;
+        font-size: calc(var(--font-body-scale) * 1.8rem);
+        line-height: calc(1 + 0.5 / var(--font-body-scale));
+        font-family: var(--font-body-family);
+        font-style: var(--font-body-style);
+        font-weight: var(--font-body-weight);
+      }
+
+      @media screen and (min-width: 750px) {
+        body {
+          font-size: calc(var(--font-body-scale) * 2rem);
+        }
+      }

@@ -1,0 +1,8 @@
+{
+  "parser": "tinycss2",
+  "rules": 111,
+  "errors": [],
+  "undefinedTokens": [],
+  "unusedTokens": [],
+  "savedOverrideIncludedInServedCss": true
+}

@@ -1,0 +1,65 @@
+[
+  {
+    "caret": {
+      "height": "6px",
+      "transform": "none",
+      "transition": "none",
+      "width": "10px"
+    },
+    "list": {
+      "animation": "none",
+      "display": "block",
+      "height": 283.5625,
+      "maxHeight": "450px",
+      "opacity": "1",
+      "overflowY": "auto",
+      "right": 1370,
+      "transition": "none",
+      "visibility": "visible",
+      "x": 740
+    },
+    "type": "gpo-dropdown gpo-oos--show expanded"
+  },
+  {
+    "caret": {
+      "height": "6px",
+      "transform": "none",
+      "transition": "none",
+      "width": "10px"
+    },
+    "list": {
+      "animation": "none",
+      "display": "none",
+      "height": 0,
+      "maxHeight": "0px",
+      "opacity": "1",
+      "overflowY": "auto",
+      "right": 0,
+      "transition": "none",
+      "visibility": "visible",
+      "x": 0
+    },
+    "type": "gpo-dropdown gpo-image-dropdown gpo-oos--show"
+  },
+  {
+    "caret": {
+      "height": "6px",
+      "transform": "none",
+      "transition": "none",
+      "width": "10px"
+    },
+    "list": {
+      "animation": "none",
+      "display": "none",
+      "height": 0,
+      "maxHeight": "0px",
+      "opacity": "1",
+      "overflowY": "auto",
+      "right": 0,
+      "transition": "none",
+      "visibility": "visible",
+      "x": 0
+    },
+    "type": "gpo-font-picker gpo-dropdown googlefont-dropdown"
+  }
+]

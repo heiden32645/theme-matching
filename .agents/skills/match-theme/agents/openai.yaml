@@ -1,0 +1,6 @@
+interface:
+  display_name: "Match Theme"
+  short_description: "Match GPO controls to Shopify themes with plain CSS"
+  default_prompt: "Use $match-theme to generate and verify flat GPO CSS, then propose useful skill improvements supported by this match."
+policy:
+  allow_implicit_invocation: true
