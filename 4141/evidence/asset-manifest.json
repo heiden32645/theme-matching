@@ -1,0 +1,77 @@
+{
+  "assets": [
+    {
+      "contentType": "text/css",
+      "id": "4b39948fd6167c3c",
+      "kind": "stylesheet",
+      "name": "base.css",
+      "path": "C:\\Users\\haida\\AppData\\Local\\Temp/browser-use/assets/9421d4a2-fd6e-4e5d-ba6c-06e7eebb2328/4b39948fd6167c3c.css",
+      "url": "https://ngapk3a2ogd3p9ay-69620498584.shopifypreview.com/cdn/shop/t/33/assets/base.css?v=50188215373846329121791882248"
+    },
+    {
+      "contentType": "text/css",
+      "id": "aede0143db134701",
+      "kind": "stylesheet",
+      "name": "section-main-product.css",
+      "path": "C:\\Users\\haida\\AppData\\Local\\Temp/browser-use/assets/9421d4a2-fd6e-4e5d-ba6c-06e7eebb2328/aede0143db134701.css",
+      "url": "https://ngapk3a2ogd3p9ay-69620498584.shopifypreview.com/cdn/shop/t/33/assets/section-main-product.css?v=108310921699577225431791882248"
+    },
+    {
+      "contentType": "text/css",
+      "id": "e27443f4b62d7c24",
+      "kind": "stylesheet",
+      "name": "product-style.css",
+      "path": "C:\\Users\\haida\\AppData\\Local\\Temp/browser-use/assets/9421d4a2-fd6e-4e5d-ba6c-06e7eebb2328/e27443f4b62d7c24.css",
+      "url": "https://ngapk3a2ogd3p9ay-69620498584.shopifypreview.com/cdn/shop/t/33/assets/product-style.css?v=49834969714864228311791882248"
+    },
+    {
+      "contentType": "text/css",
+      "id": "9632a76058bdd779",
+      "kind": "stylesheet",
+      "name": "component-accordion.css",
+      "path": "C:\\Users\\haida\\AppData\\Local\\Temp/browser-use/assets/9421d4a2-fd6e-4e5d-ba6c-06e7eebb2328/9632a76058bdd779.css",
+      "url": "https://ngapk3a2ogd3p9ay-69620498584.shopifypreview.com/cdn/shop/t/33/assets/component-accordion.css?v=91884935130175997581791882248"
+    },
+    {
+      "contentType": "text/css",
+      "id": "2f7a8cfab7f4b786",
+      "kind": "stylesheet",
+      "name": "component-product-variant-picker.css",
+      "path": "C:\\Users\\haida\\AppData\\Local\\Temp/browser-use/assets/9421d4a2-fd6e-4e5d-ba6c-06e7eebb2328/2f7a8cfab7f4b786.css",
+      "url": "https://ngapk3a2ogd3p9ay-69620498584.shopifypreview.com/cdn/shop/t/33/assets/component-product-variant-picker.css?v=146700624726512338031791882248"
+    },
+    {
+      "contentType": "text/css",
+      "id": "c1fa9f74a071a4c7",
+      "kind": "stylesheet",
+      "name": "component-swatch.css",
+      "path": "C:\\Users\\haida\\AppData\\Local\\Temp/browser-use/assets/9421d4a2-fd6e-4e5d-ba6c-06e7eebb2328/c1fa9f74a071a4c7.css",
+      "url": "https://ngapk3a2ogd3p9ay-69620498584.shopifypreview.com/cdn/shop/t/33/assets/component-swatch.css?v=159738367406281455211791882248"
+    },
+    {
+      "contentType": "text/css",
+      "id": "ced5390288077da2",
+      "kind": "stylesheet",
+      "name": "component-swatch-input.css",
+      "path": "C:\\Users\\haida\\AppData\\Local\\Temp/browser-use/assets/9421d4a2-fd6e-4e5d-ba6c-06e7eebb2328/ced5390288077da2.css",
+      "url": "https://ngapk3a2ogd3p9ay-69620498584.shopifypreview.com/cdn/shop/t/33/assets/component-swatch-input.css?v=159377713547652034561791882248"
+    },
+    {
+      "contentType": "text/css",
+      "id": "9bdf87932280aee8",
+      "kind": "stylesheet",
+      "name": "snazzy-tab.css",
+      "path": "C:\\Users\\haida\\AppData\\Local\\Temp/browser-use/assets/9421d4a2-fd6e-4e5d-ba6c-06e7eebb2328/9bdf87932280aee8.css",
+      "url": "https://ngapk3a2ogd3p9ay-69620498584.shopifypreview.com/cdn/shop/t/33/assets/snazzy-tab.css?v=51398532456695049041791882248"
+    }
+  ],
+  "directoryPath": "C:\\Users\\haida\\AppData\\Local\\Temp/browser-use/assets/9421d4a2-fd6e-4e5d-ba6c-06e7eebb2328",
+  "failures": [],
+  "manifestPath": "C:\\Users\\haida\\AppData\\Local\\Temp/browser-use/assets/9421d4a2-fd6e-4e5d-ba6c-06e7eebb2328/manifest.json",
+  "summary": {
+    "downloadedCount": 8,
+    "elapsedMs": 87.05010000000038,
+    "failedCount": 0,
+    "requestedCount": 8
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "buttonHeight": 36,
+  "links": [
+    {
+      "labelBorder": "1px solid rgb(29, 27, 20)",
+      "labelHeight": 36,
+      "padding": "7px 24px",
+      "wrapperBorder": "0px none rgb(29, 27, 20)",
+      "wrapperHeight": 36
+    },
+    {
+      "labelBorder": "1px solid rgb(29, 27, 20)",
+      "labelHeight": 36,
+      "padding": "7px 24px",
+      "wrapperBorder": "0px none rgb(29, 27, 20)",
+      "wrapperHeight": 36
+    },
+    {
+      "labelBorder": "1px solid rgb(29, 27, 20)",
+      "labelHeight": 36,
+      "padding": "7px 24px",
+      "wrapperBorder": "0px none rgb(29, 27, 20)",
+      "wrapperHeight": 36
+    }
+  ],
+  "viewport": [
+    390,
+    844
+  ]
+}

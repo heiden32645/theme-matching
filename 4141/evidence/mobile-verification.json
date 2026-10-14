@@ -1,0 +1,21 @@
+{
+  "heights": {
+    "gpoPill": 36,
+    "gpoQuantity": 48,
+    "input": 63,
+    "nativePill": 36,
+    "nativeQuantity": 48,
+    "optionQuantity": 48,
+    "select": 52
+  },
+  "overflow": [],
+  "pageWidth": 375,
+  "suffix": {
+    "text": "px",
+    "whiteSpace": "nowrap"
+  },
+  "viewport": [
+    390,
+    844
+  ]
+}
