@@ -1,0 +1,62 @@
+{
+  "gpo": [
+    {
+      "color": "rgba(62, 62, 62, 0.55)",
+      "height": "16px",
+      "outerBorder": "1px",
+      "right": "14px",
+      "transform": "matrix(1, 0, 0, 1, 0, -8)",
+      "transition": "transform 0.5s",
+      "width": "16px"
+    },
+    {
+      "color": "rgba(62, 62, 62, 0.55)",
+      "height": "16px",
+      "outerBorder": "1px",
+      "right": "14px",
+      "transform": "matrix(1, 0, 0, 1, 0, -8)",
+      "transition": "transform 0.5s",
+      "width": "16px"
+    },
+    {
+      "color": "rgba(62, 62, 62, 0.55)",
+      "height": "16px",
+      "outerBorder": "1px",
+      "right": "14px",
+      "transform": "matrix(1, 0, 0, 1, 0, -8)",
+      "transition": "transform 0.5s",
+      "width": "16px"
+    },
+    {
+      "color": "rgba(62, 62, 62, 0.55)",
+      "height": "16px",
+      "outerBorder": "1px",
+      "right": "14px",
+      "transform": "matrix(1, 0, 0, 1, 0, -8)",
+      "transition": "transform 0.5s",
+      "width": "16px"
+    }
+  ],
+  "native": [
+    {
+      "centerOffset": 0,
+      "color": "rgba(62, 62, 62, 0.55)",
+      "height": 16,
+      "rightInset": 15,
+      "transform": "none",
+      "width": 16
+    },
+    {
+      "centerOffset": 0,
+      "color": "rgba(62, 62, 62, 0.55)",
+      "height": 16,
+      "rightInset": 15,
+      "transform": "none",
+      "width": 16
+    }
+  ],
+  "viewport": [
+    1440,
+    1000
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "buttonOutline": "none",
+  "optionStepper": [
+    {
+      "height": 34,
+      "width": 110
+    },
+    {
+      "height": 34,
+      "width": 110
+    }
+  ],
+  "productQuantity": 50,
+  "quantityValues": [
+    "1",
+    "1"
+  ],
+  "singleQuantity": 50,
+  "viewport": [
+    1838,
+    907
+  ]
+}

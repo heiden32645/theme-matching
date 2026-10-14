@@ -1,0 +1,17 @@
+{
+  "dimension": 30,
+  "label": "14px / 21px \"Anonymous Pro\", monospace",
+  "pageWidth": 390,
+  "pill": 30,
+  "quantity": 50,
+  "tabText": "14px / 21px \"Anonymous Pro\", monospace",
+  "text": {
+    "font": "14px / 21px \"Anonymous Pro\", monospace",
+    "h": 30
+  },
+  "textarea": 93,
+  "viewport": [
+    390,
+    844
+  ]
+}

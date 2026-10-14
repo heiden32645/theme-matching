@@ -1,0 +1,15 @@
+{
+  "caretTransition": "transform 0.5s",
+  "cssHash": 199077625,
+  "list": {
+    "display": "block",
+    "height": "298px",
+    "transition": "none"
+  },
+  "optionTransition": "background-color 0.1s",
+  "selectEffect": false,
+  "viewport": [
+    1838,
+    907
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "native": [
+    {
+      "color": "rgba(62, 62, 62, 0.55)",
+      "height": "16px",
+      "html": "<svg class=\"icon icon-caret\" xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\">\n<path d=\"M19.9201 8.95001L13.4001 15.47C12.6301 16.24 11.3701 16.24 10.6001 15.47L4.08008 8.95001\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-miterlimit=\"10\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path>\n</svg>",
+      "summaryGap": "8px",
+      "width": "16px"
+    },
+    {
+      "color": "rgba(62, 62, 62, 0.55)",
+      "height": "16px",
+      "html": "<svg class=\"icon icon-caret\" xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\">\n<path d=\"M19.9201 8.95001L13.4001 15.47C12.6301 16.24 11.3701 16.24 10.6001 15.47L4.08008 8.95001\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-miterlimit=\"10\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path>\n</svg>",
+      "summaryGap": "8px",
+      "width": "16px"
+    }
+  ],
+  "rules": [
+    "insp-dropdown details summary { gap: 8px; }",
+    "insp-dropdown details summary .icon-caret { width: 16px; height: 16px; transition: transform 0.5s; }",
+    "insp-dropdown details[open] > summary .icon-caret { transform: rotate(180deg); }"
+  ],
+  "viewport": [
+    1920,
+    945
+  ]
+}

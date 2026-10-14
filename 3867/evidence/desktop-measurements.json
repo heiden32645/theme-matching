@@ -1,0 +1,371 @@
+{
+  "controls": [
+    {
+      "cls": "gpo-dropdown gpo-oos--show",
+      "field": "dropdown-1",
+      "html": "<div class=\"gpo-dropdown gpo-oos--show\">\n      <div class=\"dropdown-button\">\n                <div class=\"dropdown-button__value\">-- Please select --</div>\n        <div class=\"dropdown-button__icon\"></div>\n      </div>\n      <div class=\"dropdown-list\">\n                                    <div class=\"dropdown-item gpo-ov-item\">\n            <input type=\"radio\" data-type=\"dropdown\" id=\"dropdown-1_1\" name=\"dropdown-1\" data-name=\"properties[dropdown-1]\" data-field-name=\"dropdown-1\" value=\"option_1\" or"
+    },
+    {
+      "cls": "gpo-dropdown gpo-image-dropdown gpo-oos--show",
+      "field": "image-dropdown-1",
+      "html": "<div class=\"gpo-dropdown gpo-image-dropdown gpo-oos--show\">\n        <div class=\"dropdown-button\">\n          <div class=\"dropdown-button__value\">-- Please select --</div>\n          <div class=\"dropdown-button__icon\"></div>\n        </div>\n        <div class=\"dropdown-list\">\n                                            <div class=\"dropdown-item gpo-ov-item\">\n              <input type=\"radio\" data-type=\"image-dropdown\" id=\"image-dropdown-1_1\" name=\"image-dropdown-1\" data-name=\"properties[image-dropdo"
+    },
+    {
+      "cls": "gpo-font-picker gpo-dropdown googlefont-dropdown",
+      "field": "google-font-1",
+      "html": "<div class=\"gpo-font-picker gpo-dropdown googlefont-dropdown\">\n        <div class=\"dropdown-button\">\n                    <div class=\"dropdown-button__value\">-- Select a font --</div>\n          <div class=\"dropdown-button__icon\"></div>\n        </div>\n        <div class=\"dropdown-list\">\n                                            <div class=\"dropdown-item\">\n              <input type=\"radio\" data-type=\"google-font\" id=\"google-font-1_1\" name=\"google-font-1\" data-name=\"properties[google-font-1]\" data"
+    }
+  ],
+  "measurements": [
+    {
+      "items": [
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "border": "0px none rgb(62, 62, 62)",
+          "color": "rgb(62, 62, 62)",
+          "font": "16px / 24px \"Anonymous Pro\", monospace",
+          "h": 24,
+          "outline": "rgb(62, 62, 62) none 3px",
+          "padding": "0px",
+          "radius": "0px",
+          "w": 52.40625
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "border": "0px none rgb(62, 62, 62)",
+          "color": "rgb(62, 62, 62)",
+          "font": "16px / 24px \"Anonymous Pro\", monospace",
+          "h": 24,
+          "outline": "rgb(62, 62, 62) none 3px",
+          "padding": "0px",
+          "radius": "0px",
+          "w": 81.609375
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "border": "0px none rgb(62, 62, 62)",
+          "color": "rgb(62, 62, 62)",
+          "font": "16px / 24px \"Anonymous Pro\", monospace",
+          "h": 24,
+          "outline": "rgb(62, 62, 62) none 3px",
+          "padding": "0px",
+          "radius": "0px",
+          "w": 134.015625
+        }
+      ],
+      "sel": ".gpo-label .label-content"
+    },
+    {
+      "items": [
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "border": "1px solid rgba(62, 62, 62, 0.18)",
+          "color": "rgb(62, 62, 62)",
+          "font": "16px / 24px \"Anonymous Pro\", monospace",
+          "h": 46,
+          "outline": "rgb(62, 62, 62) none 3px",
+          "padding": "0px",
+          "radius": "0px",
+          "w": 572.25
+        }
+      ],
+      "sel": ".gpo-select"
+    },
+    {
+      "items": [
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "border": "0px none rgb(62, 62, 62)",
+          "color": "rgb(62, 62, 62)",
+          "font": "16px / 24px \"Anonymous Pro\", monospace",
+          "h": 44,
+          "outline": "rgb(62, 62, 62) none 0px",
+          "padding": "0px 48px 0px 14px",
+          "radius": "0px",
+          "w": 570.25
+        }
+      ],
+      "sel": ".gpo-select select"
+    },
+    {
+      "items": [
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "border": "1px solid rgba(62, 62, 62, 0.18)",
+          "color": "rgb(62, 62, 62)",
+          "font": "16px / 24px \"Anonymous Pro\", monospace",
+          "h": 46,
+          "outline": "rgb(62, 62, 62) none 3px",
+          "padding": "0px 48px 0px 14px",
+          "radius": "0px",
+          "w": 572.25
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "border": "1px solid rgba(62, 62, 62, 0.18)",
+          "color": "rgb(62, 62, 62)",
+          "font": "16px / 24px \"Anonymous Pro\", monospace",
+          "h": 46,
+          "outline": "rgb(62, 62, 62) none 3px",
+          "padding": "0px 48px 0px 14px",
+          "radius": "0px",
+          "w": 572.25
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "border": "1px solid rgba(62, 62, 62, 0.18)",
+          "color": "rgb(62, 62, 62)",
+          "font": "16px / 24px \"Anonymous Pro\", monospace",
+          "h": 46,
+          "outline": "rgb(62, 62, 62) none 3px",
+          "padding": "0px 48px 0px 14px",
+          "radius": "0px",
+          "w": 572.25
+        }
+      ],
+      "sel": ".gpo-dropdown .dropdown-button"
+    },
+    {
+      "items": [
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "border": "",
+          "color": "rgb(62, 62, 62)",
+          "font": "16px / 24px \"Anonymous Pro\", monospace",
+          "h": 33,
+          "outline": "rgb(62, 62, 62) none 3px",
+          "padding": "0px 0px 8px",
+          "radius": "0px",
+          "w": 572.25
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "border": "",
+          "color": "rgb(62, 62, 62)",
+          "font": "16px / 24px \"Anonymous Pro\", monospace",
+          "h": 105,
+          "outline": "rgb(62, 62, 62) none 3px",
+          "padding": "0px 0px 8px",
+          "radius": "0px",
+          "w": 572.25
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "border": "",
+          "color": "rgb(62, 62, 62)",
+          "font": "16px / 24px \"Anonymous Pro\", monospace",
+          "h": 33,
+          "outline": "rgb(62, 62, 62) none 3px",
+          "padding": "0px 0px 8px",
+          "radius": "0px",
+          "w": 572.25
+        }
+      ],
+      "sel": ".gpo-input-wrap"
+    },
+    {
+      "items": [
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "border": "0px none rgb(62, 62, 62)",
+          "color": "rgb(62, 62, 62)",
+          "font": "16px / 24px \"Anonymous Pro\", monospace",
+          "h": 24,
+          "outline": "rgb(62, 62, 62) none 3px",
+          "padding": "0px",
+          "radius": "0px",
+          "w": 506.78125
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "border": "0px none rgb(62, 62, 62)",
+          "color": "rgb(62, 62, 62)",
+          "font": "16px / 24px \"Anonymous Pro\", monospace",
+          "h": 96,
+          "outline": "rgb(62, 62, 62) none 3px",
+          "padding": "0px",
+          "radius": "0px",
+          "w": 572.25
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "border": "0px none rgb(62, 62, 62)",
+          "color": "rgb(62, 62, 62)",
+          "font": "16px / 24px \"Anonymous Pro\", monospace",
+          "h": 24,
+          "outline": "rgb(62, 62, 62) none 3px",
+          "padding": "0px 0px 0px 75px",
+          "radius": "0px",
+          "w": 572.25
+        }
+      ],
+      "sel": ".gpo-input"
+    },
+    {
+      "items": [
+        {
+          "bg": "rgb(62, 62, 62)",
+          "border": "1px solid rgba(62, 62, 62, 0.8)",
+          "color": "rgb(255, 253, 245)",
+          "font": "14px / 14px \"Anonymous Pro\", monospace",
+          "h": 36,
+          "outline": "rgb(255, 253, 245) none 3px",
+          "padding": "10px 18px",
+          "radius": "30px",
+          "w": 99.140625
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "border": "1px solid rgba(62, 62, 62, 0.8)",
+          "color": "rgb(62, 62, 62)",
+          "font": "14px / 14px \"Anonymous Pro\", monospace",
+          "h": 36,
+          "outline": "rgb(62, 62, 62) none 3px",
+          "padding": "10px 18px",
+          "radius": "30px",
+          "w": 99.140625
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "border": "1px solid rgba(62, 62, 62, 0.8)",
+          "color": "rgb(62, 62, 62)",
+          "font": "14px / 14px \"Anonymous Pro\", monospace",
+          "h": 36,
+          "outline": "rgb(62, 62, 62) none 3px",
+          "padding": "10px 18px",
+          "radius": "30px",
+          "w": 236.71875
+        }
+      ],
+      "sel": ".gpo-swatches.buttons input + label"
+    },
+    {
+      "items": [
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "border": "1px solid rgb(62, 62, 62)",
+          "color": "rgb(62, 62, 62)",
+          "font": "16px / 24px \"Anonymous Pro\", monospace",
+          "h": 50,
+          "outline": "rgb(62, 62, 62) none 3px",
+          "padding": "9px 12px",
+          "radius": "30px",
+          "w": 173
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "border": "1px solid rgb(62, 62, 62)",
+          "color": "rgb(62, 62, 62)",
+          "font": "16px / 24px \"Anonymous Pro\", monospace",
+          "h": 50,
+          "outline": "rgb(62, 62, 62) none 3px",
+          "padding": "9px 12px",
+          "radius": "30px",
+          "w": 173
+        }
+      ],
+      "sel": ".gpo-ov-quantity"
+    },
+    {
+      "items": [
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "border": "1px solid rgb(62, 62, 62)",
+          "color": "rgb(62, 62, 62)",
+          "font": "16px / 24px \"Anonymous Pro\", monospace",
+          "h": 50,
+          "outline": "rgb(62, 62, 62) none 3px",
+          "padding": "9px 12px",
+          "radius": "30px",
+          "w": 100
+        }
+      ],
+      "sel": ".gpo-quantity__input"
+    },
+    {
+      "items": [
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "border": "",
+          "color": "rgb(62, 62, 62)",
+          "font": "16px / 24px \"Anonymous Pro\", monospace",
+          "h": 33,
+          "outline": "rgb(62, 62, 62) none 3px",
+          "padding": "0px 0px 8px",
+          "radius": "0px",
+          "w": 185.40625
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "border": "",
+          "color": "rgb(62, 62, 62)",
+          "font": "16px / 24px \"Anonymous Pro\", monospace",
+          "h": 33,
+          "outline": "rgb(62, 62, 62) none 3px",
+          "padding": "0px 0px 8px",
+          "radius": "0px",
+          "w": 185.421875
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "border": "",
+          "color": "rgb(62, 62, 62)",
+          "font": "16px / 24px \"Anonymous Pro\", monospace",
+          "h": 33,
+          "outline": "rgb(62, 62, 62) none 3px",
+          "padding": "0px 0px 8px",
+          "radius": "0px",
+          "w": 185.421875
+        }
+      ],
+      "sel": ".gpo-dimension-input-wrap"
+    },
+    {
+      "items": [
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "border": "",
+          "color": "rgb(62, 62, 62)",
+          "font": "16px / 24px \"Nunito Sans\", sans-serif",
+          "h": 66.59375,
+          "outline": "rgb(62, 62, 62) none 3px",
+          "padding": "0px 12px 8px",
+          "radius": "0px",
+          "w": 215.421875
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "border": "",
+          "color": "rgba(62, 62, 62, 0.6)",
+          "font": "16px / 24px \"Nunito Sans\", sans-serif",
+          "h": 66.59375,
+          "outline": "rgba(62, 62, 62, 0.6) none 3px",
+          "padding": "0px 12px 8px",
+          "radius": "0px",
+          "w": 215.421875
+        }
+      ],
+      "sel": ".gpo-tabs-tab"
+    },
+    {
+      "items": [
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "border": "1px solid rgb(37, 31, 31)",
+          "color": "rgb(37, 31, 31)",
+          "font": "16px / 24px Jost, sans-serif",
+          "h": 50,
+          "outline": "rgb(37, 31, 31) none 3px",
+          "padding": "12px 32px",
+          "radius": "30px",
+          "w": 146.28125
+        }
+      ],
+      "sel": ".gpo-dropzone__action"
+    }
+  ],
+  "viewport": [
+    1440,
+    1000
+  ]
+}

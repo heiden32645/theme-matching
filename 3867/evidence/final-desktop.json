@@ -1,0 +1,11 @@
+{
+  "pillHeight": 36,
+  "quantityHeight": 50,
+  "selectHeight": 46,
+  "textHeight": 33,
+  "textareaHeight": 105,
+  "viewport": [
+    1440,
+    1000
+  ]
+}

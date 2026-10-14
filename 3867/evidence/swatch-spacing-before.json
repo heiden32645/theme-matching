@@ -1,0 +1,133 @@
+{
+  "appFont": "16px / 24px \"Anonymous Pro\", monospace",
+  "matched": [
+    {
+      "display": "block",
+      "important": "",
+      "scope": "",
+      "selector": ".swatch-image",
+      "source": "inline"
+    },
+    {
+      "display": "none",
+      "important": "",
+      "scope": "",
+      "selector": ".swatch-image",
+      "source": "https://l0989lxdurn3lu9c-69620498584.shopifypreview.com/cdn/shop/t/34/assets/product-card.css?v=111529953741491302021791884384"
+    },
+    {
+      "display": "none",
+      "important": "",
+      "scope": "",
+      "selector": ".swatch-image",
+      "source": "https://l0989lxdurn3lu9c-69620498584.shopifypreview.com/cdn/shop/t/34/assets/product-card.css?v=111529953741491302021791884384"
+    },
+    {
+      "display": "none",
+      "important": "",
+      "scope": "",
+      "selector": ".swatch-image",
+      "source": "https://l0989lxdurn3lu9c-69620498584.shopifypreview.com/cdn/shop/t/34/assets/product-card.css?v=111529953741491302021791884384"
+    },
+    {
+      "display": "none",
+      "important": "",
+      "scope": "",
+      "selector": ".swatch-image",
+      "source": "https://l0989lxdurn3lu9c-69620498584.shopifypreview.com/cdn/shop/t/34/assets/product-card.css?v=111529953741491302021791884384"
+    },
+    {
+      "display": "none",
+      "important": "",
+      "scope": "",
+      "selector": ".swatch-image",
+      "source": "https://l0989lxdurn3lu9c-69620498584.shopifypreview.com/cdn/shop/t/34/assets/product-card.css?v=111529953741491302021791884384"
+    },
+    {
+      "display": "none",
+      "important": "",
+      "scope": "",
+      "selector": ".swatch-image",
+      "source": "https://l0989lxdurn3lu9c-69620498584.shopifypreview.com/cdn/shop/t/34/assets/product-card.css?v=111529953741491302021791884384"
+    },
+    {
+      "display": "none",
+      "important": "",
+      "scope": "",
+      "selector": ".swatch-image",
+      "source": "https://l0989lxdurn3lu9c-69620498584.shopifypreview.com/cdn/shop/t/34/assets/product-card.css?v=111529953741491302021791884384"
+    },
+    {
+      "display": "none",
+      "important": "",
+      "scope": "",
+      "selector": ".swatch-image",
+      "source": "https://l0989lxdurn3lu9c-69620498584.shopifypreview.com/cdn/shop/t/34/assets/product-card.css?v=111529953741491302021791884384"
+    },
+    {
+      "display": "none",
+      "important": "",
+      "scope": "",
+      "selector": ".swatch-image",
+      "source": "https://l0989lxdurn3lu9c-69620498584.shopifypreview.com/cdn/shop/t/34/assets/product-card.css?v=111529953741491302021791884384"
+    },
+    {
+      "display": "none",
+      "important": "",
+      "scope": "",
+      "selector": ".swatch-image",
+      "source": "https://l0989lxdurn3lu9c-69620498584.shopifypreview.com/cdn/shop/t/34/assets/product-card.css?v=111529953741491302021791884384"
+    }
+  ],
+  "native": [
+    {
+      "font": "16px / 24px \"Anonymous Pro\", monospace",
+      "html": "<span class=\"form__label-title\">Size<span class=\"form__label-value\" data-selected-value=\"\">8</span></span>",
+      "rect": {
+        "bottom": 479.578125,
+        "height": 24,
+        "left": 1070.75,
+        "right": 1131.890625,
+        "top": 455.578125,
+        "width": 61.140625,
+        "x": 1070.75,
+        "y": 455.578125
+      },
+      "value": {
+        "bottom": 475.578125,
+        "height": 16,
+        "left": 1105.6875,
+        "right": 1131.890625,
+        "top": 459.578125,
+        "width": 26.203125,
+        "x": 1105.6875,
+        "y": 459.578125
+      }
+    },
+    {
+      "font": "16px / 24px \"Anonymous Pro\", monospace",
+      "html": "<span class=\"form__label-title\">Color<span class=\"form__label-value\" data-selected-value=\"\">blue</span></span>",
+      "rect": {
+        "bottom": 551.578125,
+        "height": 24,
+        "left": 1070.75,
+        "right": 1166.828125,
+        "top": 527.578125,
+        "width": 96.078125,
+        "x": 1070.75,
+        "y": 527.578125
+      },
+      "value": {
+        "bottom": 547.578125,
+        "height": 16,
+        "left": 1114.421875,
+        "right": 1166.828125,
+        "top": 531.578125,
+        "width": 52.40625,
+        "x": 1114.421875,
+        "y": 531.578125
+      }
+    }
+  ],
+  "parent": "<div class=\"gpo-element gpo-form__group gpo-col-12 has-success\" data-element-id=\"radio-1\">\n    \n    \n    \n      <label for=\"\" class=\"gpo-label expanded\">\n      <span class=\"label-content\">Radio Button</span>\n                              </label>\n          <div class=\"gpo-selected-values break-word has-value\">option_1</div>\n              \n    <div class=\"gpo-ov-wrapper vertical gpo-oos--show\">\n\n                      <div class=\"gpo-choicelist gpo-radio gpo-ov-item\">\n          <input type=\"radio\" data-type=\"radio\" id=\"radio-1_1\" name=\"radio-1\" data-name=\"properties[radio-1]\" data-field-name=\"radio-1\" value=\"option_1\" original-value=\"option_1\">\n          <label for=\"radio-1_1\">\n                                    <span class=\"choicelist-item__value break-word\">option_1</span>\n          </label>\n                  </div>\n                      <div class=\"gpo-choicelist gpo-radio gpo-ov-item\">\n          <input type=\"radio\" data-type=\"radio\" id=\"radio-1_2\" name=\"radio-1\" data-name=\"properties[radio-1]\" data-field-name=\"radio-1\" value=\"option_2\" original-value=\"option_2\">\n          <label for=\"radio-1_2\">\n                                    <span class=\"choicelist-item__value break-word\">option_2</span>\n          </label>\n                  </div>\n                      <div class=\"gpo-choicelist gpo-radio gpo-ov-item\">\n          <input type=\"radio\" data-type=\"radio\" id=\"radio-1_3\" name=\"radio-1\" data-name=\"properties[radio-1]\" data-field-name=\"radio-1\" value=\"option_3\" original-value=\"option_3\">\n          <label for=\"radio-1_3\">\n                                    <span class=\"choicelist-item__value break-word\">option_3</span>\n          </label>\n                  </div>\n                      <div class=\"gpo-choicelist gpo-radio gpo-ov-item\">\n          <input type=\"radio\" data-t"
+}

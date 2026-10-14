@@ -1,0 +1,45 @@
+{
+  "images": [
+    {
+      "checked": false,
+      "height": 60,
+      "outline": "rgb(62, 62, 62) none 3px",
+      "width": 60
+    },
+    {
+      "checked": true,
+      "height": 60,
+      "outline": "rgba(62, 62, 62, 0.8) solid 1px",
+      "width": 60
+    }
+  ],
+  "overflow": [],
+  "pageWidth": 390,
+  "selected": [
+    {
+      "baselineTop": 0,
+      "gap": 0,
+      "left": 107.71875,
+      "right": 184.15625,
+      "text": "option_2"
+    },
+    {
+      "baselineTop": 0,
+      "gap": 0,
+      "left": 61.859375,
+      "right": 168.875,
+      "text": "option_1 | 1"
+    },
+    {
+      "baselineTop": 0,
+      "gap": 0,
+      "left": 107.71875,
+      "right": 184.15625,
+      "text": "option_2"
+    }
+  ],
+  "viewport": [
+    390,
+    844
+  ]
+}

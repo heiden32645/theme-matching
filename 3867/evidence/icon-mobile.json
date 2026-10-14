@@ -1,0 +1,41 @@
+{
+  "gpo": [
+    {
+      "color": "rgba(62, 62, 62, 0.55)",
+      "height": "16px",
+      "width": "16px"
+    },
+    {
+      "color": "rgba(62, 62, 62, 0.55)",
+      "height": "16px",
+      "width": "16px"
+    },
+    {
+      "color": "rgba(62, 62, 62, 0.55)",
+      "height": "16px",
+      "width": "16px"
+    },
+    {
+      "color": "rgba(62, 62, 62, 0.55)",
+      "height": "16px",
+      "width": "16px"
+    }
+  ],
+  "native": [
+    {
+      "color": "rgba(62, 62, 62, 0.55)",
+      "height": "16px",
+      "width": "16px"
+    },
+    {
+      "color": "rgba(62, 62, 62, 0.55)",
+      "height": "16px",
+      "width": "16px"
+    }
+  ],
+  "selected": true,
+  "viewport": [
+    390,
+    844
+  ]
+}

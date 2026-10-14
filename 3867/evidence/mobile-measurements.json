@@ -1,0 +1,174 @@
+{
+  "appBox": {
+    "bottom": 2334.390625,
+    "height": 2334,
+    "left": 11,
+    "right": 379,
+    "top": 0.390625,
+    "width": 368,
+    "x": 11,
+    "y": 0.390625
+  },
+  "measurements": [
+    {
+      "items": [
+        {
+          "font": "12px / 12px \"Anonymous Pro\", monospace",
+          "h": 30,
+          "radius": "30px",
+          "w": 40.5625
+        },
+        {
+          "font": "12px / 12px \"Anonymous Pro\", monospace",
+          "h": 30,
+          "radius": "30px",
+          "w": 40.5625
+        },
+        {
+          "font": "12px / 12px \"Anonymous Pro\", monospace",
+          "h": 30,
+          "radius": "30px",
+          "w": 47.109375
+        }
+      ],
+      "sel": ".product-variant-item input + label"
+    },
+    {
+      "items": [
+        {
+          "font": "12px / 12px \"Anonymous Pro\", monospace",
+          "h": 30,
+          "radius": "30px",
+          "w": 86.40625
+        },
+        {
+          "font": "12px / 12px \"Anonymous Pro\", monospace",
+          "h": 30,
+          "radius": "30px",
+          "w": 86.40625
+        },
+        {
+          "font": "12px / 12px \"Anonymous Pro\", monospace",
+          "h": 30,
+          "radius": "30px",
+          "w": 204.328125
+        }
+      ],
+      "sel": ".gpo-swatches.buttons input + label"
+    },
+    {
+      "items": [
+        {
+          "font": "16px / 24px \"Anonymous Pro\", monospace",
+          "h": 46,
+          "radius": "0px",
+          "w": 358
+        }
+      ],
+      "sel": ".gpo-select"
+    },
+    {
+      "items": [
+        {
+          "font": "14px / 21px \"Anonymous Pro\", monospace",
+          "h": 33,
+          "radius": "0px",
+          "w": 358
+        },
+        {
+          "font": "14px / 21px \"Anonymous Pro\", monospace",
+          "h": 105,
+          "radius": "0px",
+          "w": 358
+        },
+        {
+          "font": "14px / 21px \"Anonymous Pro\", monospace",
+          "h": 33,
+          "radius": "0px",
+          "w": 358
+        }
+      ],
+      "sel": ".gpo-input-wrap"
+    },
+    {
+      "items": [
+        {
+          "font": "14px / 21px \"Anonymous Pro\", monospace",
+          "h": 33,
+          "radius": "0px",
+          "w": 114
+        },
+        {
+          "font": "14px / 21px \"Anonymous Pro\", monospace",
+          "h": 33,
+          "radius": "0px",
+          "w": 114
+        },
+        {
+          "font": "14px / 21px \"Anonymous Pro\", monospace",
+          "h": 33,
+          "radius": "0px",
+          "w": 114
+        }
+      ],
+      "sel": ".gpo-dimension-input-wrap"
+    },
+    {
+      "items": [
+        {
+          "font": "14px / 21px \"Anonymous Pro\", monospace",
+          "h": 50,
+          "radius": "30px",
+          "w": 173
+        },
+        {
+          "font": "14px / 21px \"Anonymous Pro\", monospace",
+          "h": 50,
+          "radius": "30px",
+          "w": 173
+        }
+      ],
+      "sel": ".gpo-ov-quantity"
+    },
+    {
+      "items": [
+        {
+          "font": "16px / 24px \"Anonymous Pro\", monospace",
+          "h": 33,
+          "radius": "0px",
+          "w": 89.875
+        },
+        {
+          "font": "16px / 24px \"Anonymous Pro\", monospace",
+          "h": 33,
+          "radius": "0px",
+          "w": 89.875
+        }
+      ],
+      "sel": ".gpo-tabs-tab"
+    },
+    {
+      "items": [
+        {
+          "font": "16px / 24px \"Anonymous Pro\", monospace",
+          "h": 16,
+          "radius": "0px",
+          "w": 65.875
+        },
+        {
+          "font": "16px / 24px \"Anonymous Pro\", monospace",
+          "h": 16,
+          "radius": "0px",
+          "w": 65.875
+        }
+      ],
+      "sel": ".gpo-tabs-tabtext"
+    }
+  ],
+  "overflow": [],
+  "pageWidth": 390,
+  "viewport": [
+    390,
+    844
+  ]
+}
