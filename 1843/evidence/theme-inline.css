@@ -1,0 +1,206 @@
+
+      @font-face {
+  font-family: Dosis;
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url("//ahewj9gf6h3ut29l-69620498584.shopifypreview.com/cdn/fonts/dosis/dosis_n4.977e9084289f6e2f8ab186528d9d593792fcc4b3.woff2") format("woff2"),
+       url("//ahewj9gf6h3ut29l-69620498584.shopifypreview.com/cdn/fonts/dosis/dosis_n4.ba934f995bb5ba536e3ff20a5c5c4a9e65b87a94.woff") format("woff");
+}
+
+      @font-face {
+  font-family: Dosis;
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url("//ahewj9gf6h3ut29l-69620498584.shopifypreview.com/cdn/fonts/dosis/dosis_n7.6a9bbf1b5e668ef992ba639ca17bf02ed9a3dd5d.woff2") format("woff2"),
+       url("//ahewj9gf6h3ut29l-69620498584.shopifypreview.com/cdn/fonts/dosis/dosis_n7.db86cc649942ba705d0a821ad6569210e452e55b.woff") format("woff");
+}
+
+      
+      
+      @font-face {
+  font-family: Dosis;
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url("//ahewj9gf6h3ut29l-69620498584.shopifypreview.com/cdn/fonts/dosis/dosis_n7.6a9bbf1b5e668ef992ba639ca17bf02ed9a3dd5d.woff2") format("woff2"),
+       url("//ahewj9gf6h3ut29l-69620498584.shopifypreview.com/cdn/fonts/dosis/dosis_n7.db86cc649942ba705d0a821ad6569210e452e55b.woff") format("woff");
+}
+
+
+      :root {
+        --font-body-family: Dosis, sans-serif;
+        --font-body-style: normal;
+        --font-body-weight: 400;
+        --font-body-weight-bold: 700;
+
+        --font-heading-family: Dosis, sans-serif;
+        --font-heading-style: normal;
+        --font-heading-weight: 700;
+
+        --font-body-scale: 1.0;
+        --font-heading-scale: 1.0;
+        --font-nav-scale: 1.0;
+
+        /* --- Mighty --- */
+        --color-primary-accent: 95, 104, 119;
+        --color-secondary-accent: 227, 191, 118;
+        --color-primary-background-text: 255, 255, 255;
+        --color-secondary-background-text: 0, 0, 0;
+
+        --color-header-background: 255, 255, 255;
+        --color-header-text: 39, 37, 55;
+        --color-header-sale-text: 175, 10, 10;
+
+        --color-border: 227, 227, 227;
+        --color-background: 255, 255, 255;
+
+        --color-body-text: 39, 37, 55;
+
+        --color-footer-background-1: 255, 255, 255;
+        --color-footer-background-2: 227, 227, 227;
+        --color-footer-text: 4, 27, 45;
+        --layout-image-border: 10px;
+        --layout-button-border: 10px;
+        /* --- Mighy --- */
+
+        --color-base-text: , , ;
+        --color-shadow: , , ;
+        --color-base-background-1: , , ;
+        --color-base-background-2: , , ;
+        --color-base-solid-button-labels: , , ;
+        --color-base-outline-button-labels: , , ;
+        --color-base-accent-1: , , ;
+        --color-base-accent-2: , , ;
+        --payment-terms-background-color: #ffffff;
+
+        --gradient-base-background-1: #ffffff;
+        --gradient-base-background-2: #f3f3f3;
+        --gradient-base-accent-1: #121212;
+        --gradient-base-accent-2: #334fb4;
+
+        --media-padding: px;
+        /* --media-border-opacity: 0.0; */
+        /* --media-border-width: px; */
+        /* --media-radius: px; */
+        /* --media-shadow-opacity: 0.0; */
+        /* --media-shadow-horizontal-offset: px; */
+        /* --media-shadow-vertical-offset: px; */
+        /* --media-shadow-blur-radius: px; */
+
+        --page-width: 120rem;
+        --page-width-margin: 0rem;
+
+        /* --card-image-padding: 0.0rem; */
+        /* --card-corner-radius: 0.0rem; */
+        /* --card-text-alignment: ; */
+        /* --card-border-width: 0.0rem; */
+        /* --card-border-opacity: 0.0; */
+        /* --card-shadow-opacity: 0.0; */
+        /* --card-shadow-horizontal-offset: 0.0rem; */
+        /* --card-shadow-vertical-offset: 0.0rem; */
+        /* --card-shadow-blur-radius: 0.0rem; */
+
+        /* --badge-corner-radius: 0.0rem; */
+
+        /* --popup-border-width: px; */
+        /* --popup-border-opacity: 0.0; */
+        /* --popup-corner-radius: px; */
+        /* --popup-shadow-opacity: 0.0; */
+        /* --popup-shadow-horizontal-offset: px; */
+        /* --popup-shadow-vertical-offset: px; */
+        /* --popup-shadow-blur-radius: px; */
+
+        /* --drawer-border-width: px; */
+        /* --drawer-border-opacity: 0.0; */
+        /* --drawer-shadow-opacity: 0.0; */
+        /* --drawer-shadow-horizontal-offset: px; */
+        /* --drawer-shadow-vertical-offset: px; */
+        --drawer-shadow-blur-radius: px;
+
+        --spacing-sections-desktop: 0px;
+        --spacing-sections-mobile: 0px;
+
+        --grid-desktop-vertical-spacing: 32px;
+        --grid-desktop-horizontal-spacing: 32px;
+        --grid-mobile-vertical-spacing: 16px;
+        --grid-mobile-horizontal-spacing: 16px;
+
+        /* --text-boxes-border-opacity: 0.0; */
+        /* --text-boxes-border-width: px; */
+        /* --text-boxes-radius: px; */
+        /* --text-boxes-shadow-opacity: 0.0; */
+        /* --text-boxes-shadow-horizontal-offset: px; */
+        /* --text-boxes-shadow-vertical-offset: px; */
+        /* --text-boxes-shadow-blur-radius: px; */
+
+        /* --buttons-radius: px; */
+        /* --buttons-radius-outset: 0px; */
+        /* --buttons-border-width: 0px; */
+        /* --buttons-border-opacity: 0.0; */
+        /* --buttons-shadow-opacity: 0.0; */
+        /* --buttons-shadow-horizontal-offset: px; */
+        /* --buttons-shadow-vertical-offset: px; */
+        /* --buttons-shadow-blur-radius: px; */
+        /* --buttons-border-offset: 0px; */
+
+        --inputs-radius: 4px;
+        --inputs-border-width: 1px;
+        --inputs-border-opacity: 55%;
+        --inputs-shadow-opacity: 0;
+        --inputs-shadow-horizontal-offset: px;
+        /* --inputs-margin-offset: 0px; */
+        --inputs-shadow-vertical-offset: 4px;
+        --inputs-shadow-blur-radius: 5px;
+        /* --inputs-radius-outset: 0px; */
+
+        /* --variant-pills-radius: px; */
+        /* --variant-pills-border-width: px; */
+        /* --variant-pills-border-opacity: 0.0; */
+        /* --variant-pills-shadow-opacity: 0.0; */
+        /* --variant-pills-shadow-horizontal-offset: px; */
+        /* --variant-pills-shadow-vertical-offset: px; */
+        /* --variant-pills-shadow-blur-radius: px; */
+      }
+
+      *,
+      *::before,
+      *::after {
+        box-sizing: inherit;
+      }
+
+      html {
+        box-sizing: border-box;
+        font-size: calc(var(--font-body-scale) * 62.5%);
+        height: 100%;
+      }
+
+      body {
+        opacity: 0;
+        display: grid;
+        grid-template-rows: auto auto 1fr auto;
+        grid-template-columns: 100%;
+        min-height: 100%;
+        margin: 0;
+        font-size: 1.5rem;
+        letter-spacing: 0.06rem;
+        line-height: calc(1 + 0.8 / var(--font-body-scale));
+        font-family: var(--font-body-family);
+        font-style: var(--font-body-style);
+        font-weight: var(--font-body-weight);
+      }
+
+      sticky-header,
+      announcement-bar,
+      recommended-products,
+      .ml_shop_container {
+        opacity: 0;
+      }
+
+      @media screen and (min-width: 750px) {
+        body {
+          font-size: 1.6rem;
+        }
+      }
+    

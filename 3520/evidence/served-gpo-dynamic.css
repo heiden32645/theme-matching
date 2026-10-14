@@ -1,0 +1,978 @@
+
+        .gpo-app,
+    .gpo-input,
+    .gpo-input::placeholder,
+    .gpo-select select {
+      text-align: left;
+    }
+    .gpo-label {
+      justify-content: left;
+    }
+    .gpo-label,
+    .gpo-ov-wrapper.vertical .gpo-swatches {
+      flex-direction: unset;
+    }
+    .gpo-label .gpo-label__icon {
+      margin-left: auto;
+      margin-right: unset;
+    }
+    .gpo-dropdown .dropdown-button {
+      justify-content: space-between;
+      gap: unset;
+      flex-direction: unset;
+    }
+    .gpo-ov-wrapper.horizontal,
+    .gpo-ov-wrapper.vertical .gpo-swatches {
+      justify-content: left;
+    }
+    .gpo-tabs.gpo-tabs-vertical .gpo-tabs-title .gpo-tabs-tab {
+      justify-content: space-between;
+      flex-direction: row-reverse;
+    }
+    .gpo-switch input:checked+label:after {
+      transform: translateX(22px);
+    }
+    .gpo-choicelist input+label:before,
+    .gpo-choicelist.gpo-checkbox input+label:after {
+      left: 0;
+      right: unset;
+    }
+    .gpo-choicelist input+label:after {
+      left: 4px;
+      right: unset;
+    }
+    .gpo-choicelist input+label {
+      padding-left: 25px;
+      padding-right: unset;
+    }
+    .gpo-switch input+label:before,
+    .gpo-switch input+label:after {
+      right: unset;
+      left: 1px;
+    }
+    .gpo-switch input+label span {
+      padding-left: 52px;
+      padding-right: unset;
+    }
+    .gpo-range .gpo-range-input::-webkit-slider-runnable-track {
+      background: linear-gradient(
+        to right,
+        #121212 var(--progress),
+        #dddddd var(--progress)
+      );
+    }
+    .gpo-tabs.gpo-tabs-vertical .gpo-tabs-title .gpo-tabs-tab::before {
+      margin-left: 20px;
+      margin-right: 3px;
+    }
+    .gpo-modal {
+      justify-content: start;
+    }
+    .gpo-range {
+      direction: ltr;
+    }
+    .gpo-group__header {
+      flex-direction: row;
+    }
+    .gpo-group__header .group-chevron {
+      margin-left: auto;
+    }
+    /* Match theme style: Nova 1.4.0 (theme store id 3520, Orion preset) */
+
+body[data-gpo-theme-store-id="3520"] .gpo-container .gpo-app {
+    background-color: transparent !important;
+}
+
+body[data-gpo-theme-store-id="3520"] .gpo-container .gpo-app input,
+body[data-gpo-theme-store-id="3520"] .gpo-container .gpo-app select,
+body[data-gpo-theme-store-id="3520"] .gpo-container .gpo-app textarea,
+body[data-gpo-theme-store-id="3520"] .gpo-container .gpo-app label {
+    font-family: inherit;
+}
+
+body[data-gpo-theme-store-id="3520"] .gpo-app {
+    /* #svg-icon-arrow-down used by .drop-down__header-icon */
+    --gpo-theme-chevron: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 256 256'%3E%3Cpolyline points='208 96 128 176 48 96' fill='none' stroke='black' stroke-linecap='round' stroke-linejoin='round' stroke-width='16'/%3E%3C/svg%3E");
+    --gpo-theme-text: var(--color-scheme-text);
+    --gpo-theme-muted: color-mix(in srgb, var(--color-scheme-text) 70%, transparent);
+    --gpo-theme-bg: var(--color-scheme-background);
+    --gpo-theme-border: var(--color-scheme-border);
+    --gpo-theme-accent: var(--color-scheme-button-background);
+    --gpo-theme-pill-border: var(--color-scheme-button-background-a02);
+    --gpo-theme-radius: calc(var(--glob-button-pill) * 99rem);
+    /* .product-variant-picker__drop-header: 1.6rem line + 1.6rem padding + 4px border */
+    --gpo-theme-select-height: calc(3.2rem + 4px);
+    /* .form-control__input: 1.5rem line + .75rem padding + 2px border */
+    --gpo-theme-input-height: calc(2.25rem + 2px);
+    /* .product-qty--enlarge .product-qty__inner: 45px input + 2px border */
+    --gpo-theme-quantity-height: 47px;
+    --gpo-theme-option-quantity-height: 47px;
+    --gpo-theme-check: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 12 9' fill='none'%3E%3Cpath d='M1 4.2 4.5 7.5 11 1' stroke='black' stroke-width='2'/%3E%3C/svg%3E");
+    color: var(--gpo-theme-text);
+    font-family: var(--glob-body-font), Arial, Helvetica, sans-serif;
+    font-size: 1rem;
+    font-weight: var(--glob-body-font-weight, 400);
+    line-height: 1.5;
+}
+
+/* Group: like .collapse / .collapse__header */
+
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-group__wrapper.disclosure {
+    border-block: 1px solid var(--gpo-theme-border);
+}
+
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-group__wrapper.disclosure .gpo-group__header {
+    padding-block: 1rem;
+    margin-bottom: 0;
+}
+
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-group__header .group-icon,
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-group__header .group-label,
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-group__header .group-chevron {
+    color: var(--gpo-theme-text);
+}
+
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-group__header .group-label {
+    font-family: var(--glob-heading-font);
+    font-size: 1rem;
+    font-weight: var(--glob-heading-font-weight);
+    text-transform: var(--glob-heading-transform);
+    line-height: 1.5;
+}
+
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-group__header .chevron-icon {
+    width: 14px;
+    height: 14px;
+    transition: transform .2s linear;
+}
+
+/* Label: like .product-variant-picker__option-heading-name */
+
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-label,
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-dimension-label,
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-modal__title {
+    display: inline-flex;
+    align-items: center;
+    margin-bottom: .5rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-transform: none;
+}
+
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-label .label-content,
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-label span.addOn,
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-dimension-label,
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-dimension-label span {
+    color: var(--gpo-theme-muted);
+    font-size: inherit;
+    font-weight: inherit;
+    line-height: inherit;
+}
+
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-label.required .label-content::after {
+    color: var(--gpo-theme-text);
+}
+
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-label + .gpo-selected-values.has-value,
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-dimension-label + .gpo-selected-values.has-value {
+    display: inline-block;
+    margin: 0 0 .5rem;
+    color: var(--gpo-theme-text);
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+}
+
+/* Selected values: like the native Size: 8 label */
+
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-label:has(+ .gpo-selected-values.has-value)::after,
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-dimension-label:has(+ .gpo-selected-values.has-value)::after {
+    content: ":";
+    color: var(--gpo-theme-muted);
+}
+
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-helptext,
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-ov-helptext,
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-counter {
+    color: var(--gpo-theme-muted);
+    font-size: calc(var(--glob-text-scale-xs) * 1rem);
+    line-height: 1.5;
+}
+
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-tooltip {
+    color: var(--gpo-theme-bg);
+    background: var(--gpo-theme-text);
+    border-radius: 0;
+    font-size: calc(var(--glob-text-scale-xs) * 1rem);
+    line-height: 1.5;
+}
+
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-tooltip::after {
+    border-top-color: var(--gpo-theme-text);
+}
+
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-total,
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-total-text .money,
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-modal__title {
+    color: var(--gpo-theme-text);
+}
+
+/* Button swatches: like .product-variant-picker__option-value-title */
+
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-ov-wrapper.horizontal:has(> .gpo-swatches) {
+    gap: .75rem;
+}
+
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-swatches.buttons input + label {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 0;
+    min-height: var(--gpo-theme-select-height);
+    padding: .8rem 1rem;
+    border: 2px solid var(--gpo-theme-pill-border);
+    border-radius: var(--gpo-theme-radius);
+    color: var(--gpo-theme-text);
+    background: transparent;
+    box-shadow: none;
+    font-size: 1.1rem;
+    font-weight: 400;
+    line-height: calc(1em + .5rem);
+    letter-spacing: normal;
+    text-transform: none;
+    transition: none;
+}
+
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-swatches.buttons input + label:hover {
+    border-color: var(--gpo-theme-pill-border);
+    color: var(--gpo-theme-text);
+    background: transparent;
+    box-shadow: none;
+}
+
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-swatches.buttons input:checked + label {
+    border-color: var(--gpo-theme-accent);
+    color: var(--gpo-theme-text);
+    background: transparent;
+    box-shadow: none;
+}
+
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-swatches.buttons input + label span,
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-swatches.buttons .gpo-ov-title,
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-swatches.buttons .gpo-ov-title > span {
+    color: inherit;
+    font-size: inherit;
+    font-weight: inherit;
+    line-height: inherit;
+}
+
+/* Color / image swatches: .product-variant-picker__swatch--pill / .product-variant-picker__image */
+
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-swatches.color-swatches input + label,
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-swatches.image-swatches input + label {
+    padding: 3px;
+    border: 2px solid var(--gpo-theme-pill-border);
+    border-radius: 0;
+    background: transparent;
+    box-shadow: none;
+    transition: none;
+}
+
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-swatches.color-swatches input + label {
+    border-radius: calc(var(--glob-button-pill) * 50%);
+}
+
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-swatches.color-swatches .gpo-swatch__inner,
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-swatches.image-swatches .gpo-swatch__inner {
+    margin: 0;
+    border: 0;
+    border-radius: 0;
+}
+
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-swatches.color-swatches .gpo-swatch__inner,
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-swatches.color-swatches .swatch-top {
+    border-radius: calc(var(--glob-button-pill) * 50%);
+}
+
+/* Inline GPO sizes must yield to the native 50px color / 80px image boxes. */
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-swatches.color-swatches .swatch-top {
+    width: 40px !important;
+    height: 40px !important;
+    box-shadow: inset 0 1px 2px .25px #0003;
+}
+
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-swatches.color-swatches .swatch-bottom {
+    border-bottom-width: 40px;
+    border-left-width: 40px;
+}
+
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-swatches.image-swatches .swatch-image {
+    width: 70px !important;
+    height: 70px !important;
+    border-radius: 0;
+    object-fit: cover;
+}
+
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-swatches.color-swatches input + label:hover,
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-swatches.image-swatches input + label:hover {
+    border-color: var(--gpo-theme-pill-border);
+    box-shadow: none;
+}
+
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-swatches.color-swatches input:checked + label,
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-swatches.image-swatches input:checked + label {
+    border-color: var(--gpo-theme-accent);
+    box-shadow: none;
+}
+
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-ov-wrapper.vertical .gpo-ov-title,
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-ov-wrapper.vertical .gpo-ov-title > span {
+    color: var(--gpo-theme-text);
+    font-size: 1rem;
+    line-height: 1.5;
+}
+
+/* Quantity: like .product-qty--enlarge .product-qty__inner */
+
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-ov-quantity {
+    width: 119px;
+    max-width: 100%;
+    min-height: var(--gpo-theme-option-quantity-height);
+    border: 1px solid var(--gpo-theme-border);
+    border-radius: 0;
+    background: transparent;
+}
+
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-ov-quantity button {
+    flex: 0 0 36px;
+    width: 36px;
+    height: calc(var(--gpo-theme-option-quantity-height) - 2px);
+    min-height: 0;
+    padding: 0;
+    border: 0;
+    border-radius: 0;
+    background: none;
+    color: var(--gpo-theme-text);
+    box-shadow: none;
+}
+
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-ov-quantity input {
+    flex: 1;
+    width: 45px;
+    min-width: 0;
+    height: calc(var(--gpo-theme-option-quantity-height) - 2px);
+    min-height: 0;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    border-radius: 0;
+    color: var(--gpo-theme-text);
+    background: none;
+    box-shadow: none;
+    font-size: 1rem;
+    line-height: 1.5;
+    text-align: center;
+    appearance: textfield;
+}
+
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-ov-quantity input::-webkit-inner-spin-button,
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-quantity__input::-webkit-inner-spin-button {
+    appearance: none;
+}
+
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-ov-quantity input:focus-visible,
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-ov-quantity button:focus-visible {
+    outline: 2px solid var(--gpo-theme-text);
+    outline-offset: -2px;
+}
+
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-quantity {
+    flex-wrap: wrap;
+}
+
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-quantity__label {
+    color: var(--gpo-theme-muted);
+    font-size: calc(var(--glob-text-scale-xs) * 1rem);
+    line-height: 1.5;
+}
+
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-quantity .gpo-quantity__input {
+    height: var(--gpo-theme-quantity-height);
+    min-height: 0;
+    margin: 0;
+    padding: 0 .5rem;
+    border: 1px solid var(--gpo-theme-border);
+    border-radius: 0;
+    color: var(--gpo-theme-text);
+    background: transparent;
+    box-shadow: none;
+    font-size: 1rem;
+    line-height: 1.5;
+    text-align: center;
+    appearance: textfield;
+}
+
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-quantity .gpo-quantity__input:focus-visible {
+    outline: 2px solid var(--gpo-theme-text);
+}
+
+/* Choicelist: theme-color adaptation; no product checkbox / radio is rendered. */
+
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-choicelist input + label,
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-choicelist input + label span {
+    color: var(--gpo-theme-text);
+    font-size: 1rem;
+    line-height: 1.5;
+}
+
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-choicelist input + label::before {
+    width: 18px;
+    height: 18px;
+    border: 1px solid var(--gpo-theme-border);
+    background: var(--gpo-theme-bg);
+    box-shadow: none;
+}
+
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-choicelist input:checked + label::before {
+    border-color: var(--gpo-theme-accent);
+}
+
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-choicelist input + label::after {
+    background: var(--gpo-theme-accent);
+}
+
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-choicelist.gpo-checkbox input:checked + label::before {
+    background: var(--gpo-theme-accent);
+}
+
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-choicelist.gpo-checkbox input + label::after {
+    content: "";
+    left: 3px;
+    right: auto;
+    width: 12px;
+    height: 9px;
+    background: var(--gpo-theme-bg);
+    mask: var(--gpo-theme-check) center / 12px 9px no-repeat;
+}
+
+/* Dropdown / Select: source mapping to .product-variant-picker__drop-header */
+
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-select,
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-dropdown .dropdown-button {
+    display: flex;
+    align-items: center;
+    position: relative;
+    width: 100%;
+    min-height: var(--gpo-theme-select-height);
+    border: 2px solid var(--gpo-theme-pill-border);
+    border-radius: 0;
+    color: var(--gpo-theme-text);
+    background: transparent;
+    box-shadow: none;
+    outline: none;
+    font-size: 1.1rem;
+    font-weight: 400;
+    line-height: calc(1em + .5rem);
+    transition: none;
+}
+
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-select:focus-within,
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-dropdown.expanded .dropdown-button {
+    border-color: var(--gpo-theme-accent);
+}
+
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-select select {
+    flex: 1;
+    align-self: stretch;
+    min-width: 0;
+    max-width: none;
+    min-height: calc(var(--gpo-theme-select-height) - 4px);
+    height: auto;
+    margin: 0;
+    padding: .8rem 2rem .8rem 1rem;
+    border: 0;
+    border-radius: 0;
+    background-image: none !important;
+    color: inherit;
+    font: inherit;
+    appearance: none;
+}
+
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-select select:focus,
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-select select:focus-visible {
+    outline: none;
+    box-shadow: none;
+}
+
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-dropdown .dropdown-button {
+    justify-content: flex-start;
+    padding: .8rem 2rem .8rem 1rem;
+}
+
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-dropdown .dropdown-button__value {
+    flex: 1;
+    min-width: 0;
+    line-height: inherit;
+}
+
+/* Arrow: like .drop-down__header-icon (12px SVG, thin rounded stroke) */
+
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-select::after,
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-dropdown .dropdown-button::after {
+    content: "";
+    position: absolute;
+    top: calc(50% - 6px);
+    right: 1rem;
+    width: 12px;
+    height: 12px;
+    border: 0;
+    background: currentColor;
+    mask: var(--gpo-theme-chevron) center / contain no-repeat;
+    transform: none;
+    transition: transform .2s linear;
+    pointer-events: none;
+}
+
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-dropdown .dropdown-button__icon {
+    display: none !important;
+}
+
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-dropdown.expanded .dropdown-button::after {
+    transform: rotate(180deg);
+}
+
+/* List: .drop-down__drop opens immediately; keep its shadow and scrolling. */
+
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-dropdown .dropdown-list {
+    top: calc(100% + 5px);
+    margin: 0;
+    padding: 0;
+    border: 0;
+    border-radius: 0;
+    background: var(--color-scheme-background-l10);
+    color: var(--gpo-theme-text);
+    box-shadow: 0 2px 15px #00000080;
+    max-height: 0;
+    visibility: hidden;
+    opacity: 1;
+    transform: none;
+    transition: none;
+    scrollbar-width: thin;
+    scrollbar-color: var(--gpo-theme-border) var(--gpo-theme-bg);
+}
+
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-dropdown.expanded .dropdown-list,
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-dropdown.expanded.gpo-image-dropdown .dropdown-list,
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-dropdown.expanded.gpo-color-dropdown .dropdown-list {
+    max-height: min(400px, 50vh);
+    visibility: visible;
+}
+
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-dropdown input + label {
+    min-height: 0;
+    height: auto;
+    margin: 0;
+    padding: .8rem 1rem;
+    color: var(--gpo-theme-text);
+    background: transparent;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    white-space: normal;
+    transition: none;
+}
+
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-dropdown .dropdown-item,
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-dropdown .dropdown-item:hover,
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-dropdown.gpo-image-dropdown .dropdown-item,
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-dropdown.gpo-color-dropdown .dropdown-item {
+    min-height: 0;
+    height: auto;
+    line-height: normal;
+    background: transparent;
+}
+
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-dropdown .dropdown-item:not(:last-child) {
+    border-bottom: 1px solid var(--gpo-theme-border);
+}
+
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-dropdown input:checked + label {
+    font-weight: 700;
+    color: var(--gpo-theme-text);
+    background: transparent;
+}
+
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-dropdown input:checked + label::after {
+    content: none;
+}
+
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-dropdown .dropdown-item__value {
+    line-height: inherit;
+}
+
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-dropdown .dropdown-suggestion {
+    height: var(--gpo-theme-input-height);
+    border: 1px solid var(--gpo-theme-border);
+    border-radius: 0;
+    padding: .375rem .75rem;
+    color: var(--gpo-theme-text);
+    background: var(--gpo-theme-bg);
+    font-size: 1rem;
+}
+
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-dropdown .dropdown-suggestion:focus {
+    border-color: var(--gpo-theme-text);
+}
+
+/* Input: .form-control__input / .form-control__textarea from lib-core.css */
+
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-input-wrap,
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-dimension-input-wrap {
+    min-width: 0;
+    width: 100%;
+    border: 1px solid var(--gpo-theme-border);
+    border-radius: 0;
+    background: var(--gpo-theme-bg);
+    box-shadow: none;
+}
+
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-input-wrap:focus-within,
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-dimension-input-wrap:focus-within {
+    border-color: var(--gpo-theme-text);
+}
+
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-input,
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-dimension-input {
+    min-width: 0;
+    max-width: none;
+    padding: .375rem .75rem;
+    border: 0;
+    border-radius: 0 !important;
+    color: var(--gpo-theme-text);
+    background: transparent;
+    box-shadow: none;
+    font-size: 1rem;
+    font-weight: var(--glob-body-font-weight, 400);
+    line-height: 1.5;
+    outline: none;
+}
+
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-input:not(.gpo-textarea),
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-dimension-input:not(.gpo-textarea) {
+    min-height: calc(var(--gpo-theme-input-height) - 2px);
+}
+
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-input.gpo-textarea {
+    min-height: 6rem;
+    padding: .375rem .75rem;
+    line-height: 1.5;
+}
+
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-input:focus,
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-dimension-input:focus {
+    outline: none;
+    box-shadow: none;
+}
+
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-input::placeholder,
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-dimension-input::placeholder {
+    color: var(--gpo-theme-muted);
+}
+
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-input-prefix,
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-input-suffix {
+    padding: 0 .75rem;
+    color: var(--gpo-theme-muted);
+    font-size: 1rem;
+    line-height: 1.5;
+}
+
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-input-wrap .gpo-input-prefix + .gpo-input {
+    padding-left: 0;
+}
+
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-dropdown .dropdown-button .gpo-input-prefix {
+    padding: 0 .5rem 0 0;
+}
+
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-dimension-input {
+    padding-right: 3rem;
+}
+
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-dimension-unit {
+    padding: 0 .75rem;
+    border-left: 1px solid var(--gpo-theme-border);
+    color: var(--gpo-theme-muted);
+    background: transparent;
+    line-height: 1.5;
+}
+
+body[data-gpo-theme-store-id="3520"] .gpo-app .iti {
+    min-height: 0;
+    border-radius: 0;
+    border-color: var(--gpo-theme-border);
+    background: var(--gpo-theme-bg);
+}
+
+body[data-gpo-theme-store-id="3520"] .gpo-app .iti:focus-within {
+    border-color: var(--gpo-theme-text);
+}
+
+body[data-gpo-theme-store-id="3520"] .gpo-app .iti--separate-dial-code .iti__selected-flag {
+    color: var(--gpo-theme-text);
+    background: transparent;
+}
+
+body[data-gpo-theme-store-id="3520"] .gpo-app .iti__country-list {
+    max-width: min(100%, calc(100vw - 2rem));
+    border: 1px solid var(--gpo-theme-border);
+    border-radius: 0;
+    color: var(--gpo-theme-text);
+    background: var(--gpo-theme-bg);
+}
+
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-color-box .preview-btn {
+    border-radius: 0;
+}
+
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-color-box .gpo-color {
+    padding-left: 68px;
+}
+
+/* File upload: theme field colors */
+
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-dropzone {
+    border: 1px dashed var(--gpo-theme-border);
+    border-radius: 0;
+    background: var(--gpo-theme-bg);
+}
+
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-dropzone:hover {
+    border-color: var(--gpo-theme-text) !important;
+    background: var(--gpo-theme-bg);
+}
+
+/* Action: like the product .button--variant--outline.button--size--lg */
+
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-dropzone__action {
+    padding: 1em 1.5em;
+    border: 2px solid var(--gpo-theme-accent);
+    border-radius: var(--gpo-theme-radius);
+    color: var(--gpo-theme-accent);
+    background: transparent;
+    box-shadow: none;
+    font-family: var(--glob-button-font);
+    font-size: 1.25rem;
+    font-weight: var(--glob-button-weight);
+    letter-spacing: calc(var(--glob-button-letter-spacing) * .1em);
+    text-transform: var(--glob-button-text-transform);
+    line-height: 1.2;
+    transition: color .3s, background-color .3s;
+}
+
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-dropzone:hover .gpo-dropzone__action {
+    color: var(--color-scheme-button-text);
+    background: var(--gpo-theme-accent);
+}
+
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-dropzone__caption,
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-f-name,
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-uploading span {
+    color: var(--gpo-theme-muted);
+    font-size: calc(var(--glob-text-scale-xs) * 1rem);
+    font-weight: 400;
+    line-height: 1.5;
+}
+
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-f-card,
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-uploading {
+    border: 1px solid var(--gpo-theme-border);
+    border-radius: 0;
+    color: var(--gpo-theme-text);
+    background: var(--gpo-theme-bg);
+}
+
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-f-link {
+    color: var(--gpo-theme-text);
+}
+
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-f-link img {
+    border: 0;
+    border-radius: 0;
+}
+
+/* Remove */
+
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-f-rm {
+    border: 1px solid var(--gpo-theme-accent);
+    border-radius: var(--gpo-theme-radius);
+    color: var(--gpo-theme-accent);
+    background: transparent;
+}
+
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-f-rm:hover {
+    color: var(--color-scheme-button-text);
+    background: var(--gpo-theme-accent);
+}
+
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-uploading::after {
+    border-color: var(--gpo-theme-accent) var(--gpo-theme-accent) var(--gpo-theme-accent) transparent;
+}
+
+/* Switch: theme-color adaptation */
+
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-switch input + label,
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-switch input + label span {
+    color: var(--gpo-theme-text);
+    font-size: 1rem;
+}
+
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-switch input + label::before {
+    background: var(--gpo-theme-border);
+}
+
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-switch input:checked + label::before {
+    background: var(--gpo-theme-accent);
+}
+
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-switch input + label::after {
+    background: var(--gpo-theme-bg);
+}
+
+/* Range: theme-color adaptation */
+
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-range .gpo-range-input {
+    min-height: 0;
+    padding: 0;
+    border: 0;
+    box-shadow: none;
+    background: transparent;
+}
+
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-range .gpo-range-input::-webkit-slider-runnable-track {
+    background: linear-gradient(to right, var(--gpo-theme-accent) var(--progress), var(--gpo-theme-border) var(--progress));
+}
+
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-range .gpo-range-input::-moz-range-track {
+    background: var(--gpo-theme-border);
+}
+
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-range .gpo-range-input::-moz-range-progress {
+    background: var(--gpo-theme-accent);
+}
+
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-range .gpo-range-input::-webkit-slider-thumb {
+    background: var(--gpo-theme-accent);
+}
+
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-range .gpo-range-input::-moz-range-thumb {
+    background: var(--gpo-theme-accent);
+}
+
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-range-tooltip {
+    border-radius: 0;
+    color: var(--gpo-theme-bg);
+    background: var(--gpo-theme-text);
+}
+
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-range-tooltip::after {
+    border-top-color: var(--gpo-theme-text);
+}
+
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-range-min,
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-range-max {
+    color: var(--gpo-theme-muted);
+    font-size: calc(var(--glob-text-scale-xs) * 1rem);
+}
+
+/* Tabs */
+
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-tabs .gpo-tabs-tabpanel .gpo-tabs-tabcontent {
+    padding: 1.5rem 0 0;
+    border: 0;
+    border-radius: 0;
+    color: var(--gpo-theme-text);
+    background: transparent;
+    font-size: 1rem;
+    line-height: 1.5;
+}
+
+/* Horizontal: like .tabs__nav-item__button (underlined active label) */
+
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-tabs:not(.gpo-tabs-vertical) {
+    column-gap: 2rem;
+}
+
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-tabs:not(.gpo-tabs-vertical) .gpo-tabs-title .gpo-tabs-tab {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    border-radius: 0;
+    color: var(--gpo-theme-muted);
+    background: transparent;
+    font-family: var(--glob-body-font);
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    text-decoration: none;
+}
+
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-tabs:not(.gpo-tabs-vertical) .gpo-tabs-title .gpo-tabs-tab.gpo-tab-active {
+    color: var(--gpo-theme-text);
+    background: transparent;
+    text-decoration: underline;
+    text-underline-offset: .2em;
+}
+
+/* Vertical: like .collapse / .collapse__header */
+
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-tabs.gpo-tabs-vertical {
+    border-width: 1px 0;
+    border-color: var(--gpo-theme-border);
+    border-radius: 0;
+    background: transparent;
+}
+
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-tabs.gpo-tabs-vertical .gpo-tabs-title .gpo-tabs-tab,
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-tabs.gpo-tabs-vertical .gpo-tabs-title .gpo-tabs-tab.gpo-tab-active {
+    flex-direction: row;
+    margin: 0;
+    padding: 1rem 0;
+    border-color: var(--gpo-theme-border);
+    color: var(--gpo-theme-text);
+    background: transparent;
+    font-family: var(--glob-heading-font);
+    font-size: 1rem;
+    font-weight: var(--glob-heading-font-weight);
+    line-height: 1.5;
+}
+
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-tabs.gpo-tabs-vertical .gpo-tabs-title .gpo-tabs-tab::before {
+    display: none;
+}
+
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-tabs.gpo-tabs-vertical .gpo-tabs-title .gpo-tabs-tab::after {
+    content: "";
+    flex: 0 0 14px;
+    width: 14px;
+    height: 14px;
+    background: currentColor;
+    mask: var(--glob-svg-arrow-down) center / contain no-repeat;
+    transform: none;
+    transition: transform .2s linear;
+}
+
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-tabs.gpo-tabs-vertical .gpo-tabs-title .gpo-tabs-tab.gpo-tab-active::after {
+    transform: rotate(180deg);
+}
+
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-tabs.gpo-tabs-vertical .gpo-tabs-tabpanel {
+    transition: none;
+}
+
+body[data-gpo-theme-store-id="3520"] .gpo-app .gpo-tabs.gpo-tabs-vertical .gpo-tabs-tabpanel .gpo-tabs-tabcontent {
+    padding: 0 0 1rem;
+}
+  

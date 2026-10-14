@@ -1,0 +1,53 @@
+{
+  "dropdown": {
+    "bottom": 366.4453125,
+    "height": 119.8359375,
+    "left": 171.59375,
+    "right": 658.5390625,
+    "top": 246.609375,
+    "width": 486.9453125,
+    "x": 171.59375,
+    "y": 246.609375
+  },
+  "labels": [
+    {
+      "colon": "\":\"",
+      "label": "Select",
+      "margin": "0px",
+      "selected": "option_2"
+    },
+    {
+      "colon": "\":\"",
+      "label": "Dropdown",
+      "margin": "0px",
+      "selected": "option_2"
+    },
+    {
+      "colon": "none",
+      "label": "Image Dropdown",
+      "margin": "0px",
+      "selected": ""
+    },
+    {
+      "colon": "none",
+      "label": "Font Picker",
+      "margin": "0px",
+      "selected": "-- Select a font --\n          \n        \n        \n                                            \n              \n              \n                Roboto\n              \n            \n                                  \n              \n              \n                Open Sans\n              \n            \n                                  \n              \n              \n                Montserrat\n              \n            \n                                  \n              \n              \n                Poppins\n              \n            \n                                  \n              \n              \n                Oswald"
+    }
+  ],
+  "loaded": true,
+  "select": {
+    "bottom": 246.609375,
+    "height": 124.8359375,
+    "left": 171.59375,
+    "right": 658.5390625,
+    "top": 121.7734375,
+    "width": 486.9453125,
+    "x": 171.59375,
+    "y": 121.7734375
+  },
+  "viewport": [
+    1838,
+    907
+  ]
+}

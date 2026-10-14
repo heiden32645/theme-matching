@@ -1,0 +1,2249 @@
+{
+  "contact": [
+    {
+      "cls": "field__input ml_textfield",
+      "html": "<input class=\"field__input ml_textfield\" autocomplete=\"name\" type=\"text\" id=\"ContactForm-name\" name=\"contact[Name]\" value=\"\" placeholder=\"Name\">",
+      "rect": {
+        "h": 45,
+        "w": 538
+      },
+      "sel": "#ContactForm-name",
+      "styles": [
+        {
+          "css": {
+            "background-color": "rgb(255, 255, 255)",
+            "border": "1px solid rgb(227, 227, 227)",
+            "border-radius": "4px",
+            "box-shadow": "none",
+            "color": "rgb(39, 37, 55)",
+            "content": "normal",
+            "font-family": "Dosis, sans-serif",
+            "font-size": "14px",
+            "font-weight": "400",
+            "height": "45px",
+            "letter-spacing": "0.4px",
+            "line-height": "21px",
+            "margin": "1px",
+            "opacity": "1",
+            "outline": "rgb(39, 37, 55) none 3px",
+            "padding": "16px",
+            "transform": "none",
+            "transition": "0.1s ease-in-out",
+            "width": "538px"
+          },
+          "pseudo": null
+        },
+        {
+          "css": {
+            "background-color": "rgba(0, 0, 0, 0)",
+            "border": "0px none rgb(39, 37, 55)",
+            "border-radius": "0px",
+            "box-shadow": "none",
+            "color": "rgb(39, 37, 55)",
+            "content": "none",
+            "font-family": "Dosis, sans-serif",
+            "font-size": "14px",
+            "font-weight": "400",
+            "height": "auto",
+            "letter-spacing": "0.4px",
+            "line-height": "21px",
+            "margin": "0px",
+            "opacity": "1",
+            "outline": "rgb(39, 37, 55) none 3px",
+            "padding": "0px",
+            "transform": "none",
+            "transition": "all",
+            "width": "auto"
+          },
+          "pseudo": "::before"
+        },
+        {
+          "css": {
+            "background-color": "rgba(0, 0, 0, 0)",
+            "border": "0px none rgb(39, 37, 55)",
+            "border-radius": "0px",
+            "box-shadow": "none",
+            "color": "rgb(39, 37, 55)",
+            "content": "none",
+            "font-family": "Dosis, sans-serif",
+            "font-size": "14px",
+            "font-weight": "400",
+            "height": "auto",
+            "letter-spacing": "0.4px",
+            "line-height": "21px",
+            "margin": "0px",
+            "opacity": "1",
+            "outline": "rgb(39, 37, 55) none 3px",
+            "padding": "0px",
+            "transform": "none",
+            "transition": "all",
+            "width": "auto"
+          },
+          "pseudo": "::after"
+        }
+      ]
+    },
+    {
+      "cls": "text-area ml_textfield ml_textarea",
+      "html": "<textarea rows=\"10\" id=\"ContactForm-body\" aria-required=\"true\" class=\"text-area ml_textfield ml_textarea\" name=\"contact[Comment]\" placeholder=\"Comment\" required=\"\"></textarea>",
+      "rect": {
+        "h": 100,
+        "w": 1098
+      },
+      "sel": "#ContactForm-body",
+      "styles": [
+        {
+          "css": {
+            "background-color": "rgb(255, 255, 255)",
+            "border": "1px solid rgb(227, 227, 227)",
+            "border-radius": "4px",
+            "box-shadow": "none",
+            "color": "rgb(39, 37, 55)",
+            "content": "normal",
+            "font-family": "Dosis, sans-serif",
+            "font-size": "14px",
+            "font-weight": "400",
+            "height": "100px",
+            "letter-spacing": "normal",
+            "line-height": "normal",
+            "margin": "1px",
+            "opacity": "1",
+            "outline": "rgb(39, 37, 55) none 3px",
+            "padding": "16px",
+            "transform": "none",
+            "transition": "0.1s ease-in-out",
+            "width": "1098px"
+          },
+          "pseudo": null
+        },
+        {
+          "css": {
+            "background-color": "rgba(0, 0, 0, 0)",
+            "border": "0px none rgb(39, 37, 55)",
+            "border-radius": "0px",
+            "box-shadow": "none",
+            "color": "rgb(39, 37, 55)",
+            "content": "none",
+            "font-family": "Dosis, sans-serif",
+            "font-size": "14px",
+            "font-weight": "400",
+            "height": "auto",
+            "letter-spacing": "normal",
+            "line-height": "normal",
+            "margin": "0px",
+            "opacity": "1",
+            "outline": "rgb(39, 37, 55) none 3px",
+            "padding": "0px",
+            "transform": "none",
+            "transition": "all",
+            "width": "auto"
+          },
+          "pseudo": "::before"
+        },
+        {
+          "css": {
+            "background-color": "rgba(0, 0, 0, 0)",
+            "border": "0px none rgb(39, 37, 55)",
+            "border-radius": "0px",
+            "box-shadow": "none",
+            "color": "rgb(39, 37, 55)",
+            "content": "none",
+            "font-family": "Dosis, sans-serif",
+            "font-size": "14px",
+            "font-weight": "400",
+            "height": "auto",
+            "letter-spacing": "normal",
+            "line-height": "normal",
+            "margin": "0px",
+            "opacity": "1",
+            "outline": "rgb(39, 37, 55) none 3px",
+            "padding": "0px",
+            "transform": "none",
+            "transition": "all",
+            "width": "auto"
+          },
+          "pseudo": "::after"
+        }
+      ]
+    },
+    {
+      "cls": "field",
+      "html": "<div class=\"field\">\n          <input class=\"field__input ml_textfield\" autocomplete=\"name\" type=\"text\" id=\"ContactForm-name\" name=\"contact[Name]\" value=\"\" placeholder=\"Name\">\n          <label class=\"field__label ml_textfield_label\" for=\"ContactForm-name\">Name</label>\n        </div>",
+      "rect": {
+        "h": 47,
+        "w": 540
+      },
+      "sel": "#ContactForm .field",
+      "styles": [
+        {
+          "css": {
+            "background-color": "rgba(0, 0, 0, 0)",
+            "border": "0px none rgb(0, 0, 0)",
+            "border-radius": "0px",
+            "box-shadow": "none",
+            "color": "rgb(0, 0, 0)",
+            "content": "normal",
+            "font-family": "Dosis, sans-serif",
+            "font-size": "16px",
+            "font-weight": "400",
+            "height": "47px",
+            "letter-spacing": "0.6px",
+            "line-height": "28.8px",
+            "margin": "0px 0px 20px",
+            "opacity": "1",
+            "outline": "rgb(0, 0, 0) none 3px",
+            "padding": "0px",
+            "transform": "none",
+            "transition": "box-shadow 0.1s",
+            "width": "540px"
+          },
+          "pseudo": null
+        },
+        {
+          "css": {
+            "background-color": "rgba(0, 0, 0, 0)",
+            "border": "0px none rgb(0, 0, 0)",
+            "border-radius": "0px",
+            "box-shadow": "none",
+            "color": "rgb(0, 0, 0)",
+            "content": "\"\"",
+            "font-family": "Dosis, sans-serif",
+            "font-size": "16px",
+            "font-weight": "400",
+            "height": "47px",
+            "letter-spacing": "0.6px",
+            "line-height": "28.8px",
+            "margin": "0px",
+            "opacity": "1",
+            "outline": "rgb(0, 0, 0) none 3px",
+            "padding": "0px",
+            "transform": "none",
+            "transition": "all",
+            "width": "540px"
+          },
+          "pseudo": "::before"
+        },
+        {
+          "css": {
+            "background-color": "rgba(0, 0, 0, 0)",
+            "border": "1px solid rgba(0, 0, 0, 0)",
+            "border-radius": "4px",
+            "box-shadow": "none",
+            "color": "rgb(0, 0, 0)",
+            "content": "\"\"",
+            "font-family": "Dosis, sans-serif",
+            "font-size": "16px",
+            "font-weight": "400",
+            "height": "45px",
+            "letter-spacing": "0.6px",
+            "line-height": "28.8px",
+            "margin": "0px",
+            "opacity": "1",
+            "outline": "rgb(0, 0, 0) none 3px",
+            "padding": "0px",
+            "transform": "none",
+            "transition": "all",
+            "width": "538px"
+          },
+          "pseudo": "::after"
+        }
+      ]
+    },
+    {
+      "cls": "field field--with-error",
+      "html": "<div class=\"field field--with-error\">\n          <input autocomplete=\"email\" type=\"email\" id=\"ContactForm-email\" class=\"field__input ml_textfield\" name=\"contact[email]\" spellcheck=\"false\" autocapitalize=\"off\" aria-required=\"true\" placeholder=\"Email\" pattern=\"^([a-zA-Z0-9_\\-\\.]+)@((\\[[0-9]{1,3}\\.[0-9]{1,3}\\.[0-9]{1,3}\\.)|(([a-zA-Z0-9\\-]+\\.)+))([a-zA-Z]{2,4}|[0-9]{1,3})(\\]?)$\" required=\"\">\n          <label class=\"field__label ml_textfield_label\" for=\"ContactForm-email\">Email\n            <span aria-hidden=\"true\">*</span></label></div>",
+      "rect": {
+        "h": 47,
+        "w": 540
+      },
+      "sel": "#ContactForm .field",
+      "styles": [
+        {
+          "css": {
+            "background-color": "rgba(0, 0, 0, 0)",
+            "border": "0px none rgb(0, 0, 0)",
+            "border-radius": "0px",
+            "box-shadow": "none",
+            "color": "rgb(0, 0, 0)",
+            "content": "normal",
+            "font-family": "Dosis, sans-serif",
+            "font-size": "16px",
+            "font-weight": "400",
+            "height": "47px",
+            "letter-spacing": "0.6px",
+            "line-height": "28.8px",
+            "margin": "0px 0px 20px",
+            "opacity": "1",
+            "outline": "rgb(0, 0, 0) none 3px",
+            "padding": "0px",
+            "transform": "none",
+            "transition": "box-shadow 0.1s",
+            "width": "540px"
+          },
+          "pseudo": null
+        },
+        {
+          "css": {
+            "background-color": "rgba(0, 0, 0, 0)",
+            "border": "0px none rgb(0, 0, 0)",
+            "border-radius": "0px",
+            "box-shadow": "none",
+            "color": "rgb(0, 0, 0)",
+            "content": "\"\"",
+            "font-family": "Dosis, sans-serif",
+            "font-size": "16px",
+            "font-weight": "400",
+            "height": "47px",
+            "letter-spacing": "0.6px",
+            "line-height": "28.8px",
+            "margin": "0px",
+            "opacity": "1",
+            "outline": "rgb(0, 0, 0) none 3px",
+            "padding": "0px",
+            "transform": "none",
+            "transition": "all",
+            "width": "540px"
+          },
+          "pseudo": "::before"
+        },
+        {
+          "css": {
+            "background-color": "rgba(0, 0, 0, 0)",
+            "border": "1px solid rgba(0, 0, 0, 0)",
+            "border-radius": "4px",
+            "box-shadow": "none",
+            "color": "rgb(0, 0, 0)",
+            "content": "\"\"",
+            "font-family": "Dosis, sans-serif",
+            "font-size": "16px",
+            "font-weight": "400",
+            "height": "45px",
+            "letter-spacing": "0.6px",
+            "line-height": "28.8px",
+            "margin": "0px",
+            "opacity": "1",
+            "outline": "rgb(0, 0, 0) none 3px",
+            "padding": "0px",
+            "transform": "none",
+            "transition": "all",
+            "width": "538px"
+          },
+          "pseudo": "::after"
+        }
+      ]
+    },
+    {
+      "cls": "field",
+      "html": "<div class=\"field\">\n        <input type=\"tel\" id=\"ContactForm-phone\" class=\"field__input ml_textfield\" autocomplete=\"tel\" name=\"contact[Phone number]\" pattern=\"[0-9\\-]*\" placeholder=\"Phone number\">\n        <label class=\"field__label ml_textfield_label\" for=\"ContactForm-phone\">Phone number</label>\n      </div>",
+      "rect": {
+        "h": 47,
+        "w": 1100
+      },
+      "sel": "#ContactForm .field",
+      "styles": [
+        {
+          "css": {
+            "background-color": "rgba(0, 0, 0, 0)",
+            "border": "0px none rgb(0, 0, 0)",
+            "border-radius": "0px",
+            "box-shadow": "none",
+            "color": "rgb(0, 0, 0)",
+            "content": "normal",
+            "font-family": "Dosis, sans-serif",
+            "font-size": "16px",
+            "font-weight": "400",
+            "height": "47px",
+            "letter-spacing": "0.6px",
+            "line-height": "28.8px",
+            "margin": "0px 0px 20px",
+            "opacity": "1",
+            "outline": "rgb(0, 0, 0) none 3px",
+            "padding": "0px",
+            "transform": "none",
+            "transition": "box-shadow 0.1s",
+            "width": "1100px"
+          },
+          "pseudo": null
+        },
+        {
+          "css": {
+            "background-color": "rgba(0, 0, 0, 0)",
+            "border": "0px none rgb(0, 0, 0)",
+            "border-radius": "0px",
+            "box-shadow": "none",
+            "color": "rgb(0, 0, 0)",
+            "content": "\"\"",
+            "font-family": "Dosis, sans-serif",
+            "font-size": "16px",
+            "font-weight": "400",
+            "height": "47px",
+            "letter-spacing": "0.6px",
+            "line-height": "28.8px",
+            "margin": "0px",
+            "opacity": "1",
+            "outline": "rgb(0, 0, 0) none 3px",
+            "padding": "0px",
+            "transform": "none",
+            "transition": "all",
+            "width": "1100px"
+          },
+          "pseudo": "::before"
+        },
+        {
+          "css": {
+            "background-color": "rgba(0, 0, 0, 0)",
+            "border": "1px solid rgba(0, 0, 0, 0)",
+            "border-radius": "4px",
+            "box-shadow": "none",
+            "color": "rgb(0, 0, 0)",
+            "content": "\"\"",
+            "font-family": "Dosis, sans-serif",
+            "font-size": "16px",
+            "font-weight": "400",
+            "height": "45px",
+            "letter-spacing": "0.6px",
+            "line-height": "28.8px",
+            "margin": "0px",
+            "opacity": "1",
+            "outline": "rgb(0, 0, 0) none 3px",
+            "padding": "0px",
+            "transform": "none",
+            "transition": "all",
+            "width": "1098px"
+          },
+          "pseudo": "::after"
+        }
+      ]
+    },
+    {
+      "cls": "button ml_button button_primary",
+      "html": "<button type=\"submit\" class=\"button ml_button button_primary\" aria-label=\"send\">\n          Send\n        </button>",
+      "rect": {
+        "h": 50,
+        "w": 98.8828125
+      },
+      "sel": "#ContactForm button",
+      "styles": [
+        {
+          "css": {
+            "background-color": "rgb(95, 104, 119)",
+            "border": "0px none rgb(255, 255, 255)",
+            "border-radius": "8px",
+            "box-shadow": "none",
+            "color": "rgb(255, 255, 255)",
+            "content": "normal",
+            "font-family": "Dosis, sans-serif",
+            "font-size": "16px",
+            "font-weight": "400",
+            "height": "50px",
+            "letter-spacing": "1px",
+            "line-height": "16px",
+            "margin": "0px",
+            "opacity": "1",
+            "outline": "rgb(255, 255, 255) none 3px",
+            "padding": "16px 32px",
+            "transform": "none",
+            "transition": "0.3s ease-in-out",
+            "width": "98.8828px"
+          },
+          "pseudo": null
+        },
+        {
+          "css": {
+            "background-color": "rgba(0, 0, 0, 0)",
+            "border": "0px none rgb(255, 255, 255)",
+            "border-radius": "0px",
+            "box-shadow": "none",
+            "color": "rgb(255, 255, 255)",
+            "content": "\"\"",
+            "font-family": "Dosis, sans-serif",
+            "font-size": "16px",
+            "font-weight": "400",
+            "height": "50px",
+            "letter-spacing": "1px",
+            "line-height": "16px",
+            "margin": "0px",
+            "opacity": "1",
+            "outline": "rgb(255, 255, 255) none 3px",
+            "padding": "0px",
+            "transform": "none",
+            "transition": "all",
+            "width": "98.8828px"
+          },
+          "pseudo": "::before"
+        },
+        {
+          "css": {
+            "background-color": "rgba(0, 0, 0, 0)",
+            "border": "0px none rgb(255, 255, 255)",
+            "border-radius": "0px",
+            "box-shadow": "none",
+            "color": "rgb(255, 255, 255)",
+            "content": "\"\"",
+            "font-family": "Dosis, sans-serif",
+            "font-size": "16px",
+            "font-weight": "400",
+            "height": "0px",
+            "letter-spacing": "1px",
+            "line-height": "16px",
+            "margin": "0px",
+            "opacity": "1",
+            "outline": "rgb(255, 255, 255) none 3px",
+            "padding": "0px",
+            "transform": "none",
+            "transition": "box-shadow 0.1s",
+            "width": "0px"
+          },
+          "pseudo": "::after"
+        }
+      ]
+    }
+  ],
+  "select": [
+    {
+      "cls": "facet-filters__sort select__select caption-large sort_select",
+      "html": "<select name=\"sort_by\" class=\"facet-filters__sort select__select caption-large sort_select\" id=\"SortBy\" aria-describedby=\"a11y-refresh-page-message\"><option value=\"manual\">\n                        Featured\n                      </option><option value=\"most-relevant\">\n                        Most relevant\n                      </option><option value=\"best-selling\" selected=\"selected\">\n                        Best selling\n                      </option><option value=\"title-ascending\">\n                        Alphabetically, A-Z\n                      </option><option value=\"title-descending\">\n   ",
+      "rect": {
+        "h": 45,
+        "w": 200
+      },
+      "sel": "#SortBy",
+      "styles": [
+        {
+          "css": {
+            "background-color": "rgb(255, 255, 255)",
+            "border": "1px solid rgb(227, 227, 227)",
+            "border-radius": "4px",
+            "box-shadow": "none",
+            "color": "rgb(39, 37, 55)",
+            "content": "normal",
+            "font-family": "Dosis, sans-serif",
+            "font-size": "12px",
+            "font-weight": "400",
+            "height": "45px",
+            "letter-spacing": "0.4px",
+            "line-height": "19.2px",
+            "margin": "1px",
+            "opacity": "1",
+            "outline": "rgb(39, 37, 55) none 3px",
+            "padding": "0px 20px",
+            "transform": "none",
+            "transition": "0.1s ease-in-out",
+            "width": "200px"
+          },
+          "pseudo": null
+        },
+        {
+          "css": {
+            "background-color": "rgba(0, 0, 0, 0)",
+            "border": "0px none rgb(39, 37, 55)",
+            "border-radius": "0px",
+            "box-shadow": "none",
+            "color": "rgb(39, 37, 55)",
+            "content": "none",
+            "font-family": "Dosis, sans-serif",
+            "font-size": "12px",
+            "font-weight": "400",
+            "height": "auto",
+            "letter-spacing": "0.4px",
+            "line-height": "19.2px",
+            "margin": "0px",
+            "opacity": "1",
+            "outline": "rgb(39, 37, 55) none 3px",
+            "padding": "0px",
+            "transform": "none",
+            "transition": "all",
+            "width": "auto"
+          },
+          "pseudo": "::before"
+        },
+        {
+          "css": {
+            "background-color": "rgba(0, 0, 0, 0)",
+            "border": "0px none rgb(39, 37, 55)",
+            "border-radius": "0px",
+            "box-shadow": "none",
+            "color": "rgb(39, 37, 55)",
+            "content": "none",
+            "font-family": "Dosis, sans-serif",
+            "font-size": "12px",
+            "font-weight": "400",
+            "height": "auto",
+            "letter-spacing": "0.4px",
+            "line-height": "19.2px",
+            "margin": "0px",
+            "opacity": "1",
+            "outline": "rgb(39, 37, 55) none 3px",
+            "padding": "0px",
+            "transform": "none",
+            "transition": "all",
+            "width": "auto"
+          },
+          "pseudo": "::after"
+        }
+      ]
+    },
+    {
+      "cls": "icon icon-caret",
+      "html": "<svg aria-hidden=\"true\" focusable=\"false\" role=\"presentation\" class=\"icon icon-caret\" viewBox=\"0 0 10 6\">\n  <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z\" fill=\"currentColor\">\n</path></svg>",
+      "rect": {
+        "h": 6,
+        "w": 10
+      },
+      "sel": "#SortBy + svg",
+      "styles": [
+        {
+          "css": {
+            "background-color": "rgba(0, 0, 0, 0)",
+            "border": "0px none rgb(39, 37, 55)",
+            "border-radius": "0px",
+            "box-shadow": "none",
+            "color": "rgb(39, 37, 55)",
+            "content": "normal",
+            "font-family": "Dosis, sans-serif",
+            "font-size": "12px",
+            "font-weight": "400",
+            "height": "6px",
+            "letter-spacing": "0.7px",
+            "line-height": "20.4px",
+            "margin": "0px",
+            "opacity": "1",
+            "outline": "rgb(39, 37, 55) none 3px",
+            "padding": "0px",
+            "transform": "none",
+            "transition": "all",
+            "width": "10px"
+          },
+          "pseudo": null
+        },
+        {
+          "css": {
+            "background-color": "rgba(0, 0, 0, 0)",
+            "border": "0px none rgb(39, 37, 55)",
+            "border-radius": "0px",
+            "box-shadow": "none",
+            "color": "rgb(39, 37, 55)",
+            "content": "none",
+            "font-family": "Dosis, sans-serif",
+            "font-size": "12px",
+            "font-weight": "400",
+            "height": "auto",
+            "letter-spacing": "0.7px",
+            "line-height": "20.4px",
+            "margin": "0px",
+            "opacity": "1",
+            "outline": "rgb(39, 37, 55) none 3px",
+            "padding": "0px",
+            "transform": "none",
+            "transition": "all",
+            "width": "auto"
+          },
+          "pseudo": "::before"
+        },
+        {
+          "css": {
+            "background-color": "rgba(0, 0, 0, 0)",
+            "border": "0px none rgb(39, 37, 55)",
+            "border-radius": "0px",
+            "box-shadow": "none",
+            "color": "rgb(39, 37, 55)",
+            "content": "none",
+            "font-family": "Dosis, sans-serif",
+            "font-size": "12px",
+            "font-weight": "400",
+            "height": "auto",
+            "letter-spacing": "0.7px",
+            "line-height": "20.4px",
+            "margin": "0px",
+            "opacity": "1",
+            "outline": "rgb(39, 37, 55) none 3px",
+            "padding": "0px",
+            "transform": "none",
+            "transition": "all",
+            "width": "auto"
+          },
+          "pseudo": "::after"
+        }
+      ]
+    },
+    {
+      "cls": "",
+      "html": "<option value=\"manual\">\n                        Featured\n                      </option>",
+      "rect": {
+        "h": 0,
+        "w": 0
+      },
+      "sel": "#SortBy option",
+      "styles": [
+        {
+          "css": {
+            "background-color": "rgba(0, 0, 0, 0)",
+            "border": "0px none rgb(39, 37, 55)",
+            "border-radius": "0px",
+            "box-shadow": "none",
+            "color": "rgb(39, 37, 55)",
+            "content": "normal",
+            "font-family": "Dosis, sans-serif",
+            "font-size": "12px",
+            "font-weight": "400",
+            "height": "auto",
+            "letter-spacing": "0.4px",
+            "line-height": "19.2px",
+            "margin": "0px",
+            "opacity": "1",
+            "outline": "rgb(39, 37, 55) none 3px",
+            "padding": "0px 2px 1px",
+            "transform": "none",
+            "transition": "all",
+            "width": "auto"
+          },
+          "pseudo": null
+        },
+        {
+          "css": {
+            "background-color": "rgba(0, 0, 0, 0)",
+            "border": "0px none rgb(39, 37, 55)",
+            "border-radius": "0px",
+            "box-shadow": "none",
+            "color": "rgb(39, 37, 55)",
+            "content": "none",
+            "font-family": "Dosis, sans-serif",
+            "font-size": "12px",
+            "font-weight": "400",
+            "height": "auto",
+            "letter-spacing": "0.4px",
+            "line-height": "19.2px",
+            "margin": "0px",
+            "opacity": "1",
+            "outline": "rgb(39, 37, 55) none 3px",
+            "padding": "0px",
+            "transform": "none",
+            "transition": "all",
+            "width": "auto"
+          },
+          "pseudo": "::before"
+        },
+        {
+          "css": {
+            "background-color": "rgba(0, 0, 0, 0)",
+            "border": "0px none rgb(39, 37, 55)",
+            "border-radius": "0px",
+            "box-shadow": "none",
+            "color": "rgb(39, 37, 55)",
+            "content": "none",
+            "font-family": "Dosis, sans-serif",
+            "font-size": "12px",
+            "font-weight": "400",
+            "height": "auto",
+            "letter-spacing": "0.4px",
+            "line-height": "19.2px",
+            "margin": "0px",
+            "opacity": "1",
+            "outline": "rgb(39, 37, 55) none 3px",
+            "padding": "0px",
+            "transform": "none",
+            "transition": "all",
+            "width": "auto"
+          },
+          "pseudo": "::after"
+        }
+      ]
+    },
+    {
+      "cls": "",
+      "html": "<option value=\"most-relevant\">\n                        Most relevant\n                      </option>",
+      "rect": {
+        "h": 0,
+        "w": 0
+      },
+      "sel": "#SortBy option",
+      "styles": [
+        {
+          "css": {
+            "background-color": "rgba(0, 0, 0, 0)",
+            "border": "0px none rgb(39, 37, 55)",
+            "border-radius": "0px",
+            "box-shadow": "none",
+            "color": "rgb(39, 37, 55)",
+            "content": "normal",
+            "font-family": "Dosis, sans-serif",
+            "font-size": "12px",
+            "font-weight": "400",
+            "height": "auto",
+            "letter-spacing": "0.4px",
+            "line-height": "19.2px",
+            "margin": "0px",
+            "opacity": "1",
+            "outline": "rgb(39, 37, 55) none 3px",
+            "padding": "0px 2px 1px",
+            "transform": "none",
+            "transition": "all",
+            "width": "auto"
+          },
+          "pseudo": null
+        },
+        {
+          "css": {
+            "background-color": "rgba(0, 0, 0, 0)",
+            "border": "0px none rgb(39, 37, 55)",
+            "border-radius": "0px",
+            "box-shadow": "none",
+            "color": "rgb(39, 37, 55)",
+            "content": "none",
+            "font-family": "Dosis, sans-serif",
+            "font-size": "12px",
+            "font-weight": "400",
+            "height": "auto",
+            "letter-spacing": "0.4px",
+            "line-height": "19.2px",
+            "margin": "0px",
+            "opacity": "1",
+            "outline": "rgb(39, 37, 55) none 3px",
+            "padding": "0px",
+            "transform": "none",
+            "transition": "all",
+            "width": "auto"
+          },
+          "pseudo": "::before"
+        },
+        {
+          "css": {
+            "background-color": "rgba(0, 0, 0, 0)",
+            "border": "0px none rgb(39, 37, 55)",
+            "border-radius": "0px",
+            "box-shadow": "none",
+            "color": "rgb(39, 37, 55)",
+            "content": "none",
+            "font-family": "Dosis, sans-serif",
+            "font-size": "12px",
+            "font-weight": "400",
+            "height": "auto",
+            "letter-spacing": "0.4px",
+            "line-height": "19.2px",
+            "margin": "0px",
+            "opacity": "1",
+            "outline": "rgb(39, 37, 55) none 3px",
+            "padding": "0px",
+            "transform": "none",
+            "transition": "all",
+            "width": "auto"
+          },
+          "pseudo": "::after"
+        }
+      ]
+    },
+    {
+      "cls": "",
+      "html": "<option value=\"best-selling\" selected=\"selected\">\n                        Best selling\n                      </option>",
+      "rect": {
+        "h": 0,
+        "w": 0
+      },
+      "sel": "#SortBy option",
+      "styles": [
+        {
+          "css": {
+            "background-color": "rgba(0, 0, 0, 0)",
+            "border": "0px none rgb(39, 37, 55)",
+            "border-radius": "0px",
+            "box-shadow": "none",
+            "color": "rgb(39, 37, 55)",
+            "content": "normal",
+            "font-family": "Dosis, sans-serif",
+            "font-size": "12px",
+            "font-weight": "400",
+            "height": "auto",
+            "letter-spacing": "0.4px",
+            "line-height": "19.2px",
+            "margin": "0px",
+            "opacity": "1",
+            "outline": "rgb(39, 37, 55) none 3px",
+            "padding": "0px 2px 1px",
+            "transform": "none",
+            "transition": "all",
+            "width": "auto"
+          },
+          "pseudo": null
+        },
+        {
+          "css": {
+            "background-color": "rgba(0, 0, 0, 0)",
+            "border": "0px none rgb(39, 37, 55)",
+            "border-radius": "0px",
+            "box-shadow": "none",
+            "color": "rgb(39, 37, 55)",
+            "content": "none",
+            "font-family": "Dosis, sans-serif",
+            "font-size": "12px",
+            "font-weight": "400",
+            "height": "auto",
+            "letter-spacing": "0.4px",
+            "line-height": "19.2px",
+            "margin": "0px",
+            "opacity": "1",
+            "outline": "rgb(39, 37, 55) none 3px",
+            "padding": "0px",
+            "transform": "none",
+            "transition": "all",
+            "width": "auto"
+          },
+          "pseudo": "::before"
+        },
+        {
+          "css": {
+            "background-color": "rgba(0, 0, 0, 0)",
+            "border": "0px none rgb(39, 37, 55)",
+            "border-radius": "0px",
+            "box-shadow": "none",
+            "color": "rgb(39, 37, 55)",
+            "content": "none",
+            "font-family": "Dosis, sans-serif",
+            "font-size": "12px",
+            "font-weight": "400",
+            "height": "auto",
+            "letter-spacing": "0.4px",
+            "line-height": "19.2px",
+            "margin": "0px",
+            "opacity": "1",
+            "outline": "rgb(39, 37, 55) none 3px",
+            "padding": "0px",
+            "transform": "none",
+            "transition": "all",
+            "width": "auto"
+          },
+          "pseudo": "::after"
+        }
+      ]
+    }
+  ],
+  "product": [
+    {
+      "cls": "form__label",
+      "html": "<legend class=\"form__label\">Size</legend>",
+      "rect": {
+        "h": 19.5,
+        "w": 25.2109375
+      },
+      "sel": "variant-radios .form__label",
+      "styles": [
+        {
+          "css": {
+            "background-color": "rgba(0, 0, 0, 0)",
+            "border": "0px none rgb(0, 0, 0)",
+            "border-radius": "0px",
+            "box-shadow": "none",
+            "color": "rgb(0, 0, 0)",
+            "content": "normal",
+            "font-family": "Dosis, sans-serif",
+            "font-size": "13px",
+            "font-weight": "700",
+            "height": "19.5px",
+            "letter-spacing": "0.4px",
+            "line-height": "19.5px",
+            "margin": "0px 0px 8px",
+            "opacity": "1",
+            "outline": "rgb(0, 0, 0) none 3px",
+            "padding": "0px 2px 0px 0px",
+            "transform": "none",
+            "transition": "all",
+            "width": "25.2109px"
+          },
+          "pseudo": null
+        },
+        {
+          "css": {
+            "background-color": "rgba(0, 0, 0, 0)",
+            "border": "0px none rgb(0, 0, 0)",
+            "border-radius": "0px",
+            "box-shadow": "none",
+            "color": "rgb(0, 0, 0)",
+            "content": "none",
+            "font-family": "Dosis, sans-serif",
+            "font-size": "13px",
+            "font-weight": "700",
+            "height": "auto",
+            "letter-spacing": "0.4px",
+            "line-height": "19.5px",
+            "margin": "0px",
+            "opacity": "1",
+            "outline": "rgb(0, 0, 0) none 3px",
+            "padding": "0px",
+            "transform": "none",
+            "transition": "all",
+            "width": "auto"
+          },
+          "pseudo": "::before"
+        },
+        {
+          "css": {
+            "background-color": "rgba(0, 0, 0, 0)",
+            "border": "0px none rgb(0, 0, 0)",
+            "border-radius": "0px",
+            "box-shadow": "none",
+            "color": "rgb(0, 0, 0)",
+            "content": "none",
+            "font-family": "Dosis, sans-serif",
+            "font-size": "13px",
+            "font-weight": "700",
+            "height": "auto",
+            "letter-spacing": "0.4px",
+            "line-height": "19.5px",
+            "margin": "0px",
+            "opacity": "1",
+            "outline": "rgb(0, 0, 0) none 3px",
+            "padding": "0px",
+            "transform": "none",
+            "transition": "all",
+            "width": "auto"
+          },
+          "pseudo": "::after"
+        }
+      ]
+    },
+    {
+      "cls": "form__label",
+      "html": "<legend class=\"form__label\">\n                            Color\n                            <span class=\"ml_color_choice_title\"> - blue</span>\n                          </legend>",
+      "rect": {
+        "h": 19.5,
+        "w": 68.59375
+      },
+      "sel": "variant-radios .form__label",
+      "styles": [
+        {
+          "css": {
+            "background-color": "rgba(0, 0, 0, 0)",
+            "border": "0px none rgb(0, 0, 0)",
+            "border-radius": "0px",
+            "box-shadow": "none",
+            "color": "rgb(0, 0, 0)",
+            "content": "normal",
+            "font-family": "Dosis, sans-serif",
+            "font-size": "13px",
+            "font-weight": "700",
+            "height": "19.5px",
+            "letter-spacing": "0.4px",
+            "line-height": "19.5px",
+            "margin": "0px 0px 8px",
+            "opacity": "1",
+            "outline": "rgb(0, 0, 0) none 3px",
+            "padding": "0px 2px 0px 0px",
+            "transform": "none",
+            "transition": "all",
+            "width": "68.5938px"
+          },
+          "pseudo": null
+        },
+        {
+          "css": {
+            "background-color": "rgba(0, 0, 0, 0)",
+            "border": "0px none rgb(0, 0, 0)",
+            "border-radius": "0px",
+            "box-shadow": "none",
+            "color": "rgb(0, 0, 0)",
+            "content": "none",
+            "font-family": "Dosis, sans-serif",
+            "font-size": "13px",
+            "font-weight": "700",
+            "height": "auto",
+            "letter-spacing": "0.4px",
+            "line-height": "19.5px",
+            "margin": "0px",
+            "opacity": "1",
+            "outline": "rgb(0, 0, 0) none 3px",
+            "padding": "0px",
+            "transform": "none",
+            "transition": "all",
+            "width": "auto"
+          },
+          "pseudo": "::before"
+        },
+        {
+          "css": {
+            "background-color": "rgba(0, 0, 0, 0)",
+            "border": "0px none rgb(0, 0, 0)",
+            "border-radius": "0px",
+            "box-shadow": "none",
+            "color": "rgb(0, 0, 0)",
+            "content": "none",
+            "font-family": "Dosis, sans-serif",
+            "font-size": "13px",
+            "font-weight": "700",
+            "height": "auto",
+            "letter-spacing": "0.4px",
+            "line-height": "19.5px",
+            "margin": "0px",
+            "opacity": "1",
+            "outline": "rgb(0, 0, 0) none 3px",
+            "padding": "0px",
+            "transform": "none",
+            "transition": "all",
+            "width": "auto"
+          },
+          "pseudo": "::after"
+        }
+      ]
+    },
+    {
+      "cls": "ml_variants_label",
+      "html": "<label tabindex=\"0\" aria-label=\"8\" class=\"ml_variants_label\" for=\"template--27979992563864__main-1-0\">\n                              8\n                            </label>",
+      "rect": {
+        "h": 48,
+        "w": 49
+      },
+      "sel": "variant-radios .ml_variants_label",
+      "styles": [
+        {
+          "css": {
+            "background-color": "rgb(95, 104, 119)",
+            "border": "1px solid rgb(95, 104, 119)",
+            "border-radius": "8px",
+            "box-shadow": "none",
+            "color": "rgb(255, 255, 255)",
+            "content": "normal",
+            "font-family": "Dosis, sans-serif",
+            "font-size": "14px",
+            "font-weight": "400",
+            "height": "48px",
+            "letter-spacing": "1px",
+            "line-height": "14px",
+            "margin": "0px 8px 8px 0px",
+            "opacity": "1",
+            "outline": "rgb(255, 255, 255) none 3px",
+            "padding": "16px",
+            "transform": "none",
+            "transition": "0.25s ease-in-out",
+            "width": "49px"
+          },
+          "pseudo": null
+        },
+        {
+          "css": {
+            "background-color": "rgba(0, 0, 0, 0)",
+            "border": "0px none rgb(255, 255, 255)",
+            "border-radius": "0px",
+            "box-shadow": "none",
+            "color": "rgb(255, 255, 255)",
+            "content": "\"\"",
+            "font-family": "Dosis, sans-serif",
+            "font-size": "14px",
+            "font-weight": "400",
+            "height": "0px",
+            "letter-spacing": "1px",
+            "line-height": "14px",
+            "margin": "0px",
+            "opacity": "1",
+            "outline": "rgb(255, 255, 255) none 3px",
+            "padding": "0px",
+            "transform": "none",
+            "transition": "all",
+            "width": "0px"
+          },
+          "pseudo": "::before"
+        },
+        {
+          "css": {
+            "background-color": "rgba(0, 0, 0, 0)",
+            "border": "0px none rgb(255, 255, 255)",
+            "border-radius": "0px",
+            "box-shadow": "none",
+            "color": "rgb(255, 255, 255)",
+            "content": "none",
+            "font-family": "Dosis, sans-serif",
+            "font-size": "14px",
+            "font-weight": "400",
+            "height": "auto",
+            "letter-spacing": "1px",
+            "line-height": "14px",
+            "margin": "0px",
+            "opacity": "1",
+            "outline": "rgb(255, 255, 255) none 3px",
+            "padding": "0px",
+            "transform": "none",
+            "transition": "all",
+            "width": "auto"
+          },
+          "pseudo": "::after"
+        }
+      ]
+    },
+    {
+      "cls": "ml_variants_label",
+      "html": "<label tabindex=\"0\" aria-label=\"9\" class=\"ml_variants_label\" for=\"template--27979992563864__main-1-1\">\n                              9\n                            </label>",
+      "rect": {
+        "h": 48,
+        "w": 49
+      },
+      "sel": "variant-radios .ml_variants_label",
+      "styles": [
+        {
+          "css": {
+            "background-color": "rgb(255, 255, 255)",
+            "border": "1px solid rgb(95, 104, 119)",
+            "border-radius": "8px",
+            "box-shadow": "none",
+            "color": "rgb(95, 104, 119)",
+            "content": "normal",
+            "font-family": "Dosis, sans-serif",
+            "font-size": "14px",
+            "font-weight": "400",
+            "height": "48px",
+            "letter-spacing": "1px",
+            "line-height": "14px",
+            "margin": "0px 8px 8px 0px",
+            "opacity": "1",
+            "outline": "rgb(95, 104, 119) none 3px",
+            "padding": "16px",
+            "transform": "none",
+            "transition": "0.25s ease-in-out",
+            "width": "49px"
+          },
+          "pseudo": null
+        },
+        {
+          "css": {
+            "background-color": "rgba(0, 0, 0, 0)",
+            "border": "0px none rgb(95, 104, 119)",
+            "border-radius": "0px",
+            "box-shadow": "none",
+            "color": "rgb(95, 104, 119)",
+            "content": "\"\"",
+            "font-family": "Dosis, sans-serif",
+            "font-size": "14px",
+            "font-weight": "400",
+            "height": "0px",
+            "letter-spacing": "1px",
+            "line-height": "14px",
+            "margin": "0px",
+            "opacity": "1",
+            "outline": "rgb(95, 104, 119) none 3px",
+            "padding": "0px",
+            "transform": "none",
+            "transition": "all",
+            "width": "0px"
+          },
+          "pseudo": "::before"
+        },
+        {
+          "css": {
+            "background-color": "rgba(0, 0, 0, 0)",
+            "border": "0px none rgb(95, 104, 119)",
+            "border-radius": "0px",
+            "box-shadow": "none",
+            "color": "rgb(95, 104, 119)",
+            "content": "none",
+            "font-family": "Dosis, sans-serif",
+            "font-size": "14px",
+            "font-weight": "400",
+            "height": "auto",
+            "letter-spacing": "1px",
+            "line-height": "14px",
+            "margin": "0px",
+            "opacity": "1",
+            "outline": "rgb(95, 104, 119) none 3px",
+            "padding": "0px",
+            "transform": "none",
+            "transition": "all",
+            "width": "auto"
+          },
+          "pseudo": "::after"
+        }
+      ]
+    },
+    {
+      "cls": "ml_variants_label",
+      "html": "<label tabindex=\"0\" aria-label=\"10\" class=\"ml_variants_label\" for=\"template--27979992563864__main-1-2\">\n                              10\n                            </label>",
+      "rect": {
+        "h": 48,
+        "w": 49
+      },
+      "sel": "variant-radios .ml_variants_label",
+      "styles": [
+        {
+          "css": {
+            "background-color": "rgb(255, 255, 255)",
+            "border": "1px solid rgb(95, 104, 119)",
+            "border-radius": "8px",
+            "box-shadow": "none",
+            "color": "rgb(95, 104, 119)",
+            "content": "normal",
+            "font-family": "Dosis, sans-serif",
+            "font-size": "14px",
+            "font-weight": "400",
+            "height": "48px",
+            "letter-spacing": "1px",
+            "line-height": "14px",
+            "margin": "0px 8px 8px 0px",
+            "opacity": "1",
+            "outline": "rgb(95, 104, 119) none 3px",
+            "padding": "16px",
+            "transform": "none",
+            "transition": "0.25s ease-in-out",
+            "width": "49px"
+          },
+          "pseudo": null
+        },
+        {
+          "css": {
+            "background-color": "rgba(0, 0, 0, 0)",
+            "border": "0px none rgb(95, 104, 119)",
+            "border-radius": "0px",
+            "box-shadow": "none",
+            "color": "rgb(95, 104, 119)",
+            "content": "\"\"",
+            "font-family": "Dosis, sans-serif",
+            "font-size": "14px",
+            "font-weight": "400",
+            "height": "0px",
+            "letter-spacing": "1px",
+            "line-height": "14px",
+            "margin": "0px",
+            "opacity": "1",
+            "outline": "rgb(95, 104, 119) none 3px",
+            "padding": "0px",
+            "transform": "none",
+            "transition": "all",
+            "width": "0px"
+          },
+          "pseudo": "::before"
+        },
+        {
+          "css": {
+            "background-color": "rgba(0, 0, 0, 0)",
+            "border": "0px none rgb(95, 104, 119)",
+            "border-radius": "0px",
+            "box-shadow": "none",
+            "color": "rgb(95, 104, 119)",
+            "content": "none",
+            "font-family": "Dosis, sans-serif",
+            "font-size": "14px",
+            "font-weight": "400",
+            "height": "auto",
+            "letter-spacing": "1px",
+            "line-height": "14px",
+            "margin": "0px",
+            "opacity": "1",
+            "outline": "rgb(95, 104, 119) none 3px",
+            "padding": "0px",
+            "transform": "none",
+            "transition": "all",
+            "width": "auto"
+          },
+          "pseudo": "::after"
+        }
+      ]
+    },
+    {
+      "cls": "",
+      "html": "<label tabindex=\"0\" aria-label=\"blue\" for=\"template--27979992563864__main-2-0\" data-file-url=\"\" data-color=\"blue\">\n                            </label>",
+      "rect": {
+        "h": 44,
+        "w": 44
+      },
+      "sel": "variant-radios .ml_color_swatches label",
+      "styles": [
+        {
+          "css": {
+            "background-color": "rgb(0, 0, 255)",
+            "border": "0px none rgb(255, 255, 255)",
+            "border-radius": "8px",
+            "box-shadow": "none",
+            "color": "rgb(255, 255, 255)",
+            "content": "normal",
+            "font-family": "Dosis, sans-serif",
+            "font-size": "14px",
+            "font-weight": "400",
+            "height": "44px",
+            "letter-spacing": "1px",
+            "line-height": "14px",
+            "margin": "0px 8px 0px 0px",
+            "opacity": "1",
+            "outline": "rgb(255, 255, 255) none 3px",
+            "padding": "16px",
+            "transform": "none",
+            "transition": "0.25s ease-in-out",
+            "width": "44px"
+          },
+          "pseudo": null
+        },
+        {
+          "css": {
+            "background-color": "rgba(0, 0, 0, 0)",
+            "border": "0px none rgb(255, 255, 255)",
+            "border-radius": "0px",
+            "box-shadow": "none",
+            "color": "rgb(255, 255, 255)",
+            "content": "\"\"",
+            "font-family": "Dosis, sans-serif",
+            "font-size": "14px",
+            "font-weight": "400",
+            "height": "0px",
+            "letter-spacing": "1px",
+            "line-height": "14px",
+            "margin": "0px",
+            "opacity": "1",
+            "outline": "rgb(255, 255, 255) none 3px",
+            "padding": "0px",
+            "transform": "none",
+            "transition": "all",
+            "width": "0px"
+          },
+          "pseudo": "::before"
+        },
+        {
+          "css": {
+            "background-color": "rgba(0, 0, 0, 0)",
+            "border": "1px solid rgb(211, 211, 211)",
+            "border-radius": "11px",
+            "box-shadow": "none",
+            "color": "rgb(255, 255, 255)",
+            "content": "\"\"",
+            "font-family": "Dosis, sans-serif",
+            "font-size": "14px",
+            "font-weight": "400",
+            "height": "38px",
+            "letter-spacing": "1px",
+            "line-height": "14px",
+            "margin": "0px",
+            "opacity": "1",
+            "outline": "rgb(255, 255, 255) none 3px",
+            "padding": "18px",
+            "transform": "matrix(1, 0, 0, 1, -19, -19)",
+            "transition": "0.25s ease-in-out",
+            "width": "38px"
+          },
+          "pseudo": "::after"
+        }
+      ]
+    },
+    {
+      "cls": "",
+      "html": "<label tabindex=\"0\" aria-label=\"red\" for=\"template--27979992563864__main-2-1\" data-file-url=\"\" data-color=\"red\">\n                            </label>",
+      "rect": {
+        "h": 44,
+        "w": 44
+      },
+      "sel": "variant-radios .ml_color_swatches label",
+      "styles": [
+        {
+          "css": {
+            "background-color": "rgb(255, 0, 0)",
+            "border": "0px none rgb(66, 140, 212)",
+            "border-radius": "8px",
+            "box-shadow": "none",
+            "color": "rgb(66, 140, 212)",
+            "content": "normal",
+            "font-family": "Dosis, sans-serif",
+            "font-size": "14px",
+            "font-weight": "400",
+            "height": "44px",
+            "letter-spacing": "1px",
+            "line-height": "14px",
+            "margin": "0px 8px 0px 0px",
+            "opacity": "1",
+            "outline": "rgb(66, 140, 212) none 3px",
+            "padding": "16px",
+            "transform": "none",
+            "transition": "0.25s ease-in-out",
+            "width": "44px"
+          },
+          "pseudo": null
+        },
+        {
+          "css": {
+            "background-color": "rgba(0, 0, 0, 0)",
+            "border": "0px none rgb(66, 140, 212)",
+            "border-radius": "0px",
+            "box-shadow": "none",
+            "color": "rgb(66, 140, 212)",
+            "content": "\"\"",
+            "font-family": "Dosis, sans-serif",
+            "font-size": "14px",
+            "font-weight": "400",
+            "height": "0px",
+            "letter-spacing": "1px",
+            "line-height": "14px",
+            "margin": "0px",
+            "opacity": "1",
+            "outline": "rgb(66, 140, 212) none 3px",
+            "padding": "0px",
+            "transform": "none",
+            "transition": "all",
+            "width": "0px"
+          },
+          "pseudo": "::before"
+        },
+        {
+          "css": {
+            "background-color": "rgba(0, 0, 0, 0)",
+            "border": "1px solid rgb(211, 211, 211)",
+            "border-radius": "11px",
+            "box-shadow": "none",
+            "color": "rgb(66, 140, 212)",
+            "content": "\"\"",
+            "font-family": "Dosis, sans-serif",
+            "font-size": "14px",
+            "font-weight": "400",
+            "height": "38px",
+            "letter-spacing": "1px",
+            "line-height": "14px",
+            "margin": "0px",
+            "opacity": "0",
+            "outline": "rgb(66, 140, 212) none 3px",
+            "padding": "18px",
+            "transform": "matrix(1, 0, 0, 1, -19, -19)",
+            "transition": "0.25s ease-in-out",
+            "width": "38px"
+          },
+          "pseudo": "::after"
+        }
+      ]
+    },
+    {
+      "cls": "",
+      "html": "<label tabindex=\"0\" aria-label=\"black\" for=\"template--27979992563864__main-2-2\" data-file-url=\"\" data-color=\"black\">\n                            </label>",
+      "rect": {
+        "h": 44,
+        "w": 44
+      },
+      "sel": "variant-radios .ml_color_swatches label",
+      "styles": [
+        {
+          "css": {
+            "background-color": "rgb(0, 0, 0)",
+            "border": "0px none rgb(66, 140, 212)",
+            "border-radius": "8px",
+            "box-shadow": "none",
+            "color": "rgb(66, 140, 212)",
+            "content": "normal",
+            "font-family": "Dosis, sans-serif",
+            "font-size": "14px",
+            "font-weight": "400",
+            "height": "44px",
+            "letter-spacing": "1px",
+            "line-height": "14px",
+            "margin": "0px 8px 0px 0px",
+            "opacity": "1",
+            "outline": "rgb(66, 140, 212) none 3px",
+            "padding": "16px",
+            "transform": "none",
+            "transition": "0.25s ease-in-out",
+            "width": "44px"
+          },
+          "pseudo": null
+        },
+        {
+          "css": {
+            "background-color": "rgba(0, 0, 0, 0)",
+            "border": "0px none rgb(66, 140, 212)",
+            "border-radius": "0px",
+            "box-shadow": "none",
+            "color": "rgb(66, 140, 212)",
+            "content": "\"\"",
+            "font-family": "Dosis, sans-serif",
+            "font-size": "14px",
+            "font-weight": "400",
+            "height": "0px",
+            "letter-spacing": "1px",
+            "line-height": "14px",
+            "margin": "0px",
+            "opacity": "1",
+            "outline": "rgb(66, 140, 212) none 3px",
+            "padding": "0px",
+            "transform": "none",
+            "transition": "all",
+            "width": "0px"
+          },
+          "pseudo": "::before"
+        },
+        {
+          "css": {
+            "background-color": "rgba(0, 0, 0, 0)",
+            "border": "1px solid rgb(211, 211, 211)",
+            "border-radius": "11px",
+            "box-shadow": "none",
+            "color": "rgb(66, 140, 212)",
+            "content": "\"\"",
+            "font-family": "Dosis, sans-serif",
+            "font-size": "14px",
+            "font-weight": "400",
+            "height": "38px",
+            "letter-spacing": "1px",
+            "line-height": "14px",
+            "margin": "0px",
+            "opacity": "0",
+            "outline": "rgb(66, 140, 212) none 3px",
+            "padding": "18px",
+            "transform": "matrix(1, 0, 0, 1, -19, -19)",
+            "transition": "0.25s ease-in-out",
+            "width": "38px"
+          },
+          "pseudo": "::after"
+        }
+      ]
+    },
+    {
+      "cls": "quantity",
+      "html": "<quantity-input class=\"quantity\">\n                  <button class=\"quantity__button no-js-hidden\" name=\"minus\" type=\"button\" aria-label=\"decrease quantity\">\n                    <span class=\"visually-hidden\">Decrease quantity for VANS |\nERA 59 MOROCCAN | GEO/DRESS BLUES</span>\n                    <svg xmlns=\"http://www.w3.org/2000/svg\" aria-hidden=\"true\" focusable=\"false\" role=\"presentation\" class=\"icon icon-minus\" fill=\"none\" viewBox=\"0 0 10 2\">\n  <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M.5 1C.5.7.7.5 1 .5h8a.5.5 0 110 1H1A.5.5 0 01.5 1z\" fill=\"currentColor\">\n</path></svg>\n\n          ",
+      "rect": {
+        "h": 50,
+        "w": 179.5
+      },
+      "sel": "quantity-input.quantity",
+      "styles": [
+        {
+          "css": {
+            "background-color": "rgba(0, 0, 0, 0)",
+            "border": "0px none rgb(0, 0, 0)",
+            "border-radius": "4px",
+            "box-shadow": "none",
+            "color": "rgb(0, 0, 0)",
+            "content": "normal",
+            "font-family": "Dosis, sans-serif",
+            "font-size": "16px",
+            "font-weight": "400",
+            "height": "50px",
+            "letter-spacing": "0.6px",
+            "line-height": "28.8px",
+            "margin": "0px",
+            "opacity": "1",
+            "outline": "rgb(0, 0, 0) none 3px",
+            "padding": "0px",
+            "transform": "none",
+            "transition": "all",
+            "width": "179.5px"
+          },
+          "pseudo": null
+        },
+        {
+          "css": {
+            "background-color": "rgba(0, 0, 0, 0)",
+            "border": "0px none rgb(0, 0, 0)",
+            "border-radius": "0px",
+            "box-shadow": "none",
+            "color": "rgb(0, 0, 0)",
+            "content": "none",
+            "font-family": "Dosis, sans-serif",
+            "font-size": "16px",
+            "font-weight": "400",
+            "height": "auto",
+            "letter-spacing": "0.6px",
+            "line-height": "28.8px",
+            "margin": "0px",
+            "opacity": "1",
+            "outline": "rgb(0, 0, 0) none 3px",
+            "padding": "0px",
+            "transform": "none",
+            "transition": "all",
+            "width": "auto"
+          },
+          "pseudo": "::before"
+        },
+        {
+          "css": {
+            "background-color": "rgba(0, 0, 0, 0)",
+            "border": "0px none rgb(0, 0, 0)",
+            "border-radius": "0px",
+            "box-shadow": "none",
+            "color": "rgb(0, 0, 0)",
+            "content": "none",
+            "font-family": "Dosis, sans-serif",
+            "font-size": "16px",
+            "font-weight": "400",
+            "height": "auto",
+            "letter-spacing": "0.6px",
+            "line-height": "28.8px",
+            "margin": "0px",
+            "opacity": "1",
+            "outline": "rgb(0, 0, 0) none 3px",
+            "padding": "0px",
+            "transform": "none",
+            "transition": "all",
+            "width": "auto"
+          },
+          "pseudo": "::after"
+        }
+      ]
+    },
+    {
+      "cls": "quantity__input",
+      "html": "<input class=\"quantity__input\" type=\"number\" name=\"quantity\" id=\"Quantity-template--27979992563864__main\" min=\"1\" value=\"1\" form=\"product-form-template--27979992563864__main\">",
+      "rect": {
+        "h": 50,
+        "w": 179.5
+      },
+      "sel": "quantity-input.quantity .quantity__input",
+      "styles": [
+        {
+          "css": {
+            "background-color": "rgba(0, 0, 0, 0)",
+            "border": "1px solid rgb(235, 235, 235)",
+            "border-radius": "8px",
+            "box-shadow": "none",
+            "color": "rgb(0, 0, 0)",
+            "content": "normal",
+            "font-family": "Arial",
+            "font-size": "14px",
+            "font-weight": "500",
+            "height": "50px",
+            "letter-spacing": "normal",
+            "line-height": "normal",
+            "margin": "0px",
+            "opacity": "0.85",
+            "outline": "rgb(0, 0, 0) none 3px",
+            "padding": "16px",
+            "transform": "none",
+            "transition": "0.25s ease-in-out",
+            "width": "179.5px"
+          },
+          "pseudo": null
+        },
+        {
+          "css": {
+            "background-color": "rgba(0, 0, 0, 0)",
+            "border": "0px none rgb(0, 0, 0)",
+            "border-radius": "0px",
+            "box-shadow": "none",
+            "color": "rgb(0, 0, 0)",
+            "content": "none",
+            "font-family": "Arial",
+            "font-size": "14px",
+            "font-weight": "500",
+            "height": "auto",
+            "letter-spacing": "normal",
+            "line-height": "normal",
+            "margin": "0px",
+            "opacity": "1",
+            "outline": "rgb(0, 0, 0) none 3px",
+            "padding": "0px",
+            "transform": "none",
+            "transition": "all",
+            "width": "auto"
+          },
+          "pseudo": "::before"
+        },
+        {
+          "css": {
+            "background-color": "rgba(0, 0, 0, 0)",
+            "border": "0px none rgb(0, 0, 0)",
+            "border-radius": "0px",
+            "box-shadow": "none",
+            "color": "rgb(0, 0, 0)",
+            "content": "none",
+            "font-family": "Arial",
+            "font-size": "14px",
+            "font-weight": "500",
+            "height": "auto",
+            "letter-spacing": "normal",
+            "line-height": "normal",
+            "margin": "0px",
+            "opacity": "1",
+            "outline": "rgb(0, 0, 0) none 3px",
+            "padding": "0px",
+            "transform": "none",
+            "transition": "all",
+            "width": "auto"
+          },
+          "pseudo": "::after"
+        }
+      ]
+    },
+    {
+      "cls": "quantity__button no-js-hidden",
+      "html": "<button class=\"quantity__button no-js-hidden\" name=\"minus\" type=\"button\" aria-label=\"decrease quantity\">\n                    <span class=\"visually-hidden\">Decrease quantity for VANS |\nERA 59 MOROCCAN | GEO/DRESS BLUES</span>\n                    <svg xmlns=\"http://www.w3.org/2000/svg\" aria-hidden=\"true\" focusable=\"false\" role=\"presentation\" class=\"icon icon-minus\" fill=\"none\" viewBox=\"0 0 10 2\">\n  <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M.5 1C.5.7.7.5 1 .5h8a.5.5 0 110 1H1A.5.5 0 01.5 1z\" fill=\"currentColor\">\n</path></svg>\n\n                  </button>",
+      "rect": {
+        "h": 44,
+        "w": 44
+      },
+      "sel": "quantity-input.quantity .quantity__button",
+      "styles": [
+        {
+          "css": {
+            "background-color": "rgba(0, 0, 0, 0)",
+            "border": "0px none rgb(0, 0, 0)",
+            "border-radius": "0px",
+            "box-shadow": "none",
+            "color": "rgb(0, 0, 0)",
+            "content": "normal",
+            "font-family": "Dosis, sans-serif",
+            "font-size": "18px",
+            "font-weight": "400",
+            "height": "44px",
+            "letter-spacing": "normal",
+            "line-height": "normal",
+            "margin": "0px",
+            "opacity": "1",
+            "outline": "rgb(0, 0, 0) none 3px",
+            "padding": "16px",
+            "transform": "matrix(1, 0, 0, 1, 0, -22)",
+            "transition": "0.25s ease-in",
+            "width": "44px"
+          },
+          "pseudo": null
+        },
+        {
+          "css": {
+            "background-color": "rgba(0, 0, 0, 0)",
+            "border": "0px none rgb(0, 0, 0)",
+            "border-radius": "0px",
+            "box-shadow": "none",
+            "color": "rgb(0, 0, 0)",
+            "content": "none",
+            "font-family": "Dosis, sans-serif",
+            "font-size": "18px",
+            "font-weight": "400",
+            "height": "auto",
+            "letter-spacing": "normal",
+            "line-height": "normal",
+            "margin": "0px",
+            "opacity": "1",
+            "outline": "rgb(0, 0, 0) none 3px",
+            "padding": "0px",
+            "transform": "none",
+            "transition": "all",
+            "width": "auto"
+          },
+          "pseudo": "::before"
+        },
+        {
+          "css": {
+            "background-color": "rgba(0, 0, 0, 0)",
+            "border": "0px none rgb(0, 0, 0)",
+            "border-radius": "0px",
+            "box-shadow": "none",
+            "color": "rgb(0, 0, 0)",
+            "content": "none",
+            "font-family": "Dosis, sans-serif",
+            "font-size": "18px",
+            "font-weight": "400",
+            "height": "auto",
+            "letter-spacing": "normal",
+            "line-height": "normal",
+            "margin": "0px",
+            "opacity": "1",
+            "outline": "rgb(0, 0, 0) none 3px",
+            "padding": "0px",
+            "transform": "none",
+            "transition": "all",
+            "width": "auto"
+          },
+          "pseudo": "::after"
+        }
+      ]
+    },
+    {
+      "cls": "quantity__button no-js-hidden",
+      "html": "<button class=\"quantity__button no-js-hidden\" name=\"plus\" type=\"button\" aria-label=\"increase quantity\">\n                    <span class=\"visually-hidden\">Increase quantity for VANS |\nERA 59 MOROCCAN | GEO/DRESS BLUES</span>\n                    <svg xmlns=\"http://www.w3.org/2000/svg\" aria-hidden=\"true\" focusable=\"false\" role=\"presentation\" class=\"icon icon-plus\" fill=\"none\" viewBox=\"0 0 10 10\">\n  <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M1 4.51a.5.5 0 000 1h3.5l.01 3.5a.5.5 0 001-.01V5.5l3.5-.01a.5.5 0 00-.01-1H5.5L5.49.99a.5.5 0 00-1 .01v3.5l-3.5.01H1z\" fill=\"currentColor\">\n</path></sv",
+      "rect": {
+        "h": 44,
+        "w": 44
+      },
+      "sel": "quantity-input.quantity .quantity__button",
+      "styles": [
+        {
+          "css": {
+            "background-color": "rgba(0, 0, 0, 0)",
+            "border": "0px none rgb(0, 0, 0)",
+            "border-radius": "0px",
+            "box-shadow": "none",
+            "color": "rgb(0, 0, 0)",
+            "content": "normal",
+            "font-family": "Dosis, sans-serif",
+            "font-size": "18px",
+            "font-weight": "400",
+            "height": "44px",
+            "letter-spacing": "normal",
+            "line-height": "normal",
+            "margin": "0px",
+            "opacity": "1",
+            "outline": "rgb(0, 0, 0) none 3px",
+            "padding": "16px",
+            "transform": "matrix(1, 0, 0, 1, 0, -22)",
+            "transition": "0.25s ease-in",
+            "width": "44px"
+          },
+          "pseudo": null
+        },
+        {
+          "css": {
+            "background-color": "rgba(0, 0, 0, 0)",
+            "border": "0px none rgb(0, 0, 0)",
+            "border-radius": "0px",
+            "box-shadow": "none",
+            "color": "rgb(0, 0, 0)",
+            "content": "none",
+            "font-family": "Dosis, sans-serif",
+            "font-size": "18px",
+            "font-weight": "400",
+            "height": "auto",
+            "letter-spacing": "normal",
+            "line-height": "normal",
+            "margin": "0px",
+            "opacity": "1",
+            "outline": "rgb(0, 0, 0) none 3px",
+            "padding": "0px",
+            "transform": "none",
+            "transition": "all",
+            "width": "auto"
+          },
+          "pseudo": "::before"
+        },
+        {
+          "css": {
+            "background-color": "rgba(0, 0, 0, 0)",
+            "border": "0px none rgb(0, 0, 0)",
+            "border-radius": "0px",
+            "box-shadow": "none",
+            "color": "rgb(0, 0, 0)",
+            "content": "none",
+            "font-family": "Dosis, sans-serif",
+            "font-size": "18px",
+            "font-weight": "400",
+            "height": "auto",
+            "letter-spacing": "normal",
+            "line-height": "normal",
+            "margin": "0px",
+            "opacity": "1",
+            "outline": "rgb(0, 0, 0) none 3px",
+            "padding": "0px",
+            "transform": "none",
+            "transition": "all",
+            "width": "auto"
+          },
+          "pseudo": "::after"
+        }
+      ]
+    },
+    {
+      "cls": "ml_collider_opener",
+      "html": "<div class=\"ml_collider_opener\" id=\"MLColiiderOpener-collapsible-row-1-template--27979992563864__main\" tabindex=\"0\">\n                  <div class=\"title\">\n                    <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" fill=\"currentColor\" class=\"bi bi-truck\" viewBox=\"0 0 16 16\">\n        <path d=\"M0 3.5A1.5 1.5 0 0 1 1.5 2h9A1.5 1.5 0 0 1 12 3.5V5h1.02a1.5 1.5 0 0 1 1.17.563l1.481 1.85a1.5 1.5 0 0 1 .329.938V10.5a1.5 1.5 0 0 1-1.5 1.5H14a2 2 0 1 1-4 0H5a2 2 0 1 1-3.998-.085A1.5 1.5 0 0 1 0 10.5v-7zm1.294 7.456A1.999 1.999 0 0 1 4.732 11h5.536a2.01 2.01 0 0 1 .732-.732V3.5a.5.",
+      "rect": {
+        "h": 56,
+        "w": 510
+      },
+      "sel": "ml-collider .ml_collider_opener",
+      "styles": [
+        {
+          "css": {
+            "background-color": "rgba(95, 104, 119, 0.1)",
+            "border": "0px none rgb(0, 0, 0)",
+            "border-radius": "0px",
+            "box-shadow": "none",
+            "color": "rgb(0, 0, 0)",
+            "content": "normal",
+            "font-family": "Dosis, sans-serif",
+            "font-size": "16px",
+            "font-weight": "400",
+            "height": "56px",
+            "letter-spacing": "0.6px",
+            "line-height": "28.8px",
+            "margin": "0px",
+            "opacity": "1",
+            "outline": "rgb(0, 0, 0) none 3px",
+            "padding": "20px 16px",
+            "transform": "none",
+            "transition": "all",
+            "width": "510px"
+          },
+          "pseudo": null
+        },
+        {
+          "css": {
+            "background-color": "rgba(0, 0, 0, 0)",
+            "border": "0px none rgb(0, 0, 0)",
+            "border-radius": "0px",
+            "box-shadow": "none",
+            "color": "rgb(0, 0, 0)",
+            "content": "none",
+            "font-family": "Dosis, sans-serif",
+            "font-size": "16px",
+            "font-weight": "400",
+            "height": "auto",
+            "letter-spacing": "0.6px",
+            "line-height": "28.8px",
+            "margin": "0px",
+            "opacity": "1",
+            "outline": "rgb(0, 0, 0) none 3px",
+            "padding": "0px",
+            "transform": "none",
+            "transition": "all",
+            "width": "auto"
+          },
+          "pseudo": "::before"
+        },
+        {
+          "css": {
+            "background-color": "rgba(0, 0, 0, 0)",
+            "border": "0px none rgb(0, 0, 0)",
+            "border-radius": "0px",
+            "box-shadow": "none",
+            "color": "rgb(0, 0, 0)",
+            "content": "none",
+            "font-family": "Dosis, sans-serif",
+            "font-size": "16px",
+            "font-weight": "400",
+            "height": "auto",
+            "letter-spacing": "0.6px",
+            "line-height": "28.8px",
+            "margin": "0px",
+            "opacity": "1",
+            "outline": "rgb(0, 0, 0) none 3px",
+            "padding": "0px",
+            "transform": "none",
+            "transition": "all",
+            "width": "auto"
+          },
+          "pseudo": "::after"
+        }
+      ]
+    },
+    {
+      "cls": "ml_collider_opener",
+      "html": "<div class=\"ml_collider_opener\" id=\"MLColiiderOpener-collapsible-row-3-template--27979992563864__main\" tabindex=\"0\">\n                  <div class=\"title\">\n                    <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" fill=\"currentColor\" class=\"bi bi-heart\" viewBox=\"0 0 16 16\">\n        <path d=\"m8 2.748-.717-.737C5.6.281 2.514.878 1.4 3.053c-.523 1.023-.641 2.5.314 4.385.92 1.815 2.834 3.989 6.286 6.357 3.452-2.368 5.365-4.542 6.286-6.357.955-1.886.838-3.362.314-4.385C13.486.878 10.4.28 8.717 2.01L8 2.748zM8 15C-7.333 4.868 3.279-3.04 7.824 1.143c.06.055.119.112.176.171a3.1",
+      "rect": {
+        "h": 56,
+        "w": 510
+      },
+      "sel": "ml-collider .ml_collider_opener",
+      "styles": [
+        {
+          "css": {
+            "background-color": "rgba(95, 104, 119, 0.1)",
+            "border": "0px none rgb(0, 0, 0)",
+            "border-radius": "0px",
+            "box-shadow": "none",
+            "color": "rgb(0, 0, 0)",
+            "content": "normal",
+            "font-family": "Dosis, sans-serif",
+            "font-size": "16px",
+            "font-weight": "400",
+            "height": "56px",
+            "letter-spacing": "0.6px",
+            "line-height": "28.8px",
+            "margin": "0px",
+            "opacity": "1",
+            "outline": "rgb(0, 0, 0) none 3px",
+            "padding": "20px 16px",
+            "transform": "none",
+            "transition": "all",
+            "width": "510px"
+          },
+          "pseudo": null
+        },
+        {
+          "css": {
+            "background-color": "rgba(0, 0, 0, 0)",
+            "border": "0px none rgb(0, 0, 0)",
+            "border-radius": "0px",
+            "box-shadow": "none",
+            "color": "rgb(0, 0, 0)",
+            "content": "none",
+            "font-family": "Dosis, sans-serif",
+            "font-size": "16px",
+            "font-weight": "400",
+            "height": "auto",
+            "letter-spacing": "0.6px",
+            "line-height": "28.8px",
+            "margin": "0px",
+            "opacity": "1",
+            "outline": "rgb(0, 0, 0) none 3px",
+            "padding": "0px",
+            "transform": "none",
+            "transition": "all",
+            "width": "auto"
+          },
+          "pseudo": "::before"
+        },
+        {
+          "css": {
+            "background-color": "rgba(0, 0, 0, 0)",
+            "border": "0px none rgb(0, 0, 0)",
+            "border-radius": "0px",
+            "box-shadow": "none",
+            "color": "rgb(0, 0, 0)",
+            "content": "none",
+            "font-family": "Dosis, sans-serif",
+            "font-size": "16px",
+            "font-weight": "400",
+            "height": "auto",
+            "letter-spacing": "0.6px",
+            "line-height": "28.8px",
+            "margin": "0px",
+            "opacity": "1",
+            "outline": "rgb(0, 0, 0) none 3px",
+            "padding": "0px",
+            "transform": "none",
+            "transition": "all",
+            "width": "auto"
+          },
+          "pseudo": "::after"
+        }
+      ]
+    },
+    {
+      "cls": "h4 accordion__title",
+      "html": "<h2 class=\"h4 accordion__title\">\n                      Shipping &amp; Returns\n                    </h2>",
+      "rect": {
+        "h": 16,
+        "w": 127.8359375
+      },
+      "sel": "ml-collider .ml_collider_opener h2",
+      "styles": [
+        {
+          "css": {
+            "background-color": "rgba(0, 0, 0, 0)",
+            "border": "0px none rgb(39, 37, 55)",
+            "border-radius": "0px",
+            "box-shadow": "none",
+            "color": "rgb(39, 37, 55)",
+            "content": "normal",
+            "font-family": "Dosis, sans-serif",
+            "font-size": "15px",
+            "font-weight": "700",
+            "height": "16px",
+            "letter-spacing": "0.6px",
+            "line-height": "15px",
+            "margin": "0px 0px 0px 8px",
+            "opacity": "1",
+            "outline": "rgb(39, 37, 55) none 3px",
+            "padding": "0px",
+            "transform": "none",
+            "transition": "all",
+            "width": "127.836px"
+          },
+          "pseudo": null
+        },
+        {
+          "css": {
+            "background-color": "rgba(0, 0, 0, 0)",
+            "border": "0px none rgb(39, 37, 55)",
+            "border-radius": "0px",
+            "box-shadow": "none",
+            "color": "rgb(39, 37, 55)",
+            "content": "none",
+            "font-family": "Dosis, sans-serif",
+            "font-size": "15px",
+            "font-weight": "700",
+            "height": "auto",
+            "letter-spacing": "0.6px",
+            "line-height": "15px",
+            "margin": "0px",
+            "opacity": "1",
+            "outline": "rgb(39, 37, 55) none 3px",
+            "padding": "0px",
+            "transform": "none",
+            "transition": "all",
+            "width": "auto"
+          },
+          "pseudo": "::before"
+        },
+        {
+          "css": {
+            "background-color": "rgba(0, 0, 0, 0)",
+            "border": "0px none rgb(39, 37, 55)",
+            "border-radius": "0px",
+            "box-shadow": "none",
+            "color": "rgb(39, 37, 55)",
+            "content": "none",
+            "font-family": "Dosis, sans-serif",
+            "font-size": "15px",
+            "font-weight": "700",
+            "height": "auto",
+            "letter-spacing": "0.6px",
+            "line-height": "15px",
+            "margin": "0px",
+            "opacity": "1",
+            "outline": "rgb(39, 37, 55) none 3px",
+            "padding": "0px",
+            "transform": "none",
+            "transition": "all",
+            "width": "auto"
+          },
+          "pseudo": "::after"
+        }
+      ]
+    },
+    {
+      "cls": "h4 accordion__title",
+      "html": "<h2 class=\"h4 accordion__title\">\n                      Care Instructions\n                    </h2>",
+      "rect": {
+        "h": 16,
+        "w": 114.375
+      },
+      "sel": "ml-collider .ml_collider_opener h2",
+      "styles": [
+        {
+          "css": {
+            "background-color": "rgba(0, 0, 0, 0)",
+            "border": "0px none rgb(39, 37, 55)",
+            "border-radius": "0px",
+            "box-shadow": "none",
+            "color": "rgb(39, 37, 55)",
+            "content": "normal",
+            "font-family": "Dosis, sans-serif",
+            "font-size": "15px",
+            "font-weight": "700",
+            "height": "16px",
+            "letter-spacing": "0.6px",
+            "line-height": "15px",
+            "margin": "0px 0px 0px 8px",
+            "opacity": "1",
+            "outline": "rgb(39, 37, 55) none 3px",
+            "padding": "0px",
+            "transform": "none",
+            "transition": "all",
+            "width": "114.375px"
+          },
+          "pseudo": null
+        },
+        {
+          "css": {
+            "background-color": "rgba(0, 0, 0, 0)",
+            "border": "0px none rgb(39, 37, 55)",
+            "border-radius": "0px",
+            "box-shadow": "none",
+            "color": "rgb(39, 37, 55)",
+            "content": "none",
+            "font-family": "Dosis, sans-serif",
+            "font-size": "15px",
+            "font-weight": "700",
+            "height": "auto",
+            "letter-spacing": "0.6px",
+            "line-height": "15px",
+            "margin": "0px",
+            "opacity": "1",
+            "outline": "rgb(39, 37, 55) none 3px",
+            "padding": "0px",
+            "transform": "none",
+            "transition": "all",
+            "width": "auto"
+          },
+          "pseudo": "::before"
+        },
+        {
+          "css": {
+            "background-color": "rgba(0, 0, 0, 0)",
+            "border": "0px none rgb(39, 37, 55)",
+            "border-radius": "0px",
+            "box-shadow": "none",
+            "color": "rgb(39, 37, 55)",
+            "content": "none",
+            "font-family": "Dosis, sans-serif",
+            "font-size": "15px",
+            "font-weight": "700",
+            "height": "auto",
+            "letter-spacing": "0.6px",
+            "line-height": "15px",
+            "margin": "0px",
+            "opacity": "1",
+            "outline": "rgb(39, 37, 55) none 3px",
+            "padding": "0px",
+            "transform": "none",
+            "transition": "all",
+            "width": "auto"
+          },
+          "pseudo": "::after"
+        }
+      ]
+    }
+  ]
+}

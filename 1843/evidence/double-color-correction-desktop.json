@@ -1,0 +1,34 @@
+{
+  "checked": true,
+  "parts": [
+    {
+      "bottom": "0px none rgb(39, 37, 55)",
+      "cls": "gpo-swatch__inner",
+      "h": 44,
+      "left": "0px none rgb(39, 37, 55)",
+      "radius": "8px",
+      "w": 44
+    },
+    {
+      "bottom": "0px none rgb(39, 37, 55)",
+      "cls": "swatch-top",
+      "h": 44,
+      "left": "0px none rgb(39, 37, 55)",
+      "radius": "0px",
+      "w": 44
+    },
+    {
+      "bottom": "44px solid rgb(140, 41, 231)",
+      "cls": "swatch-bottom",
+      "h": 44,
+      "left": "44px solid rgba(0, 0, 0, 0)",
+      "radius": "0px",
+      "w": 44
+    }
+  ],
+  "ring": "1",
+  "viewport": [
+    1838,
+    963
+  ]
+}

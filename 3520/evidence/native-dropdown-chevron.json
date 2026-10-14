@@ -1,0 +1,27 @@
+{
+  "header": {
+    "bottom": 485.96875,
+    "height": 65.4375,
+    "left": 176.59375,
+    "right": 653.5390625,
+    "top": 420.53125,
+    "width": 476.9453125,
+    "x": 176.59375,
+    "y": 420.53125
+  },
+  "icon": {
+    "color": "rgb(40, 40, 40)",
+    "height": "12px",
+    "opacity": "1",
+    "transform": "matrix(-1, 0, 0, -1, 0, 0)",
+    "transition": "transform 0.2s linear",
+    "width": "12px"
+  },
+  "list": {
+    "display": "block",
+    "maxHeight": "400px",
+    "transition": "all"
+  },
+  "open": true,
+  "symbol": "<symbol id=\"svg-icon-arrow-down\" viewBox=\"0 0 256 256\">\n\t\t\t            <rect width=\"256\" height=\"256\" fill=\"none\"></rect><polyline points=\"208 96 128 176 48 96\" fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"16\"></polyline>\n\t\t\t        </symbol>"
+}

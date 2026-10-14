@@ -1,0 +1,351 @@
+{
+  "controls": [
+    {
+      "border": "1px solid rgb(95, 104, 119)",
+      "cls": "ml_variants_label",
+      "color": "rgb(255, 255, 255)",
+      "font": "Dosis, sans-serif",
+      "h": 48,
+      "left": 15,
+      "radius": "8px",
+      "right": 64,
+      "w": 49
+    },
+    {
+      "border": "1px solid rgb(95, 104, 119)",
+      "cls": "ml_variants_label",
+      "color": "rgb(95, 104, 119)",
+      "font": "Dosis, sans-serif",
+      "h": 48,
+      "left": 75.6015625,
+      "radius": "8px",
+      "right": 124.6015625,
+      "w": 49
+    },
+    {
+      "border": "1px solid rgb(95, 104, 119)",
+      "cls": "ml_variants_label",
+      "color": "rgb(95, 104, 119)",
+      "font": "Dosis, sans-serif",
+      "h": 48,
+      "left": 136.203125,
+      "radius": "8px",
+      "right": 185.203125,
+      "w": 49
+    },
+    {
+      "border": "1px solid rgb(95, 104, 119)",
+      "cls": "ml_variants_label",
+      "color": "rgb(95, 104, 119)",
+      "font": "Dosis, sans-serif",
+      "h": 48,
+      "left": 196.8046875,
+      "radius": "8px",
+      "right": 245.8046875,
+      "w": 49
+    },
+    {
+      "border": "1px solid rgb(227, 227, 227)",
+      "cls": "gpo-select",
+      "color": "rgb(39, 37, 55)",
+      "font": "Dosis, sans-serif",
+      "h": 45,
+      "left": 15,
+      "radius": "4px",
+      "right": 360,
+      "w": 345
+    },
+    {
+      "border": "1px solid rgb(227, 227, 227)",
+      "cls": "dropdown-button",
+      "color": "rgb(39, 37, 55)",
+      "font": "Dosis, sans-serif",
+      "h": 45,
+      "left": 15,
+      "radius": "4px",
+      "right": 360,
+      "w": 345
+    },
+    {
+      "border": "1px solid rgb(227, 227, 227)",
+      "cls": "dropdown-button",
+      "color": "rgb(39, 37, 55)",
+      "font": "Dosis, sans-serif",
+      "h": 45,
+      "left": 75,
+      "radius": "4px",
+      "right": 360,
+      "w": 285
+    },
+    {
+      "border": "1px solid rgb(227, 227, 227)",
+      "cls": "dropdown-button",
+      "color": "rgb(39, 37, 55)",
+      "font": "Dosis, sans-serif",
+      "h": 45,
+      "left": 15,
+      "radius": "4px",
+      "right": 360,
+      "w": 345
+    },
+    {
+      "border": "1px solid rgb(227, 227, 227)",
+      "cls": "gpo-input-wrap",
+      "color": "rgb(39, 37, 55)",
+      "font": "Dosis, sans-serif",
+      "h": 45,
+      "left": 15,
+      "radius": "4px",
+      "right": 360,
+      "w": 345
+    },
+    {
+      "border": "1px solid rgb(227, 227, 227)",
+      "cls": "gpo-input-wrap",
+      "color": "rgb(39, 37, 55)",
+      "font": "Dosis, sans-serif",
+      "h": 118,
+      "left": 15,
+      "radius": "4px",
+      "right": 360,
+      "w": 345
+    },
+    {
+      "border": "1px solid rgb(227, 227, 227)",
+      "cls": "gpo-input-wrap",
+      "color": "rgb(39, 37, 55)",
+      "font": "Dosis, sans-serif",
+      "h": 45,
+      "left": 15,
+      "radius": "4px",
+      "right": 360,
+      "w": 345
+    },
+    {
+      "border": "1px solid rgb(227, 227, 227)",
+      "cls": "gpo-input-wrap gpo-color-box",
+      "color": "rgb(39, 37, 55)",
+      "font": "Dosis, sans-serif",
+      "h": 45,
+      "left": 15,
+      "radius": "4px",
+      "right": 360,
+      "w": 345
+    },
+    {
+      "border": "1px solid rgb(227, 227, 227)",
+      "cls": "gpo-dimension-input-wrap",
+      "color": "rgb(39, 37, 55)",
+      "font": "Dosis, sans-serif",
+      "h": 45,
+      "left": 15,
+      "radius": "4px",
+      "right": 124.6640625,
+      "w": 109.6640625
+    },
+    {
+      "border": "1px solid rgb(227, 227, 227)",
+      "cls": "gpo-dimension-input-wrap",
+      "color": "rgb(39, 37, 55)",
+      "font": "Dosis, sans-serif",
+      "h": 45,
+      "left": 132.6640625,
+      "radius": "4px",
+      "right": 242.328125,
+      "w": 109.6640625
+    },
+    {
+      "border": "1px solid rgb(227, 227, 227)",
+      "cls": "gpo-dimension-input-wrap",
+      "color": "rgb(39, 37, 55)",
+      "font": "Dosis, sans-serif",
+      "h": 45,
+      "left": 250.328125,
+      "radius": "4px",
+      "right": 359.9921875,
+      "w": 109.6640625
+    },
+    {
+      "border": "1px solid rgb(95, 104, 119)",
+      "cls": "",
+      "color": "rgb(255, 255, 255)",
+      "font": "Dosis, sans-serif",
+      "h": 48,
+      "left": 15,
+      "radius": "8px",
+      "right": 98.5703125,
+      "w": 83.5703125
+    },
+    {
+      "border": "1px solid rgb(95, 104, 119)",
+      "cls": "",
+      "color": "rgb(95, 104, 119)",
+      "font": "Dosis, sans-serif",
+      "h": 48,
+      "left": 106.5703125,
+      "radius": "8px",
+      "right": 193.515625,
+      "w": 86.9453125
+    },
+    {
+      "border": "1px solid rgb(235, 235, 235)",
+      "cls": "gpo-quantity__input",
+      "color": "rgb(39, 37, 55)",
+      "font": "Arial, sans-serif",
+      "h": 50,
+      "left": 102.015625,
+      "radius": "8px",
+      "right": 202.015625,
+      "w": 100
+    },
+    {
+      "border": "1px solid rgb(235, 235, 235)",
+      "cls": "gpo-ov-quantity",
+      "color": "rgb(39, 37, 55)",
+      "font": "Dosis, sans-serif",
+      "h": 50,
+      "left": 15,
+      "radius": "8px",
+      "right": 137,
+      "w": 122
+    },
+    {
+      "border": "1px solid rgb(235, 235, 235)",
+      "cls": "gpo-ov-quantity",
+      "color": "rgb(39, 37, 55)",
+      "font": "Dosis, sans-serif",
+      "h": 50,
+      "left": 145,
+      "radius": "8px",
+      "right": 267,
+      "w": 122
+    },
+    {
+      "border": "1px solid rgb(95, 104, 119)",
+      "cls": "",
+      "color": "rgb(95, 104, 119)",
+      "font": "Dosis, sans-serif",
+      "h": 48,
+      "left": 15,
+      "radius": "8px",
+      "right": 234.84375,
+      "w": 219.84375
+    },
+    {
+      "border": "1px solid rgb(95, 104, 119)",
+      "cls": "",
+      "color": "rgb(95, 104, 119)",
+      "font": "Dosis, sans-serif",
+      "h": 48,
+      "left": 15,
+      "radius": "8px",
+      "right": 312.03125,
+      "w": 297.03125
+    },
+    {
+      "border": "1px solid rgb(95, 104, 119)",
+      "cls": "",
+      "color": "rgb(95, 104, 119)",
+      "font": "Dosis, sans-serif",
+      "h": 48,
+      "left": 15,
+      "radius": "8px",
+      "right": 239.515625,
+      "w": 224.515625
+    },
+    {
+      "border": "1px solid rgb(95, 104, 119)",
+      "cls": "",
+      "color": "rgb(95, 104, 119)",
+      "font": "Roboto",
+      "h": 48,
+      "left": 15,
+      "radius": "8px",
+      "right": 99.890625,
+      "w": 84.890625
+    },
+    {
+      "border": "1px solid rgb(95, 104, 119)",
+      "cls": "",
+      "color": "rgb(95, 104, 119)",
+      "font": "\"Open Sans\"",
+      "h": 48,
+      "left": 107.890625,
+      "radius": "8px",
+      "right": 221.1484375,
+      "w": 113.2578125
+    },
+    {
+      "border": "1px solid rgb(95, 104, 119)",
+      "cls": "",
+      "color": "rgb(95, 104, 119)",
+      "font": "Montserrat",
+      "h": 48,
+      "left": 229.1484375,
+      "radius": "8px",
+      "right": 350.21875,
+      "w": 121.0703125
+    },
+    {
+      "border": "1px solid rgb(95, 104, 119)",
+      "cls": "",
+      "color": "rgb(95, 104, 119)",
+      "font": "Poppins",
+      "h": 48,
+      "left": 15,
+      "radius": "8px",
+      "right": 111.7109375,
+      "w": 96.7109375
+    },
+    {
+      "border": "1px solid rgb(95, 104, 119)",
+      "cls": "",
+      "color": "rgb(95, 104, 119)",
+      "font": "Oswald",
+      "h": 48,
+      "left": 119.7109375,
+      "radius": "8px",
+      "right": 195.765625,
+      "w": 76.0546875
+    },
+    {
+      "border": "0px none rgb(0, 0, 0)",
+      "cls": "quantity",
+      "color": "rgb(0, 0, 0)",
+      "font": "Dosis, sans-serif",
+      "h": 50,
+      "left": 15,
+      "radius": "4px",
+      "right": 194.5,
+      "w": 179.5
+    }
+  ],
+  "fontPreviews": [
+    {
+      "font": "Roboto",
+      "text": "Roboto"
+    },
+    {
+      "font": "\"Open Sans\"",
+      "text": "Open Sans"
+    },
+    {
+      "font": "Montserrat",
+      "text": "Montserrat"
+    },
+    {
+      "font": "Poppins",
+      "text": "Poppins"
+    },
+    {
+      "font": "Oswald",
+      "text": "Oswald"
+    }
+  ],
+  "loaded": true,
+  "pageWidth": 375,
+  "viewport": [
+    390,
+    844
+  ]
+}

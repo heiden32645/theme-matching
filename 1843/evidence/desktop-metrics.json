@@ -1,0 +1,351 @@
+{
+  "controls": [
+    {
+      "border": "1px solid rgb(95, 104, 119)",
+      "cls": "ml_variants_label",
+      "color": "rgb(255, 255, 255)",
+      "font": "Dosis, sans-serif",
+      "h": 48,
+      "left": 752.5,
+      "radius": "8px",
+      "right": 801.5,
+      "w": 49
+    },
+    {
+      "border": "1px solid rgb(95, 104, 119)",
+      "cls": "ml_variants_label",
+      "color": "rgb(95, 104, 119)",
+      "font": "Dosis, sans-serif",
+      "h": 48,
+      "left": 813.3046875,
+      "radius": "8px",
+      "right": 862.3046875,
+      "w": 49
+    },
+    {
+      "border": "1px solid rgb(95, 104, 119)",
+      "cls": "ml_variants_label",
+      "color": "rgb(95, 104, 119)",
+      "font": "Dosis, sans-serif",
+      "h": 48,
+      "left": 874.109375,
+      "radius": "8px",
+      "right": 923.109375,
+      "w": 49
+    },
+    {
+      "border": "1px solid rgb(95, 104, 119)",
+      "cls": "ml_variants_label",
+      "color": "rgb(95, 104, 119)",
+      "font": "Dosis, sans-serif",
+      "h": 48,
+      "left": 934.9140625,
+      "radius": "8px",
+      "right": 983.9140625,
+      "w": 49
+    },
+    {
+      "border": "1px solid rgb(227, 227, 227)",
+      "cls": "gpo-select",
+      "color": "rgb(39, 37, 55)",
+      "font": "Dosis, sans-serif",
+      "h": 45,
+      "left": 752.5,
+      "radius": "4px",
+      "right": 1262.5,
+      "w": 510
+    },
+    {
+      "border": "1px solid rgb(227, 227, 227)",
+      "cls": "dropdown-button",
+      "color": "rgb(39, 37, 55)",
+      "font": "Dosis, sans-serif",
+      "h": 45,
+      "left": 752.5,
+      "radius": "4px",
+      "right": 1262.5,
+      "w": 510
+    },
+    {
+      "border": "1px solid rgb(227, 227, 227)",
+      "cls": "dropdown-button",
+      "color": "rgb(39, 37, 55)",
+      "font": "Dosis, sans-serif",
+      "h": 45,
+      "left": 812.5,
+      "radius": "4px",
+      "right": 1262.5,
+      "w": 450
+    },
+    {
+      "border": "1px solid rgb(227, 227, 227)",
+      "cls": "dropdown-button",
+      "color": "rgb(39, 37, 55)",
+      "font": "Dosis, sans-serif",
+      "h": 45,
+      "left": 752.5,
+      "radius": "4px",
+      "right": 1262.5,
+      "w": 510
+    },
+    {
+      "border": "1px solid rgb(227, 227, 227)",
+      "cls": "gpo-input-wrap",
+      "color": "rgb(39, 37, 55)",
+      "font": "Dosis, sans-serif",
+      "h": 45,
+      "left": 752.5,
+      "radius": "4px",
+      "right": 1262.5,
+      "w": 510
+    },
+    {
+      "border": "1px solid rgb(227, 227, 227)",
+      "cls": "gpo-input-wrap",
+      "color": "rgb(39, 37, 55)",
+      "font": "Dosis, sans-serif",
+      "h": 118,
+      "left": 752.5,
+      "radius": "4px",
+      "right": 1262.5,
+      "w": 510
+    },
+    {
+      "border": "1px solid rgb(227, 227, 227)",
+      "cls": "gpo-input-wrap",
+      "color": "rgb(39, 37, 55)",
+      "font": "Dosis, sans-serif",
+      "h": 45,
+      "left": 752.5,
+      "radius": "4px",
+      "right": 1262.5,
+      "w": 510
+    },
+    {
+      "border": "1px solid rgb(227, 227, 227)",
+      "cls": "gpo-input-wrap gpo-color-box",
+      "color": "rgb(39, 37, 55)",
+      "font": "Dosis, sans-serif",
+      "h": 45,
+      "left": 752.5,
+      "radius": "4px",
+      "right": 1262.5,
+      "w": 510
+    },
+    {
+      "border": "1px solid rgb(227, 227, 227)",
+      "cls": "gpo-dimension-input-wrap",
+      "color": "rgb(39, 37, 55)",
+      "font": "Dosis, sans-serif",
+      "h": 45,
+      "left": 752.5,
+      "radius": "4px",
+      "right": 917.1640625,
+      "w": 164.6640625
+    },
+    {
+      "border": "1px solid rgb(227, 227, 227)",
+      "cls": "gpo-dimension-input-wrap",
+      "color": "rgb(39, 37, 55)",
+      "font": "Dosis, sans-serif",
+      "h": 45,
+      "left": 925.1640625,
+      "radius": "4px",
+      "right": 1089.828125,
+      "w": 164.6640625
+    },
+    {
+      "border": "1px solid rgb(227, 227, 227)",
+      "cls": "gpo-dimension-input-wrap",
+      "color": "rgb(39, 37, 55)",
+      "font": "Dosis, sans-serif",
+      "h": 45,
+      "left": 1097.828125,
+      "radius": "4px",
+      "right": 1262.5,
+      "w": 164.671875
+    },
+    {
+      "border": "1px solid rgb(95, 104, 119)",
+      "cls": "",
+      "color": "rgb(255, 255, 255)",
+      "font": "Dosis, sans-serif",
+      "h": 48,
+      "left": 752.5,
+      "radius": "8px",
+      "right": 836.0703125,
+      "w": 83.5703125
+    },
+    {
+      "border": "1px solid rgb(95, 104, 119)",
+      "cls": "",
+      "color": "rgb(95, 104, 119)",
+      "font": "Dosis, sans-serif",
+      "h": 48,
+      "left": 844.0703125,
+      "radius": "8px",
+      "right": 931.015625,
+      "w": 86.9453125
+    },
+    {
+      "border": "1px solid rgb(235, 235, 235)",
+      "cls": "gpo-quantity__input",
+      "color": "rgb(39, 37, 55)",
+      "font": "Arial, sans-serif",
+      "h": 50,
+      "left": 839.515625,
+      "radius": "8px",
+      "right": 939.515625,
+      "w": 100
+    },
+    {
+      "border": "1px solid rgb(235, 235, 235)",
+      "cls": "gpo-ov-quantity",
+      "color": "rgb(39, 37, 55)",
+      "font": "Dosis, sans-serif",
+      "h": 50,
+      "left": 752.5,
+      "radius": "8px",
+      "right": 874.5,
+      "w": 122
+    },
+    {
+      "border": "1px solid rgb(235, 235, 235)",
+      "cls": "gpo-ov-quantity",
+      "color": "rgb(39, 37, 55)",
+      "font": "Dosis, sans-serif",
+      "h": 50,
+      "left": 882.5,
+      "radius": "8px",
+      "right": 1004.5,
+      "w": 122
+    },
+    {
+      "border": "1px solid rgb(95, 104, 119)",
+      "cls": "",
+      "color": "rgb(95, 104, 119)",
+      "font": "Dosis, sans-serif",
+      "h": 48,
+      "left": 752.5,
+      "radius": "8px",
+      "right": 972.34375,
+      "w": 219.84375
+    },
+    {
+      "border": "1px solid rgb(95, 104, 119)",
+      "cls": "",
+      "color": "rgb(95, 104, 119)",
+      "font": "Dosis, sans-serif",
+      "h": 48,
+      "left": 752.5,
+      "radius": "8px",
+      "right": 1049.53125,
+      "w": 297.03125
+    },
+    {
+      "border": "1px solid rgb(95, 104, 119)",
+      "cls": "",
+      "color": "rgb(95, 104, 119)",
+      "font": "Dosis, sans-serif",
+      "h": 48,
+      "left": 752.5,
+      "radius": "8px",
+      "right": 977.015625,
+      "w": 224.515625
+    },
+    {
+      "border": "1px solid rgb(95, 104, 119)",
+      "cls": "",
+      "color": "rgb(95, 104, 119)",
+      "font": "Roboto",
+      "h": 48,
+      "left": 752.5,
+      "radius": "8px",
+      "right": 837.390625,
+      "w": 84.890625
+    },
+    {
+      "border": "1px solid rgb(95, 104, 119)",
+      "cls": "",
+      "color": "rgb(95, 104, 119)",
+      "font": "\"Open Sans\"",
+      "h": 48,
+      "left": 845.390625,
+      "radius": "8px",
+      "right": 958.6484375,
+      "w": 113.2578125
+    },
+    {
+      "border": "1px solid rgb(95, 104, 119)",
+      "cls": "",
+      "color": "rgb(95, 104, 119)",
+      "font": "Montserrat",
+      "h": 48,
+      "left": 966.6484375,
+      "radius": "8px",
+      "right": 1087.71875,
+      "w": 121.0703125
+    },
+    {
+      "border": "1px solid rgb(95, 104, 119)",
+      "cls": "",
+      "color": "rgb(95, 104, 119)",
+      "font": "Poppins",
+      "h": 48,
+      "left": 1095.71875,
+      "radius": "8px",
+      "right": 1192.4296875,
+      "w": 96.7109375
+    },
+    {
+      "border": "1px solid rgb(95, 104, 119)",
+      "cls": "",
+      "color": "rgb(95, 104, 119)",
+      "font": "Oswald",
+      "h": 48,
+      "left": 752.5,
+      "radius": "8px",
+      "right": 828.5546875,
+      "w": 76.0546875
+    },
+    {
+      "border": "0px none rgb(0, 0, 0)",
+      "cls": "quantity",
+      "color": "rgb(0, 0, 0)",
+      "font": "Dosis, sans-serif",
+      "h": 50,
+      "left": 752.5,
+      "radius": "4px",
+      "right": 932,
+      "w": 179.5
+    }
+  ],
+  "fontPreviews": [
+    {
+      "font": "Roboto",
+      "text": "Roboto"
+    },
+    {
+      "font": "\"Open Sans\"",
+      "text": "Open Sans"
+    },
+    {
+      "font": "Montserrat",
+      "text": "Montserrat"
+    },
+    {
+      "font": "Poppins",
+      "text": "Poppins"
+    },
+    {
+      "font": "Oswald",
+      "text": "Oswald"
+    }
+  ],
+  "loaded": true,
+  "pageWidth": 1425,
+  "viewport": [
+    1440,
+    1000
+  ]
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "id": "dropdown-1",
+    "opened": {
+      "expanded": true,
+      "maxHeight": "400px",
+      "transition": "none",
+      "visibility": "visible"
+    },
+    "closed": {
+      "expanded": false,
+      "maxHeight": "0px",
+      "visibility": "hidden"
+    }
+  },
+  {
+    "id": "image-dropdown-1",
+    "opened": {
+      "expanded": true,
+      "maxHeight": "400px",
+      "transition": "none",
+      "visibility": "visible"
+    },
+    "closed": {
+      "expanded": false,
+      "maxHeight": "0px",
+      "visibility": "hidden"
+    }
+  },
+  {
+    "id": "google-font-1",
+    "opened": {
+      "expanded": true,
+      "maxHeight": "400px",
+      "transition": "none",
+      "visibility": "visible"
+    },
+    "closed": {
+      "expanded": false,
+      "maxHeight": "0px",
+      "visibility": "hidden"
+    }
+  }
+]

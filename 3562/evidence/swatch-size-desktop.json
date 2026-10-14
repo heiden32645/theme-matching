@@ -1,0 +1,124 @@
+[
+  {
+    "configured": "width:32px;height:32px;background-color:#b62020",
+    "fill": [
+      32,
+      32
+    ],
+    "id": "color-swatches-1_1",
+    "inner": [
+      34,
+      34
+    ],
+    "outer": [
+      51,
+      51
+    ],
+    "split": null
+  },
+  {
+    "configured": "width:32px;height:32px;background-color:#d4ed54",
+    "fill": [
+      32,
+      32
+    ],
+    "id": "color-swatches-1_2",
+    "inner": [
+      34,
+      34
+    ],
+    "outer": [
+      51,
+      51
+    ],
+    "split": {
+      "borderBottom": "32px",
+      "borderLeft": "32px"
+    }
+  },
+  {
+    "configured": "width:32px;height:32px;background-color:#ff0000",
+    "fill": [
+      32,
+      32
+    ],
+    "id": "color-swatches-2_1",
+    "inner": [
+      34,
+      34
+    ],
+    "outer": [
+      51,
+      51
+    ],
+    "split": null
+  },
+  {
+    "configured": "width:32px;height:32px;background-color:#ffffff",
+    "fill": [
+      32,
+      32
+    ],
+    "id": "color-swatches-2_2",
+    "inner": [
+      34,
+      34
+    ],
+    "outer": [
+      51,
+      51
+    ],
+    "split": null
+  },
+  {
+    "configured": "width:32px;height:32px;background-color:#00a4ff",
+    "fill": [
+      32,
+      32
+    ],
+    "id": "color-swatches-2_3",
+    "inner": [
+      34,
+      34
+    ],
+    "outer": [
+      51,
+      51
+    ],
+    "split": null
+  },
+  {
+    "configured": "width:60px;height:60px;",
+    "fill": [
+      60,
+      60
+    ],
+    "id": "image-swatches-1_1",
+    "inner": [
+      62,
+      62
+    ],
+    "outer": [
+      79,
+      79
+    ],
+    "split": null
+  },
+  {
+    "configured": "width:60px;height:60px;",
+    "fill": [
+      60,
+      60
+    ],
+    "id": "image-swatches-1_2",
+    "inner": [
+      62,
+      62
+    ],
+    "outer": [
+      79,
+      79
+    ],
+    "split": null
+  }
+]

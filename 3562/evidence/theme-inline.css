@@ -1,0 +1,3594 @@
+
+  @font-face {
+  font-family: Inter;
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url("//vwh56w1krvs3p94u-69620498584.shopifypreview.com/cdn/fonts/inter/inter_n4.b2a3f24c19b4de56e8871f609e73ca7f6d2e2bb9.woff2") format("woff2"),
+       url("//vwh56w1krvs3p94u-69620498584.shopifypreview.com/cdn/fonts/inter/inter_n4.af8052d517e0c9ffac7b814872cecc27ae1fa132.woff") format("woff");
+}
+
+  @font-face {
+  font-family: Rubik;
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url("//vwh56w1krvs3p94u-69620498584.shopifypreview.com/cdn/fonts/rubik/rubik_n4.c2fb67c90aa34ecf8da34fc1da937ee9c0c27942.woff2") format("woff2"),
+       url("//vwh56w1krvs3p94u-69620498584.shopifypreview.com/cdn/fonts/rubik/rubik_n4.d229bd4a6a25ec476a0829a74bf3657a5fd9aa36.woff") format("woff");
+}
+
+  @font-face {
+  font-family: Inter;
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url("//vwh56w1krvs3p94u-69620498584.shopifypreview.com/cdn/fonts/inter/inter_n7.02711e6b374660cfc7915d1afc1c204e633421e4.woff2") format("woff2"),
+       url("//vwh56w1krvs3p94u-69620498584.shopifypreview.com/cdn/fonts/inter/inter_n7.6dab87426f6b8813070abd79972ceaf2f8d3b012.woff") format("woff");
+}
+
+  @font-face {
+  font-family: Inter;
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url("//vwh56w1krvs3p94u-69620498584.shopifypreview.com/cdn/fonts/inter/inter_n4.b2a3f24c19b4de56e8871f609e73ca7f6d2e2bb9.woff2") format("woff2"),
+       url("//vwh56w1krvs3p94u-69620498584.shopifypreview.com/cdn/fonts/inter/inter_n4.af8052d517e0c9ffac7b814872cecc27ae1fa132.woff") format("woff");
+}
+
+  @font-face {
+  font-family: Inter;
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url("//vwh56w1krvs3p94u-69620498584.shopifypreview.com/cdn/fonts/inter/inter_n4.b2a3f24c19b4de56e8871f609e73ca7f6d2e2bb9.woff2") format("woff2"),
+       url("//vwh56w1krvs3p94u-69620498584.shopifypreview.com/cdn/fonts/inter/inter_n4.af8052d517e0c9ffac7b814872cecc27ae1fa132.woff") format("woff");
+}
+
+  @font-face {
+  font-family: Inter;
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url("//vwh56w1krvs3p94u-69620498584.shopifypreview.com/cdn/fonts/inter/inter_n7.02711e6b374660cfc7915d1afc1c204e633421e4.woff2") format("woff2"),
+       url("//vwh56w1krvs3p94u-69620498584.shopifypreview.com/cdn/fonts/inter/inter_n7.6dab87426f6b8813070abd79972ceaf2f8d3b012.woff") format("woff");
+}
+
+  @font-face {
+  font-family: Inter;
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url("//vwh56w1krvs3p94u-69620498584.shopifypreview.com/cdn/fonts/inter/inter_n7.02711e6b374660cfc7915d1afc1c204e633421e4.woff2") format("woff2"),
+       url("//vwh56w1krvs3p94u-69620498584.shopifypreview.com/cdn/fonts/inter/inter_n7.6dab87426f6b8813070abd79972ceaf2f8d3b012.woff") format("woff");
+}
+
+  @font-face {
+  font-family: Inter;
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url("//vwh56w1krvs3p94u-69620498584.shopifypreview.com/cdn/fonts/inter/inter_n4.b2a3f24c19b4de56e8871f609e73ca7f6d2e2bb9.woff2") format("woff2"),
+       url("//vwh56w1krvs3p94u-69620498584.shopifypreview.com/cdn/fonts/inter/inter_n4.af8052d517e0c9ffac7b814872cecc27ae1fa132.woff") format("woff");
+}
+
+  @font-face {
+  font-family: Barlow;
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+  src: url("//vwh56w1krvs3p94u-69620498584.shopifypreview.com/cdn/fonts/barlow/barlow_i9.11ebc1177381737860951e28b673b99861ed4d01.woff2") format("woff2"),
+       url("//vwh56w1krvs3p94u-69620498584.shopifypreview.com/cdn/fonts/barlow/barlow_i9.21f5e6102f93a0770915aa0d3a28461f61135770.woff") format("woff");
+}
+
+
+  @font-face {
+  font-family: Inter;
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+  src: url("//vwh56w1krvs3p94u-69620498584.shopifypreview.com/cdn/fonts/inter/inter_n3.6faba940d2e90c9f1c2e0c5c2750b84af59fecc0.woff2") format("woff2"),
+       url("//vwh56w1krvs3p94u-69620498584.shopifypreview.com/cdn/fonts/inter/inter_n3.413aa818ec2103383c4ac7c3744c464d04b4db49.woff") format("woff");
+}
+
+  @font-face {
+  font-family: Inter;
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url("//vwh56w1krvs3p94u-69620498584.shopifypreview.com/cdn/fonts/inter/inter_n4.b2a3f24c19b4de56e8871f609e73ca7f6d2e2bb9.woff2") format("woff2"),
+       url("//vwh56w1krvs3p94u-69620498584.shopifypreview.com/cdn/fonts/inter/inter_n4.af8052d517e0c9ffac7b814872cecc27ae1fa132.woff") format("woff");
+}
+
+  @font-face {
+  font-family: Inter;
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+  src: url("//vwh56w1krvs3p94u-69620498584.shopifypreview.com/cdn/fonts/inter/inter_n5.d7101d5e168594dd06f56f290dd759fba5431d97.woff2") format("woff2"),
+       url("//vwh56w1krvs3p94u-69620498584.shopifypreview.com/cdn/fonts/inter/inter_n5.5332a76bbd27da00474c136abb1ca3cbbf259068.woff") format("woff");
+}
+
+  @font-face {
+  font-family: Inter;
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url("//vwh56w1krvs3p94u-69620498584.shopifypreview.com/cdn/fonts/inter/inter_n7.02711e6b374660cfc7915d1afc1c204e633421e4.woff2") format("woff2"),
+       url("//vwh56w1krvs3p94u-69620498584.shopifypreview.com/cdn/fonts/inter/inter_n7.6dab87426f6b8813070abd79972ceaf2f8d3b012.woff") format("woff");
+}
+
+  @font-face {
+  font-family: Inter;
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+  src: url("//vwh56w1krvs3p94u-69620498584.shopifypreview.com/cdn/fonts/inter/inter_i4.feae1981dda792ab80d117249d9c7e0f1017e5b3.woff2") format("woff2"),
+       url("//vwh56w1krvs3p94u-69620498584.shopifypreview.com/cdn/fonts/inter/inter_i4.62773b7113d5e5f02c71486623cf828884c85c6e.woff") format("woff");
+}
+
+  @font-face {
+  font-family: Rubik;
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+  src: url("//vwh56w1krvs3p94u-69620498584.shopifypreview.com/cdn/fonts/rubik/rubik_i4.528fdfa8adf0c2cb49c0f6d132dcaffa910849d6.woff2") format("woff2"),
+       url("//vwh56w1krvs3p94u-69620498584.shopifypreview.com/cdn/fonts/rubik/rubik_i4.937396c2106c0db7a4072bbcd373d4e3d0ab306b.woff") format("woff");
+}
+
+  @font-face {
+  font-family: Inter;
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+  src: url("//vwh56w1krvs3p94u-69620498584.shopifypreview.com/cdn/fonts/inter/inter_i7.b377bcd4cc0f160622a22d638ae7e2cd9b86ea4c.woff2") format("woff2"),
+       url("//vwh56w1krvs3p94u-69620498584.shopifypreview.com/cdn/fonts/inter/inter_i7.7c69a6a34e3bb44fcf6f975857e13b9a9b25beb4.woff") format("woff");
+}
+
+
+  :root {
+  --font-body-family: Inter, sans-serif;
+  --font-body-style: normal;
+  --font-body-weight: 400;
+  --font-body-scale: 1.15;
+  --font-body-line-height: 1.4;
+  --font-body-letter-spacing: -0.2em;
+
+  --font-heading-family: Rubik, sans-serif;
+  --font-heading-style: normal;
+  --font-heading-weight: 400;
+  --font-heading-letter-spacing: -0.2em;
+  --font-heading-line-height: 1.2;
+  --font-heading-text-transform: none;
+  --font-accent-family: Barlow, sans-serif;
+  --font-accent-style: italic;
+  --font-accent-weight: 900;
+
+  --font-subtitle-family: Inter, sans-serif;
+  --font-subtitle-style: normal;
+  --font-subtitle-weight: 700;
+  --font-subtitle-text-transform: uppercase;
+  --font-subtitle-scale: 1.4;
+
+  --font-heading-h1-scale: 1.0;
+  --font-heading-h2-scale: 1.13;
+  --font-heading-h3-scale: 1.0;
+  --font-heading-h4-scale: 1.0;
+  --font-heading-h5-scale: 1.0;
+
+  --font-heading-card-family: Inter, sans-serif;
+  --font-heading-card-style: normal;
+  --font-heading-card-weight: 400;
+  --font-heading-card-text-transform: none;
+  --font-text-card-family: Inter, sans-serif;
+  --font-text-card-style: normal;
+  --font-text-card-weight: 400;
+  --font-price-card-family: Inter, sans-serif;
+  --font-price-card-style: normal;
+  --font-price-card-weight: 700;
+
+  --font-badge-card-family: Inter, sans-serif;
+  --font-badge-card-style: normal;
+  --font-badge-card-weight: 700;
+  --font-custom-badge-card-family: Inter, sans-serif;
+  --font-custom-badge-card-style: normal;
+  --font-custom-badge-card-weight: 700;
+  --font-badge-transform: uppercase;
+  --font-badge-scale: 1.1;
+
+  --font-heading-card-scale: 1.0;
+  --font-text-card-scale: 1.6;
+  --font-price-card-scale: 1.0;
+
+  /* BUTTONS */
+  --font-button-family: Inter, sans-serif;
+  --font-button-style: normal;
+  --font-button-weight: 700;
+  --font-button-text-transform: none;
+  --font-button-letter-spacing: -0.02em;
+  --font-button-scale: 1.6;
+
+  --font-subtitle-letter-spacing: -0.02em;
+
+  --font-header-menu-family: Inter, sans-serif;
+  --font-header-menu-style: normal;
+  --font-header-menu-weight: 700;
+  --font-header-menu-text-transform: none;
+  --font-header-menu-text-scale: 1.8;
+  --font-header-menu-letter-spacing: -0.02em;
+
+  --font-footer-menu-family: Inter, sans-serif;
+  --font-footer-menu-style: normal;
+  --font-footer-menu-weight: 400;
+  }
+
+
+  
+    :root,
+     [data-scheme=light]  .color-background-1 {
+      --color-background: 255,255,255;
+      --color-background-secondary: 243,243,243;
+      --color-foreground: 0, 0, 0;
+      
+        --overwrite-background: #ffffff;
+      
+      --color-foreground-secondary: 101, 101, 101;
+   		--color-overlay: 255,255,255;
+      --color-button-text: 255, 255, 255;
+      --color-button-text-hover: 255, 255, 255;
+      --color-button: 54, 110, 254;
+      --color-button-hover: 35, 87, 221;
+      --color-button-secondary: 255, 255, 255;
+      --color-button-secondary-hover: 238, 243, 255;
+      --color-button-secondary-text: 54, 110, 254;
+      --color-button-secondary-text-hover: 35, 87, 221;
+      --color-button-tertiary-text: 0, 0, 0;
+      --color-button-tertiary-text-hover: 0, 0, 0;
+      --color-button-tertiary: 243, 243, 243;
+      --color-button-tertiary-hover: 228, 228, 228;
+      --color-button-transparent: 54, 110, 254;
+      --color-button-transparent-hover: 35, 87, 221;
+
+      --color-background-input: 240, 240, 240;
+      --color-placeholder-input: 101, 101, 101;
+      --color-foreground-input: 0, 0, 0;
+      --color-border: 217, 217, 217;
+      --color-accent: 87, 165, 255;
+      --color-accent-secondary: 255, 255, 255;
+      --color-alert: 231, 0, 114;
+      --color-countdown-date-bg: 54, 110, 254;
+
+      --sold-out-badge-bg: 208,5,5;
+      --sold-out-badge-color: 255,255,255;
+      --sale-badge-bg: 231,0,114;
+      --sale-badge-color: 255,255,255;
+      --custom-badge-bg: 87,165,255;
+    	--custom-badge-color: 255,255,255;
+      --new-badge-bg: 14,120,16;
+    	--new-badge-color: 255,255,255;
+      --banner-badge-bg: 92,184,255;
+    	--banner-badge-color: 255,255,255;
+      --banner-badge-bg: 92,184,255;
+    	--banner-badge-color: 255,255,255;
+
+      --color-card-price-regular: 231, 0, 114;
+      --color-card-price-sale: 101, 101, 101;
+    }
+
+    
+      @media (prefers-color-scheme: light) {
+        :root,
+        [data-scheme=auto] .color-background-1 {
+          --color-background: 255,255,255;
+          --color-background-secondary: 243,243,243;
+          
+            --overwrite-background: #ffffff;
+          
+          --color-foreground: 0, 0, 0;
+          --color-foreground-secondary: 101, 101, 101;
+          --color-overlay: 255,255,255;
+          --color-button-text: 255, 255, 255;
+          --color-button-text-hover: 255, 255, 255;
+          --color-button: 54, 110, 254;
+          --color-button-hover: 35, 87, 221;
+          --color-button-secondary: 255, 255, 255;
+          --color-button-secondary-hover: 238, 243, 255;
+          --color-button-secondary-text: 54, 110, 254;
+          --color-button-secondary-text-hover: 35, 87, 221;
+
+          --color-button-tertiary-text: 0, 0, 0;
+          --color-button-tertiary-text-hover: 0, 0, 0;
+          --color-button-tertiary: 243, 243, 243;
+          --color-button-tertiary-hover: 228, 228, 228;
+
+          --color-button-transparent: 54, 110, 254;
+          --color-button-transparent-hover: 35, 87, 221;
+
+          --color-background-input: 240, 240, 240;
+          --color-placeholder-input: 101, 101, 101;
+          --color-foreground-input: 0, 0, 0;
+          --color-border: 217, 217, 217;
+          --color-accent: 87, 165, 255;
+          --color-accent-secondary: 255, 255, 255;
+          --color-alert: 231, 0, 114;
+          --color-countdown-date-bg: 54, 110, 254;
+
+          --sold-out-badge-bg: 208,5,5;
+          --sold-out-badge-color: 255,255,255;
+          --sale-badge-bg: 231,0,114;
+          --sale-badge-color: 255,255,255;
+          --custom-badge-bg: 87,165,255;
+          --custom-badge-color: 255,255,255;
+          --new-badge-bg: 14,120,16;
+          --new-badge-color: 255,255,255;
+          --banner-badge-bg: 92,184,255;
+          --banner-badge-color: 255,255,255;
+          --banner-badge-bg: 92,184,255;
+          --banner-badge-color: 255,255,255;
+
+          --color-card-price-regular: 231, 0, 114;
+          --color-card-price-sale: 101, 101, 101;
+        }
+      }
+    
+  
+    
+     [data-scheme=light]  .color-background-2 {
+      --color-background: 243,243,243;
+      --color-background-secondary: 255,255,255;
+      --color-foreground: 0, 0, 0;
+      
+        --overwrite-background: #f3f3f3;
+      
+      --color-foreground-secondary: 101, 101, 101;
+   		--color-overlay: 255,255,255;
+      --color-button-text: 255, 255, 255;
+      --color-button-text-hover: 255, 255, 255;
+      --color-button: 54, 110, 254;
+      --color-button-hover: 35, 87, 221;
+      --color-button-secondary: 255, 255, 255;
+      --color-button-secondary-hover: 238, 243, 255;
+      --color-button-secondary-text: 54, 110, 254;
+      --color-button-secondary-text-hover: 35, 87, 221;
+      --color-button-tertiary-text: 0, 0, 0;
+      --color-button-tertiary-text-hover: 0, 0, 0;
+      --color-button-tertiary: 255, 255, 255;
+      --color-button-tertiary-hover: 247, 247, 247;
+      --color-button-transparent: 54, 110, 254;
+      --color-button-transparent-hover: 35, 87, 221;
+
+      --color-background-input: 255, 255, 255;
+      --color-placeholder-input: 101, 101, 101;
+      --color-foreground-input: 0, 0, 0;
+      --color-border: 217, 217, 217;
+      --color-accent: 92, 184, 255;
+      --color-accent-secondary: 255, 255, 255;
+      --color-alert: 231, 0, 114;
+      --color-countdown-date-bg: 54, 110, 254;
+
+      --sold-out-badge-bg: 208,5,5;
+      --sold-out-badge-color: 255,255,255;
+      --sale-badge-bg: 54,110,254;
+      --sale-badge-color: 255,255,255;
+      --custom-badge-bg: 92,184,255;
+    	--custom-badge-color: 255,255,255;
+      --new-badge-bg: 14,120,16;
+    	--new-badge-color: 255,255,255;
+      --banner-badge-bg: 92,184,255;
+    	--banner-badge-color: 255,255,255;
+      --banner-badge-bg: 92,184,255;
+    	--banner-badge-color: 255,255,255;
+
+      --color-card-price-regular: 231, 0, 114;
+      --color-card-price-sale: 101, 101, 101;
+    }
+
+    
+      @media (prefers-color-scheme: light) {
+        
+        [data-scheme=auto] .color-background-2 {
+          --color-background: 243,243,243;
+          --color-background-secondary: 255,255,255;
+          
+            --overwrite-background: #f3f3f3;
+          
+          --color-foreground: 0, 0, 0;
+          --color-foreground-secondary: 101, 101, 101;
+          --color-overlay: 255,255,255;
+          --color-button-text: 255, 255, 255;
+          --color-button-text-hover: 255, 255, 255;
+          --color-button: 54, 110, 254;
+          --color-button-hover: 35, 87, 221;
+          --color-button-secondary: 255, 255, 255;
+          --color-button-secondary-hover: 238, 243, 255;
+          --color-button-secondary-text: 54, 110, 254;
+          --color-button-secondary-text-hover: 35, 87, 221;
+
+          --color-button-tertiary-text: 0, 0, 0;
+          --color-button-tertiary-text-hover: 0, 0, 0;
+          --color-button-tertiary: 255, 255, 255;
+          --color-button-tertiary-hover: 247, 247, 247;
+
+          --color-button-transparent: 54, 110, 254;
+          --color-button-transparent-hover: 35, 87, 221;
+
+          --color-background-input: 255, 255, 255;
+          --color-placeholder-input: 101, 101, 101;
+          --color-foreground-input: 0, 0, 0;
+          --color-border: 217, 217, 217;
+          --color-accent: 92, 184, 255;
+          --color-accent-secondary: 255, 255, 255;
+          --color-alert: 231, 0, 114;
+          --color-countdown-date-bg: 54, 110, 254;
+
+          --sold-out-badge-bg: 208,5,5;
+          --sold-out-badge-color: 255,255,255;
+          --sale-badge-bg: 54,110,254;
+          --sale-badge-color: 255,255,255;
+          --custom-badge-bg: 92,184,255;
+          --custom-badge-color: 255,255,255;
+          --new-badge-bg: 14,120,16;
+          --new-badge-color: 255,255,255;
+          --banner-badge-bg: 92,184,255;
+          --banner-badge-color: 255,255,255;
+          --banner-badge-bg: 92,184,255;
+          --banner-badge-color: 255,255,255;
+
+          --color-card-price-regular: 231, 0, 114;
+          --color-card-price-sale: 101, 101, 101;
+        }
+      }
+    
+  
+    
+     [data-scheme=light]  .color-background-3 {
+      --color-background: 92,184,255;
+      --color-background-secondary: 255,255,255;
+      --color-foreground: 255, 255, 255;
+      
+        --overwrite-background: #5cb8ff;
+      
+      --color-foreground-secondary: 255, 255, 255;
+   		--color-overlay: 0,0,0;
+      --color-button-text: 255, 255, 255;
+      --color-button-text-hover: 255, 255, 255;
+      --color-button: 54, 110, 254;
+      --color-button-hover: 35, 87, 221;
+      --color-button-secondary: 255, 255, 255;
+      --color-button-secondary-hover: 238, 243, 255;
+      --color-button-secondary-text: 54, 110, 254;
+      --color-button-secondary-text-hover: 35, 87, 221;
+      --color-button-tertiary-text: 0, 0, 0;
+      --color-button-tertiary-text-hover: 0, 0, 0;
+      --color-button-tertiary: 243, 243, 243;
+      --color-button-tertiary-hover: 228, 228, 228;
+      --color-button-transparent: 255, 255, 255;
+      --color-button-transparent-hover: 255, 255, 255;
+
+      --color-background-input: 255, 255, 255;
+      --color-placeholder-input: 101, 101, 101;
+      --color-foreground-input: 0, 0, 0;
+      --color-border: 217, 217, 217;
+      --color-accent: 92, 184, 255;
+      --color-accent-secondary: 255, 255, 255;
+      --color-alert: 231, 0, 114;
+      --color-countdown-date-bg: 54, 110, 254;
+
+      --sold-out-badge-bg: 208,5,5;
+      --sold-out-badge-color: 255,255,255;
+      --sale-badge-bg: 231,0,114;
+      --sale-badge-color: 255,255,255;
+      --custom-badge-bg: 54,110,254;
+    	--custom-badge-color: 255,255,255;
+      --new-badge-bg: 14,120,16;
+    	--new-badge-color: 255,255,255;
+      --banner-badge-bg: 87,165,255;
+    	--banner-badge-color: 255,255,255;
+      --banner-badge-bg: 87,165,255;
+    	--banner-badge-color: 255,255,255;
+
+      --color-card-price-regular: 231, 0, 114;
+      --color-card-price-sale: 185, 185, 185;
+    }
+
+    
+      @media (prefers-color-scheme: light) {
+        
+        [data-scheme=auto] .color-background-3 {
+          --color-background: 92,184,255;
+          --color-background-secondary: 255,255,255;
+          
+            --overwrite-background: #5cb8ff;
+          
+          --color-foreground: 255, 255, 255;
+          --color-foreground-secondary: 255, 255, 255;
+          --color-overlay: 0,0,0;
+          --color-button-text: 255, 255, 255;
+          --color-button-text-hover: 255, 255, 255;
+          --color-button: 54, 110, 254;
+          --color-button-hover: 35, 87, 221;
+          --color-button-secondary: 255, 255, 255;
+          --color-button-secondary-hover: 238, 243, 255;
+          --color-button-secondary-text: 54, 110, 254;
+          --color-button-secondary-text-hover: 35, 87, 221;
+
+          --color-button-tertiary-text: 0, 0, 0;
+          --color-button-tertiary-text-hover: 0, 0, 0;
+          --color-button-tertiary: 243, 243, 243;
+          --color-button-tertiary-hover: 228, 228, 228;
+
+          --color-button-transparent: 255, 255, 255;
+          --color-button-transparent-hover: 255, 255, 255;
+
+          --color-background-input: 255, 255, 255;
+          --color-placeholder-input: 101, 101, 101;
+          --color-foreground-input: 0, 0, 0;
+          --color-border: 217, 217, 217;
+          --color-accent: 92, 184, 255;
+          --color-accent-secondary: 255, 255, 255;
+          --color-alert: 231, 0, 114;
+          --color-countdown-date-bg: 54, 110, 254;
+
+          --sold-out-badge-bg: 208,5,5;
+          --sold-out-badge-color: 255,255,255;
+          --sale-badge-bg: 231,0,114;
+          --sale-badge-color: 255,255,255;
+          --custom-badge-bg: 54,110,254;
+          --custom-badge-color: 255,255,255;
+          --new-badge-bg: 14,120,16;
+          --new-badge-color: 255,255,255;
+          --banner-badge-bg: 87,165,255;
+          --banner-badge-color: 255,255,255;
+          --banner-badge-bg: 87,165,255;
+          --banner-badge-color: 255,255,255;
+
+          --color-card-price-regular: 231, 0, 114;
+          --color-card-price-sale: 185, 185, 185;
+        }
+      }
+    
+  
+    
+     [data-scheme=light]  .color-background-4 {
+      --color-background: 92,184,255;
+      --color-background-secondary: 255,255,255;
+      --color-foreground: 255, 255, 255;
+      
+        --overwrite-background: #5cb8ff;
+      
+      --color-foreground-secondary: 0, 0, 0;
+   		--color-overlay: 0,0,0;
+      --color-button-text: 255, 255, 255;
+      --color-button-text-hover: 255, 255, 255;
+      --color-button: 54, 110, 254;
+      --color-button-hover: 35, 87, 221;
+      --color-button-secondary: 255, 255, 255;
+      --color-button-secondary-hover: 238, 243, 255;
+      --color-button-secondary-text: 54, 110, 254;
+      --color-button-secondary-text-hover: 35, 87, 221;
+      --color-button-tertiary-text: 0, 0, 0;
+      --color-button-tertiary-text-hover: 0, 0, 0;
+      --color-button-tertiary: 243, 243, 243;
+      --color-button-tertiary-hover: 228, 228, 228;
+      --color-button-transparent: 255, 255, 255;
+      --color-button-transparent-hover: 255, 255, 255;
+
+      --color-background-input: 255, 255, 255;
+      --color-placeholder-input: 101, 101, 101;
+      --color-foreground-input: 0, 0, 0;
+      --color-border: 217, 217, 217;
+      --color-accent: 92, 184, 255;
+      --color-accent-secondary: 255, 255, 255;
+      --color-alert: 231, 0, 114;
+      --color-countdown-date-bg: 54, 110, 254;
+
+      --sold-out-badge-bg: 208,5,5;
+      --sold-out-badge-color: 255,255,255;
+      --sale-badge-bg: 231,0,114;
+      --sale-badge-color: 255,255,255;
+      --custom-badge-bg: 54,110,254;
+    	--custom-badge-color: 255,255,255;
+      --new-badge-bg: 14,120,16;
+    	--new-badge-color: 255,255,255;
+      --banner-badge-bg: 87,165,255;
+    	--banner-badge-color: 255,255,255;
+      --banner-badge-bg: 87,165,255;
+    	--banner-badge-color: 255,255,255;
+
+      --color-card-price-regular: 231, 0, 114;
+      --color-card-price-sale: 185, 185, 185;
+    }
+
+    
+      @media (prefers-color-scheme: light) {
+        
+        [data-scheme=auto] .color-background-4 {
+          --color-background: 92,184,255;
+          --color-background-secondary: 255,255,255;
+          
+            --overwrite-background: #5cb8ff;
+          
+          --color-foreground: 255, 255, 255;
+          --color-foreground-secondary: 0, 0, 0;
+          --color-overlay: 0,0,0;
+          --color-button-text: 255, 255, 255;
+          --color-button-text-hover: 255, 255, 255;
+          --color-button: 54, 110, 254;
+          --color-button-hover: 35, 87, 221;
+          --color-button-secondary: 255, 255, 255;
+          --color-button-secondary-hover: 238, 243, 255;
+          --color-button-secondary-text: 54, 110, 254;
+          --color-button-secondary-text-hover: 35, 87, 221;
+
+          --color-button-tertiary-text: 0, 0, 0;
+          --color-button-tertiary-text-hover: 0, 0, 0;
+          --color-button-tertiary: 243, 243, 243;
+          --color-button-tertiary-hover: 228, 228, 228;
+
+          --color-button-transparent: 255, 255, 255;
+          --color-button-transparent-hover: 255, 255, 255;
+
+          --color-background-input: 255, 255, 255;
+          --color-placeholder-input: 101, 101, 101;
+          --color-foreground-input: 0, 0, 0;
+          --color-border: 217, 217, 217;
+          --color-accent: 92, 184, 255;
+          --color-accent-secondary: 255, 255, 255;
+          --color-alert: 231, 0, 114;
+          --color-countdown-date-bg: 54, 110, 254;
+
+          --sold-out-badge-bg: 208,5,5;
+          --sold-out-badge-color: 255,255,255;
+          --sale-badge-bg: 231,0,114;
+          --sale-badge-color: 255,255,255;
+          --custom-badge-bg: 54,110,254;
+          --custom-badge-color: 255,255,255;
+          --new-badge-bg: 14,120,16;
+          --new-badge-color: 255,255,255;
+          --banner-badge-bg: 87,165,255;
+          --banner-badge-color: 255,255,255;
+          --banner-badge-bg: 87,165,255;
+          --banner-badge-color: 255,255,255;
+
+          --color-card-price-regular: 231, 0, 114;
+          --color-card-price-sale: 185, 185, 185;
+        }
+      }
+    
+  
+
+  body, .color-background-1, .color-background-2, .color-background-3, .color-background-4 {
+    color: rgba(var(--color-foreground));
+    background: rgb(var(--color-background));
+    background-attachment: fixed;
+  }
+
+  :root {
+    --color-shadow: var(--color-foreground);
+    --payment-terms-background-color: ;
+    --color-modal-overlay: 0,0,0;;
+  }
+
+  
+    [data-scheme=dark] .color-background-1 {
+      --color-background: 31, 31, 31;
+      --color-background-secondary: 41, 41, 41;
+      --color-foreground: 255, 255, 255;
+      --color-foreground-secondary: 220, 220, 220;
+      --color-background-input: 52, 52, 53;
+      --color-foreground-input: 255, 255, 255;
+      --color-border: 67, 67, 67;
+      --color-button: 10, 10, 10;
+      --color-button-hover: 45, 45, 45;
+      --color-button-text: 255, 255, 255;
+      --color-button-text-hover: 255, 255, 255;
+      --color-button-secondary: 58, 58, 58;
+      --color-button-secondary-hover: 68, 68, 68;
+      --color-button-secondary-text: 255, 255, 255;
+      --color-button-secondary-text-hover: 255, 255, 255;
+      --color-button-tertiary: 90, 90, 90;
+      --color-button-tertiary-hover: 100, 100, 100;
+      --color-button-tertiary-text: 255, 255, 255;
+      --color-button-tertiary-text-hover: 255, 255, 255;
+      --color-button-transparent: 255, 255, 255;
+      --color-button-transparent-hover: 255, 255, 255;
+      --color-card-price-regular: 229, 229, 229;
+      --color-card-price-sale: 169, 169, 169;
+      --color-error-background: 0, 0, 0;
+      --color-shadow: 1, 22, 36;
+      --sold-out-badge-bg: 142, 142, 143;
+      --sold-out-badge-color: 255, 255, 255;
+      --sale-badge-bg: 142, 142, 143;
+      --sale-badge-color: 255, 255, 255;
+      --custom-badge-bg: 142, 142, 143;
+      --custom-badge-color: 255, 255, 255;
+      --color-overlay: 0, 0, 0;
+      --color-accent: 255, 255, 255;
+      --color-accent-secondary: 31, 31, 31;
+      --color-alert: 255, 70, 70;
+      --color-countdown-date-bg: 41, 41, 41;
+
+      .cards-grid-item__heading,
+      .cards-grid-item__promo-text,
+      .cards-grid-item__text,
+      .article-card-overlay-title,
+      .article-card-overlay-excerpt,
+      .article-card-overlay-date:not(:first-of-type):before {
+        --color-foreground: 0, 0, 0;
+      }
+
+      .cards-grid-item__promo-input,
+      .slideshow__promo-input {
+        --color-background-input: 240, 240, 240;
+        --color-placeholder-input: 101, 101, 101;
+        --color-foreground-input: 0, 0, 0;
+      }
+
+      .cards-grid-item__text,
+      .article-card-overlay-author,
+      .article-card-overlay-date,
+      .article-card-overlay-comments {
+        --color-foreground-secondary: 101, 101, 101;
+      }
+
+      .article-card-overlay-tag {
+        --color-button-tertiary-text: 0, 0, 0;
+        --color-button-tertiary-text-hover: 0, 0, 0;
+        --color-button-tertiary: 243, 243, 243;
+        --color-button-tertiary-hover: 228, 228, 228;
+      }
+
+      .cards-grid-item__subheading {
+        --color-background: 255,255,255;
+        --color-accent: 87, 165, 255;
+        --color-foreground: 0, 0, 0;
+      }
+
+      >.collection-card__information .collection-card__title,
+      >.collection-card__information .collection-card__desc {
+        --color-foreground: 0, 0, 0;
+      }
+
+      .countdown__promo-banner-text-container {
+        --color-foreground: 0, 0, 0;
+        --color-foreground-secondary: 101, 101, 101;
+        --color-background: 255,255,255;
+        --color-accent: 87, 165, 255;
+      }
+
+      .featured-collection__promo-text,
+      .featured-collection__card-text {
+        --color-foreground: 0, 0, 0;
+        --color-foreground-secondary: 101, 101, 101;
+        --color-background: 255,255,255;
+        --color-accent: 87, 165, 255;
+        --color-background-input: 240, 240, 240;
+        --color-placeholder-input: 101, 101, 101;
+        --color-foreground-input: 0, 0, 0;
+      }
+
+      .collection-hero__text-wrapper,
+      .collection-hero__image-wrapper {
+        --color-background: 255,255,255;
+        --color-foreground: 0, 0, 0;
+        --color-foreground-secondary: 101, 101, 101;
+        --color-overlay: 255,255,255;
+      }
+    }
+
+    [data-scheme=dark] .color-background-1.collections-list__item--overlay {
+      .collections-list__title {
+        --color-foreground: 0, 0, 0;
+      }
+
+      .collections-list__desc {
+        --color-foreground-secondary: 101, 101, 101;
+      }
+    }
+
+    [data-scheme=dark] .countdown__container--with-bg-image.color-background-1 {
+      --color-countdown-date-bg: 54, 110, 254;
+      --color-foreground: 0, 0, 0;
+      --color-foreground-secondary: 101, 101, 101;
+      --color-background: 255,255,255;
+      --color-accent: 87, 165, 255;
+      --color-accent-secondary: 255, 255, 255;
+      --color-background-input: 240, 240, 240;
+      --color-placeholder-input: 101, 101, 101;
+      --color-foreground-input: 0, 0, 0;
+      --color-border: 217, 217, 217;
+      --color-overlay: 255,255,255;
+    }
+
+    @media (prefers-color-scheme: dark) {
+      [data-scheme=auto] .color-background-1 {
+        --color-background: 31, 31, 31;
+        --color-background-secondary: 41, 41, 41;
+        --color-foreground: 255, 255, 255;
+        --color-foreground-secondary: 220, 220, 220;
+        --color-background-input: 52, 52, 53;
+        --color-foreground-input: 255, 255, 255;
+        --color-border: 67, 67, 67;
+        --color-button: 10, 10, 10;
+        --color-button-hover: 45, 45, 45;
+        --color-button-text: 255, 255, 255;
+        --color-button-text-hover: 255, 255, 255;
+        --color-button-secondary: 58, 58, 58;
+        --color-button-secondary-hover: 68, 68, 68;
+        --color-button-secondary-text: 255, 255, 255;
+        --color-button-secondary-text-hover: 255, 255, 255;
+        --color-button-tertiary: 90, 90, 90;
+        --color-button-tertiary-hover: 100, 100, 100;
+        --color-button-tertiary-text: 255, 255, 255;
+        --color-button-tertiary-text-hover: 255, 255, 255;
+        --color-button-transparent: 255, 255, 255;
+        --color-button-transparent-hover: 255, 255, 255;
+        --color-card-price-regular: 229, 229, 229;
+        --color-card-price-sale: 169, 169, 169;
+        --color-error-background: 0, 0, 0;
+        --color-shadow: 1, 22, 36;
+        --sold-out-badge-bg: 142, 142, 143;
+        --sold-out-badge-color: 255, 255, 255;
+        --sale-badge-bg: 142, 142, 143;
+        --sale-badge-color: 255, 255, 255;
+        --custom-badge-bg: 142, 142, 143;
+        --custom-badge-color: 255, 255, 255;
+        --color-overlay: 0, 0, 0;
+        --color-accent: 255, 255, 255;
+        --color-accent-secondary: 31, 31, 31;
+        --color-alert: 255, 70, 70;
+        --color-countdown-date-bg: 41, 41, 41;
+
+        .cards-grid-item__heading,
+        .cards-grid-item__promo-text,
+        .cards-grid-item__text,
+        .article-card-overlay-title,
+        .article-card-overlay-excerpt,
+        .article-card-overlay-date:not(:first-of-type):before {
+          --color-foreground: 0, 0, 0;
+        }
+
+        .cards-grid-item__promo-input,
+        .slideshow__promo-input {
+          --color-background-input: 240, 240, 240;
+          --color-placeholder-input: 101, 101, 101;
+          --color-foreground-input: 0, 0, 0;
+        }
+
+        .cards-grid-item__text,
+        .article-card-overlay-author,
+        .article-card-overlay-date,
+        .article-card-overlay-comments {
+          --color-foreground-secondary: 101, 101, 101;
+        }
+
+        .article-card-overlay-tag {
+          --color-button-tertiary-text: 0, 0, 0;
+          --color-button-tertiary-text-hover: 0, 0, 0;
+          --color-button-tertiary: 243, 243, 243;
+          --color-button-tertiary-hover: 228, 228, 228;
+        }
+
+        .cards-grid-item__subheading {
+          --color-background: 255,255,255;
+          --color-accent: 87, 165, 255;
+          --color-foreground: 0, 0, 0;
+        }
+
+        >.collection-card__information .collection-card__title,
+        >.collection-card__information .collection-card__desc {
+          --color-foreground: 0, 0, 0;
+        }
+
+        .countdown__promo-banner-text-container {
+          --color-foreground: 0, 0, 0;
+          --color-foreground-secondary: 101, 101, 101;
+          --color-background: 255,255,255;
+          --color-accent: 87, 165, 255;
+        }
+
+        .featured-collection__promo-text,
+        .featured-collection__card-text {
+          --color-foreground: 0, 0, 0;
+          --color-foreground-secondary: 101, 101, 101;
+          --color-background: 255,255,255;
+          --color-accent: 87, 165, 255;
+          --color-background-input: 240, 240, 240;
+          --color-placeholder-input: 101, 101, 101;
+          --color-foreground-input: 0, 0, 0;
+        }
+
+        .collection-hero__text-wrapper,
+        .collection-hero__image-wrapper {
+          --color-background: 255,255,255;
+          --color-foreground: 0, 0, 0;
+          --color-foreground-secondary: 101, 101, 101;
+          --color-overlay: 255,255,255;
+        }
+      }
+
+      [data-scheme=auto] .color-background-1.collections-list__item--overlay {
+        .collections-list__title {
+          --color-foreground: 0, 0, 0;
+        }
+
+        .collections-list__desc {
+          --color-foreground-secondary: 101, 101, 101;
+        }
+      }
+
+      [data-scheme=auto] .countdown__container--with-bg-image.color-background-1 {
+        --color-countdown-date-bg: 54, 110, 254;
+        --color-foreground: 0, 0, 0;
+        --color-foreground-secondary: 101, 101, 101;
+        --color-background: 255,255,255;
+        --color-accent: 87, 165, 255;
+        --color-accent-secondary: 255, 255, 255;
+        --color-background-input: 240, 240, 240;
+        --color-placeholder-input: 101, 101, 101;
+        --color-foreground-input: 0, 0, 0;
+        --color-border: 217, 217, 217;
+      }
+    }
+  
+    [data-scheme=dark] .color-background-2 {
+      --color-background: 31, 31, 31;
+      --color-background-secondary: 41, 41, 41;
+      --color-foreground: 255, 255, 255;
+      --color-foreground-secondary: 220, 220, 220;
+      --color-background-input: 52, 52, 53;
+      --color-foreground-input: 255, 255, 255;
+      --color-border: 67, 67, 67;
+      --color-button: 10, 10, 10;
+      --color-button-hover: 45, 45, 45;
+      --color-button-text: 255, 255, 255;
+      --color-button-text-hover: 255, 255, 255;
+      --color-button-secondary: 58, 58, 58;
+      --color-button-secondary-hover: 68, 68, 68;
+      --color-button-secondary-text: 255, 255, 255;
+      --color-button-secondary-text-hover: 255, 255, 255;
+      --color-button-tertiary: 90, 90, 90;
+      --color-button-tertiary-hover: 100, 100, 100;
+      --color-button-tertiary-text: 255, 255, 255;
+      --color-button-tertiary-text-hover: 255, 255, 255;
+      --color-button-transparent: 255, 255, 255;
+      --color-button-transparent-hover: 255, 255, 255;
+      --color-card-price-regular: 229, 229, 229;
+      --color-card-price-sale: 169, 169, 169;
+      --color-error-background: 0, 0, 0;
+      --color-shadow: 1, 22, 36;
+      --sold-out-badge-bg: 142, 142, 143;
+      --sold-out-badge-color: 255, 255, 255;
+      --sale-badge-bg: 142, 142, 143;
+      --sale-badge-color: 255, 255, 255;
+      --custom-badge-bg: 142, 142, 143;
+      --custom-badge-color: 255, 255, 255;
+      --color-overlay: 0, 0, 0;
+      --color-accent: 255, 255, 255;
+      --color-accent-secondary: 31, 31, 31;
+      --color-alert: 255, 70, 70;
+      --color-countdown-date-bg: 41, 41, 41;
+
+      .cards-grid-item__heading,
+      .cards-grid-item__promo-text,
+      .cards-grid-item__text,
+      .article-card-overlay-title,
+      .article-card-overlay-excerpt,
+      .article-card-overlay-date:not(:first-of-type):before {
+        --color-foreground: 0, 0, 0;
+      }
+
+      .cards-grid-item__promo-input,
+      .slideshow__promo-input {
+        --color-background-input: 255, 255, 255;
+        --color-placeholder-input: 101, 101, 101;
+        --color-foreground-input: 0, 0, 0;
+      }
+
+      .cards-grid-item__text,
+      .article-card-overlay-author,
+      .article-card-overlay-date,
+      .article-card-overlay-comments {
+        --color-foreground-secondary: 101, 101, 101;
+      }
+
+      .article-card-overlay-tag {
+        --color-button-tertiary-text: 0, 0, 0;
+        --color-button-tertiary-text-hover: 0, 0, 0;
+        --color-button-tertiary: 255, 255, 255;
+        --color-button-tertiary-hover: 247, 247, 247;
+      }
+
+      .cards-grid-item__subheading {
+        --color-background: 243,243,243;
+        --color-accent: 92, 184, 255;
+        --color-foreground: 0, 0, 0;
+      }
+
+      >.collection-card__information .collection-card__title,
+      >.collection-card__information .collection-card__desc {
+        --color-foreground: 0, 0, 0;
+      }
+
+      .countdown__promo-banner-text-container {
+        --color-foreground: 0, 0, 0;
+        --color-foreground-secondary: 101, 101, 101;
+        --color-background: 243,243,243;
+        --color-accent: 92, 184, 255;
+      }
+
+      .featured-collection__promo-text,
+      .featured-collection__card-text {
+        --color-foreground: 0, 0, 0;
+        --color-foreground-secondary: 101, 101, 101;
+        --color-background: 243,243,243;
+        --color-accent: 92, 184, 255;
+        --color-background-input: 255, 255, 255;
+        --color-placeholder-input: 101, 101, 101;
+        --color-foreground-input: 0, 0, 0;
+      }
+
+      .collection-hero__text-wrapper,
+      .collection-hero__image-wrapper {
+        --color-background: 243,243,243;
+        --color-foreground: 0, 0, 0;
+        --color-foreground-secondary: 101, 101, 101;
+        --color-overlay: 255,255,255;
+      }
+    }
+
+    [data-scheme=dark] .color-background-2.collections-list__item--overlay {
+      .collections-list__title {
+        --color-foreground: 0, 0, 0;
+      }
+
+      .collections-list__desc {
+        --color-foreground-secondary: 101, 101, 101;
+      }
+    }
+
+    [data-scheme=dark] .countdown__container--with-bg-image.color-background-2 {
+      --color-countdown-date-bg: 54, 110, 254;
+      --color-foreground: 0, 0, 0;
+      --color-foreground-secondary: 101, 101, 101;
+      --color-background: 243,243,243;
+      --color-accent: 92, 184, 255;
+      --color-accent-secondary: 255, 255, 255;
+      --color-background-input: 255, 255, 255;
+      --color-placeholder-input: 101, 101, 101;
+      --color-foreground-input: 0, 0, 0;
+      --color-border: 217, 217, 217;
+      --color-overlay: 255,255,255;
+    }
+
+    @media (prefers-color-scheme: dark) {
+      [data-scheme=auto] .color-background-2 {
+        --color-background: 31, 31, 31;
+        --color-background-secondary: 41, 41, 41;
+        --color-foreground: 255, 255, 255;
+        --color-foreground-secondary: 220, 220, 220;
+        --color-background-input: 52, 52, 53;
+        --color-foreground-input: 255, 255, 255;
+        --color-border: 67, 67, 67;
+        --color-button: 10, 10, 10;
+        --color-button-hover: 45, 45, 45;
+        --color-button-text: 255, 255, 255;
+        --color-button-text-hover: 255, 255, 255;
+        --color-button-secondary: 58, 58, 58;
+        --color-button-secondary-hover: 68, 68, 68;
+        --color-button-secondary-text: 255, 255, 255;
+        --color-button-secondary-text-hover: 255, 255, 255;
+        --color-button-tertiary: 90, 90, 90;
+        --color-button-tertiary-hover: 100, 100, 100;
+        --color-button-tertiary-text: 255, 255, 255;
+        --color-button-tertiary-text-hover: 255, 255, 255;
+        --color-button-transparent: 255, 255, 255;
+        --color-button-transparent-hover: 255, 255, 255;
+        --color-card-price-regular: 229, 229, 229;
+        --color-card-price-sale: 169, 169, 169;
+        --color-error-background: 0, 0, 0;
+        --color-shadow: 1, 22, 36;
+        --sold-out-badge-bg: 142, 142, 143;
+        --sold-out-badge-color: 255, 255, 255;
+        --sale-badge-bg: 142, 142, 143;
+        --sale-badge-color: 255, 255, 255;
+        --custom-badge-bg: 142, 142, 143;
+        --custom-badge-color: 255, 255, 255;
+        --color-overlay: 0, 0, 0;
+        --color-accent: 255, 255, 255;
+        --color-accent-secondary: 31, 31, 31;
+        --color-alert: 255, 70, 70;
+        --color-countdown-date-bg: 41, 41, 41;
+
+        .cards-grid-item__heading,
+        .cards-grid-item__promo-text,
+        .cards-grid-item__text,
+        .article-card-overlay-title,
+        .article-card-overlay-excerpt,
+        .article-card-overlay-date:not(:first-of-type):before {
+          --color-foreground: 0, 0, 0;
+        }
+
+        .cards-grid-item__promo-input,
+        .slideshow__promo-input {
+          --color-background-input: 255, 255, 255;
+          --color-placeholder-input: 101, 101, 101;
+          --color-foreground-input: 0, 0, 0;
+        }
+
+        .cards-grid-item__text,
+        .article-card-overlay-author,
+        .article-card-overlay-date,
+        .article-card-overlay-comments {
+          --color-foreground-secondary: 101, 101, 101;
+        }
+
+        .article-card-overlay-tag {
+          --color-button-tertiary-text: 0, 0, 0;
+          --color-button-tertiary-text-hover: 0, 0, 0;
+          --color-button-tertiary: 255, 255, 255;
+          --color-button-tertiary-hover: 247, 247, 247;
+        }
+
+        .cards-grid-item__subheading {
+          --color-background: 243,243,243;
+          --color-accent: 92, 184, 255;
+          --color-foreground: 0, 0, 0;
+        }
+
+        >.collection-card__information .collection-card__title,
+        >.collection-card__information .collection-card__desc {
+          --color-foreground: 0, 0, 0;
+        }
+
+        .countdown__promo-banner-text-container {
+          --color-foreground: 0, 0, 0;
+          --color-foreground-secondary: 101, 101, 101;
+          --color-background: 243,243,243;
+          --color-accent: 92, 184, 255;
+        }
+
+        .featured-collection__promo-text,
+        .featured-collection__card-text {
+          --color-foreground: 0, 0, 0;
+          --color-foreground-secondary: 101, 101, 101;
+          --color-background: 243,243,243;
+          --color-accent: 92, 184, 255;
+          --color-background-input: 255, 255, 255;
+          --color-placeholder-input: 101, 101, 101;
+          --color-foreground-input: 0, 0, 0;
+        }
+
+        .collection-hero__text-wrapper,
+        .collection-hero__image-wrapper {
+          --color-background: 243,243,243;
+          --color-foreground: 0, 0, 0;
+          --color-foreground-secondary: 101, 101, 101;
+          --color-overlay: 255,255,255;
+        }
+      }
+
+      [data-scheme=auto] .color-background-2.collections-list__item--overlay {
+        .collections-list__title {
+          --color-foreground: 0, 0, 0;
+        }
+
+        .collections-list__desc {
+          --color-foreground-secondary: 101, 101, 101;
+        }
+      }
+
+      [data-scheme=auto] .countdown__container--with-bg-image.color-background-2 {
+        --color-countdown-date-bg: 54, 110, 254;
+        --color-foreground: 0, 0, 0;
+        --color-foreground-secondary: 101, 101, 101;
+        --color-background: 243,243,243;
+        --color-accent: 92, 184, 255;
+        --color-accent-secondary: 255, 255, 255;
+        --color-background-input: 255, 255, 255;
+        --color-placeholder-input: 101, 101, 101;
+        --color-foreground-input: 0, 0, 0;
+        --color-border: 217, 217, 217;
+      }
+    }
+  
+    [data-scheme=dark] .color-background-3 {
+      --color-background: 31, 31, 31;
+      --color-background-secondary: 41, 41, 41;
+      --color-foreground: 255, 255, 255;
+      --color-foreground-secondary: 220, 220, 220;
+      --color-background-input: 52, 52, 53;
+      --color-foreground-input: 255, 255, 255;
+      --color-border: 67, 67, 67;
+      --color-button: 10, 10, 10;
+      --color-button-hover: 45, 45, 45;
+      --color-button-text: 255, 255, 255;
+      --color-button-text-hover: 255, 255, 255;
+      --color-button-secondary: 58, 58, 58;
+      --color-button-secondary-hover: 68, 68, 68;
+      --color-button-secondary-text: 255, 255, 255;
+      --color-button-secondary-text-hover: 255, 255, 255;
+      --color-button-tertiary: 90, 90, 90;
+      --color-button-tertiary-hover: 100, 100, 100;
+      --color-button-tertiary-text: 255, 255, 255;
+      --color-button-tertiary-text-hover: 255, 255, 255;
+      --color-button-transparent: 255, 255, 255;
+      --color-button-transparent-hover: 255, 255, 255;
+      --color-card-price-regular: 229, 229, 229;
+      --color-card-price-sale: 169, 169, 169;
+      --color-error-background: 0, 0, 0;
+      --color-shadow: 1, 22, 36;
+      --sold-out-badge-bg: 142, 142, 143;
+      --sold-out-badge-color: 255, 255, 255;
+      --sale-badge-bg: 142, 142, 143;
+      --sale-badge-color: 255, 255, 255;
+      --custom-badge-bg: 142, 142, 143;
+      --custom-badge-color: 255, 255, 255;
+      --color-overlay: 0, 0, 0;
+      --color-accent: 255, 255, 255;
+      --color-accent-secondary: 31, 31, 31;
+      --color-alert: 255, 70, 70;
+      --color-countdown-date-bg: 41, 41, 41;
+
+      .cards-grid-item__heading,
+      .cards-grid-item__promo-text,
+      .cards-grid-item__text,
+      .article-card-overlay-title,
+      .article-card-overlay-excerpt,
+      .article-card-overlay-date:not(:first-of-type):before {
+        --color-foreground: 255, 255, 255;
+      }
+
+      .cards-grid-item__promo-input,
+      .slideshow__promo-input {
+        --color-background-input: 255, 255, 255;
+        --color-placeholder-input: 101, 101, 101;
+        --color-foreground-input: 0, 0, 0;
+      }
+
+      .cards-grid-item__text,
+      .article-card-overlay-author,
+      .article-card-overlay-date,
+      .article-card-overlay-comments {
+        --color-foreground-secondary: 255, 255, 255;
+      }
+
+      .article-card-overlay-tag {
+        --color-button-tertiary-text: 0, 0, 0;
+        --color-button-tertiary-text-hover: 0, 0, 0;
+        --color-button-tertiary: 243, 243, 243;
+        --color-button-tertiary-hover: 228, 228, 228;
+      }
+
+      .cards-grid-item__subheading {
+        --color-background: 92,184,255;
+        --color-accent: 92, 184, 255;
+        --color-foreground: 255, 255, 255;
+      }
+
+      >.collection-card__information .collection-card__title,
+      >.collection-card__information .collection-card__desc {
+        --color-foreground: 255, 255, 255;
+      }
+
+      .countdown__promo-banner-text-container {
+        --color-foreground: 255, 255, 255;
+        --color-foreground-secondary: 255, 255, 255;
+        --color-background: 92,184,255;
+        --color-accent: 92, 184, 255;
+      }
+
+      .featured-collection__promo-text,
+      .featured-collection__card-text {
+        --color-foreground: 255, 255, 255;
+        --color-foreground-secondary: 255, 255, 255;
+        --color-background: 92,184,255;
+        --color-accent: 92, 184, 255;
+        --color-background-input: 255, 255, 255;
+        --color-placeholder-input: 101, 101, 101;
+        --color-foreground-input: 0, 0, 0;
+      }
+
+      .collection-hero__text-wrapper,
+      .collection-hero__image-wrapper {
+        --color-background: 92,184,255;
+        --color-foreground: 255, 255, 255;
+        --color-foreground-secondary: 255, 255, 255;
+        --color-overlay: 0,0,0;
+      }
+    }
+
+    [data-scheme=dark] .color-background-3.collections-list__item--overlay {
+      .collections-list__title {
+        --color-foreground: 255, 255, 255;
+      }
+
+      .collections-list__desc {
+        --color-foreground-secondary: 255, 255, 255;
+      }
+    }
+
+    [data-scheme=dark] .countdown__container--with-bg-image.color-background-3 {
+      --color-countdown-date-bg: 54, 110, 254;
+      --color-foreground: 255, 255, 255;
+      --color-foreground-secondary: 255, 255, 255;
+      --color-background: 92,184,255;
+      --color-accent: 92, 184, 255;
+      --color-accent-secondary: 255, 255, 255;
+      --color-background-input: 255, 255, 255;
+      --color-placeholder-input: 101, 101, 101;
+      --color-foreground-input: 0, 0, 0;
+      --color-border: 217, 217, 217;
+      --color-overlay: 0,0,0;
+    }
+
+    @media (prefers-color-scheme: dark) {
+      [data-scheme=auto] .color-background-3 {
+        --color-background: 31, 31, 31;
+        --color-background-secondary: 41, 41, 41;
+        --color-foreground: 255, 255, 255;
+        --color-foreground-secondary: 220, 220, 220;
+        --color-background-input: 52, 52, 53;
+        --color-foreground-input: 255, 255, 255;
+        --color-border: 67, 67, 67;
+        --color-button: 10, 10, 10;
+        --color-button-hover: 45, 45, 45;
+        --color-button-text: 255, 255, 255;
+        --color-button-text-hover: 255, 255, 255;
+        --color-button-secondary: 58, 58, 58;
+        --color-button-secondary-hover: 68, 68, 68;
+        --color-button-secondary-text: 255, 255, 255;
+        --color-button-secondary-text-hover: 255, 255, 255;
+        --color-button-tertiary: 90, 90, 90;
+        --color-button-tertiary-hover: 100, 100, 100;
+        --color-button-tertiary-text: 255, 255, 255;
+        --color-button-tertiary-text-hover: 255, 255, 255;
+        --color-button-transparent: 255, 255, 255;
+        --color-button-transparent-hover: 255, 255, 255;
+        --color-card-price-regular: 229, 229, 229;
+        --color-card-price-sale: 169, 169, 169;
+        --color-error-background: 0, 0, 0;
+        --color-shadow: 1, 22, 36;
+        --sold-out-badge-bg: 142, 142, 143;
+        --sold-out-badge-color: 255, 255, 255;
+        --sale-badge-bg: 142, 142, 143;
+        --sale-badge-color: 255, 255, 255;
+        --custom-badge-bg: 142, 142, 143;
+        --custom-badge-color: 255, 255, 255;
+        --color-overlay: 0, 0, 0;
+        --color-accent: 255, 255, 255;
+        --color-accent-secondary: 31, 31, 31;
+        --color-alert: 255, 70, 70;
+        --color-countdown-date-bg: 41, 41, 41;
+
+        .cards-grid-item__heading,
+        .cards-grid-item__promo-text,
+        .cards-grid-item__text,
+        .article-card-overlay-title,
+        .article-card-overlay-excerpt,
+        .article-card-overlay-date:not(:first-of-type):before {
+          --color-foreground: 255, 255, 255;
+        }
+
+        .cards-grid-item__promo-input,
+        .slideshow__promo-input {
+          --color-background-input: 255, 255, 255;
+          --color-placeholder-input: 101, 101, 101;
+          --color-foreground-input: 0, 0, 0;
+        }
+
+        .cards-grid-item__text,
+        .article-card-overlay-author,
+        .article-card-overlay-date,
+        .article-card-overlay-comments {
+          --color-foreground-secondary: 255, 255, 255;
+        }
+
+        .article-card-overlay-tag {
+          --color-button-tertiary-text: 0, 0, 0;
+          --color-button-tertiary-text-hover: 0, 0, 0;
+          --color-button-tertiary: 243, 243, 243;
+          --color-button-tertiary-hover: 228, 228, 228;
+        }
+
+        .cards-grid-item__subheading {
+          --color-background: 92,184,255;
+          --color-accent: 92, 184, 255;
+          --color-foreground: 255, 255, 255;
+        }
+
+        >.collection-card__information .collection-card__title,
+        >.collection-card__information .collection-card__desc {
+          --color-foreground: 255, 255, 255;
+        }
+
+        .countdown__promo-banner-text-container {
+          --color-foreground: 255, 255, 255;
+          --color-foreground-secondary: 255, 255, 255;
+          --color-background: 92,184,255;
+          --color-accent: 92, 184, 255;
+        }
+
+        .featured-collection__promo-text,
+        .featured-collection__card-text {
+          --color-foreground: 255, 255, 255;
+          --color-foreground-secondary: 255, 255, 255;
+          --color-background: 92,184,255;
+          --color-accent: 92, 184, 255;
+          --color-background-input: 255, 255, 255;
+          --color-placeholder-input: 101, 101, 101;
+          --color-foreground-input: 0, 0, 0;
+        }
+
+        .collection-hero__text-wrapper,
+        .collection-hero__image-wrapper {
+          --color-background: 92,184,255;
+          --color-foreground: 255, 255, 255;
+          --color-foreground-secondary: 255, 255, 255;
+          --color-overlay: 0,0,0;
+        }
+      }
+
+      [data-scheme=auto] .color-background-3.collections-list__item--overlay {
+        .collections-list__title {
+          --color-foreground: 255, 255, 255;
+        }
+
+        .collections-list__desc {
+          --color-foreground-secondary: 255, 255, 255;
+        }
+      }
+
+      [data-scheme=auto] .countdown__container--with-bg-image.color-background-3 {
+        --color-countdown-date-bg: 54, 110, 254;
+        --color-foreground: 255, 255, 255;
+        --color-foreground-secondary: 255, 255, 255;
+        --color-background: 92,184,255;
+        --color-accent: 92, 184, 255;
+        --color-accent-secondary: 255, 255, 255;
+        --color-background-input: 255, 255, 255;
+        --color-placeholder-input: 101, 101, 101;
+        --color-foreground-input: 0, 0, 0;
+        --color-border: 217, 217, 217;
+      }
+    }
+  
+    [data-scheme=dark] .color-background-4 {
+      --color-background: 31, 31, 31;
+      --color-background-secondary: 41, 41, 41;
+      --color-foreground: 255, 255, 255;
+      --color-foreground-secondary: 220, 220, 220;
+      --color-background-input: 52, 52, 53;
+      --color-foreground-input: 255, 255, 255;
+      --color-border: 67, 67, 67;
+      --color-button: 10, 10, 10;
+      --color-button-hover: 45, 45, 45;
+      --color-button-text: 255, 255, 255;
+      --color-button-text-hover: 255, 255, 255;
+      --color-button-secondary: 58, 58, 58;
+      --color-button-secondary-hover: 68, 68, 68;
+      --color-button-secondary-text: 255, 255, 255;
+      --color-button-secondary-text-hover: 255, 255, 255;
+      --color-button-tertiary: 90, 90, 90;
+      --color-button-tertiary-hover: 100, 100, 100;
+      --color-button-tertiary-text: 255, 255, 255;
+      --color-button-tertiary-text-hover: 255, 255, 255;
+      --color-button-transparent: 255, 255, 255;
+      --color-button-transparent-hover: 255, 255, 255;
+      --color-card-price-regular: 229, 229, 229;
+      --color-card-price-sale: 169, 169, 169;
+      --color-error-background: 0, 0, 0;
+      --color-shadow: 1, 22, 36;
+      --sold-out-badge-bg: 142, 142, 143;
+      --sold-out-badge-color: 255, 255, 255;
+      --sale-badge-bg: 142, 142, 143;
+      --sale-badge-color: 255, 255, 255;
+      --custom-badge-bg: 142, 142, 143;
+      --custom-badge-color: 255, 255, 255;
+      --color-overlay: 0, 0, 0;
+      --color-accent: 255, 255, 255;
+      --color-accent-secondary: 31, 31, 31;
+      --color-alert: 255, 70, 70;
+      --color-countdown-date-bg: 41, 41, 41;
+
+      .cards-grid-item__heading,
+      .cards-grid-item__promo-text,
+      .cards-grid-item__text,
+      .article-card-overlay-title,
+      .article-card-overlay-excerpt,
+      .article-card-overlay-date:not(:first-of-type):before {
+        --color-foreground: 255, 255, 255;
+      }
+
+      .cards-grid-item__promo-input,
+      .slideshow__promo-input {
+        --color-background-input: 255, 255, 255;
+        --color-placeholder-input: 101, 101, 101;
+        --color-foreground-input: 0, 0, 0;
+      }
+
+      .cards-grid-item__text,
+      .article-card-overlay-author,
+      .article-card-overlay-date,
+      .article-card-overlay-comments {
+        --color-foreground-secondary: 0, 0, 0;
+      }
+
+      .article-card-overlay-tag {
+        --color-button-tertiary-text: 0, 0, 0;
+        --color-button-tertiary-text-hover: 0, 0, 0;
+        --color-button-tertiary: 243, 243, 243;
+        --color-button-tertiary-hover: 228, 228, 228;
+      }
+
+      .cards-grid-item__subheading {
+        --color-background: 92,184,255;
+        --color-accent: 92, 184, 255;
+        --color-foreground: 255, 255, 255;
+      }
+
+      >.collection-card__information .collection-card__title,
+      >.collection-card__information .collection-card__desc {
+        --color-foreground: 255, 255, 255;
+      }
+
+      .countdown__promo-banner-text-container {
+        --color-foreground: 255, 255, 255;
+        --color-foreground-secondary: 0, 0, 0;
+        --color-background: 92,184,255;
+        --color-accent: 92, 184, 255;
+      }
+
+      .featured-collection__promo-text,
+      .featured-collection__card-text {
+        --color-foreground: 255, 255, 255;
+        --color-foreground-secondary: 0, 0, 0;
+        --color-background: 92,184,255;
+        --color-accent: 92, 184, 255;
+        --color-background-input: 255, 255, 255;
+        --color-placeholder-input: 101, 101, 101;
+        --color-foreground-input: 0, 0, 0;
+      }
+
+      .collection-hero__text-wrapper,
+      .collection-hero__image-wrapper {
+        --color-background: 92,184,255;
+        --color-foreground: 255, 255, 255;
+        --color-foreground-secondary: 0, 0, 0;
+        --color-overlay: 0,0,0;
+      }
+    }
+
+    [data-scheme=dark] .color-background-4.collections-list__item--overlay {
+      .collections-list__title {
+        --color-foreground: 255, 255, 255;
+      }
+
+      .collections-list__desc {
+        --color-foreground-secondary: 0, 0, 0;
+      }
+    }
+
+    [data-scheme=dark] .countdown__container--with-bg-image.color-background-4 {
+      --color-countdown-date-bg: 54, 110, 254;
+      --color-foreground: 255, 255, 255;
+      --color-foreground-secondary: 0, 0, 0;
+      --color-background: 92,184,255;
+      --color-accent: 92, 184, 255;
+      --color-accent-secondary: 255, 255, 255;
+      --color-background-input: 255, 255, 255;
+      --color-placeholder-input: 101, 101, 101;
+      --color-foreground-input: 0, 0, 0;
+      --color-border: 217, 217, 217;
+      --color-overlay: 0,0,0;
+    }
+
+    @media (prefers-color-scheme: dark) {
+      [data-scheme=auto] .color-background-4 {
+        --color-background: 31, 31, 31;
+        --color-background-secondary: 41, 41, 41;
+        --color-foreground: 255, 255, 255;
+        --color-foreground-secondary: 220, 220, 220;
+        --color-background-input: 52, 52, 53;
+        --color-foreground-input: 255, 255, 255;
+        --color-border: 67, 67, 67;
+        --color-button: 10, 10, 10;
+        --color-button-hover: 45, 45, 45;
+        --color-button-text: 255, 255, 255;
+        --color-button-text-hover: 255, 255, 255;
+        --color-button-secondary: 58, 58, 58;
+        --color-button-secondary-hover: 68, 68, 68;
+        --color-button-secondary-text: 255, 255, 255;
+        --color-button-secondary-text-hover: 255, 255, 255;
+        --color-button-tertiary: 90, 90, 90;
+        --color-button-tertiary-hover: 100, 100, 100;
+        --color-button-tertiary-text: 255, 255, 255;
+        --color-button-tertiary-text-hover: 255, 255, 255;
+        --color-button-transparent: 255, 255, 255;
+        --color-button-transparent-hover: 255, 255, 255;
+        --color-card-price-regular: 229, 229, 229;
+        --color-card-price-sale: 169, 169, 169;
+        --color-error-background: 0, 0, 0;
+        --color-shadow: 1, 22, 36;
+        --sold-out-badge-bg: 142, 142, 143;
+        --sold-out-badge-color: 255, 255, 255;
+        --sale-badge-bg: 142, 142, 143;
+        --sale-badge-color: 255, 255, 255;
+        --custom-badge-bg: 142, 142, 143;
+        --custom-badge-color: 255, 255, 255;
+        --color-overlay: 0, 0, 0;
+        --color-accent: 255, 255, 255;
+        --color-accent-secondary: 31, 31, 31;
+        --color-alert: 255, 70, 70;
+        --color-countdown-date-bg: 41, 41, 41;
+
+        .cards-grid-item__heading,
+        .cards-grid-item__promo-text,
+        .cards-grid-item__text,
+        .article-card-overlay-title,
+        .article-card-overlay-excerpt,
+        .article-card-overlay-date:not(:first-of-type):before {
+          --color-foreground: 255, 255, 255;
+        }
+
+        .cards-grid-item__promo-input,
+        .slideshow__promo-input {
+          --color-background-input: 255, 255, 255;
+          --color-placeholder-input: 101, 101, 101;
+          --color-foreground-input: 0, 0, 0;
+        }
+
+        .cards-grid-item__text,
+        .article-card-overlay-author,
+        .article-card-overlay-date,
+        .article-card-overlay-comments {
+          --color-foreground-secondary: 0, 0, 0;
+        }
+
+        .article-card-overlay-tag {
+          --color-button-tertiary-text: 0, 0, 0;
+          --color-button-tertiary-text-hover: 0, 0, 0;
+          --color-button-tertiary: 243, 243, 243;
+          --color-button-tertiary-hover: 228, 228, 228;
+        }
+
+        .cards-grid-item__subheading {
+          --color-background: 92,184,255;
+          --color-accent: 92, 184, 255;
+          --color-foreground: 255, 255, 255;
+        }
+
+        >.collection-card__information .collection-card__title,
+        >.collection-card__information .collection-card__desc {
+          --color-foreground: 255, 255, 255;
+        }
+
+        .countdown__promo-banner-text-container {
+          --color-foreground: 255, 255, 255;
+          --color-foreground-secondary: 0, 0, 0;
+          --color-background: 92,184,255;
+          --color-accent: 92, 184, 255;
+        }
+
+        .featured-collection__promo-text,
+        .featured-collection__card-text {
+          --color-foreground: 255, 255, 255;
+          --color-foreground-secondary: 0, 0, 0;
+          --color-background: 92,184,255;
+          --color-accent: 92, 184, 255;
+          --color-background-input: 255, 255, 255;
+          --color-placeholder-input: 101, 101, 101;
+          --color-foreground-input: 0, 0, 0;
+        }
+
+        .collection-hero__text-wrapper,
+        .collection-hero__image-wrapper {
+          --color-background: 92,184,255;
+          --color-foreground: 255, 255, 255;
+          --color-foreground-secondary: 0, 0, 0;
+          --color-overlay: 0,0,0;
+        }
+      }
+
+      [data-scheme=auto] .color-background-4.collections-list__item--overlay {
+        .collections-list__title {
+          --color-foreground: 255, 255, 255;
+        }
+
+        .collections-list__desc {
+          --color-foreground-secondary: 0, 0, 0;
+        }
+      }
+
+      [data-scheme=auto] .countdown__container--with-bg-image.color-background-4 {
+        --color-countdown-date-bg: 54, 110, 254;
+        --color-foreground: 255, 255, 255;
+        --color-foreground-secondary: 0, 0, 0;
+        --color-background: 92,184,255;
+        --color-accent: 92, 184, 255;
+        --color-accent-secondary: 255, 255, 255;
+        --color-background-input: 255, 255, 255;
+        --color-placeholder-input: 101, 101, 101;
+        --color-foreground-input: 0, 0, 0;
+        --color-border: 217, 217, 217;
+      }
+    }
+  
+
+  [data-scheme=dark] {
+    --color-background: 31, 31, 31;
+    --color-background-secondary: 24, 24, 24;
+    --color-foreground: 255, 255, 255;
+    --color-foreground-secondary: 220, 220, 220;
+    --color-background-input: 52, 52, 53;
+    --color-foreground-input: 255, 255, 255;
+    --color-border: 67, 67, 67;
+    --color-button: 10, 10, 10;
+    --color-button-hover: 45, 45, 45;
+    --color-button-text: 255, 255, 255;
+    --color-button-text-hover: 255, 255, 255;
+    --color-button-secondary: 58, 58, 58;
+    --color-button-secondary-hover: 68, 68, 68;
+    --color-button-secondary-text: 255, 255, 255;
+    --color-button-secondary-text-hover: 255, 255, 255;
+    --color-button-tertiary: 90, 90, 90;
+    --color-button-tertiary-hover: 100, 100, 100;
+    --color-button-tertiary-text: 255, 255, 255;
+    --color-button-tertiary-text-hover: 255, 255, 255;
+    --color-button-transparent: 255, 255, 255;
+    --color-button-transparent-hover: 255, 255, 255;
+    --color-card-price-regular: 229, 229, 229;
+    --color-card-price-sale: 169, 169, 169;
+    --color-error-background: 0, 0, 0;
+    --color-shadow: 1, 22, 36;
+    --sold-out-badge-bg: 142, 142, 143;
+    --sold-out-badge-color: 255, 255, 255;
+    --sale-badge-bg: 142, 142, 143;
+    --sale-badge-color: 255, 255, 255;
+    --custom-badge-bg: 142, 142, 143;
+    --custom-badge-color: 255, 255, 255;
+    --color-overlay: 0, 0, 0;
+    --color-accent: 255, 255, 255;
+    --color-accent-secondary: 31, 31, 31;
+    --color-alert: 255, 70, 70;
+
+    .color-background-1 {
+      --color-background: 31, 31, 31;
+    }
+    .color-background-2 {
+      --color-background: 24, 24, 24;
+      --color-background-secondary: 31, 31, 31;
+    }
+    .color-background-3 {
+      --color-background: 24, 24, 24;
+      --color-background-secondary: 31, 31, 31;
+    }
+    .color-background-4 {
+      --color-background: 24, 24, 24;
+      --color-background-secondary: 31, 31, 31;
+    }
+  }
+
+  @media (prefers-color-scheme: dark) {
+    [data-scheme=auto] {
+      --color-background: 31, 31, 31;
+      --color-background-secondary: 24, 24, 24;
+      --color-foreground: 255, 255, 255;
+      --color-foreground-secondary: 220, 220, 220;
+      --color-background-input: 52, 52, 53;
+      --color-foreground-input: 255, 255, 255;
+      --color-border: 67, 67, 67;
+      --color-button: 10, 10, 10;
+      --color-button-hover: 45, 45, 45;
+      --color-button-text: 255, 255, 255;
+      --color-button-text-hover: 255, 255, 255;
+      --color-button-secondary: 58, 58, 58;
+      --color-button-secondary-hover: 68, 68, 68;
+      --color-button-secondary-text: 255, 255, 255;
+      --color-button-secondary-text-hover: 255, 255, 255;
+      --color-button-tertiary: 90, 90, 90;
+      --color-button-tertiary-hover: 100, 100, 100;
+      --color-button-tertiary-text: 255, 255, 255;
+      --color-button-tertiary-text-hover: 255, 255, 255;
+      --color-button-transparent: 255, 255, 255;
+      --color-button-transparent-hover: 255, 255, 255;
+      --color-card-price-regular: 229, 229, 229;
+      --color-card-price-sale: 169, 169, 169;
+      --color-error-background: 0, 0, 0;
+      --color-shadow: 1, 22, 36;
+      --sold-out-badge-bg: 142, 142, 143;
+      --sold-out-badge-color: 255, 255, 255;
+      --sale-badge-bg: 142, 142, 143;
+      --sale-badge-color: 255, 255, 255;
+      --custom-badge-bg: 142, 142, 143;
+      --custom-badge-color: 255, 255, 255;
+      --color-overlay: 0, 0, 0;
+      --color-accent: 255, 255, 255;
+      --color-accent-secondary: 31, 31, 31;
+      --color-alert: 255, 70, 70;
+
+      .color-background-1 {
+        --color-background: 31, 31, 31;
+      }
+      .color-background-2 {
+        --color-background: 24, 24, 24;
+        --color-background-secondary: 31, 31, 31;
+      }
+      .color-background-3 {
+        --color-background: 24, 24, 24;
+        --color-background-secondary: 31, 31, 31;
+      }
+      .color-background-4 {
+        --color-background: 24, 24, 24;
+        --color-background-secondary: 31, 31, 31;
+      }
+    }
+  }
+
+
+  :root {
+    --column-count: 1;
+    --announcement-height: 0px;
+    --ann-height: 0px;
+    --header-height: 0px;
+    --breadcrumbs-height: 0px;
+    --scrollbar-width: 0px;
+    --margin-header: 0px;
+    --spaced-section: 5rem;
+    --border-radius-product: 4px;
+    --border-radius-button: 4px;
+    --border-radius-block: 4px;
+    --border-radius-input: 4px;
+  }
+
+  @media screen and (min-width: 990px) {
+    :root {
+      --spaced-section: 16rem;
+    }
+  }
+
+  *,
+  *::before,
+  *::after {
+    box-sizing: border-box;
+  }
+
+  html {
+    font-size: 10px;
+    height: 100%;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+    scroll-behavior: smooth;
+  }
+
+  body {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+    overflow-x: hidden;
+    min-height: 100%;
+    margin: 0;
+    padding: 0;
+    scroll-behavior: smooth;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    /*TODO: CHECK --font-body-scale LATER */
+    font-family: var(--font-body-family);
+    font-size: calc(var(--font-body-scale) * 1.2rem);
+    font-weight: var(--font-body-weight);
+    line-height: var(--font-body-line-height);
+    letter-spacing: calc(var(--font-body-letter-spacing) * 0.1);
+    font-style: var(--font-body-style);
+  }
+
+  @media screen and (min-width: 576px) {
+    body {
+      font-size: calc(var(--font-body-scale) * 1.3rem);
+    }
+  }
+
+  @media screen and (min-width: 990px) {
+    body {
+      font-size: calc(var(--font-body-scale) * 1.4rem);
+    }
+  }
+
+  #MainContent {
+    flex-grow: 1;
+  }
+
+  p,
+  dl,
+  dd,
+  hr,
+  pre,
+  form,
+  table,
+  video,
+  figure,
+  figcaption,
+  blockquote {
+    margin: 0;
+    padding: 0;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    margin: 0;
+  }
+
+  img,
+  svg {
+    display: block;
+  }
+
+  button {
+    border: none;
+    cursor: pointer;
+    background: transparent;
+    padding: 0;
+  }
+
+  input {
+    outline: none;
+    border: none;
+    margin: 0;
+  }
+
+  /*TODO: FIX LATER */
+  /*input:-webkit-autofill,
+  input:-webkit-autofill:hover,
+  input:-webkit-autofill:focus,
+  textarea:-webkit-autofill,
+  textarea:-webkit-autofill:hover,
+  textarea:-webkit-autofill:focus,
+  select:-webkit-autofill,
+  select:-webkit-autofill:hover,
+  select:-webkit-autofill:focus {
+    -webkit-box-shadow: 0 0 0 60px var(--alt-color) inset !important;
+    -webkit-text-fill-color: var(--main-color);
+  }*/
+
+  input,
+  button,
+  select,
+  textarea {
+    font: inherit;
+    -webkit-appearance: none;
+    appearance: none;
+  }
+
+  fieldset {
+    margin: 0;
+    padding: 0;
+    border: 0;
+  }
+
+  label {
+    display: block;
+  }
+
+  ::selection {
+    text-shadow: none;
+    background: #cbeafb;
+  }
+
+  mark {
+    background-color: #06f;
+  }
+
+  small {
+    font-size: 80%;
+  }
+
+  hr {
+    width: 100%;
+    height: 1px;
+    border: none;
+  }
+
+  sub,
+  sup {
+    position: relative;
+    font-size: 75%;
+    line-height: 0;
+    vertical-align: baseline;
+  }
+
+  a {
+    text-decoration: none;
+    cursor: pointer;
+    display: inline;
+  }
+
+  /*TODO: CHECK LATER DO I NEED THAT?*/
+  .predictive-search {
+    display: none;
+  }
+
+  /* Remove all animations and transitions for people that prefer not to see them */
+  @media (prefers-reduced-motion: reduce) {
+    * {
+      animation-duration: 0.01ms !important;
+      animation-iteration-count: 1 !important;
+      transition-duration: 0.01ms !important;
+      scroll-behavior: auto !important;
+    }
+  }
+
+
+  shopify-account {
+    --shopify-account-color-card-text: rgb(var(--color-foreground));
+    --shopify-account-color-accent: rgb(var(--color-foreground));
+    --shopify-account-color-accent-hover: rgba(var(--color-foreground), 0.8);
+    --shopify-account-color-accent-text: rgb(var(--color-background));
+    --shopify-account-color-background: rgb(var(--color-background));
+    --shopify-account-color-background-subdued: rgb(var(--color-background-secondary));
+    --shopify-account-color-border: rgb(var(--color-border));
+    --shopify-account-color-card-background: rgb(var(--color-background));
+    --shopify-account-color-control-background: rgb(var(--color-background));
+    --shopify-account-color-shadow: 0px 8px 14px 0px rgba(var(--color-shadow), 0.08);
+    --shopify-account-color-text: rgb(var(--color-foreground));
+    --shopify-account-color-text-subdued: rgb(var(--color-foreground));
+    --shopify-account-dialog-position-top: calc(var(--header-height) + var(--announcement-height));
+    --shopify-account-font-body: var(--font-body-family);
+    --shopify-account-font-body-weight: var(--font-body-weight);
+    --shopify-account-font-heading: var(--font-heading-family);
+    --shopify-account-font-heading-weight: var(--font-heading-weight);
+    --shopify-account-radius-base: 0; /* var(--border-radius-button); */
+    --shopify-account-radius-button: var(--border-radius-button);
+    --shopify-account-radius-button-small: min(var(--border-radius-button), 0.4rem);
+    --shopify-account-radius-dialog: 0; /* max(var(--border-radius-button), 0.2rem); */
+    --shopify-account-radius-input: 10rem; /* var(--border-radius-button); */
+    --shopify-account-signed-in-avatar-color-background: rgb(var(--color-accent)); /* rgb(var(--color-background)); */
+    --shopify-account-signed-in-avatar-color-text: rgb(var(--color-foreground));
+    --shopify-account-signed-in-avatar-size: 28px;
+  }
+
+
+  [data-shopify-attribute-error]::after {
+    content: attr(data-shopify-attribute-error);
+    background-color: #fff;
+    color: red;
+  }
+
+
+@font-face {
+  font-family: 'GTStandard-M';
+  src: url('https://cdn.shopify.com/shop-assets/static_uploads/shoplift/GTStandard-MRegular.woff2')
+    format('woff2');
+  font-style: normal;
+  font-weight: 450;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'GTStandard-M';
+  src: url('https://cdn.shopify.com/shop-assets/static_uploads/shoplift/GTStandard-MMedium.woff2')
+    format('woff2');
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'GTStandard-M';
+  src: url('https://cdn.shopify.com/shop-assets/static_uploads/shoplift/GTStandard-MSemibold.woff2')
+    format('woff2');
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+}
+#PBarNextFrameWrapper[popover=manual]::backdrop{display:none!important;opacity:0!important;visibility:hidden!important;background:none!important;-webkit-backdrop-filter:none!important;backdrop-filter:none!important}#PBarNextFrameWrapper{view-transition-name:shopify-preview-bar}:view-transition-group(shopify-preview-bar){z-index:calc(infinity)}#PBarNextFrameWrapper{inset:auto 0 0;width:100%;padding:0;border:none}#PBarNextFrameWrapper[data-preview-store]{border-radius:100px;box-shadow:0 24px 36px -12px #0000001f,0 24px 24px -12px #00000014,0 8px 16px -6px #00000014,0 3px 6px #00000014,0 2px 4px #00000014,0 1px 2px #0000000d,0 0 0 1px #0000000f}#PBarNextFrameWrapper[data-preview-store]>iframe{height:100%!important;clip-path:inset(0 round 100px)}@media(min-width:720px){#PBarNextFrameWrapper[data-preview-store]{right:16px;bottom:40px;left:16px;width:auto;max-width:535px;margin-inline:auto!important}}@media(max-width:719px){#PBarNextFrameWrapper[data-preview-store]{right:8px;bottom:max(calc(24px + env(safe-area-inset-bottom,0px)),8dvh);left:8px;width:auto;max-width:387px;margin-inline:auto!important}}
+
+    .shopify-pc__banner__dialog h2 {
+      color: hsl(0deg, 0%, 12%, 100%);
+      font-family: inherit;
+      font-size: 120%;
+      margin: 0 0 .5em 0;
+      padding: 0;
+      font-weight: bold;
+    }
+    .shopify-pc__banner__dialog p {
+      color: hsl(0deg, 0%, 12%, 100%);
+      font-family: inherit;
+      line-height: 1.3;
+      margin: 0;
+      padding: 0;
+    }
+    .shopify-pc__banner__dialog a {
+      color: hsl(0deg, 0%, 12%, 100%);
+      text-decoration: underline;
+    }
+    .shopify-pc__banner__dialog button {
+      border: none;
+      text-decoration: none;
+      font-family: inherit;
+      padding: 8px 25px;
+      /* RTL mirrors this margin in getCSSForBannerPlacement (rtlDefaultButtons). */
+      margin: 15px 20px 0 0;
+      font-size: 100%;
+      flex-basis: 50%;
+      border-radius: 2px;
+      line-height: 120%;
+      height: unset;
+      text-align: center;
+    }
+    .shopify-pc__banner__dialog button:focus {
+      outline: none;
+      box-shadow: 0 0 0 4px hsl(201deg, 90%, 80%, 100%);
+    }
+    .shopify-pc__banner__dialog button:hover {
+      cursor: pointer;
+    }
+    .shopify-pc__banner__dialog button.shopify-pc__banner__btn-accept {
+      border: 1px solid hsl(0deg, 0%, 12%, 100%);
+      
+    background: #fff;
+    color: #333;
+  
+    }
+    .shopify-pc__banner__dialog button.shopify-pc__banner__btn-manage-prefs {
+      text-decoration: underline;
+      
+    background: transparent;
+    border: none;
+    color: #333;
+  
+    }
+    .shopify-pc__banner__dialog button.shopify-pc__banner__btn-manage-prefs:focus {
+      box-shadow: none;
+    }
+    .shopify-pc__banner__dialog button.shopify-pc__banner__btn-manage-prefs:focus span {
+      outline: 2px solid hsl(201deg, 90%, 80%, 100%);
+    }
+    .shopify-pc__banner__dialog button.shopify-pc__banner__btn-decline {
+      border: 1px solid hsl(0deg, 0%, 12%, 100%);
+      
+    background: #fff;
+    color: #333;
+  
+    }
+    .shopify-pc__banner__body p a:focus {
+      outline: 2px solid hsl(201deg, 90%, 80%, 100%);
+      box-shadow: none;
+    }
+    
+    .shopify-pc__banner__dialog {
+      
+    position: fixed;
+    z-index: 2000000;
+    box-shadow: 0px 4px 10px rgb(63 63 68 / 40%);
+    max-height: 90%;
+    box-sizing: border-box;
+    opacity: 1;
+    padding: 32px;
+    background-color: hsl(0deg, 0%, 100%, 100%);
+    overflow: auto;
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+    border: none;
+    /* left is a fallback for Edge Legacy, which drops text-align: start */
+    text-align: left;
+    text-align: start;
+  
+      bottom: 0;
+      left: 25%;
+      width: 50%;
+      min-width: 280px;
+      border-top-right-radius: 3px;
+      border-top-left-radius: 3px;
+    }
+    
+    .shopify-pc__banner__wrapper {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      flex-direction: column;
+    }
+  
+    @media only screen and (max-width: 1300px) {
+      .shopify-pc__banner__dialog {
+        left: 15%;
+        width: 70%;
+      }
+    }
+    @media only screen and (max-width: 900px) {
+      .shopify-pc__banner__dialog {
+        left: 5%;
+        width: 90%;
+      }
+    }
+    .shopify-pc__banner__body {
+      width: 100%;
+      margin-bottom: 10px;
+    }
+    .shopify-pc__banner__btns {
+      display: flex;
+      width: 100%;
+      justify-content: flex-end;
+      flex-direction: row;
+    }
+    
+      @media only screen and (max-width: 480px) {
+        
+      .shopify-pc__banner__btns {
+        flex-direction: column;
+      }
+      .shopify-pc__banner__btns-granular :nth-child(1) {
+        order: 3;
+      }
+      .shopify-pc__banner__btns-granular :nth-child(2) {
+        order: 1;
+      }
+      .shopify-pc__banner__btns-granular :nth-child(3) {
+        order: 2;
+      }
+    
+      }
+    
+  
+  
+.dpo-loader {display:block; width:100%; clear:both; height:40px; background:url(https://node1.itoris.com/dpo/storefront/assets/images/loading.gif) no-repeat left center transparent;}[data-value*="(D#"], [for*="(D#"], [data-value*="Default Title"], [for*="default-title"], input[type="radio"][value*="Default Title"] + label, input[type="radio"][value*="Default Title"] + span, [value*="(D#"] + label, [value*="D#"] + span {display:none !important;} {display:none !important} .dpo_remove_link {font-size:14px; margin-left:10px; text-decoration:underline;}button[onclick*="dpoObject"] {display:inline-block !important; opacity:1 !important;}button[onclick*="dpoObject"] + button, .dpo-container.dpo-cart {display:none !important;} .bold_hidden[dpo_add2cart] {display:block !important;} .bold_hidden[dpo_add2cart] ~ button {display:none !important;}
+.iti {
+  position: relative;
+  display: inline-block; }
+  .iti * {
+    box-sizing: border-box;
+    -moz-box-sizing: border-box; }
+  .iti__hide {
+    display: none; }
+  .iti__v-hide {
+    visibility: hidden; }
+  .iti input, .iti input[type=text], .iti input[type=tel] {
+    position: relative;
+    z-index: 0;
+    margin-top: 0 !important;
+    margin-bottom: 0 !important;
+    padding-right: 36px;
+    margin-right: 0; }
+  .iti__flag-container {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    padding: 1px; }
+  .iti__selected-flag {
+    z-index: 1;
+    position: relative;
+    display: flex;
+    align-items: center;
+    height: 100%;
+    padding: 0 6px 0 8px; }
+  .iti__arrow {
+    margin-left: 6px;
+    width: 0;
+    height: 0;
+    border-left: 3px solid transparent;
+    border-right: 3px solid transparent;
+    border-top: 4px solid #555; }
+    .iti__arrow--up {
+      border-top: none;
+      border-bottom: 4px solid #555; }
+  .iti__country-list {
+    position: absolute;
+    z-index: 2;
+    list-style: none;
+    text-align: left;
+    padding: 0;
+    margin: 0 0 0 -1px;
+    box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.2);
+    background-color: white;
+    border: 1px solid #CCC;
+    white-space: nowrap;
+    max-height: 200px;
+    overflow-y: scroll;
+    -webkit-overflow-scrolling: touch; }
+    .iti__country-list--dropup {
+      bottom: 100%;
+      margin-bottom: -1px; }
+    @media (max-width: 500px) {
+      .iti__country-list {
+        white-space: normal; } }
+  .iti__flag-box {
+    display: inline-block;
+    width: 20px; }
+  .iti__divider {
+    padding-bottom: 5px;
+    margin-bottom: 5px;
+    border-bottom: 1px solid #CCC; }
+  .iti__country {
+    padding: 5px 10px;
+    outline: none; }
+  .iti__dial-code {
+    color: #999; }
+  .iti__country.iti__highlight {
+    background-color: rgba(0, 0, 0, 0.05); }
+  .iti__flag-box, .iti__country-name, .iti__dial-code {
+    vertical-align: middle; }
+  .iti__flag-box, .iti__country-name {
+    margin-right: 6px; }
+  .iti--allow-dropdown input, .iti--allow-dropdown input[type=text], .iti--allow-dropdown input[type=tel], .iti--separate-dial-code input, .iti--separate-dial-code input[type=text], .iti--separate-dial-code input[type=tel] {
+    padding-right: 6px;
+    padding-left: 52px;
+    margin-left: 0; }
+  .iti--allow-dropdown .iti__flag-container, .iti--separate-dial-code .iti__flag-container {
+    right: auto;
+    left: 0; }
+  .iti--allow-dropdown .iti__flag-container:hover {
+    cursor: pointer; }
+    .iti--allow-dropdown .iti__flag-container:hover .iti__selected-flag {
+      background-color: rgba(0, 0, 0, 0.05); }
+  .iti--allow-dropdown input[disabled] + .iti__flag-container:hover,
+  .iti--allow-dropdown input[readonly] + .iti__flag-container:hover {
+    cursor: default; }
+    .iti--allow-dropdown input[disabled] + .iti__flag-container:hover .iti__selected-flag,
+    .iti--allow-dropdown input[readonly] + .iti__flag-container:hover .iti__selected-flag {
+      background-color: transparent; }
+  .iti--separate-dial-code .iti__selected-flag {
+    background-color: rgba(0, 0, 0, 0.05); }
+  .iti--separate-dial-code .iti__selected-dial-code {
+    margin-left: 6px; }
+  .iti--container {
+    position: absolute;
+    top: -1000px;
+    left: -1000px;
+    z-index: 1060;
+    padding: 1px; }
+    .iti--container:hover {
+      cursor: pointer; }
+
+.iti-mobile .iti--container {
+  top: 30px;
+  bottom: 30px;
+  left: 30px;
+  right: 30px;
+  position: fixed; }
+
+.iti-mobile .iti__country-list {
+  max-height: 100%;
+  width: 100%; }
+
+.iti-mobile .iti__country {
+  padding: 10px 10px;
+  line-height: 1.5em; }
+
+.iti__flag {
+  width: 20px; }
+  .iti__flag.iti__be {
+    width: 18px; }
+  .iti__flag.iti__ch {
+    width: 15px; }
+  .iti__flag.iti__mc {
+    width: 19px; }
+  .iti__flag.iti__ne {
+    width: 18px; }
+  .iti__flag.iti__np {
+    width: 13px; }
+  .iti__flag.iti__va {
+    width: 15px; }
+  @media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
+    .iti__flag {
+      background-size: 5652px 15px; } }
+  .iti__flag.iti__ac {
+    height: 10px;
+    background-position: 0px 0px; }
+  .iti__flag.iti__ad {
+    height: 14px;
+    background-position: -22px 0px; }
+  .iti__flag.iti__ae {
+    height: 10px;
+    background-position: -44px 0px; }
+  .iti__flag.iti__af {
+    height: 14px;
+    background-position: -66px 0px; }
+  .iti__flag.iti__ag {
+    height: 14px;
+    background-position: -88px 0px; }
+  .iti__flag.iti__ai {
+    height: 10px;
+    background-position: -110px 0px; }
+  .iti__flag.iti__al {
+    height: 15px;
+    background-position: -132px 0px; }
+  .iti__flag.iti__am {
+    height: 10px;
+    background-position: -154px 0px; }
+  .iti__flag.iti__ao {
+    height: 14px;
+    background-position: -176px 0px; }
+  .iti__flag.iti__aq {
+    height: 14px;
+    background-position: -198px 0px; }
+  .iti__flag.iti__ar {
+    height: 13px;
+    background-position: -220px 0px; }
+  .iti__flag.iti__as {
+    height: 10px;
+    background-position: -242px 0px; }
+  .iti__flag.iti__at {
+    height: 14px;
+    background-position: -264px 0px; }
+  .iti__flag.iti__au {
+    height: 10px;
+    background-position: -286px 0px; }
+  .iti__flag.iti__aw {
+    height: 14px;
+    background-position: -308px 0px; }
+  .iti__flag.iti__ax {
+    height: 13px;
+    background-position: -330px 0px; }
+  .iti__flag.iti__az {
+    height: 10px;
+    background-position: -352px 0px; }
+  .iti__flag.iti__ba {
+    height: 10px;
+    background-position: -374px 0px; }
+  .iti__flag.iti__bb {
+    height: 14px;
+    background-position: -396px 0px; }
+  .iti__flag.iti__bd {
+    height: 12px;
+    background-position: -418px 0px; }
+  .iti__flag.iti__be {
+    height: 15px;
+    background-position: -440px 0px; }
+  .iti__flag.iti__bf {
+    height: 14px;
+    background-position: -460px 0px; }
+  .iti__flag.iti__bg {
+    height: 12px;
+    background-position: -482px 0px; }
+  .iti__flag.iti__bh {
+    height: 12px;
+    background-position: -504px 0px; }
+  .iti__flag.iti__bi {
+    height: 12px;
+    background-position: -526px 0px; }
+  .iti__flag.iti__bj {
+    height: 14px;
+    background-position: -548px 0px; }
+  .iti__flag.iti__bl {
+    height: 14px;
+    background-position: -570px 0px; }
+  .iti__flag.iti__bm {
+    height: 10px;
+    background-position: -592px 0px; }
+  .iti__flag.iti__bn {
+    height: 10px;
+    background-position: -614px 0px; }
+  .iti__flag.iti__bo {
+    height: 14px;
+    background-position: -636px 0px; }
+  .iti__flag.iti__bq {
+    height: 14px;
+    background-position: -658px 0px; }
+  .iti__flag.iti__br {
+    height: 14px;
+    background-position: -680px 0px; }
+  .iti__flag.iti__bs {
+    height: 10px;
+    background-position: -702px 0px; }
+  .iti__flag.iti__bt {
+    height: 14px;
+    background-position: -724px 0px; }
+  .iti__flag.iti__bv {
+    height: 15px;
+    background-position: -746px 0px; }
+  .iti__flag.iti__bw {
+    height: 14px;
+    background-position: -768px 0px; }
+  .iti__flag.iti__by {
+    height: 10px;
+    background-position: -790px 0px; }
+  .iti__flag.iti__bz {
+    height: 14px;
+    background-position: -812px 0px; }
+  .iti__flag.iti__ca {
+    height: 10px;
+    background-position: -834px 0px; }
+  .iti__flag.iti__cc {
+    height: 10px;
+    background-position: -856px 0px; }
+  .iti__flag.iti__cd {
+    height: 15px;
+    background-position: -878px 0px; }
+  .iti__flag.iti__cf {
+    height: 14px;
+    background-position: -900px 0px; }
+  .iti__flag.iti__cg {
+    height: 14px;
+    background-position: -922px 0px; }
+  .iti__flag.iti__ch {
+    height: 15px;
+    background-position: -944px 0px; }
+  .iti__flag.iti__ci {
+    height: 14px;
+    background-position: -961px 0px; }
+  .iti__flag.iti__ck {
+    height: 10px;
+    background-position: -983px 0px; }
+  .iti__flag.iti__cl {
+    height: 14px;
+    background-position: -1005px 0px; }
+  .iti__flag.iti__cm {
+    height: 14px;
+    background-position: -1027px 0px; }
+  .iti__flag.iti__cn {
+    height: 14px;
+    background-position: -1049px 0px; }
+  .iti__flag.iti__co {
+    height: 14px;
+    background-position: -1071px 0px; }
+  .iti__flag.iti__cp {
+    height: 14px;
+    background-position: -1093px 0px; }
+  .iti__flag.iti__cr {
+    height: 12px;
+    background-position: -1115px 0px; }
+  .iti__flag.iti__cu {
+    height: 10px;
+    background-position: -1137px 0px; }
+  .iti__flag.iti__cv {
+    height: 12px;
+    background-position: -1159px 0px; }
+  .iti__flag.iti__cw {
+    height: 14px;
+    background-position: -1181px 0px; }
+  .iti__flag.iti__cx {
+    height: 10px;
+    background-position: -1203px 0px; }
+  .iti__flag.iti__cy {
+    height: 14px;
+    background-position: -1225px 0px; }
+  .iti__flag.iti__cz {
+    height: 14px;
+    background-position: -1247px 0px; }
+  .iti__flag.iti__de {
+    height: 12px;
+    background-position: -1269px 0px; }
+  .iti__flag.iti__dg {
+    height: 10px;
+    background-position: -1291px 0px; }
+  .iti__flag.iti__dj {
+    height: 14px;
+    background-position: -1313px 0px; }
+  .iti__flag.iti__dk {
+    height: 15px;
+    background-position: -1335px 0px; }
+  .iti__flag.iti__dm {
+    height: 10px;
+    background-position: -1357px 0px; }
+  .iti__flag.iti__do {
+    height: 14px;
+    background-position: -1379px 0px; }
+  .iti__flag.iti__dz {
+    height: 14px;
+    background-position: -1401px 0px; }
+  .iti__flag.iti__ea {
+    height: 14px;
+    background-position: -1423px 0px; }
+  .iti__flag.iti__ec {
+    height: 14px;
+    background-position: -1445px 0px; }
+  .iti__flag.iti__ee {
+    height: 13px;
+    background-position: -1467px 0px; }
+  .iti__flag.iti__eg {
+    height: 14px;
+    background-position: -1489px 0px; }
+  .iti__flag.iti__eh {
+    height: 10px;
+    background-position: -1511px 0px; }
+  .iti__flag.iti__er {
+    height: 10px;
+    background-position: -1533px 0px; }
+  .iti__flag.iti__es {
+    height: 14px;
+    background-position: -1555px 0px; }
+  .iti__flag.iti__et {
+    height: 10px;
+    background-position: -1577px 0px; }
+  .iti__flag.iti__eu {
+    height: 14px;
+    background-position: -1599px 0px; }
+  .iti__flag.iti__fi {
+    height: 12px;
+    background-position: -1621px 0px; }
+  .iti__flag.iti__fj {
+    height: 10px;
+    background-position: -1643px 0px; }
+  .iti__flag.iti__fk {
+    height: 10px;
+    background-position: -1665px 0px; }
+  .iti__flag.iti__fm {
+    height: 11px;
+    background-position: -1687px 0px; }
+  .iti__flag.iti__fo {
+    height: 15px;
+    background-position: -1709px 0px; }
+  .iti__flag.iti__fr {
+    height: 14px;
+    background-position: -1731px 0px; }
+  .iti__flag.iti__ga {
+    height: 15px;
+    background-position: -1753px 0px; }
+  .iti__flag.iti__gb {
+    height: 10px;
+    background-position: -1775px 0px; }
+  .iti__flag.iti__gd {
+    height: 12px;
+    background-position: -1797px 0px; }
+  .iti__flag.iti__ge {
+    height: 14px;
+    background-position: -1819px 0px; }
+  .iti__flag.iti__gf {
+    height: 14px;
+    background-position: -1841px 0px; }
+  .iti__flag.iti__gg {
+    height: 14px;
+    background-position: -1863px 0px; }
+  .iti__flag.iti__gh {
+    height: 14px;
+    background-position: -1885px 0px; }
+  .iti__flag.iti__gi {
+    height: 10px;
+    background-position: -1907px 0px; }
+  .iti__flag.iti__gl {
+    height: 14px;
+    background-position: -1929px 0px; }
+  .iti__flag.iti__gm {
+    height: 14px;
+    background-position: -1951px 0px; }
+  .iti__flag.iti__gn {
+    height: 14px;
+    background-position: -1973px 0px; }
+  .iti__flag.iti__gp {
+    height: 14px;
+    background-position: -1995px 0px; }
+  .iti__flag.iti__gq {
+    height: 14px;
+    background-position: -2017px 0px; }
+  .iti__flag.iti__gr {
+    height: 14px;
+    background-position: -2039px 0px; }
+  .iti__flag.iti__gs {
+    height: 10px;
+    background-position: -2061px 0px; }
+  .iti__flag.iti__gt {
+    height: 13px;
+    background-position: -2083px 0px; }
+  .iti__flag.iti__gu {
+    height: 11px;
+    background-position: -2105px 0px; }
+  .iti__flag.iti__gw {
+    height: 10px;
+    background-position: -2127px 0px; }
+  .iti__flag.iti__gy {
+    height: 12px;
+    background-position: -2149px 0px; }
+  .iti__flag.iti__hk {
+    height: 14px;
+    background-position: -2171px 0px; }
+  .iti__flag.iti__hm {
+    height: 10px;
+    background-position: -2193px 0px; }
+  .iti__flag.iti__hn {
+    height: 10px;
+    background-position: -2215px 0px; }
+  .iti__flag.iti__hr {
+    height: 10px;
+    background-position: -2237px 0px; }
+  .iti__flag.iti__ht {
+    height: 12px;
+    background-position: -2259px 0px; }
+  .iti__flag.iti__hu {
+    height: 10px;
+    background-position: -2281px 0px; }
+  .iti__flag.iti__ic {
+    height: 14px;
+    background-position: -2303px 0px; }
+  .iti__flag.iti__id {
+    height: 14px;
+    background-position: -2325px 0px; }
+  .iti__flag.iti__ie {
+    height: 10px;
+    background-position: -2347px 0px; }
+  .iti__flag.iti__il {
+    height: 15px;
+    background-position: -2369px 0px; }
+  .iti__flag.iti__im {
+    height: 10px;
+    background-position: -2391px 0px; }
+  .iti__flag.iti__in {
+    height: 14px;
+    background-position: -2413px 0px; }
+  .iti__flag.iti__io {
+    height: 10px;
+    background-position: -2435px 0px; }
+  .iti__flag.iti__iq {
+    height: 14px;
+    background-position: -2457px 0px; }
+  .iti__flag.iti__ir {
+    height: 12px;
+    background-position: -2479px 0px; }
+  .iti__flag.iti__is {
+    height: 15px;
+    background-position: -2501px 0px; }
+  .iti__flag.iti__it {
+    height: 14px;
+    background-position: -2523px 0px; }
+  .iti__flag.iti__je {
+    height: 12px;
+    background-position: -2545px 0px; }
+  .iti__flag.iti__jm {
+    height: 10px;
+    background-position: -2567px 0px; }
+  .iti__flag.iti__jo {
+    height: 10px;
+    background-position: -2589px 0px; }
+  .iti__flag.iti__jp {
+    height: 14px;
+    background-position: -2611px 0px; }
+  .iti__flag.iti__ke {
+    height: 14px;
+    background-position: -2633px 0px; }
+  .iti__flag.iti__kg {
+    height: 12px;
+    background-position: -2655px 0px; }
+  .iti__flag.iti__kh {
+    height: 13px;
+    background-position: -2677px 0px; }
+  .iti__flag.iti__ki {
+    height: 10px;
+    background-position: -2699px 0px; }
+  .iti__flag.iti__km {
+    height: 12px;
+    background-position: -2721px 0px; }
+  .iti__flag.iti__kn {
+    height: 14px;
+    background-position: -2743px 0px; }
+  .iti__flag.iti__kp {
+    height: 10px;
+    background-position: -2765px 0px; }
+  .iti__flag.iti__kr {
+    height: 14px;
+    background-position: -2787px 0px; }
+  .iti__flag.iti__kw {
+    height: 10px;
+    background-position: -2809px 0px; }
+  .iti__flag.iti__ky {
+    height: 10px;
+    background-position: -2831px 0px; }
+  .iti__flag.iti__kz {
+    height: 10px;
+    background-position: -2853px 0px; }
+  .iti__flag.iti__la {
+    height: 14px;
+    background-position: -2875px 0px; }
+  .iti__flag.iti__lb {
+    height: 14px;
+    background-position: -2897px 0px; }
+  .iti__flag.iti__lc {
+    height: 10px;
+    background-position: -2919px 0px; }
+  .iti__flag.iti__li {
+    height: 12px;
+    background-position: -2941px 0px; }
+  .iti__flag.iti__lk {
+    height: 10px;
+    background-position: -2963px 0px; }
+  .iti__flag.iti__lr {
+    height: 11px;
+    background-position: -2985px 0px; }
+  .iti__flag.iti__ls {
+    height: 14px;
+    background-position: -3007px 0px; }
+  .iti__flag.iti__lt {
+    height: 12px;
+    background-position: -3029px 0px; }
+  .iti__flag.iti__lu {
+    height: 12px;
+    background-position: -3051px 0px; }
+  .iti__flag.iti__lv {
+    height: 10px;
+    background-position: -3073px 0px; }
+  .iti__flag.iti__ly {
+    height: 10px;
+    background-position: -3095px 0px; }
+  .iti__flag.iti__ma {
+    height: 14px;
+    background-position: -3117px 0px; }
+  .iti__flag.iti__mc {
+    height: 15px;
+    background-position: -3139px 0px; }
+  .iti__flag.iti__md {
+    height: 10px;
+    background-position: -3160px 0px; }
+  .iti__flag.iti__me {
+    height: 10px;
+    background-position: -3182px 0px; }
+  .iti__flag.iti__mf {
+    height: 14px;
+    background-position: -3204px 0px; }
+  .iti__flag.iti__mg {
+    height: 14px;
+    background-position: -3226px 0px; }
+  .iti__flag.iti__mh {
+    height: 11px;
+    background-position: -3248px 0px; }
+  .iti__flag.iti__mk {
+    height: 10px;
+    background-position: -3270px 0px; }
+  .iti__flag.iti__ml {
+    height: 14px;
+    background-position: -3292px 0px; }
+  .iti__flag.iti__mm {
+    height: 14px;
+    background-position: -3314px 0px; }
+  .iti__flag.iti__mn {
+    height: 10px;
+    background-position: -3336px 0px; }
+  .iti__flag.iti__mo {
+    height: 14px;
+    background-position: -3358px 0px; }
+  .iti__flag.iti__mp {
+    height: 10px;
+    background-position: -3380px 0px; }
+  .iti__flag.iti__mq {
+    height: 14px;
+    background-position: -3402px 0px; }
+  .iti__flag.iti__mr {
+    height: 14px;
+    background-position: -3424px 0px; }
+  .iti__flag.iti__ms {
+    height: 10px;
+    background-position: -3446px 0px; }
+  .iti__flag.iti__mt {
+    height: 14px;
+    background-position: -3468px 0px; }
+  .iti__flag.iti__mu {
+    height: 14px;
+    background-position: -3490px 0px; }
+  .iti__flag.iti__mv {
+    height: 14px;
+    background-position: -3512px 0px; }
+  .iti__flag.iti__mw {
+    height: 14px;
+    background-position: -3534px 0px; }
+  .iti__flag.iti__mx {
+    height: 12px;
+    background-position: -3556px 0px; }
+  .iti__flag.iti__my {
+    height: 10px;
+    background-position: -3578px 0px; }
+  .iti__flag.iti__mz {
+    height: 14px;
+    background-position: -3600px 0px; }
+  .iti__flag.iti__na {
+    height: 14px;
+    background-position: -3622px 0px; }
+  .iti__flag.iti__nc {
+    height: 10px;
+    background-position: -3644px 0px; }
+  .iti__flag.iti__ne {
+    height: 15px;
+    background-position: -3666px 0px; }
+  .iti__flag.iti__nf {
+    height: 10px;
+    background-position: -3686px 0px; }
+  .iti__flag.iti__ng {
+    height: 10px;
+    background-position: -3708px 0px; }
+  .iti__flag.iti__ni {
+    height: 12px;
+    background-position: -3730px 0px; }
+  .iti__flag.iti__nl {
+    height: 14px;
+    background-position: -3752px 0px; }
+  .iti__flag.iti__no {
+    height: 15px;
+    background-position: -3774px 0px; }
+  .iti__flag.iti__np {
+    height: 15px;
+    background-position: -3796px 0px; }
+  .iti__flag.iti__nr {
+    height: 10px;
+    background-position: -3811px 0px; }
+  .iti__flag.iti__nu {
+    height: 10px;
+    background-position: -3833px 0px; }
+  .iti__flag.iti__nz {
+    height: 10px;
+    background-position: -3855px 0px; }
+  .iti__flag.iti__om {
+    height: 10px;
+    background-position: -3877px 0px; }
+  .iti__flag.iti__pa {
+    height: 14px;
+    background-position: -3899px 0px; }
+  .iti__flag.iti__pe {
+    height: 14px;
+    background-position: -3921px 0px; }
+  .iti__flag.iti__pf {
+    height: 14px;
+    background-position: -3943px 0px; }
+  .iti__flag.iti__pg {
+    height: 15px;
+    background-position: -3965px 0px; }
+  .iti__flag.iti__ph {
+    height: 10px;
+    background-position: -3987px 0px; }
+  .iti__flag.iti__pk {
+    height: 14px;
+    background-position: -4009px 0px; }
+  .iti__flag.iti__pl {
+    height: 13px;
+    background-position: -4031px 0px; }
+  .iti__flag.iti__pm {
+    height: 14px;
+    background-position: -4053px 0px; }
+  .iti__flag.iti__pn {
+    height: 10px;
+    background-position: -4075px 0px; }
+  .iti__flag.iti__pr {
+    height: 14px;
+    background-position: -4097px 0px; }
+  .iti__flag.iti__ps {
+    height: 10px;
+    background-position: -4119px 0px; }
+  .iti__flag.iti__pt {
+    height: 14px;
+    background-position: -4141px 0px; }
+  .iti__flag.iti__pw {
+    height: 13px;
+    background-position: -4163px 0px; }
+  .iti__flag.iti__py {
+    height: 11px;
+    background-position: -4185px 0px; }
+  .iti__flag.iti__qa {
+    height: 8px;
+    background-position: -4207px 0px; }
+  .iti__flag.iti__re {
+    height: 14px;
+    background-position: -4229px 0px; }
+  .iti__flag.iti__ro {
+    height: 14px;
+    background-position: -4251px 0px; }
+  .iti__flag.iti__rs {
+    height: 14px;
+    background-position: -4273px 0px; }
+  .iti__flag.iti__ru {
+    height: 14px;
+    background-position: -4295px 0px; }
+  .iti__flag.iti__rw {
+    height: 14px;
+    background-position: -4317px 0px; }
+  .iti__flag.iti__sa {
+    height: 14px;
+    background-position: -4339px 0px; }
+  .iti__flag.iti__sb {
+    height: 10px;
+    background-position: -4361px 0px; }
+  .iti__flag.iti__sc {
+    height: 10px;
+    background-position: -4383px 0px; }
+  .iti__flag.iti__sd {
+    height: 10px;
+    background-position: -4405px 0px; }
+  .iti__flag.iti__se {
+    height: 13px;
+    background-position: -4427px 0px; }
+  .iti__flag.iti__sg {
+    height: 14px;
+    background-position: -4449px 0px; }
+  .iti__flag.iti__sh {
+    height: 10px;
+    background-position: -4471px 0px; }
+  .iti__flag.iti__si {
+    height: 10px;
+    background-position: -4493px 0px; }
+  .iti__flag.iti__sj {
+    height: 15px;
+    background-position: -4515px 0px; }
+  .iti__flag.iti__sk {
+    height: 14px;
+    background-position: -4537px 0px; }
+  .iti__flag.iti__sl {
+    height: 14px;
+    background-position: -4559px 0px; }
+  .iti__flag.iti__sm {
+    height: 15px;
+    background-position: -4581px 0px; }
+  .iti__flag.iti__sn {
+    height: 14px;
+    background-position: -4603px 0px; }
+  .iti__flag.iti__so {
+    height: 14px;
+    background-position: -4625px 0px; }
+  .iti__flag.iti__sr {
+    height: 14px;
+    background-position: -4647px 0px; }
+  .iti__flag.iti__ss {
+    height: 10px;
+    background-position: -4669px 0px; }
+  .iti__flag.iti__st {
+    height: 10px;
+    background-position: -4691px 0px; }
+  .iti__flag.iti__sv {
+    height: 12px;
+    background-position: -4713px 0px; }
+  .iti__flag.iti__sx {
+    height: 14px;
+    background-position: -4735px 0px; }
+  .iti__flag.iti__sy {
+    height: 14px;
+    background-position: -4757px 0px; }
+  .iti__flag.iti__sz {
+    height: 14px;
+    background-position: -4779px 0px; }
+  .iti__flag.iti__ta {
+    height: 10px;
+    background-position: -4801px 0px; }
+  .iti__flag.iti__tc {
+    height: 10px;
+    background-position: -4823px 0px; }
+  .iti__flag.iti__td {
+    height: 14px;
+    background-position: -4845px 0px; }
+  .iti__flag.iti__tf {
+    height: 14px;
+    background-position: -4867px 0px; }
+  .iti__flag.iti__tg {
+    height: 13px;
+    background-position: -4889px 0px; }
+  .iti__flag.iti__th {
+    height: 14px;
+    background-position: -4911px 0px; }
+  .iti__flag.iti__tj {
+    height: 10px;
+    background-position: -4933px 0px; }
+  .iti__flag.iti__tk {
+    height: 10px;
+    background-position: -4955px 0px; }
+  .iti__flag.iti__tl {
+    height: 10px;
+    background-position: -4977px 0px; }
+  .iti__flag.iti__tm {
+    height: 14px;
+    background-position: -4999px 0px; }
+  .iti__flag.iti__tn {
+    height: 14px;
+    background-position: -5021px 0px; }
+  .iti__flag.iti__to {
+    height: 10px;
+    background-position: -5043px 0px; }
+  .iti__flag.iti__tr {
+    height: 14px;
+    background-position: -5065px 0px; }
+  .iti__flag.iti__tt {
+    height: 12px;
+    background-position: -5087px 0px; }
+  .iti__flag.iti__tv {
+    height: 10px;
+    background-position: -5109px 0px; }
+  .iti__flag.iti__tw {
+    height: 14px;
+    background-position: -5131px 0px; }
+  .iti__flag.iti__tz {
+    height: 14px;
+    background-position: -5153px 0px; }
+  .iti__flag.iti__ua {
+    height: 14px;
+    background-position: -5175px 0px; }
+  .iti__flag.iti__ug {
+    height: 14px;
+    background-position: -5197px 0px; }
+  .iti__flag.iti__um {
+    height: 11px;
+    background-position: -5219px 0px; }
+  .iti__flag.iti__un {
+    height: 14px;
+    background-position: -5241px 0px; }
+  .iti__flag.iti__us {
+    height: 11px;
+    background-position: -5263px 0px; }
+  .iti__flag.iti__uy {
+    height: 14px;
+    background-position: -5285px 0px; }
+  .iti__flag.iti__uz {
+    height: 10px;
+    background-position: -5307px 0px; }
+  .iti__flag.iti__va {
+    height: 15px;
+    background-position: -5329px 0px; }
+  .iti__flag.iti__vc {
+    height: 14px;
+    background-position: -5346px 0px; }
+  .iti__flag.iti__ve {
+    height: 14px;
+    background-position: -5368px 0px; }
+  .iti__flag.iti__vg {
+    height: 10px;
+    background-position: -5390px 0px; }
+  .iti__flag.iti__vi {
+    height: 14px;
+    background-position: -5412px 0px; }
+  .iti__flag.iti__vn {
+    height: 14px;
+    background-position: -5434px 0px; }
+  .iti__flag.iti__vu {
+    height: 12px;
+    background-position: -5456px 0px; }
+  .iti__flag.iti__wf {
+    height: 14px;
+    background-position: -5478px 0px; }
+  .iti__flag.iti__ws {
+    height: 10px;
+    background-position: -5500px 0px; }
+  .iti__flag.iti__xk {
+    height: 15px;
+    background-position: -5522px 0px; }
+  .iti__flag.iti__ye {
+    height: 14px;
+    background-position: -5544px 0px; }
+  .iti__flag.iti__yt {
+    height: 14px;
+    background-position: -5566px 0px; }
+  .iti__flag.iti__za {
+    height: 14px;
+    background-position: -5588px 0px; }
+  .iti__flag.iti__zm {
+    height: 14px;
+    background-position: -5610px 0px; }
+  .iti__flag.iti__zw {
+    height: 10px;
+    background-position: -5632px 0px; }
+
+.iti__flag {
+  height: 15px;
+  box-shadow: 0px 0px 1px 0px #888;
+  background-image: url(https://cdn.shopify.com/extensions/01a12e23-b342-752f-85e5-1bec1cdbebe6/globo-product-options-481/assets/globo.options.flags.png);
+  background-repeat: no-repeat;
+  background-color: #DBDBDB;
+  background-position: 20px 0; }
+  @media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
+    .iti__flag {
+      background-image: url(https://cdn.shopify.com/extensions/01a12e23-b342-752f-85e5-1bec1cdbebe6/globo-product-options-481/assets/globo.options.flags@2x.png); } }
+
+.iti__flag.iti__np {
+  background-color: transparent; }
+
+:root {
+      --announcement-height: 44px;
+    }
+
+    @media screen and (min-width: 576px) {
+      :root {
+        --announcement-height: 44px;
+      }
+    }
+
+  @media screen and (min-width: 1200px) {
+    header-drawer {
+      display: none;
+    }
+  }
+
+  @media screen and (min-width: 1200px) {
+    .header.header--layout-small header-drawer {
+      display: block;
+    }
+  }
+
+  @media screen and (min-width: 1600px) {
+    .header.header--layout-small header-drawer {
+      display: none;
+    }
+  }
+
+  .list-menu {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  .list-menu__item {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+  }
+
+  
+
+  .header-link-style {
+    font-family: var(--font-header-menu-family);
+    font-style: var(--font-header-menu-style);
+    font-weight: var(--font-header-menu-weight);
+    font-size: calc(var(--font-header-menu-text-scale) * 1rem);
+    text-transform: var(--font-header-menu-text-transform);
+    letter-spacing: var(--font-header-menu-letter-spacing);
+  }
+
+
+  @media screen and (max-width: 989px) {
+        [data-scheme=light] .header-shop-all-search-wrapper,
+        [data-scheme=light] .header-shop-all-menu-search-wrapper {
+          --color-background: 255,255,255;
+          --color-background-secondary: 243,243,243;
+          --color-foreground: 0, 0, 0;
+          
+            --overwrite-background: #ffffff;
+          
+          --color-foreground-secondary: 101, 101, 101;
+          --color-overlay: 255,255,255;
+          --color-button-text: 255, 255, 255;
+          --color-button-text-hover: 255, 255, 255;
+          --color-button: 54, 110, 254;
+          --color-button-hover: 35, 87, 221;
+          --color-button-secondary: 255, 255, 255;
+          --color-button-secondary-hover: 238, 243, 255;
+          --color-button-secondary-text: 54, 110, 254;
+          --color-button-secondary-text-hover: 35, 87, 221;
+          --color-button-tertiary-text: 0, 0, 0;
+          --color-button-tertiary-text-hover: 0, 0, 0;
+          --color-button-tertiary: 243, 243, 243;
+          --color-button-tertiary-hover: 228, 228, 228;
+          --color-button-transparent: 54, 110, 254;
+          --color-button-transparent-hover: 35, 87, 221;
+
+          --color-background-input: 240, 240, 240;
+          --color-placeholder-input: 101, 101, 101;
+          --color-foreground-input: 0, 0, 0;
+          --color-border: 217, 217, 217;
+          --color-accent: 87, 165, 255;
+          --color-accent-secondary: 255, 255, 255;
+          --color-alert: 231, 0, 114;
+
+          --sold-out-badge-bg: 208,5,5;
+          --sold-out-badge-color: 255,255,255;
+          --sale-badge-bg: 231,0,114;
+          --sale-badge-color: 255,255,255;
+          --custom-badge-bg: 87,165,255;
+          --custom-badge-color: 255,255,255;
+          --new-badge-bg: 14,120,16;
+          --new-badge-color: 255,255,255;
+          --banner-badge-bg: 92,184,255;
+          --banner-badge-color: 255,255,255;
+          --banner-badge-bg: 92,184,255;
+          --banner-badge-color: 255,255,255;
+
+          --color-card-price-regular: 231, 0, 114;
+          --color-card-price-sale: 101, 101, 101;
+        }
+
+        @media (prefers-color-scheme: light) {
+          [data-scheme=auto] .header-shop-all-search-wrapper,
+          [data-scheme=auto] .header-shop-all-menu-search-wrapper {
+            --color-background: 255,255,255;
+            --color-background-secondary: 243,243,243;
+            
+              --overwrite-background: #ffffff;
+            
+            --color-foreground: 0, 0, 0;
+            --color-foreground-secondary: 101, 101, 101;
+            --color-overlay: 255,255,255;
+            --color-button-text: 255, 255, 255;
+            --color-button-text-hover: 255, 255, 255;
+            --color-button: 54, 110, 254;
+            --color-button-hover: 35, 87, 221;
+            --color-button-secondary: 255, 255, 255;
+            --color-button-secondary-hover: 238, 243, 255;
+            --color-button-secondary-text: 54, 110, 254;
+            --color-button-secondary-text-hover: 35, 87, 221;
+
+            --color-button-tertiary-text: 0, 0, 0;
+            --color-button-tertiary-text-hover: 0, 0, 0;
+            --color-button-tertiary: 243, 243, 243;
+            --color-button-tertiary-hover: 228, 228, 228;
+
+            --color-button-transparent: 54, 110, 254;
+            --color-button-transparent-hover: 35, 87, 221;
+
+            --color-background-input: 240, 240, 240;
+            --color-border: 217, 217, 217;
+            --color-accent: 87, 165, 255;
+            --color-accent-secondary: 255, 255, 255;
+            --color-alert: 231, 0, 114;
+
+            --sold-out-badge-bg: 208,5,5;
+            --sold-out-badge-color: 255,255,255;
+            --sale-badge-bg: 231,0,114;
+            --sale-badge-color: 255,255,255;
+            --custom-badge-bg: 87,165,255;
+            --custom-badge-color: 255,255,255;
+            --new-badge-bg: 14,120,16;
+            --new-badge-color: 255,255,255;
+            --banner-badge-bg: 92,184,255;
+            --banner-badge-color: 255,255,255;
+            --banner-badge-bg: 92,184,255;
+            --banner-badge-color: 255,255,255;
+
+            --color-card-price-regular: 231, 0, 114;
+            --color-card-price-sale: 101, 101, 101;
+          }
+        }
+      }
+  
+  
+  
+  
+
+.recently-viewed__wrapper {
+        position: relative;
+      }
+      .recently-viewed__empty {
+        display: none;
+        width: 100%;
+        align-items: center;
+        justify-content: center;
+      }
+      .recently-viewed__empty span {
+        max-width: 550px;
+        text-align: center;
+      }
+      .recently-viewed--empty .recently-viewed__empty {
+        display: flex;
+      }
+      .recently-viewed .loading-overlay {
+        inset: 0;
+        z-index: 6;
+        display: none;
+        width: 100%;
+        padding: 0 5rem;
+      }
+      .recently-viewed.recently-viewed--loading .loading-overlay {
+        display: block;
+      }
+      .recently-viewed.recently-viewed--loading .loading-overlay .loading-overlay__spinner {
+        top: 50%;
+        transform: translateY(-50%);
+      }
+      .recently-viewed.recently-viewed--loading .recently-viewed__navigation,
+      .recently-viewed.recently-viewed--empty .recently-viewed__navigation {
+        display: none;
+      }
+.section-template--27980234850456__main-product-padding {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 5.6rem;
+
+}
+
+@media screen and (min-width: 750px) { .section-template--27980234850456__main-product-padding {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 6.4rem;
+
+} }
+
+@media screen and (min-width: 1440px) { .section-template--27980234850456__main-product-padding {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 8rem;
+
+} }
+
+
+
+  .section-template--27980234850456__blog_posts_3pKFRa-padding {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 5.6rem;
+
+}
+
+@media screen and (min-width: 750px) { .section-template--27980234850456__blog_posts_3pKFRa-padding {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 6.4rem;
+
+} }
+
+@media screen and (min-width: 1440px) { .section-template--27980234850456__blog_posts_3pKFRa-padding {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 8rem;
+
+} }
+
+  
+
+#shopify-section-template--27980234850456__blog_posts_3pKFRa {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 0;
+
+}
+
+@media screen and (min-width: 750px) { #shopify-section-template--27980234850456__blog_posts_3pKFRa {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 0;
+
+} }
+
+@media screen and (min-width: 1440px) { #shopify-section-template--27980234850456__blog_posts_3pKFRa {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 0;
+
+
+} }
+
+
+
+  .section-template--27980234850456__multicolumn-padding {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 5.6rem;
+
+}
+
+@media screen and (min-width: 750px) { .section-template--27980234850456__multicolumn-padding {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 6.4rem;
+
+} }
+
+@media screen and (min-width: 1440px) { .section-template--27980234850456__multicolumn-padding {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 8rem;
+
+} }
+
+  
+
+#shopify-section-template--27980234850456__multicolumn {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 0;
+
+}
+
+@media screen and (min-width: 750px) { #shopify-section-template--27980234850456__multicolumn {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 0;
+
+} }
+
+@media screen and (min-width: 1440px) { #shopify-section-template--27980234850456__multicolumn {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 0;
+
+
+} }
+
+
+
+
+#shopify-section-template--27980234850456__newsletter {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 6.4rem;
+
+}
+
+@media screen and (min-width: 750px) { #shopify-section-template--27980234850456__newsletter {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 8.8rem;
+
+} }
+
+@media screen and (min-width: 1440px) { #shopify-section-template--27980234850456__newsletter {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 11.2rem;
+
+
+} }
+
+
+
+  
+
+#shopify-section-sections--27980234948760__footer {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 0;
+
+}
+
+@media screen and (min-width: 750px) { #shopify-section-sections--27980234948760__footer {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 0;
+
+} }
+
+@media screen and (min-width: 1440px) { #shopify-section-sections--27980234948760__footer {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 0;
+
+
+} }
+
+
+
+    .cart-drawer {
+      visibility: hidden;
+    }
+  
+.gpo-hidden,[class*=gpo-original],[data-gpo-is-enabled=true] [data-shopify=payment-button],[data-gpo-is-enabled=true][data-gpo-cart-hide-additional-payment-button=true] [data-shopify=dynamic-checkout-cart],a[class*=gpo-original],button[class*=gpo-original],input#AddToCart[class*=gpo-original],input#addToCart[class*=gpo-original],input[class*=gpo-original]{display:none!important}.gpo-hidden{opacity:0!important;visibility:hidden!important}#mini-cart form.cart a.gpo-clone-checkout-button,.cart-flyout a.gpo-clone-checkout-button{display:block!important}

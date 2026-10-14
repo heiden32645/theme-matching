@@ -1,0 +1,44 @@
+{
+  "custom": {
+    "background": "rgb(40, 40, 40)",
+    "height": "12px",
+    "mask": "url(\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 256 256'%3E%3Cpolyline points='208 96 128 176 48 96' fill='none' stroke='black' stroke-linecap='round' stroke-linejoin='round' stroke-width='16'/%3E%3C/svg%3E\")",
+    "right": "19.2px",
+    "width": "12px"
+  },
+  "loaded": true,
+  "native": {
+    "color": "rgb(40, 40, 40)",
+    "height": "12px",
+    "opacity": "1",
+    "rect": {
+      "bottom": 459.25,
+      "height": 12,
+      "left": 620.34375,
+      "right": 632.34375,
+      "top": 447.25,
+      "width": 12,
+      "x": 620.34375,
+      "y": 447.25
+    },
+    "transition": "transform 0.2s linear",
+    "width": "12px"
+  },
+  "select": {
+    "background": "rgb(40, 40, 40)",
+    "height": "12px",
+    "mask": "url(\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 256 256'%3E%3Cpolyline points='208 96 128 176 48 96' fill='none' stroke='black' stroke-linecap='round' stroke-linejoin='round' stroke-width='16'/%3E%3C/svg%3E\")",
+    "rect": {
+      "bottom": 759.390625,
+      "height": 65.4375,
+      "left": 176.59375,
+      "right": 653.5390625,
+      "top": 693.953125,
+      "width": 476.9453125,
+      "x": 176.59375,
+      "y": 693.953125
+    },
+    "right": "19.2px",
+    "width": "12px"
+  }
+}

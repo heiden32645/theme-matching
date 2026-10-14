@@ -1,0 +1,400 @@
+[
+  {
+    "step": "mobile dropdown open",
+    "state": [
+      {
+        "caret": "none",
+        "cls": "gpo-dropdown gpo-oos--show expanded",
+        "icon": "none",
+        "list": "block",
+        "transition": "none",
+        "value": "-- Please select --"
+      },
+      {
+        "caret": "none",
+        "cls": "gpo-dropdown gpo-image-dropdown gpo-oos--show",
+        "icon": "none",
+        "list": "none",
+        "transition": "none",
+        "value": "-- Please select --"
+      },
+      {
+        "caret": "none",
+        "cls": "gpo-font-picker gpo-dropdown googlefont-dropdown",
+        "icon": "none",
+        "list": "none",
+        "transition": "none",
+        "value": "-- Select a font --"
+      }
+    ]
+  },
+  {
+    "step": "mobile dropdown selected",
+    "state": [
+      {
+        "caret": "none",
+        "checked": "option_2",
+        "cls": "gpo-dropdown gpo-oos--show",
+        "icon": "none",
+        "list": "none",
+        "transition": "none",
+        "value": "option_2"
+      },
+      {
+        "caret": "none",
+        "cls": "gpo-dropdown gpo-image-dropdown gpo-oos--show",
+        "icon": "none",
+        "list": "none",
+        "transition": "none",
+        "value": "-- Please select --"
+      },
+      {
+        "caret": "none",
+        "cls": "gpo-font-picker gpo-dropdown googlefont-dropdown",
+        "icon": "none",
+        "list": "none",
+        "transition": "none",
+        "value": "-- Select a font --"
+      }
+    ]
+  },
+  {
+    "step": "mobile image open",
+    "state": [
+      {
+        "caret": "none",
+        "checked": "option_2",
+        "cls": "gpo-dropdown gpo-oos--show",
+        "icon": "none",
+        "list": "none",
+        "transition": "none",
+        "value": "option_2"
+      },
+      {
+        "caret": "none",
+        "cls": "gpo-dropdown gpo-image-dropdown gpo-oos--show expanded",
+        "icon": "none",
+        "list": "block",
+        "transition": "none",
+        "value": "-- Please select --"
+      },
+      {
+        "caret": "none",
+        "cls": "gpo-font-picker gpo-dropdown googlefont-dropdown",
+        "icon": "none",
+        "list": "none",
+        "transition": "none",
+        "value": "-- Select a font --"
+      }
+    ]
+  },
+  {
+    "step": "mobile image selected",
+    "state": [
+      {
+        "caret": "none",
+        "checked": "option_2",
+        "cls": "gpo-dropdown gpo-oos--show",
+        "icon": "none",
+        "list": "none",
+        "transition": "none",
+        "value": "option_2"
+      },
+      {
+        "caret": "none",
+        "checked": "option_2",
+        "cls": "gpo-dropdown gpo-image-dropdown gpo-oos--show",
+        "icon": "none",
+        "list": "none",
+        "transition": "none",
+        "value": "option_2"
+      },
+      {
+        "caret": "none",
+        "cls": "gpo-font-picker gpo-dropdown googlefont-dropdown",
+        "icon": "none",
+        "list": "none",
+        "transition": "none",
+        "value": "-- Select a font --"
+      }
+    ]
+  },
+  {
+    "step": "mobile font open",
+    "state": [
+      {
+        "caret": "none",
+        "checked": "option_2",
+        "cls": "gpo-dropdown gpo-oos--show",
+        "icon": "none",
+        "list": "none",
+        "transition": "none",
+        "value": "option_2"
+      },
+      {
+        "caret": "none",
+        "checked": "option_2",
+        "cls": "gpo-dropdown gpo-image-dropdown gpo-oos--show",
+        "icon": "none",
+        "list": "none",
+        "transition": "none",
+        "value": "option_2"
+      },
+      {
+        "caret": "none",
+        "cls": "gpo-font-picker gpo-dropdown googlefont-dropdown expanded",
+        "icon": "none",
+        "list": "block",
+        "transition": "none",
+        "value": "-- Select a font --"
+      }
+    ]
+  },
+  {
+    "step": "mobile font selected",
+    "state": [
+      {
+        "caret": "none",
+        "checked": "option_2",
+        "cls": "gpo-dropdown gpo-oos--show",
+        "icon": "none",
+        "list": "none",
+        "transition": "none",
+        "value": "option_2"
+      },
+      {
+        "caret": "none",
+        "checked": "option_2",
+        "cls": "gpo-dropdown gpo-image-dropdown gpo-oos--show",
+        "icon": "none",
+        "list": "none",
+        "transition": "none",
+        "value": "option_2"
+      },
+      {
+        "caret": "none",
+        "checked": "Montserrat",
+        "cls": "gpo-font-picker gpo-dropdown googlefont-dropdown",
+        "icon": "none",
+        "list": "none",
+        "transition": "none",
+        "value": "Montserrat"
+      }
+    ]
+  },
+  {
+    "step": "keyboard focus",
+    "state": {
+      "active": "textarea-1",
+      "wrappers": [
+        {
+          "border": "1px solid rgb(222, 223, 223)",
+          "h": 45
+        },
+        {
+          "border": "1px solid rgb(220, 220, 221)",
+          "h": 118
+        },
+        {
+          "border": "1px solid rgb(227, 227, 227)",
+          "h": 45
+        }
+      ]
+    }
+  },
+  {
+    "step": "phone menu open",
+    "state": {
+      "display": "block",
+      "left": 15,
+      "outerOverflow": "visible",
+      "right": 190.7578125,
+      "width": 175.7578125
+    }
+  },
+  {
+    "step": "option quantity increment",
+    "state": {
+      "buttons": [
+        {
+          "h": 44,
+          "w": 44
+        },
+        {
+          "h": 44,
+          "w": 44
+        },
+        {
+          "h": 44,
+          "w": 44
+        },
+        {
+          "h": 44,
+          "w": 44
+        }
+      ],
+      "checked": true,
+      "quantity": "2"
+    }
+  },
+  {
+    "step": "desktop open",
+    "state": [
+      {
+        "caret": "none",
+        "checked": "option_2",
+        "cls": "gpo-dropdown gpo-oos--show expanded",
+        "icon": "none",
+        "list": "block",
+        "transition": "none",
+        "value": "option_2"
+      },
+      {
+        "caret": "none",
+        "checked": "option_2",
+        "cls": "gpo-dropdown gpo-image-dropdown gpo-oos--show",
+        "icon": "none",
+        "list": "none",
+        "transition": "none",
+        "value": "option_2"
+      },
+      {
+        "caret": "none",
+        "checked": "Montserrat",
+        "cls": "gpo-font-picker gpo-dropdown googlefont-dropdown",
+        "icon": "none",
+        "list": "none",
+        "transition": "none",
+        "value": "Montserrat"
+      }
+    ]
+  },
+  {
+    "step": "desktop trigger close",
+    "state": [
+      {
+        "caret": "none",
+        "checked": "option_2",
+        "cls": "gpo-dropdown gpo-oos--show",
+        "icon": "none",
+        "list": "none",
+        "transition": "none",
+        "value": "option_2"
+      },
+      {
+        "caret": "none",
+        "checked": "option_2",
+        "cls": "gpo-dropdown gpo-image-dropdown gpo-oos--show",
+        "icon": "none",
+        "list": "none",
+        "transition": "none",
+        "value": "option_2"
+      },
+      {
+        "caret": "none",
+        "checked": "Montserrat",
+        "cls": "gpo-font-picker gpo-dropdown googlefont-dropdown",
+        "icon": "none",
+        "list": "none",
+        "transition": "none",
+        "value": "Montserrat"
+      }
+    ]
+  },
+  {
+    "step": "desktop outside close",
+    "state": [
+      {
+        "caret": "none",
+        "checked": "option_2",
+        "cls": "gpo-dropdown gpo-oos--show",
+        "icon": "none",
+        "list": "none",
+        "transition": "none",
+        "value": "option_2"
+      },
+      {
+        "caret": "none",
+        "checked": "option_2",
+        "cls": "gpo-dropdown gpo-image-dropdown gpo-oos--show",
+        "icon": "none",
+        "list": "none",
+        "transition": "none",
+        "value": "option_2"
+      },
+      {
+        "caret": "none",
+        "checked": "Montserrat",
+        "cls": "gpo-font-picker gpo-dropdown googlefont-dropdown",
+        "icon": "none",
+        "list": "none",
+        "transition": "none",
+        "value": "Montserrat"
+      }
+    ]
+  },
+  {
+    "step": "desktop image open",
+    "state": [
+      {
+        "caret": "none",
+        "checked": "option_2",
+        "cls": "gpo-dropdown gpo-oos--show",
+        "icon": "none",
+        "list": "none",
+        "transition": "none",
+        "value": "option_2"
+      },
+      {
+        "caret": "none",
+        "checked": "option_2",
+        "cls": "gpo-dropdown gpo-image-dropdown gpo-oos--show expanded",
+        "icon": "none",
+        "list": "block",
+        "transition": "none",
+        "value": "option_2"
+      },
+      {
+        "caret": "none",
+        "checked": "Montserrat",
+        "cls": "gpo-font-picker gpo-dropdown googlefont-dropdown",
+        "icon": "none",
+        "list": "none",
+        "transition": "none",
+        "value": "Montserrat"
+      }
+    ]
+  },
+  {
+    "step": "desktop font open",
+    "state": [
+      {
+        "caret": "none",
+        "checked": "option_2",
+        "cls": "gpo-dropdown gpo-oos--show",
+        "icon": "none",
+        "list": "none",
+        "transition": "none",
+        "value": "option_2"
+      },
+      {
+        "caret": "none",
+        "checked": "option_3",
+        "cls": "gpo-dropdown gpo-image-dropdown gpo-oos--show",
+        "icon": "none",
+        "list": "none",
+        "transition": "none",
+        "value": "option_3"
+      },
+      {
+        "caret": "none",
+        "checked": "Montserrat",
+        "cls": "gpo-font-picker gpo-dropdown googlefont-dropdown expanded",
+        "icon": "none",
+        "list": "block",
+        "transition": "none",
+        "value": "Montserrat"
+      }
+    ]
+  }
+]

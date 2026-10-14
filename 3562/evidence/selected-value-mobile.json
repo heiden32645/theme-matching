@@ -1,0 +1,56 @@
+[
+  {
+    "colon": "\":\"",
+    "label": "Button",
+    "labelBox": {
+      "bottom": 244.1796875,
+      "height": 19.59375,
+      "left": 8,
+      "right": 53.4296875,
+      "top": 224.5859375,
+      "width": 45.4296875,
+      "x": 8,
+      "y": 224.5859375
+    },
+    "labelDisplay": "inline-flex",
+    "value": "option_1 | 1",
+    "valueBox": {
+      "bottom": 242.5859375,
+      "height": 17,
+      "left": 61.0390625,
+      "right": 128.078125,
+      "top": 225.5859375,
+      "width": 67.0390625,
+      "x": 61.0390625,
+      "y": 225.5859375
+    },
+    "valueDisplay": "inline"
+  },
+  {
+    "colon": "\":\"",
+    "label": "Color Swatch",
+    "labelBox": {
+      "bottom": 391.7734375,
+      "height": 19.59375,
+      "left": 8,
+      "right": 97.2578125,
+      "top": 372.1796875,
+      "width": 89.2578125,
+      "x": 8,
+      "y": 372.1796875
+    },
+    "labelDisplay": "inline-flex",
+    "value": "option_2 | 1",
+    "valueBox": {
+      "bottom": 390.1796875,
+      "height": 17,
+      "left": 104.8671875,
+      "right": 176.265625,
+      "top": 373.1796875,
+      "width": 71.3984375,
+      "x": 104.8671875,
+      "y": 373.1796875
+    },
+    "valueDisplay": "inline"
+  }
+]

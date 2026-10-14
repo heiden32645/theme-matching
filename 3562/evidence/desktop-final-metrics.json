@@ -1,0 +1,109 @@
+{
+  "controls": [
+    {
+      "background": "rgb(243, 243, 243)",
+      "border": "0px none rgb(0, 0, 0)",
+      "font": "16.1px",
+      "height": 44,
+      "radius": "4px",
+      "selector": ".gpo-select",
+      "width": 588.5
+    },
+    {
+      "background": "rgb(243, 243, 243)",
+      "border": "0px none rgb(0, 0, 0)",
+      "font": "16.1px",
+      "height": 44,
+      "radius": "4px",
+      "selector": ".gpo-dropdown .dropdown-button",
+      "width": 588.5
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px none rgb(0, 0, 0)",
+      "font": "16px",
+      "height": 44,
+      "radius": "4px",
+      "selector": "#text-1",
+      "width": 511.1328125
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px none rgb(0, 0, 0)",
+      "font": "16px",
+      "height": 109.59375,
+      "radius": "4px",
+      "selector": "#textarea-1",
+      "width": 588.5
+    },
+    {
+      "background": "rgb(243, 243, 243)",
+      "border": "0px none rgb(0, 0, 0)",
+      "font": "16.1px",
+      "height": 44,
+      "radius": "4px",
+      "selector": ".gpo-ov-quantity",
+      "width": 103
+    },
+    {
+      "background": "rgb(243, 243, 243)",
+      "border": "1px solid rgb(0, 0, 0)",
+      "font": "16px",
+      "height": 48,
+      "radius": "4px",
+      "selector": ".gpo-swatches.buttons label",
+      "width": 86.5390625
+    },
+    {
+      "background": "rgb(243, 243, 243)",
+      "border": "1px solid rgb(0, 0, 0)",
+      "font": "16px",
+      "height": 48,
+      "radius": "4px",
+      "selector": "variant-radios .pills-type-square",
+      "width": 48
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "1px solid rgba(0, 0, 0, 0.75)",
+      "font": "16px",
+      "height": 40,
+      "radius": "25px",
+      "selector": "variant-radios .color-swatch",
+      "width": 40
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "1px solid rgba(0, 0, 0, 0)",
+      "font": "16.1px",
+      "height": 40,
+      "radius": "50%",
+      "selector": ".gpo-swatches.color-swatches label",
+      "width": 40
+    }
+  ],
+  "dropdowns": [
+    {
+      "caret": "matrix(-1, 0, 0, -1, 0, -12)",
+      "class": "gpo-dropdown gpo-oos--show expanded",
+      "list": "block",
+      "transition": "none"
+    },
+    {
+      "caret": "matrix(1, 0, 0, 1, 0, -12)",
+      "class": "gpo-dropdown gpo-image-dropdown gpo-oos--show",
+      "list": "none",
+      "transition": "none"
+    },
+    {
+      "caret": "matrix(1, 0, 0, 1, 0, -12)",
+      "class": "gpo-font-picker gpo-dropdown googlefont-dropdown",
+      "list": "none",
+      "transition": "none"
+    }
+  ],
+  "viewport": [
+    1440,
+    1000
+  ]
+}

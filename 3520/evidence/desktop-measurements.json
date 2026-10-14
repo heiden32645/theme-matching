@@ -1,0 +1,131 @@
+{
+  "controls": [
+    {
+      "border": "2px solid rgb(40, 40, 40)",
+      "font": "Lato, sans-serif, Arial, Helvetica, sans-serif",
+      "height": 65.4375,
+      "lineHeight": "30.72px",
+      "padding": "15.36px 19.2px",
+      "sel": ".product-variant-picker__option-value-title",
+      "size": "21.12px",
+      "width": 54.640625
+    },
+    {
+      "border": "2px solid rgb(40, 40, 40)",
+      "font": "Lato, sans-serif, Arial, Helvetica, sans-serif",
+      "height": 65.4375,
+      "lineHeight": "30.72px",
+      "padding": "15.36px 19.2px",
+      "sel": ".gpo-swatches.buttons input + label",
+      "size": "21.12px",
+      "width": 124.78125
+    },
+    {
+      "border": "2px solid rgba(40, 40, 40, 0.2)",
+      "font": "Lato, sans-serif, Arial, Helvetica, sans-serif",
+      "height": 65.4375,
+      "lineHeight": "30.72px",
+      "padding": "0px",
+      "sel": ".gpo-select",
+      "size": "21.12px",
+      "width": 419.34375
+    },
+    {
+      "border": "2px solid rgba(40, 40, 40, 0.2)",
+      "font": "Lato, sans-serif, Arial, Helvetica, sans-serif",
+      "height": 65.4375,
+      "lineHeight": "30.72px",
+      "padding": "15.36px 38.4px 15.36px 19.2px",
+      "sel": ".gpo-dropdown .dropdown-button",
+      "size": "21.12px",
+      "width": 419.34375
+    },
+    {
+      "border": "1px solid rgba(40, 40, 40, 0.2)",
+      "font": "Lato, sans-serif, Arial, Helvetica, sans-serif",
+      "height": 45.1953125,
+      "lineHeight": "28.8px",
+      "padding": "0px",
+      "sel": ".gpo-input-wrap",
+      "size": "19.2px",
+      "width": 419.34375
+    },
+    {
+      "border": "1px solid rgba(40, 40, 40, 0.2)",
+      "font": "Lato, sans-serif, Arial, Helvetica, sans-serif",
+      "height": 45.1953125,
+      "lineHeight": "28.8px",
+      "padding": "0px",
+      "sel": ".gpo-dimension-input-wrap",
+      "size": "19.2px",
+      "width": 134.4453125
+    },
+    {
+      "border": "1px solid rgba(40, 40, 40, 0.2)",
+      "font": "Lato, sans-serif, Arial, Helvetica, sans-serif",
+      "height": 47,
+      "lineHeight": "28.8px",
+      "padding": "0px",
+      "sel": ".gpo-ov-quantity",
+      "size": "19.2px",
+      "width": 119
+    },
+    {
+      "border": "1px solid rgba(40, 40, 40, 0.2)",
+      "font": "Lato, sans-serif, Arial, Helvetica, sans-serif",
+      "height": 47,
+      "lineHeight": "28.8px",
+      "padding": "0px",
+      "sel": ".product-qty__inner",
+      "size": "19.2px",
+      "width": 119
+    },
+    {
+      "border": "2px solid rgba(40, 40, 40, 0.2)",
+      "font": "Lato, sans-serif, Arial, Helvetica, sans-serif",
+      "height": 50,
+      "lineHeight": "28.8px",
+      "padding": "3px",
+      "sel": ".gpo-swatches.color-swatches input + label",
+      "size": "19.2px",
+      "width": 50
+    },
+    {
+      "border": "2px solid rgba(40, 40, 40, 0.2)",
+      "font": "Lato, sans-serif, Arial, Helvetica, sans-serif",
+      "height": 80,
+      "lineHeight": "28.8px",
+      "padding": "3px",
+      "sel": ".gpo-swatches.image-swatches input + label",
+      "size": "19.2px",
+      "width": 80
+    },
+    {
+      "border": "2px solid rgb(40, 40, 40)",
+      "font": "Oswald",
+      "height": 80.796875,
+      "lineHeight": "28.8px",
+      "padding": "24px 36px",
+      "sel": ".gpo-dropzone__action",
+      "size": "24px",
+      "width": 188.9453125
+    },
+    {
+      "border": "2px solid rgb(40, 40, 40)",
+      "font": "Oswald",
+      "height": 80.796875,
+      "lineHeight": "28.8px",
+      "padding": "24px 36px",
+      "sel": "button[name=\"add\"]",
+      "size": "24px",
+      "width": 419.34375
+    }
+  ],
+  "focusBorder": "rgb(40, 40, 40)",
+  "keyboardFocus": "textarea-1",
+  "scrollWidth": 1440,
+  "viewport": [
+    1440,
+    1000
+  ]
+}
