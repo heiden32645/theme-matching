@@ -1,0 +1,31 @@
+{
+  "label": [
+    {
+      "width": 47.59375,
+      "x": 80
+    },
+    {
+      "width": 79.2421875,
+      "x": 136.34375
+    }
+  ],
+  "overflow": false,
+  "pills": [
+    {
+      "font": "300 16px / 16px Inter, sans-serif",
+      "height": 34
+    },
+    {
+      "font": "300 16px / 16px Inter, sans-serif",
+      "height": 34
+    },
+    {
+      "font": "300 16px / 16px Inter, sans-serif",
+      "height": 34
+    }
+  ],
+  "vp": [
+    1440,
+    1000
+  ]
+}

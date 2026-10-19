@@ -1,0 +1,49 @@
+{
+  "viewport": [
+    1440,
+    1000
+  ],
+  "fonts": [
+    {
+      "label": "Roboto",
+      "span": "Roboto"
+    },
+    {
+      "label": "\"Open Sans\"",
+      "span": "\"Open Sans\""
+    },
+    {
+      "label": "Montserrat",
+      "span": "Montserrat"
+    },
+    {
+      "label": "Poppins",
+      "span": "Poppins"
+    },
+    {
+      "label": "Oswald",
+      "span": "Oswald"
+    },
+    {
+      "label": "Roboto",
+      "span": "Roboto"
+    },
+    {
+      "label": "\"Open Sans\"",
+      "span": "\"Open Sans\""
+    },
+    {
+      "label": "Montserrat",
+      "span": "Montserrat"
+    },
+    {
+      "label": "Poppins",
+      "span": "Poppins"
+    },
+    {
+      "label": "Oswald",
+      "span": "Oswald"
+    }
+  ],
+  "exactCSS": true
+}

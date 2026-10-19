@@ -1,0 +1,23 @@
+{
+  "single": [
+    {
+      "border": "1px solid rgb(83, 99, 98)",
+      "font": "14px",
+      "h": 30
+    }
+  ],
+  "steppers": [
+    {
+      "border": "1px solid rgb(83, 99, 98)",
+      "font": "14px",
+      "h": 30,
+      "value": "1"
+    },
+    {
+      "border": "1px solid rgb(83, 99, 98)",
+      "font": "14px",
+      "h": 30,
+      "value": "2"
+    }
+  ]
+}

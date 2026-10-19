@@ -1,0 +1,44 @@
+{
+  "gpoWidth": 382.5,
+  "nativeLabel": "700 14px / 24px Syne, sans-serif",
+  "nativeQuantity": 31,
+  "pageWidth": 1425,
+  "quantity": "2",
+  "selected": [
+    {
+      "id": "dropdown-1_2",
+      "value": "option_2"
+    },
+    {
+      "id": "image-dropdown-1_2",
+      "value": "option_2"
+    },
+    {
+      "id": "google-font-1_3",
+      "value": "Montserrat"
+    },
+    {
+      "id": "radio-1_2",
+      "value": "option_2"
+    },
+    {
+      "id": "checkbox-1_1",
+      "value": "option_1"
+    },
+    {
+      "id": "buttons-1_2",
+      "value": "option_2"
+    },
+    {
+      "id": "color-swatches-1_1",
+      "value": "option_1"
+    }
+  ],
+  "tab": [
+    "\n            option_2\n          "
+  ],
+  "vp": [
+    1440,
+    1000
+  ]
+}

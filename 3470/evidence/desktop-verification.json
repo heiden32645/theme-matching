@@ -1,0 +1,123 @@
+[
+  {
+    "background": "rgb(239, 244, 249)",
+    "border": "1px solid rgb(0, 0, 0)",
+    "color": "rgb(0, 0, 0)",
+    "font": "300 16px / 16px Inter, sans-serif",
+    "height": 34,
+    "radius": "200px",
+    "sel": ".product-option input:checked + label",
+    "shadow": "none",
+    "width": 44
+  },
+  {
+    "background": "rgb(239, 244, 249)",
+    "border": "1px solid rgb(0, 0, 0)",
+    "color": "rgb(0, 0, 0)",
+    "font": "300 16px / 16px Inter, sans-serif",
+    "height": 34,
+    "radius": "200px",
+    "sel": ".gpo-swatches.buttons input:checked + label",
+    "shadow": "none",
+    "width": 91.4921875
+  },
+  {
+    "background": "rgb(255, 255, 255)",
+    "border": "1px solid rgb(221, 221, 221)",
+    "color": "rgb(17, 17, 17)",
+    "font": "300 16px / 25.6px Inter, sans-serif",
+    "height": 54.265625,
+    "radius": "6px",
+    "sel": ".gpo-select",
+    "shadow": "rgba(0, 0, 0, 0.1) 2px 2px 6px 0px inset",
+    "width": 400.328125
+  },
+  {
+    "background": "rgb(255, 255, 255)",
+    "border": "1px solid rgb(221, 221, 221)",
+    "color": "rgb(17, 17, 17)",
+    "font": "300 16px / 25.6px Inter, sans-serif",
+    "height": 54.265625,
+    "radius": "6px",
+    "sel": ".gpo-dropdown .dropdown-button",
+    "shadow": "rgba(0, 0, 0, 0.1) 2px 2px 6px 0px inset",
+    "width": 400.328125
+  },
+  {
+    "background": "rgb(255, 255, 255)",
+    "border": "1px solid rgb(221, 221, 221)",
+    "color": "rgb(0, 0, 0)",
+    "font": "300 16px / 25.6px Inter, sans-serif",
+    "height": 54.265625,
+    "radius": "6px",
+    "sel": ".gpo-input-wrap",
+    "shadow": "rgba(0, 0, 0, 0.1) 2px 2px 6px 0px inset",
+    "width": 400.328125
+  },
+  {
+    "background": "rgb(255, 255, 255)",
+    "border": "1px solid rgb(221, 221, 221)",
+    "color": "rgb(17, 17, 17)",
+    "font": "300 16px / 25.6px Inter, sans-serif",
+    "height": 46.78125,
+    "radius": "200px",
+    "sel": "quantity-input",
+    "shadow": "rgba(0, 0, 0, 0.1) 2px 2px 6px 0px inset",
+    "width": 120
+  },
+  {
+    "background": "rgb(255, 255, 255)",
+    "border": "1px solid rgb(221, 221, 221)",
+    "color": "rgb(17, 17, 17)",
+    "font": "300 16px / 25.6px Inter, sans-serif",
+    "height": 46.796875,
+    "radius": "200px",
+    "sel": ".gpo-ov-quantity",
+    "shadow": "rgba(0, 0, 0, 0.1) 2px 2px 6px 0px inset",
+    "width": 120
+  },
+  {
+    "background": "rgb(255, 255, 255)",
+    "border": "1px solid rgb(221, 221, 221)",
+    "color": "rgb(17, 17, 17)",
+    "font": "300 16px / 25.6px Inter, sans-serif",
+    "height": 46.796875,
+    "radius": "200px",
+    "sel": ".gpo-quantity__input",
+    "shadow": "rgba(0, 0, 0, 0.1) 2px 2px 6px 0px inset",
+    "width": 100
+  },
+  {
+    "background": "rgb(29, 30, 210)",
+    "border": "1px solid rgba(0, 0, 0, 0)",
+    "color": "rgb(255, 255, 255)",
+    "font": "700 16px / 25.6px Inter, sans-serif",
+    "height": 46.78125,
+    "radius": "200px",
+    "sel": ".gpo-app .gpo-dropzone__action",
+    "shadow": "none",
+    "width": 154.453125
+  },
+  {
+    "background": "rgb(29, 30, 210)",
+    "border": "1px solid rgba(0, 0, 0, 0)",
+    "color": "rgb(255, 255, 255)",
+    "font": "700 16px / 25.6px Inter, sans-serif",
+    "height": 46.78125,
+    "radius": "200px",
+    "sel": ".product-form__submit",
+    "shadow": "none",
+    "width": 268.328125
+  },
+  {
+    "background": "rgba(0, 0, 0, 0)",
+    "border": "0px none rgb(29, 30, 210)",
+    "color": "rgb(29, 30, 210)",
+    "font": "300 16px / 25.6px Inter, sans-serif",
+    "height": 25.59375,
+    "radius": "0px",
+    "sel": ".gpo-app .gpo-tabs-tab",
+    "shadow": "none",
+    "width": 60.265625
+  }
+]

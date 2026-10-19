@@ -1,0 +1,6 @@
+{
+  "rules": 90,
+  "declarations": 335,
+  "errors": [],
+  "vendor_pseudo_elements": "Normalized only for selector parser compatibility"
+}

@@ -1,0 +1,75 @@
+{
+  "fontPreviews": [
+    "Roboto",
+    "\"Open Sans\"",
+    "Montserrat",
+    "Poppins",
+    "Oswald"
+  ],
+  "heights": [
+    {
+      "cls": "gpo-select",
+      "h": 47
+    },
+    {
+      "cls": "dropdown-button",
+      "h": 47
+    },
+    {
+      "cls": "dropdown-button",
+      "h": 47
+    },
+    {
+      "cls": "dropdown-button",
+      "h": 47
+    },
+    {
+      "cls": "gpo-input-wrap",
+      "h": 52
+    },
+    {
+      "cls": "gpo-input-wrap",
+      "h": 110
+    },
+    {
+      "cls": "gpo-input-wrap",
+      "h": 52
+    },
+    {
+      "cls": "gpo-input-wrap gpo-color-box",
+      "h": 52
+    },
+    {
+      "cls": "gpo-quantity__input",
+      "h": 31
+    },
+    {
+      "cls": "gpo-ov-quantity",
+      "h": 31
+    },
+    {
+      "cls": "gpo-ov-quantity",
+      "h": 31
+    },
+    {
+      "cls": "",
+      "h": 31
+    }
+  ],
+  "overflow": [],
+  "pageWidth": 375,
+  "selected": [
+    "dropdown-1_2",
+    "image-dropdown-1_3",
+    "google-font-1_5",
+    "radio-1_2",
+    "checkbox-1_1",
+    "checkbox-1_2",
+    "buttons-1_1",
+    "color-swatches-1_1"
+  ],
+  "viewport": [
+    390,
+    844
+  ]
+}

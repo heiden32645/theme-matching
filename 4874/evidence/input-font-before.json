@@ -1,0 +1,11 @@
+{
+  "dimension": "16px",
+  "native": "14.4px",
+  "phone": "16px",
+  "text": "16px",
+  "textarea": "16px",
+  "viewport": {
+    "height": 963,
+    "width": 1334
+  }
+}

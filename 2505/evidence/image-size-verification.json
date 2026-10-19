@@ -1,0 +1,33 @@
+{
+  "checked": true,
+  "colorParts": [
+    {
+      "cls": "swatch-top",
+      "h": 36,
+      "w": 36
+    },
+    {
+      "cls": "swatch-bottom",
+      "h": 36,
+      "w": 36
+    }
+  ],
+  "configured": "width:60px;height:60px;",
+  "parts": [
+    {
+      "cls": "",
+      "h": 60,
+      "w": 60
+    },
+    {
+      "cls": "gpo-swatch__inner",
+      "h": 60,
+      "w": 60
+    },
+    {
+      "cls": "swatch-image",
+      "h": 60,
+      "w": 60
+    }
+  ]
+}

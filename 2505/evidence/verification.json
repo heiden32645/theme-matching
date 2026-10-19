@@ -1,0 +1,53 @@
+{
+  "theme": "Zora 2.0.2",
+  "themeStoreId": 2505,
+  "deliverable": "/Users/winter259/Documents/themes/2505/2.0.2.css",
+  "servedExactMatch": true,
+  "savedVia": "GPO Design / Custom CSS",
+  "finalPreviewUrl": "https://kbdq65hblv510gof-69620498584.shopifypreview.com/products/vans-era-59-moroccan-geo-dress-blues?gpo_match=2505-quantity-border-2",
+  "viewports": [
+    [
+      1838,
+      907
+    ],
+    [
+      1440,
+      1000
+    ],
+    [
+      390,
+      844
+    ]
+  ],
+  "verified": [
+    "select height 40.5px",
+    "dropdown height 40.5px",
+    "text/dimension outer height 41.5px",
+    "native and GPO quantity 30px",
+    "color and image swatches use GPO dimensions (currently 32px and 60px)",
+    "dropdown fixed caret and immediate transition",
+    "regular/image/font choice selection and value retention",
+    "selected dropdown colors rgb(83,99,98) / rgb(247,243,224)",
+    "phone country menu unclipped, cream background",
+    "decorated input keyboard focus shadow",
+    "multiline textarea",
+    "radio checkbox button swatch selection",
+    "quantity increment",
+    "horizontal tab selection",
+    "switch toggle",
+    "range keyboard change",
+    "font picker inline font preserved",
+    "mobile GPO elements inside viewport"
+  ],
+  "untested": [
+    "real file upload/remove",
+    "unavailable/error states",
+    "vertical tabs",
+    "groups",
+    "visually exercised hover",
+    "exact system native popup hover/animation timing"
+  ],
+  "imageSizing": "No width, height, min/max size overrides for image swatch selectors. Verified image, inner wrapper and label all 60\u00d760 from current GPO configuration.",
+  "swatchSizing": "No custom color or image dimension overrides; color label and both layers are 32\u00d732px, images 60\u00d760px per current GPO configuration.",
+  "quantityStyle": "User-requested theme border on single quantity and stepper wrapper; 14px type, 30px outer height, 28px stepper children."
+}

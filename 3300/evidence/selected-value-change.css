@@ -1,0 +1,8 @@
+/* Selected values: keep the label/value separator */
+
+.gpo-app .gpo-label + .gpo-selected-values.has-value::before,
+.gpo-app .gpo-dimension-label + .gpo-selected-values.has-value::before {
+    content: ": ";
+    white-space: pre;
+}
+

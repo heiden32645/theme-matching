@@ -1,0 +1,97 @@
+[
+  {
+    "css": {
+      "--xo-animate": "",
+      "--xo-duration": "500",
+      "--xo-easing": "cubic-bezier(0, 0, 0.3, 1)",
+      "border": "0px none rgb(38, 4, 3)",
+      "border-radius": "12px",
+      "display": "flex",
+      "font-size": "16px",
+      "line-height": "18.4px",
+      "max-height": "none",
+      "opacity": "1",
+      "padding": "0px",
+      "transform": "none",
+      "transition": "all",
+      "visibility": "visible"
+    },
+    "html": "<xo-popover-trigger class=\"xo-field-select-custom__trigger\" xo-name=\"filter-select-custom-field-sort-by-horizontal-template--28035171221656__main-collection\" tabindex=\"0\" role=\"button\" xo-active=\"\">\n    \n      <xo-filters-sort-by-selected xo-unique-id=\"template--28035171221656__main-collection--sort_by\" xo-name=\"field-sort-by-horizontal-template--28035171221656__main-collection\" class=\"xo-field-select-custom__name\">\n        Best selling\n      </xo-filters-sort-by-selected>\n    \n    \n\n<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"2rem\" viewBox=\"0 0 24 24\" fill=\"none\">\n  <path d=\"M5.67665 8.194"
+  },
+  {
+    "css": {
+      "--xo-animate": "",
+      "--xo-duration": "500",
+      "--xo-easing": "cubic-bezier(0, 0, 0.3, 1)",
+      "border": "0px none rgb(38, 4, 3)",
+      "border-radius": "0px",
+      "display": "block",
+      "font-size": "16px",
+      "line-height": "18.4px",
+      "max-height": "none",
+      "opacity": "0.7",
+      "padding": "0px",
+      "transform": "matrix(-1, 0, 0, -1, 0, 0)",
+      "transition": "0.5s",
+      "visibility": "visible"
+    },
+    "html": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"2rem\" viewBox=\"0 0 24 24\" fill=\"none\">\n  <path d=\"M5.67665 8.19406C5.4214 7.92606 5.01684 7.93668 4.77499 8.22171C4.53252 8.50605 4.54335 8.95483 4.79925 9.22428L10.8613 15.6054C10.9838 15.7344 11.1427 15.7997 11.3003 15.7997C11.4579 15.7997 11.6162 15.7344 11.7387 15.6054L17.8007 9.22428C18.0566 8.95486 18.0675 8.50605 17.825 8.22174C17.5825 7.93671 17.1786 7.92537 16.9234 8.19409L11.3003 14.1136L5.67665 8.19406Z\" fill=\"rgba(var(--color-foreground), 1)\"></path>\n</svg>"
+  },
+  {
+    "css": {
+      "--xo-animate": "fade-up",
+      "--xo-duration": "300",
+      "--xo-easing": "decay",
+      "border": "0px none rgb(38, 4, 3)",
+      "border-radius": "0px",
+      "display": "block",
+      "font-size": "16px",
+      "line-height": "18.4px",
+      "max-height": "453.5px",
+      "opacity": "1",
+      "padding": "0px",
+      "transform": "matrix(1, 0, 0, 1, 0, 0)",
+      "transition": "all",
+      "visibility": "visible"
+    },
+    "html": "<xo-popover class=\"xo-field-select-custom__popover xo-scrollbar\" xo-name=\"filter-select-custom-field-sort-by-horizontal-template--28035171221656__main-collection\" xo-placement=\"bottom-right\" xo-modal-scroll-selector=\"xo-scrollbar\" xo-content=\"\" tabindex=\"0\" style=\"position: fixed; top: 473.695px; left: 1545.27px; --xo-popover-trigger-width: 107px; transform: translate3d(0px, 0px, 0px); opacity: 1; visibility: visible;\" xo-active=\"\">\n    \n      \n\n<xo-filters-field><label class=\"xo-field-select-custom__check\" tabindex=\"0\" role=\"button\" aria-label=\"Featured\">\n  <input type=\"radio\" class=\"xo-field"
+  },
+  {
+    "css": {
+      "--xo-animate": "fade-up",
+      "--xo-duration": "300",
+      "--xo-easing": "decay",
+      "border": "0px none color(srgb 0.14902 0.0156863 0.0117647)",
+      "border-radius": "0px",
+      "display": "block",
+      "font-size": "15px",
+      "line-height": "21.3px",
+      "max-height": "none",
+      "opacity": "0.7",
+      "padding": "0px",
+      "transform": "none",
+      "transition": "0.3s",
+      "visibility": "visible"
+    },
+    "html": "<span class=\"xo-field-select-custom__label\">Featured</span>"
+  },
+  {
+    "css": {
+      "--xo-animate": "fade-up",
+      "--xo-duration": "300",
+      "--xo-easing": "decay",
+      "border": "0px none color(srgb 0.14902 0.0156863 0.0117647)",
+      "border-radius": "0px",
+      "display": "block",
+      "font-size": "15px",
+      "line-height": "21.3px",
+      "max-height": "none",
+      "opacity": "0.7",
+      "padding": "0px",
+      "transform": "none",
+      "transition": "0.3s",
+      "visibility": "visible"
+    },
+    "html": "<span class=\"xo-field-select-custom__label\">Most relevant</span>"
+  }
+]

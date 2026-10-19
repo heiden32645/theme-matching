@@ -1,0 +1,279 @@
+{
+  "controls": [
+    {
+      "els": [
+        {
+          "bg": "rgb(255, 255, 255)",
+          "border": "1px solid rgb(118, 118, 118)",
+          "color": "rgb(24, 13, 5)",
+          "font": "13.3333px \"Roboto Mono\", monospace",
+          "h": 30,
+          "padding": "0px 7px",
+          "w": 200
+        }
+      ],
+      "sel": ".product_select select"
+    },
+    {
+      "els": [
+        {
+          "bg": "rgb(255, 255, 255)",
+          "border": "1px solid rgb(118, 118, 118)",
+          "color": "rgb(24, 13, 5)",
+          "font": "13.3333px \"Roboto Mono\", monospace",
+          "h": 30,
+          "padding": "0px",
+          "w": 1100
+        }
+      ],
+      "sel": ".gpo-select"
+    },
+    {
+      "els": [
+        {
+          "bg": "rgb(255, 255, 255)",
+          "border": "0px none rgb(24, 13, 5)",
+          "color": "rgb(24, 13, 5)",
+          "font": "13.3333px \"Roboto Mono\", monospace",
+          "h": 28,
+          "padding": "0px 30px 0px 7px",
+          "w": 1098
+        }
+      ],
+      "sel": ".gpo-select select"
+    },
+    {
+      "els": [
+        {
+          "bg": "rgb(255, 255, 255)",
+          "border": "1px solid rgb(118, 118, 118)",
+          "color": "rgb(24, 13, 5)",
+          "font": "13.3333px \"Roboto Mono\", monospace",
+          "h": 30,
+          "padding": "0px 30px 0px 7px",
+          "w": 1100
+        },
+        {
+          "bg": "rgb(255, 255, 255)",
+          "border": "1px solid rgb(118, 118, 118)",
+          "color": "rgb(24, 13, 5)",
+          "font": "13.3333px \"Roboto Mono\", monospace",
+          "h": 30,
+          "padding": "0px 30px 0px 7px",
+          "w": 1100
+        },
+        {
+          "bg": "rgb(255, 255, 255)",
+          "border": "1px solid rgb(118, 118, 118)",
+          "color": "rgb(24, 13, 5)",
+          "font": "13.3333px \"Roboto Mono\", monospace",
+          "h": 30,
+          "padding": "0px 30px 0px 7px",
+          "w": 1100
+        }
+      ],
+      "sel": ".gpo-dropdown .dropdown-button"
+    },
+    {
+      "els": [
+        {
+          "bg": "rgb(246, 242, 240)",
+          "border": "0px none rgb(24, 13, 5)",
+          "color": "rgb(24, 13, 5)",
+          "font": "14px / 22.4px \"Roboto Mono\", monospace",
+          "h": 33,
+          "padding": "0px",
+          "w": 1100
+        },
+        {
+          "bg": "rgb(246, 242, 240)",
+          "border": "0px none rgb(24, 13, 5)",
+          "color": "rgb(24, 13, 5)",
+          "font": "14px / 22.4px \"Roboto Mono\", monospace",
+          "h": 96.78125,
+          "padding": "0px",
+          "w": 1100
+        },
+        {
+          "bg": "rgb(246, 242, 240)",
+          "border": "0px none rgb(24, 13, 5)",
+          "color": "rgb(24, 13, 5)",
+          "font": "14px / 22.4px \"Roboto Mono\", monospace",
+          "h": 33,
+          "padding": "0px",
+          "w": 1100
+        },
+        {
+          "bg": "rgb(246, 242, 240)",
+          "border": "0px none rgb(24, 13, 5)",
+          "color": "rgb(24, 13, 5)",
+          "font": "14px / 22.4px \"Roboto Mono\", monospace",
+          "h": 33,
+          "padding": "0px",
+          "w": 1100
+        }
+      ],
+      "sel": ".gpo-input-wrap"
+    },
+    {
+      "els": [
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "border": "0px none rgb(104, 96, 90)",
+          "color": "rgb(104, 96, 90)",
+          "font": "12px / 14.4px \"Roboto Mono\", monospace",
+          "h": 33,
+          "padding": "10px",
+          "w": 1029.59375
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "border": "0px none rgb(104, 96, 90)",
+          "color": "rgb(104, 96, 90)",
+          "font": "12px / 14.4px \"Roboto Mono\", monospace",
+          "h": 33,
+          "padding": "10px 10px 10px 72px",
+          "w": 1100
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "border": "0px none rgb(104, 96, 90)",
+          "color": "rgb(104, 96, 90)",
+          "font": "12px / 14.4px \"Roboto Mono\", monospace",
+          "h": 33,
+          "padding": "10px 10px 10px 68px",
+          "w": 1100
+        }
+      ],
+      "sel": ".gpo-input:not(.gpo-textarea)"
+    },
+    {
+      "els": [
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "border": "0px none rgb(104, 96, 90)",
+          "color": "rgb(104, 96, 90)",
+          "font": "12px / 19.2px \"Roboto Mono\", monospace",
+          "h": 96.78125,
+          "padding": "10px",
+          "w": 1100
+        }
+      ],
+      "sel": ".gpo-textarea"
+    },
+    {
+      "els": [
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "border": "0px none rgb(24, 13, 5)",
+          "color": "rgb(24, 13, 5)",
+          "font": "14px / 22.4px \"Roboto Mono\", monospace",
+          "h": 26,
+          "padding": "0px",
+          "w": 26
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "border": "0px none rgb(24, 13, 5)",
+          "color": "rgb(24, 13, 5)",
+          "font": "14px / 22.4px \"Roboto Mono\", monospace",
+          "h": 26,
+          "padding": "0px",
+          "w": 26
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "border": "0px none rgb(24, 13, 5)",
+          "color": "rgb(24, 13, 5)",
+          "font": "14px / 22.4px \"Roboto Mono\", monospace",
+          "h": 26,
+          "padding": "0px",
+          "w": 26
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "border": "0px none rgb(24, 13, 5)",
+          "color": "rgb(24, 13, 5)",
+          "font": "14px / 22.4px \"Roboto Mono\", monospace",
+          "h": 26,
+          "padding": "0px",
+          "w": 26
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "border": "0px none rgb(24, 13, 5)",
+          "color": "rgb(24, 13, 5)",
+          "font": "14px / 22.4px \"Roboto Mono\", monospace",
+          "h": 26,
+          "padding": "0px",
+          "w": 26
+        }
+      ],
+      "sel": ".gpo-swatches.color-swatches .gpo-swatch__inner"
+    },
+    {
+      "els": [
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "border": "0px none rgb(24, 13, 5)",
+          "color": "rgb(24, 13, 5)",
+          "font": "14px / 22.4px \"Roboto Mono\", monospace",
+          "h": 26,
+          "padding": "0px",
+          "w": 26
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "border": "0px none rgb(24, 13, 5)",
+          "color": "rgb(24, 13, 5)",
+          "font": "14px / 22.4px \"Roboto Mono\", monospace",
+          "h": 26,
+          "padding": "0px",
+          "w": 26
+        }
+      ],
+      "sel": ".gpo-swatches.image-swatches .gpo-swatch__inner"
+    },
+    {
+      "els": [
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "border": "0px none rgb(24, 13, 5)",
+          "color": "rgb(24, 13, 5)",
+          "font": "14px / 22.4px \"Roboto Mono\", monospace",
+          "h": 30,
+          "padding": "0px",
+          "w": 130
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "border": "0px none rgb(24, 13, 5)",
+          "color": "rgb(24, 13, 5)",
+          "font": "14px / 22.4px \"Roboto Mono\", monospace",
+          "h": 30,
+          "padding": "0px",
+          "w": 130
+        }
+      ],
+      "sel": ".gpo-ov-quantity"
+    },
+    {
+      "els": [
+        {
+          "bg": "rgb(255, 255, 255)",
+          "border": "0px none rgb(24, 13, 5)",
+          "color": "rgb(24, 13, 5)",
+          "font": "13.3333px Arimo, sans-serif",
+          "h": 30,
+          "padding": "0px",
+          "w": 50
+        }
+      ],
+      "sel": ".gpo-quantity__input"
+    }
+  ],
+  "viewport": [
+    1837,
+    907
+  ]
+}

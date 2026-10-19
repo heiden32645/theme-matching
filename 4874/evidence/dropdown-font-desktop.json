@@ -1,0 +1,74 @@
+{
+  "controls": [
+    {
+      "items": [
+        {
+          "fontFamily": "Jost, sans-serif",
+          "fontSize": "14.4px",
+          "lineHeight": "20.16px"
+        },
+        {
+          "fontFamily": "Jost, sans-serif",
+          "fontSize": "14.4px",
+          "lineHeight": "20.16px"
+        }
+      ],
+      "sel": ".variant-picker__dropdown .field__input"
+    },
+    {
+      "items": [
+        {
+          "fontFamily": "Jost, sans-serif",
+          "fontSize": "14.4px",
+          "lineHeight": "20.16px"
+        }
+      ],
+      "sel": ".gpo-select select"
+    },
+    {
+      "items": [
+        {
+          "fontFamily": "Jost, sans-serif",
+          "fontSize": "14.4px",
+          "lineHeight": "20.16px"
+        },
+        {
+          "fontFamily": "Jost, sans-serif",
+          "fontSize": "14.4px",
+          "lineHeight": "20.16px"
+        },
+        {
+          "fontFamily": "Jost, sans-serif",
+          "fontSize": "14.4px",
+          "lineHeight": "20.16px"
+        }
+      ],
+      "sel": ".gpo-dropdown .dropdown-button__value"
+    },
+    {
+      "items": [
+        {
+          "fontFamily": "Jost, sans-serif",
+          "fontSize": "14.4px",
+          "lineHeight": "20.16px"
+        },
+        {
+          "fontFamily": "Jost, sans-serif",
+          "fontSize": "14.4px",
+          "lineHeight": "20.16px"
+        },
+        {
+          "fontFamily": "Jost, sans-serif",
+          "fontSize": "14.4px",
+          "lineHeight": "20.16px"
+        }
+      ],
+      "sel": ".gpo-dropdown .dropdown-item label"
+    }
+  ],
+  "height": 46,
+  "viewport": {
+    "height": 907,
+    "width": 1334
+  }
+}

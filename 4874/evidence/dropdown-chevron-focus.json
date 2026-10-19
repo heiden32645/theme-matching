@@ -1,0 +1,27 @@
+{
+  "selectFocus": {
+    "border": "1px solid rgb(218, 213, 201)",
+    "shadow": "rgba(22, 21, 19, 0.35) 0px 0px 0px 3px"
+  },
+  "dropdownFocus": {
+    "border": "1px solid rgb(218, 213, 201)",
+    "chevron": "none",
+    "height": 46,
+    "shadow": "rgba(22, 21, 19, 0.35) 0px 0px 0px 3px"
+  },
+  "dropdownClosed": {
+    "height": 46,
+    "shadow": "none",
+    "value": "option_2"
+  },
+  "imageFocus": {
+    "chevron": "none",
+    "shadow": "rgba(22, 21, 19, 0.35) 0px 0px 0px 3px"
+  },
+  "fontFocus": {
+    "chevron": "none",
+    "shadow": "rgba(22, 21, 19, 0.35) 0px 0px 0px 3px"
+  },
+  "exact": true,
+  "headers": 1
+}

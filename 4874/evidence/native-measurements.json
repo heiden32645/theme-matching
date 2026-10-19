@@ -1,0 +1,395 @@
+{
+  "controls": [
+    {
+      "items": [
+        {
+          "height": 20.15625,
+          "styles": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderRadius": "0px",
+            "borderTop": "0px none rgb(46, 44, 40)",
+            "boxShadow": "none",
+            "boxSizing": "border-box",
+            "color": "rgb(46, 44, 40)",
+            "fontFamily": "Jost, sans-serif",
+            "fontSize": "14.4px",
+            "fontWeight": "400",
+            "letterSpacing": "normal",
+            "lineHeight": "20.16px",
+            "padding": "0px",
+            "textTransform": "none",
+            "transition": "all"
+          },
+          "width": 41.8046875
+        },
+        {
+          "height": 20.15625,
+          "styles": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderRadius": "0px",
+            "borderTop": "0px none rgb(46, 44, 40)",
+            "boxShadow": "none",
+            "boxSizing": "border-box",
+            "color": "rgb(46, 44, 40)",
+            "fontFamily": "Jost, sans-serif",
+            "fontSize": "14.4px",
+            "fontWeight": "400",
+            "letterSpacing": "normal",
+            "lineHeight": "20.16px",
+            "padding": "0px",
+            "textTransform": "none",
+            "transition": "all"
+          },
+          "width": 69.484375
+        }
+      ],
+      "sel": ".variant-picker__label"
+    },
+    {
+      "items": [
+        {
+          "height": 40,
+          "styles": {
+            "backgroundColor": "rgb(46, 44, 40)",
+            "borderRadius": "4px",
+            "borderTop": "1px solid rgb(46, 44, 40)",
+            "boxShadow": "none",
+            "boxSizing": "border-box",
+            "color": "rgb(255, 255, 255)",
+            "fontFamily": "Jost, sans-serif",
+            "fontSize": "14.4px",
+            "fontWeight": "400",
+            "letterSpacing": "normal",
+            "lineHeight": "20.16px",
+            "padding": "0px 20px",
+            "textTransform": "none",
+            "transition": "background-color 0.18s cubic-bezier(0.22, 0.61, 0.36, 1), color 0.18s cubic-bezier(0.22, 0.61, 0.36, 1), border-color 0.18s cubic-bezier(0.22, 0.61, 0.36, 1)"
+          },
+          "width": 49.8671875
+        },
+        {
+          "height": 40,
+          "styles": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderRadius": "4px",
+            "borderTop": "1px solid rgba(218, 213, 201, 0.4)",
+            "boxShadow": "none",
+            "boxSizing": "border-box",
+            "color": "rgb(46, 44, 40)",
+            "fontFamily": "Jost, sans-serif",
+            "fontSize": "14.4px",
+            "fontWeight": "400",
+            "letterSpacing": "normal",
+            "lineHeight": "20.16px",
+            "padding": "0px 20px",
+            "textTransform": "none",
+            "transition": "background-color 0.18s cubic-bezier(0.22, 0.61, 0.36, 1), color 0.18s cubic-bezier(0.22, 0.61, 0.36, 1), border-color 0.18s cubic-bezier(0.22, 0.61, 0.36, 1)"
+          },
+          "width": 50.296875
+        }
+      ],
+      "sel": ".variant-picker__pills label"
+    },
+    {
+      "items": [
+        {
+          "height": 40,
+          "styles": {
+            "backgroundColor": "rgb(46, 44, 40)",
+            "borderRadius": "4px",
+            "borderTop": "1px solid rgb(46, 44, 40)",
+            "boxShadow": "none",
+            "boxSizing": "border-box",
+            "color": "rgb(255, 255, 255)",
+            "fontFamily": "Jost, sans-serif",
+            "fontSize": "14.4px",
+            "fontWeight": "400",
+            "letterSpacing": "normal",
+            "lineHeight": "20.16px",
+            "padding": "0px 20px",
+            "textTransform": "none",
+            "transition": "background-color 0.18s cubic-bezier(0.22, 0.61, 0.36, 1), color 0.18s cubic-bezier(0.22, 0.61, 0.36, 1), border-color 0.18s cubic-bezier(0.22, 0.61, 0.36, 1)"
+          },
+          "width": 49.8671875
+        },
+        {
+          "height": 40,
+          "styles": {
+            "backgroundColor": "rgb(46, 44, 40)",
+            "borderRadius": "4px",
+            "borderTop": "1px solid rgb(46, 44, 40)",
+            "boxShadow": "none",
+            "boxSizing": "border-box",
+            "color": "rgb(255, 255, 255)",
+            "fontFamily": "Jost, sans-serif",
+            "fontSize": "14.4px",
+            "fontWeight": "400",
+            "letterSpacing": "normal",
+            "lineHeight": "20.16px",
+            "padding": "0px 20px",
+            "textTransform": "none",
+            "transition": "background-color 0.18s cubic-bezier(0.22, 0.61, 0.36, 1), color 0.18s cubic-bezier(0.22, 0.61, 0.36, 1), border-color 0.18s cubic-bezier(0.22, 0.61, 0.36, 1)"
+          },
+          "width": 68.5
+        }
+      ],
+      "sel": ".variant-picker__pills input:checked + label"
+    },
+    {
+      "items": [
+        {
+          "height": 50,
+          "styles": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderRadius": "4px",
+            "borderTop": "1px solid rgba(218, 213, 201, 0.65)",
+            "boxShadow": "none",
+            "boxSizing": "border-box",
+            "color": "rgb(46, 44, 40)",
+            "fontFamily": "Jost, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "letterSpacing": "normal",
+            "lineHeight": "22.4px",
+            "padding": "0px",
+            "textTransform": "none",
+            "transition": "border-color 0.18s cubic-bezier(0.22, 0.61, 0.36, 1)"
+          },
+          "width": 114
+        },
+        {
+          "height": 48,
+          "styles": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderRadius": "4px",
+            "borderTop": "1px solid rgba(218, 213, 201, 0.65)",
+            "boxShadow": "none",
+            "boxSizing": "border-box",
+            "color": "rgb(46, 44, 40)",
+            "fontFamily": "Jost, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "letterSpacing": "normal",
+            "lineHeight": "22.4px",
+            "padding": "0px",
+            "textTransform": "none",
+            "transition": "border-color 0.18s cubic-bezier(0.22, 0.61, 0.36, 1)"
+          },
+          "width": 106
+        }
+      ],
+      "sel": ".quantity-selector__wrap"
+    },
+    {
+      "items": [
+        {
+          "height": 20.15625,
+          "styles": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderRadius": "4px",
+            "borderTop": "0px none rgb(46, 44, 40)",
+            "boxShadow": "none",
+            "boxSizing": "border-box",
+            "color": "rgb(46, 44, 40)",
+            "fontFamily": "Jost, sans-serif",
+            "fontSize": "14.4px",
+            "fontWeight": "500",
+            "letterSpacing": "normal",
+            "lineHeight": "20.16px",
+            "padding": "0px",
+            "textTransform": "none",
+            "transition": "all"
+          },
+          "width": 32
+        },
+        {
+          "height": 20.15625,
+          "styles": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderRadius": "4px",
+            "borderTop": "0px none rgb(46, 44, 40)",
+            "boxShadow": "none",
+            "boxSizing": "border-box",
+            "color": "rgb(46, 44, 40)",
+            "fontFamily": "Jost, sans-serif",
+            "fontSize": "14.4px",
+            "fontWeight": "500",
+            "letterSpacing": "normal",
+            "lineHeight": "20.16px",
+            "padding": "0px",
+            "textTransform": "none",
+            "transition": "all"
+          },
+          "width": 40
+        }
+      ],
+      "sel": ".quantity-selector__input"
+    },
+    {
+      "items": [
+        {
+          "height": 0,
+          "styles": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderRadius": "2px",
+            "borderTop": "0px none rgb(22, 21, 19)",
+            "boxShadow": "none",
+            "boxSizing": "border-box",
+            "color": "rgb(22, 21, 19)",
+            "fontFamily": "Jost, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "letterSpacing": "normal",
+            "lineHeight": "22.4px",
+            "padding": "18px 8px 8px 16px",
+            "textTransform": "none",
+            "transition": "border-color 0.18s cubic-bezier(0.22, 0.61, 0.36, 1), background-color 0.18s cubic-bezier(0.22, 0.61, 0.36, 1)"
+          },
+          "width": 0
+        }
+      ],
+      "sel": ".field__input"
+    },
+    {
+      "items": [
+        {
+          "height": 48,
+          "styles": {
+            "backgroundColor": "rgb(245, 243, 239)",
+            "borderRadius": "3.6px",
+            "borderTop": "1px solid rgb(22, 21, 19)",
+            "boxShadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px",
+            "boxSizing": "border-box",
+            "color": "rgb(22, 21, 19)",
+            "fontFamily": "Jost, sans-serif",
+            "fontSize": "12.48px",
+            "fontWeight": "400",
+            "letterSpacing": "0.6px",
+            "lineHeight": "14.976px",
+            "padding": "12px 24px",
+            "textTransform": "uppercase",
+            "transition": "background-color 0.32s cubic-bezier(0.22, 0.61, 0.36, 1), color 0.32s cubic-bezier(0.22, 0.61, 0.36, 1), border-color 0.32s cubic-bezier(0.22, 0.61, 0.36, 1), transform 0.18s cubic-bezier(0.22, 0.61, 0.36, 1), box-shadow 0.18s cubic-bezier(0.22, 0.61, 0.36, 1)"
+          },
+          "width": 560
+        }
+      ],
+      "sel": "button[name=\"add\"]"
+    }
+  ],
+  "gpo": [
+    {
+      "cls": "gpo-element gpo-form__group  gpo-col-12",
+      "html": "\n        \n    \n      <label for=\"select-1\" class=\"gpo-label\">\n      <span class=\"label-content\">Select</span>\n                </label>\n          <div class=\"gpo-selected-values break-word\"></div>\n              <div class=\"gpo-select\">\n            <select data-type=\"select\" id=\"select-1\" name=\"select-1\" data-name=\"properties[select-1]\" data-field-name=\"select-1\">\n        <option value=\"\" disabled=\"disabled\" selected=\"\">\n          -- Please select --        </option>\n                            <option value=\"option_1\" original-value=\"option_1\">\n            option_1          </option>\n                            <option value=\"option_2\" original-value=\"option_2\">\n            option_2          </option>\n                            <option value=\"option_3\" original-value=\"option_3\">\n            option_3          </option>\n                            <option value=\"option_4\" original-value=\"option_4\">\n            option_4          </option>\n                            <option value=\"option_5\" original-value=\"option_5\">\n            option_5          </option>\n                            <option value=\"option_6\" original-value=\"option_6\">\n            option_6          </option>\n              </select>\n          </div>  \n        \n  \n      <div class=\"messages\"></div>\n  ",
+      "id": "select-1"
+    },
+    {
+      "cls": "gpo-element gpo-form__group  gpo-col-12 ",
+      "html": "\n    \n    \n    \n      <label for=\"\" class=\"gpo-label required\">\n      <span class=\"label-content\">Dropdown</span>\n                </label>\n          <div class=\"gpo-selected-values break-word\"></div>\n              \n    <div class=\"gpo-dropdown gpo-oos--show\">\n      <div class=\"dropdown-button\">\n                <div class=\"dropdown-button__value\">-- Please select --</div>\n        <div class=\"dropdown-button__icon\"></div>\n      </div>\n      <div class=\"dropdown-list\">\n                                    <div class=\"dropdown-item gpo-ov-item\">\n            <input type=\"radio\" data-type=\"dropdown\" id=\"dropdown-1_1\" name=\"dropdown-1\" data-name=\"properties[dropdown-1]\" data-field-name=\"dropdown-1\" value=\"option_1\" original-value=\"option_1\" presence=\"\">\n            <label for=\"dropdown-1_1\">\n            <span class=\"dropdown-item__value\">\n              option_1                          </span>\n            </label>\n          </div>\n                            <div class=\"dropdown-item gpo-ov-item\">\n            <input type=\"radio\" data-type=\"dropdown\" id=\"dropdown-1_2\" name=\"dropdown-1\" data-name=\"properties[dropdown-1]\" data-field-name=\"dropdown-1\" value=\"option_2\" original-value=\"option_2\" presence=\"\">\n            <label for=\"dropdown-1_2\">\n            <span class=\"dropdown-item__value\">\n              option_2                          </span>\n            </label>\n          </div>\n                            <div class=\"dropdown-item gpo-ov-item\">\n            <input type=\"radio\" data-type=\"dropdown\" id=\"dropdown-1_3\" name=\"dropdown-1\" data-name=\"properties[dropdown-1]\" data-field-name=\"dropdown-1\" value=\"option_3\" original-value=\"option_3\" presence=\"\">\n            <label for=\"dropdown-1_3\">\n            <span class=\"dropdown-item__value\">\n              option_3                          </span>\n            </label>\n          </div>\n                            <div class=\"dropdown-item gpo-ov-item\">\n            <input type=\"radio\" data-type=\"dropdown\" id=\"dropdown-1_4\" name=\"dropdown-1\" data-name=\"properties[dropdown-1]\" data-field-name=\"dropdown-1\" value=\"option_4\" original-value=\"option_4\" presence=\"\">\n            <label for=\"dropdown-1_4\">\n            <span class=\"dropdown-item__value\">\n              option_4                          </span>\n            </label>\n          </div>\n                            <div class=\"dropdown-item gpo-ov-item\">\n            <input type=\"radio\" data-type=\"dropdown\" id=\"dropdown-1_5\" name=\"dropdown-1\" data-name=\"properties[dropdown-1]\" data-field-name=\"dropdown-1\" value=\"option_5\" original-value=\"option_5\" presence=\"\">\n            <label for=\"dropdown-1_5\">\n            <span class=\"dropdown-item__value\">\n              option_5                          </span>\n            </label>\n          </div>\n                            <div class=\"dropdown-item gpo-ov-item\">\n            <input type=\"radio\" data-type=\"dropdown\" id=\"dropdown-1_6\" name=\"dropdown-1\" data-name=\"properties[dropdown-1]\" data-field-name=\"dropdown-1\" value=\"option_6\" original-value=\"option_6\" presence=\"\">\n            <label for=\"dropdown-1_6\">\n            <span class=\"dropdown-item__value\">\n              option_6                          </span>\n            </label>\n          </div>\n                      </div>\n    </div>\n\n    \n    \n  \n  \n    <div class=\"messages\"></div>\n  ",
+      "id": "dropdown-1"
+    },
+    {
+      "cls": "gpo-element gpo-form__group  gpo-col-12 ",
+      "html": "\n    \n    \n    \n      <label for=\"\" class=\"gpo-label required\">\n      <span class=\"label-content\">Image Dropdown</span>\n                </label>\n          <div class=\"gpo-selected-values break-word\"></div>\n          \n        <div class=\"gpo-dropdown-wrapper\">\n      <div class=\"gpo-dropdown-image-outside\"></div>\n          <div class=\"gpo-dropdown gpo-image-dropdown gpo-oos--show\">\n        <div class=\"dropdown-button\">\n          <div class=\"dropdown-button__value\">-- Please select --</div>\n          <div class=\"dropdown-button__icon\"></div>\n        </div>\n        <div class=\"dropdown-list\">\n                                            <div class=\"dropdown-item gpo-ov-item\">\n              <input type=\"radio\" data-type=\"image-dropdown\" id=\"image-dropdown-1_1\" name=\"image-dropdown-1\" data-name=\"properties[image-dropdown-1]\" data-field-name=\"image-dropdown-1\" value=\"option_1\" original-value=\"option_1\" presence=\"\" data-url-img=\"https://5er1i1lbqz3rdn8k-69620498584.shopifypreview.com/cdn/shop/files/swatch-17905859926853.png?width=96\">\n              <label for=\"image-dropdown-1_1\">\n                <span class=\"dropdown-item__thumbnail\">\n                  <img class=\"swatch-image\" src=\"https://5er1i1lbqz3rdn8k-69620498584.shopifypreview.com/cdn/shop/files/swatch-17905859926853.png?width=96\" loading=\"lazy\">\n                </span>\n                <span class=\"dropdown-item__value\">\n                  option_1                                  </span>\n              </label>\n            </div>\n                                  <div class=\"dropdown-item gpo-ov-item\">\n              <input type=\"radio\" data-type=\"image-dropdown\" id=\"image-dropdown-1_2\" name=\"image-dropdown-1\" data-name=\"properties[image-dropdown-1]\" data-field-name=\"image-dropdown-1\" value=\"option_2\" original-value=\"option_2\" presence=\"\" data-url-img=\"https://5er1i1lbqz3rdn8k-69620498584.shopifypreview.com/cdn/shop/files/swatch-17905859961829.png?width=96\">\n              <label for=\"image-dropdown-1_2\">\n                <span class=\"dropdown-item__thumbnail\">\n                  <img class=\"swatch-image\" src=\"https://5er1i1lbqz3rdn8k-69620498584.shopifypreview.com/cdn/shop/files/swatch-17905859961829.png?width=96\" loading=\"lazy\">\n                </span>\n                <span class=\"dropdown-item__value\">\n                  option_2                                  </span>\n              </label>\n            </div>\n                                  <div class=\"dropdown-item gpo-ov-item\">\n              <input type=\"radio\" data-type=\"image-dropdown\" id=\"image-dropdown-1_3\" name=\"image-dropdown-1\" data-name=\"properties[image-dropdown-1]\" data-field-name=\"image-dropdown-1\" value=\"option_3\" original-value=\"option_3\" presence=\"\" data-url-img=\"https://5er1i1lbqz3rdn8k-69620498584.shopifypreview.com/cdn/shop/files/swatch-17905860018049.png?width=96\">\n              <label for=\"image-dropdown-1_3\">\n                <span class=\"dropdown-item__thumbnail\">\n                  <img class=\"swatch-image\" src=\"https://5er1i1lbqz3rdn8k-69620498584.shopifypreview.com/cdn/shop/files/swatch-17905860018049.png?width=96\" loading=\"lazy\">\n                </span>\n                <span class=\"dropdown-item__value\">\n                  option_3                                  </span>\n              </label>\n            </div>\n                                  <div class=\"dropdown-item gpo-ov-item\">\n              <input type=\"radio\" data-type=\"image-dropdown\" id=\"image-dropdown-1_4\" name=\"image-dropdown-1\" data-name=\"properties[image-dropdown-1]\" data-field-name=\"image-dropdown-1\" value=\"option_4\" original-value=\"option_4\" presence=\"\" data-url-img=\"https://5er1i1lbqz3rdn8k-69620498584.shopifypreview.com/cdn/shop/files/swatch-17905860060153.png?width=96\">\n              <label for=\"image-dropdown-1_4\">\n                <span class=\"dropdown-item__thumbnail\">\n                  <img class=\"swatch-image\" src=\"https://5er1i1lbqz3rdn8k-69620498584.shopifypreview.com/cdn/shop/files/swatch-17905860060153.png?width=96\" loading=\"lazy\">\n                </span>\n                <span class=\"dropdown-item__value\">\n                  option_4                                  </span>\n              </label>\n            </div>\n                            </div>\n      </div>\n    </div>\n    \n    \n  \n  \n    <div class=\"messages\"></div>\n  ",
+      "id": "image-dropdown-1"
+    },
+    {
+      "cls": "gpo-element gpo-form__group  gpo-col-12",
+      "html": "\n    \n    \n    \n      <label for=\"\" class=\"gpo-label\">\n      <span class=\"label-content\">Font Picker</span>\n                </label>\n              \n          <div class=\"gpo-font-picker gpo-dropdown googlefont-dropdown\">\n        <div class=\"dropdown-button\">\n                    <div class=\"dropdown-button__value\">-- Select a font --</div>\n          <div class=\"dropdown-button__icon\"></div>\n        </div>\n        <div class=\"dropdown-list\">\n                                            <div class=\"dropdown-item\">\n              <input type=\"radio\" data-type=\"google-font\" id=\"google-font-1_1\" name=\"google-font-1\" data-name=\"properties[google-font-1]\" data-field-name=\"google-font-1\" data-font-type=\"google\" value=\"Roboto\">\n              <label for=\"google-font-1_1\" style=\"font-family:'Roboto';\">\n                <span>Roboto</span>\n              </label>\n            </div>\n                                  <div class=\"dropdown-item\">\n              <input type=\"radio\" data-type=\"google-font\" id=\"google-font-1_2\" name=\"google-font-1\" data-name=\"properties[google-font-1]\" data-field-name=\"google-font-1\" data-font-type=\"google\" value=\"Open Sans\">\n              <label for=\"google-font-1_2\" style=\"font-family:'Open Sans';\">\n                <span>Open Sans</span>\n              </label>\n            </div>\n                                  <div class=\"dropdown-item\">\n              <input type=\"radio\" data-type=\"google-font\" id=\"google-font-1_3\" name=\"google-font-1\" data-name=\"properties[google-font-1]\" data-field-name=\"google-font-1\" data-font-type=\"google\" value=\"Montserrat\">\n              <label for=\"google-font-1_3\" style=\"font-family:'Montserrat';\">\n                <span>Montserrat</span>\n              </label>\n            </div>\n                                  <div class=\"dropdown-item\">\n              <input type=\"radio\" data-type=\"google-font\" id=\"google-font-1_4\" name=\"google-font-1\" data-name=\"properties[google-font-1]\" data-field-name=\"google-font-1\" data-font-type=\"google\" value=\"Poppins\">\n              <label for=\"google-font-1_4\" style=\"font-family:'Poppins';\">\n                <span>Poppins</span>\n              </label>\n            </div>\n                                  <div class=\"dropdown-item\">\n              <input type=\"radio\" data-type=\"google-font\" id=\"google-font-1_5\" name=\"google-font-1\" data-name=\"properties[google-font-1]\" data-field-name=\"google-font-1\" data-font-type=\"google\" value=\"Oswald\">\n              <label for=\"google-font-1_5\" style=\"font-family:'Oswald';\">\n                <span>Oswald</span>\n              </label>\n            </div>\n                            </div>\n      </div>\n    \n    \n    <div class=\"messages\"></div>\n  ",
+      "id": "google-font-1"
+    },
+    {
+      "cls": "gpo-element gpo-form__group  gpo-col-12 ",
+      "html": "\n        \n    \n      <label for=\"text-1\" class=\"gpo-label\">\n      <span class=\"label-content\">Text</span>\n                </label>\n              <div class=\"gpo-input-wrap\">\n      <div class=\"gpo-input-prefix\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 20 20\"><path fill-rule=\"evenodd\" d=\"M7 3.25a.75.75 0 0 1 .695.467l2.75 6.75a.75.75 0 0 1-1.39.566l-.632-1.553a.752.752 0 0 1-.173.02h-2.68l-.625 1.533a.75.75 0 1 1-1.39-.566l2.75-6.75a.75.75 0 0 1 .695-.467Zm.82 4.75-.82-2.012-.82 2.012h1.64Z\"></path><path d=\"M4.25 12.5a.75.75 0 0 0 0 1.5h11.5a.75.75 0 0 0 0-1.5h-11.5Z\"></path><path d=\"M4.25 15a.75.75 0 0 0 0 1.5h7a.75.75 0 0 0 0-1.5h-7Z\"></path><path fill-rule=\"evenodd\" d=\"M15.066 5.94a3 3 0 1 0 0 5.118.75.75 0 0 0 1.434-.308v-4.5a.75.75 0 0 0-1.434-.31Zm-1.566 4.06a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z\"></path></svg></div>      <input type=\"text\" data-type=\"text\" id=\"text-1\" class=\"gpo-input gpo-text\" name=\"text-1\" data-name=\"properties[text-1]\" data-field-name=\"text-1\" data-text-transform=\"default\" data-allowed-value=\"default\">\n      <div class=\"gpo-input-suffix\">px</div>    </div>\n            \n  \n      <div class=\"messages\"></div>\n  ",
+      "id": "text-1"
+    },
+    {
+      "cls": "gpo-element gpo-form__group  gpo-col-12 ",
+      "html": "\n        \n    \n      <label for=\"textarea-1\" class=\"gpo-label\">\n      <span class=\"label-content\">Textarea</span>\n                </label>\n              <div class=\"gpo-input-wrap\">\n            <textarea rows=\"4\" data-type=\"textarea\" id=\"textarea-1\" class=\"gpo-input gpo-textarea\" name=\"textarea-1\" data-name=\"properties[textarea-1]\" data-field-name=\"textarea-1\" data-text-transform=\"default\" data-allowed-value=\"default\"></textarea>\n          </div>\n            \n  \n      <div class=\"messages\"></div>\n  ",
+      "id": "textarea-1"
+    },
+    {
+      "cls": "gpo-element gpo-form__group  gpo-col-12",
+      "html": "\n        \n    \n      <label for=\"\" class=\"gpo-label\">\n      <span class=\"label-content\">Phone</span>\n                </label>\n              <div class=\"gpo-input-wrap\">\n            <div class=\"iti iti--allow-dropdown iti--separate-dial-code\"><div class=\"iti__flag-container\"><div class=\"iti__selected-flag\" role=\"combobox\" aria-controls=\"iti-0__country-listbox\" aria-owns=\"iti-0__country-listbox\" aria-expanded=\"false\" tabindex=\"0\" title=\"United States: +1\" aria-activedescendant=\"iti-0__item-us-preferred\"><div class=\"iti__flag iti__us\"></div><div class=\"iti__selected-dial-code\">+1</div><div class=\"iti__arrow\"></div></div><ul class=\"iti__country-list iti__hide\" id=\"iti-0__country-listbox\" role=\"listbox\" aria-label=\"List of countries\"><li class=\"iti__country iti__preferred iti__active\" tabindex=\"-1\" id=\"iti-0__item-us-preferred\" role=\"option\" data-dial-code=\"1\" data-country-code=\"us\" aria-selected=\"true\"><div class=\"iti__flag-box\"><div class=\"iti__flag iti__us\"></div></div><span class=\"iti__country-name\">United States</span><span class=\"iti__dial-code\">+1</span></li><li class=\"iti__divider\" role=\"separator\" aria-disabled=\"true\"></li><li class=\"iti__country iti__standard\" tabindex=\"-1\" id=\"iti-0__item-af\" role=\"option\" data-dial-code=\"93\" data-country-code=\"af\" aria-selected=\"false\"><div class=\"iti__flag-box\"><div class=\"iti__flag iti__af\"></div></div><span class=\"iti__country-name\">Afghanistan (‫افغانستان‬‎)</span><span class=\"iti__dial-code\">+93</span></li><li class=\"iti__country iti__standard\" tabindex=\"-1\" id=\"iti-0__item-al\" role=\"option\" data-dial-code=\"355\" data-country-code=\"al\" aria-selected=\"false\"><div class=\"iti__flag-box\"><div class=\"iti__flag iti__al\"></div></div><span class=\"iti__country-name\">Albania (Shqipëri)</span><span class=\"iti__dial-code\">+355</span></li><li class=\"iti__country iti__standard\" tabindex=\"-1\" id=\"iti-0__item-dz\" role=\"option\" data-dial-code=\"213\" data-country-code=\"dz\" aria-selected=\"false\"><div class=\"iti__flag-box\"><div class=\"iti__flag iti__dz\"></div></div><span class=\"iti__country-name\">Algeria (‫الجزائر‬‎)</span><span class=\"iti__dial-code\">+213</span></li><li class=\"iti__country iti__standard\" tabindex=\"-1\" id=\"iti-0__item-as\" role=\"option\" data-dial-code=\"1\" data-country-code=\"as\" aria-selected=\"false\"><div class=\"iti__flag-box\"><div class=\"iti__flag iti__as\"></div></div><span class=\"iti__country-name\">American Samoa</span><span class=\"iti__dial-code\">+1</span></li><li class=\"iti__country iti__standard\" tabindex=\"-1\" id=\"iti-0__item-ad\" role=\"option\" data-dial-code=\"376\" data-country-code=\"ad\" aria-selected=\"false\"><div class=\"iti__flag-box\"><div class=\"iti__flag iti__ad\"></div></div><span class=\"iti__country-name\">Andorra</span><span class=\"iti__dial-code\">+376</span></li><li class=\"iti__country iti__standard\" tabindex=\"-1\" id=\"iti-0__item-ao\" role=\"option\" data-dial-code=\"244\" data-country-code=\"ao\" aria-selected=\"false\"><div class=\"iti__flag-box\"><div class=\"iti__flag iti__ao\"></div></div><span class=\"iti__country-name\">Angola</span><span class=\"iti__dial-code\">+244</span></li><li class=\"iti__country iti__standard\" tabindex=\"-1\" id=\"iti-0__item-ai\" role=\"option\" data-dial-code=\"1\" data-country-code=\"ai\" aria-selected=\"false\"><div class=\"iti__flag-box\"><div class=\"iti__flag iti__ai\"></div></div><span class=\"iti__country-name\">Anguilla</span><span class=\"iti__dial-code\">+1</span></li><li class=\"iti__country iti__standard\" tabindex=\"-1\" id=\"iti-0__item-ag\" role=\"option\" data-dial-code=\"1\" data-country-code=\"ag\" aria-selected=\"false\"><div class=\"iti__flag-box\"><div class=\"iti__flag iti__ag\"></div></div><span class=\"iti__country-name\">Antigua and Barbuda</span><span class=\"iti__dial-code\">+1</span></li><li class=\"iti__country iti__standard\" tabindex=\"-1\" id=\"iti-0__item-ar\" role=\"option\" data-dial-code=\"54\" data-country-code=\"ar\" aria-selected=\"false\"><div class=\"iti__flag-box\"><div class=\"iti__flag iti__ar\"></div></div><span class=\"iti__country-name\">Argentina</span><span class=\"iti__dial-code\">+54</span></li><li class=\"iti__country iti__standard\" tabindex=\"-1\" id=\"iti-0__item-am\" role=\"option\" data-dial-code=\"374\" data-country-code=\"am\" aria-selected=\"false\"><div class=\"iti__flag-box\"><div class=\"iti__flag iti__am\"></div></div><span class=\"iti__country-name\">Armenia (Հայաստան)</span><span class=\"iti__dial-code\">+374</span></li><li class=\"iti__country iti__standard\" tabindex=\"-1\" id=\"iti-0__item-aw\" role=\"option\" data-dial-code=\"297\" data-country-code=\"aw\" aria-selected=\"false\"><di",
+      "id": "phone-1"
+    },
+    {
+      "cls": "gpo-element gpo-form__group  gpo-col-12",
+      "html": "\n    \n    \n    \n      <label for=\"file-1\" class=\"gpo-label\">\n      <span class=\"label-content\">File Upload</span>\n                </label>\n          \n    <div class=\"gpo-dropzone\">\n      <div class=\"gpo-stack gpo-stack--vertical\">\n        <div class=\"gpo-stack__item\">\n          <div class=\"gpo-dropzone__action\">Choose file</div>\n        </div>\n        <div class=\"gpo-stack__item\">\n          <div class=\"gpo-dropzone__caption\">or drop file to upload</div>\n        </div>\n      </div>\n      <input type=\"file\" data-type=\"file\" id=\"file-1\" class=\"gpo-file gpo-dropzone__input\" name=\"file-1\" data-name=\"properties[file-1]\" data-field-name=\"file-1\" data-allowed_extensions=\"jpeg,jpg,png\" accept=\".jpeg,.jpg,.png\">\n    </div>\n    \n    \n    \n    <div class=\"messages\"></div>\n  ",
+      "id": "file-1"
+    },
+    {
+      "cls": "gpo-element gpo-form__group  gpo-col-12 ",
+      "html": "\n        \n    \n      <label for=\"\" class=\"gpo-label\">\n      <span class=\"label-content\">Color Picker</span>\n                </label>\n              <div class=\"gpo-input-wrap gpo-color-box\">\n      <div class=\"preview-btn\" data-color-picker-bound=\"true\"></div>\n      <input type=\"text\" data-type=\"color-picker\" id=\"color-picker-1\" class=\"gpo-input gpo-color\" name=\"color-picker-1\" data-name=\"properties[color-picker-1]\" data-field-name=\"color-picker-1\" readonly=\"\" data-color-picker-bound=\"true\">\n    </div>\n        \n  \n      <div class=\"messages\"></div>\n  ",
+      "id": "color-picker-1"
+    },
+    {
+      "cls": "gpo-element gpo-form__group  gpo-col-12 ",
+      "html": "\n    \n    \n    \n      <label for=\"\" class=\"gpo-label\">\n      <span class=\"label-content\">Switch</span>\n                </label>\n          \n    <div class=\"gpo-switch\">\n      <input type=\"checkbox\" data-type=\"switch\" id=\"switch-1\" name=\"switch-1\" data-name=\"properties[switch-1][]\" data-field-name=\"switch-1\" value=\"Yes\">\n      <label for=\"switch-1\">\n        <span class=\"break-word\">Yes</span>\n      </label>\n    </div>\n\n    \n    \n  \n  \n    <div class=\"messages\"></div>\n  ",
+      "id": "switch-1"
+    },
+    {
+      "cls": "gpo-element gpo-form__group  gpo-col-12",
+      "html": "\n        \n    \n      <label for=\"\" class=\"gpo-label\">\n      <span class=\"label-content\">Range Slider</span>\n                </label>\n              <div class=\"gpo-range-wrap\">\n      <div class=\"gpo-range\">\n        <input type=\"range\" data-type=\"range\" id=\"range-1\" class=\"gpo-range-input\" name=\"range-1\" data-name=\"properties[range-1]\" data-field-name=\"range-1\" min=\"0\" max=\"100\" step=\"1\" value=\"0\" data-default-value=\"0\" style=\"--progress: 0%;\">\n        <span class=\"gpo-range-tooltip\" style=\"left: calc(0% + 8px);\">0</span>\n        <div class=\"gpo-range-extreme\">\n          <span class=\"gpo-range-min\">0</span>\n          <span class=\"gpo-range-max\">100</span>\n        </div>\n      </div>\n    </div>\n        <div class=\"messages\"></div>\n  ",
+      "id": "range-1"
+    },
+    {
+      "cls": "gpo-element gpo-form__group  gpo-col-12 ",
+      "html": "\n        \n    \n      <label for=\"\" class=\"gpo-label\">\n      <span class=\"label-content\">Dimension</span>\n                </label>\n              <div class=\"gpo-dimension-wrap\" data-addon-unit=\"undefined\" data-addon-formula=\"undefined\">\n                                  <div class=\"gpo-dimension-item\">\n            <label class=\"gpo-dimension-label\" for=\"dimension-1_0\">Width</label>\n            <div class=\"gpo-dimension-input-wrap\">\n              <input type=\"number\" data-type=\"dimension\" id=\"dimension-1_0\" class=\"gpo-dimension-input\" name=\"dimension-1-Width\" data-name=\"properties[dimension-1-Width]\" data-field-id=\"dimension-1\" data-field-name=\"dimension-1-Width\" data-element-name=\"dimension-1\" data-tag=\"x\" data-min=\"0\" min=\"0\">\n                          </div>\n          </div>\n                                          <div class=\"gpo-dimension-item\">\n            <label class=\"gpo-dimension-label\" for=\"dimension-1_1\">Height</label>\n            <div class=\"gpo-dimension-input-wrap\">\n              <input type=\"number\" data-type=\"dimension\" id=\"dimension-1_1\" class=\"gpo-dimension-input\" name=\"dimension-1-Height\" data-name=\"properties[dimension-1-Height]\" data-field-id=\"dimension-1\" data-field-name=\"dimension-1-Height\" data-element-name=\"dimension-1\" data-tag=\"y\" data-min=\"0\" min=\"0\">\n                          </div>\n          </div>\n                                          <div class=\"gpo-dimension-item\">\n            <label class=\"gpo-dimension-label\" for=\"dimension-1_2\">Depth</label>\n            <div class=\"gpo-dimension-input-wrap\">\n              <input type=\"number\" data-type=\"dimension\" id=\"dimension-1_2\" class=\"gpo-dimension-input\" name=\"dimension-1-Depth\" data-name=\"properties[dimension-1-Depth]\" data-field-id=\"dimension-1\" data-field-name=\"dimension-1-Depth\" data-element-name=\"dimension-1\" data-tag=\"z\" data-min=\"0\" min=\"0\">\n                          </div>\n          </div>\n                  </div>\n        <div class=\"messages\"></div>\n  ",
+      "id": "dimension-1"
+    },
+    {
+      "cls": "gpo-element gpo-form__group  gpo-col-12 ",
+      "html": "\n    \n    \n    \n      <label for=\"\" class=\"gpo-label expanded\">\n      <span class=\"label-content\">Radio Button</span>\n                              </label>\n          <div class=\"gpo-selected-values break-word\"></div>\n              \n    <div class=\"gpo-ov-wrapper vertical gpo-oos--show\">\n\n                      <div class=\"gpo-choicelist gpo-radio gpo-ov-item\">\n          <input type=\"radio\" data-type=\"radio\" id=\"radio-1_1\" name=\"radio-1\" data-name=\"properties[radio-1]\" data-field-name=\"radio-1\" value=\"option_1\" original-value=\"option_1\">\n          <label for=\"radio-1_1\">\n                                    <span class=\"choicelist-item__value break-word\">option_1</span>\n          </label>\n                  </div>\n                      <div class=\"gpo-choicelist gpo-radio gpo-ov-item\">\n          <input type=\"radio\" data-type=\"radio\" id=\"radio-1_2\" name=\"radio-1\" data-name=\"properties[radio-1]\" data-field-name=\"radio-1\" value=\"option_2\" original-value=\"option_2\">\n          <label for=\"radio-1_2\">\n                                    <span class=\"choicelist-item__value break-word\">option_2</span>\n          </label>\n                  </div>\n                      <div class=\"gpo-choicelist gpo-radio gpo-ov-item\">\n          <input type=\"radio\" data-type=\"radio\" id=\"radio-1_3\" name=\"radio-1\" data-name=\"properties[radio-1]\" data-field-name=\"radio-1\" value=\"option_3\" original-value=\"option_3\">\n          <label for=\"radio-1_3\">\n                                    <span class=\"choicelist-item__value break-word\">option_3</span>\n          </label>\n                  </div>\n                      <div class=\"gpo-choicelist gpo-radio gpo-ov-item\">\n          <input type=\"radio\" data-type=\"radio\" id=\"radio-1_4\" name=\"radio-1\" data-name=\"properties[radio-1]\" data-field-name=\"radio-1\" value=\"option_4\" original-value=\"option_4\">\n          <label for=\"radio-1_4\">\n                                    <span class=\"choicelist-item__value break-word\">option_4</span>\n          </label>\n                  </div>\n                      <div class=\"gpo-choicelist gpo-radio gpo-ov-item\">\n          <input type=\"radio\" data-type=\"radio\" id=\"radio-1_5\" name=\"radio-1\" data-name=\"properties[radio-1]\" data-field-name=\"radio-1\" value=\"option_5\" original-value=\"option_5\">\n          <label for=\"radio-1_5\">\n                                    <span class=\"choicelist-item__value break-word\">option_5</span>\n          </label>\n                  </div>\n      \n    </div>\n\n    \n    \n  \n  \n    <div class=\"messages\"></div>\n  ",
+      "id": "radio-1"
+    },
+    {
+      "cls": "gpo-element gpo-form__group  gpo-col-12 ",
+      "html": "\n    \n    \n    \n      <label for=\"\" class=\"gpo-label expanded\">\n      <span class=\"label-content\">Checkbox</span>\n                              </label>\n          <div class=\"gpo-selected-values break-word\"></div>\n          \n    <div class=\"gpo-ov-wrapper vertical gpo-oos--show\">\n\n                      <div class=\"gpo-choicelist gpo-checkbox gpo-ov-item\">\n          <input type=\"checkbox\" data-type=\"checkbox\" id=\"checkbox-1_1\" name=\"checkbox-1\" data-name=\"properties[checkbox-1][]\" data-field-name=\"checkbox-1\" value=\"option_1\" original-value=\"option_1\">\n          <label for=\"checkbox-1_1\">\n                                    <span class=\"choicelist-item__value break-word\">option_1</span>\n          </label>\n                            </div>\n                      <div class=\"gpo-choicelist gpo-checkbox gpo-ov-item\">\n          <input type=\"checkbox\" data-type=\"checkbox\" id=\"checkbox-1_2\" name=\"checkbox-1\" data-name=\"properties[checkbox-1][]\" data-field-name=\"checkbox-1\" value=\"option_2\" original-value=\"option_2\">\n          <label for=\"checkbox-1_2\">\n                                    <span class=\"choicelist-item__value break-word\">option_2</span>\n          </label>\n                            </div>\n      \n    </div>\n\n    \n    \n  \n  \n    <div class=\"messages\"></div>\n  ",
+      "id": "checkbox-1"
+    },
+    {
+      "cls": "gpo-element gpo-form__group  gpo-col-12 ",
+      "html": "\n    \n    \n    \n      <label for=\"\" class=\"gpo-label expanded\">\n      <span class=\"label-content\">Button</span>\n                              </label>\n          <div class=\"gpo-selected-values break-word has-value\">option_1 | 1</div>\n          \n    <div class=\"gpo-ov-wrapper horizontal gpo-oos--show\">\n\n      \n                      <div class=\"gpo-swatches buttons gpo-ov-item \">\n          <input type=\"radio\" data-type=\"buttons\" id=\"buttons-1_1\" name=\"buttons-1\" data-name=\"properties[buttons-1]\" data-field-name=\"buttons-1\" value=\"option_1\" original-value=\"option_1\" data-advanced-addon=\"quantity_dynamic\" checked=\"\" previous-value=\"checked\">\n          <label for=\"buttons-1_1\">\n            <div class=\"gpo-ov-title\">\n              <span class=\"break-word\">option_1</span>\n                          </div>\n                          <div class=\"gpo-tooltip\">\n                <div class=\"gpo-tooltip__title\">\n                  <span class=\"break-word\">option_1</span>\n                                  </div>\n              </div>\n                      </label>\n          <div class=\"gpo-ov-extend\">\n                      </div>\n        </div>\n                      <div class=\"gpo-swatches buttons gpo-ov-item \">\n          <input type=\"radio\" data-type=\"buttons\" id=\"buttons-1_2\" name=\"buttons-1\" data-name=\"properties[buttons-1]\" data-field-name=\"buttons-1\" value=\"option_2\" original-value=\"option_2\" data-advanced-addon=\"quantity_dynamic\">\n          <label for=\"buttons-1_2\">\n            <div class=\"gpo-ov-title\">\n              <span class=\"break-word\">option_2</span>\n                          </div>\n                          <div class=\"gpo-tooltip\">\n                <div class=\"gpo-tooltip__title\">\n                  <span class=\"break-word\">option_2</span>\n                                  </div>\n              </div>\n                      </label>\n          <div class=\"gpo-ov-extend\">\n                      </div>\n        </div>\n                </div>\n\n    \n    \n  \n      <div style=\"display: flex;\" class=\"gpo-quantity\">\n      <label for=\"buttons-1_quantity\" class=\"gpo-quantity__label\">Enter quantity</label>\n      <input type=\"number\" id=\"buttons-1_quantity\" class=\"gpo-quantity__input\" data-parent-field-name=\"buttons-1\" min=\"1\" value=\"1\">\n    </div>\n  \n    <div class=\"messages\"></div>\n  ",
+      "id": "buttons-1"
+    },
+    {
+      "cls": "gpo-element gpo-form__group  gpo-col-12 ",
+      "html": "\n    \n    \n    \n      <label for=\"\" class=\"gpo-label expanded\">\n      <span class=\"label-content\">Color Swatch</span>\n                              </label>\n          <div class=\"gpo-selected-values break-word\"></div>\n          \n    <div class=\"gpo-ov-wrapper horizontal gpo-oos--show\">\n\n      \n                      <div class=\"gpo-swatches color-swatches gpo-ov-item \">\n          <input type=\"radio\" data-type=\"color-swatches\" id=\"color-swatches-1_1\" name=\"color-swatches-1\" data-name=\"properties[color-swatches-1]\" data-field-name=\"color-swatches-1\" value=\"option_1\" original-value=\"option_1\" data-color1=\"#b62020\" data-advanced-addon=\"quantity_mix\">\n          <label for=\"color-swatches-1_1\">\n            <span class=\"gpo-swatch__inner\">\n              <span class=\"swatch-top\" style=\"width:32px;height:32px;background-color:#b62020\"></span>\n                          </span>\n                          <div class=\"gpo-tooltip\">\n                <div class=\"gpo-tooltip__title\">\n                  <span class=\"break-word\">option_1</span>\n                                  </div>\n              </div>\n                      </label>\n          <div class=\"gpo-ov-extend\">\n                                      \n  <div class=\"gpo-ov-quantity\">\n    <button class=\"quantity__button\" name=\"minus\" type=\"button\">\n      <svg xmlns=\"http://www.w3.org/2000/svg\" aria-hidden=\"true\" focusable=\"false\" class=\"icon icon-minus\" fill=\"none\" viewBox=\"0 0 10 2\">\n        <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M.5 1C.5.7.7.5 1 .5h8a.5.5 0 110 1H1A.5.5 0 01.5 1z\" fill=\"currentColor\"></path>\n      </svg>\n    </button>\n    <input class=\"quantity__input\" type=\"number\" name=\"update\" value=\"1\" min=\"1\" data-parent-field-name=\"color-swatches-1\">\n    <button class=\"quantity__button\" name=\"plus\" type=\"button\">\n      <svg xmlns=\"http://www.w3.org/2000/svg\" aria-hidden=\"true\" focusable=\"false\" class=\"icon icon-plus\" fill=\"none\" viewBox=\"0 0 10 10\">\n        <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M1 4.51a.5.5 0 000 1h3.5l.01 3.5a.5.5 0 001-.01V5.5l3.5-.01a.5.5 0 00-.01-1H5.5L5.49.99a.5.5 0 00-1 .01v3.5l-3.5.01H1z\" fill=\"currentColor\"></path>\n      </svg>\n    </button>\n  </div>\n                      </div>\n        </div>\n                      <div class=\"gpo-swatches color-swatches gpo-ov-item \">\n          <input type=\"radio\" data-type=\"color-swatches\" id=\"color-swatches-1_2\" name=\"color-swatches-1\" data-name=\"properties[color-swatches-1]\" data-field-name=\"color-swatches-1\" value=\"option_2\" original-value=\"option_2\" data-color1=\"#d4ed54\" data-color2=\"#8c29e7\" data-advanced-addon=\"quantity_mix\">\n          <label for=\"color-swatches-1_2\">\n            <span class=\"gpo-swatch__inner\">\n              <span class=\"swatch-top\" style=\"width:32px;height:32px;background-color:#d4ed54\"></span>\n                              <span class=\"swatch-bottom\" style=\"border-bottom:32px solid #8c29e7;border-left:32px solid transparent\"></span>\n                          </span>\n                          <div class=\"gpo-tooltip\">\n                <div class=\"gpo-tooltip__title\">\n                  <span class=\"break-word\">option_2</span>\n                                  </div>\n              </div>\n                      </label>\n          <div class=\"gpo-ov-extend\">\n                                      \n  <div class=\"gpo-ov-quantity\">\n    <button class=\"quantity__button\" name=\"minus\" type=\"button\">\n      <svg xmlns=\"http://www.w3.org/2000/svg\" aria-hidden=\"true\" focusable=\"false\" class=\"icon icon-minus\" fill=\"none\" viewBox=\"0 0 10 2\">\n        <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M.5 1C.5.7.7.5 1 .5h8a.5.5 0 110 1H1A.5.5 0 01.5 1z\" fill=\"currentColor\"></path>\n      </svg>\n    </button>\n    <input class=\"quantity__input\" type=\"number\" name=\"update\" value=\"1\" min=\"1\" data-parent-field-name=\"color-swatches-1\">\n    <button class=\"quantity__button\" name=\"plus\" type=\"button\">\n      <svg xmlns=\"http://www.w3.org/2000/svg\" aria-hidden=\"true\" focusable=\"false\" class=\"icon icon-plus\" fill=\"none\" viewBox=\"0 0 10 10\">\n        <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M1 4.51a.5.5 0 000 1h3.5l.01 3.5a.5.5 0 001-.01V5.5l3.5-.01a.5.5 0 00-.01-1H5.5L5.49.99a.5.5 0 00-1 .01v3.5l-3.5.01H1z\" fill=\"currentColor\"></path>\n      </svg>\n    </button>\n  </div>\n                      </div>\n        </div>\n                </div>\n\n    \n    \n  \n  \n    <div class=\"messages\"></div>\n  ",
+      "id": "color-swatches-1"
+    },
+    {
+      "cls": "gpo-element gpo-form__group  gpo-col-12 ",
+      "html": "\n    \n    \n    \n      <label for=\"\" class=\"gpo-label expanded\">\n      <span class=\"label-content\">Color Swatch</span>\n                              </label>\n          <div class=\"gpo-selected-values break-word\"></div>\n          \n    <div class=\"gpo-ov-wrapper horizontal gpo-oos--show\">\n\n      \n                      <div class=\"gpo-swatches color-swatches gpo-ov-item \">\n          <input type=\"radio\" data-type=\"color-swatches\" id=\"color-swatches-2_1\" name=\"color-swatches-2\" data-name=\"properties[color-swatches-2]\" data-field-name=\"color-swatches-2\" value=\"option_1\" original-value=\"option_1\" data-color1=\"#ff0000\">\n          <label for=\"color-swatches-2_1\">\n            <span class=\"gpo-swatch__inner\">\n              <span class=\"swatch-top\" style=\"width:32px;height:32px;background-color:#ff0000\"></span>\n                          </span>\n                          <div class=\"gpo-tooltip\">\n                <div class=\"gpo-tooltip__title\">\n                  <span class=\"break-word\">option_1</span>\n                                  </div>\n              </div>\n                      </label>\n          <div class=\"gpo-ov-extend\">\n                                  </div>\n        </div>\n                      <div class=\"gpo-swatches color-swatches gpo-ov-item \">\n          <input type=\"radio\" data-type=\"color-swatches\" id=\"color-swatches-2_2\" name=\"color-swatches-2\" data-name=\"properties[color-swatches-2]\" data-field-name=\"color-swatches-2\" value=\"option_2\" original-value=\"option_2\" data-color1=\"#ffffff\">\n          <label for=\"color-swatches-2_2\">\n            <span class=\"gpo-swatch__inner\">\n              <span class=\"swatch-top\" style=\"width:32px;height:32px;background-color:#ffffff\"></span>\n                          </span>\n                          <div class=\"gpo-tooltip\">\n                <div class=\"gpo-tooltip__title\">\n                  <span class=\"break-word\">option_2</span>\n                                  </div>\n              </div>\n                      </label>\n          <div class=\"gpo-ov-extend\">\n                                  </div>\n        </div>\n                      <div class=\"gpo-swatches color-swatches gpo-ov-item \">\n          <input type=\"radio\" data-type=\"color-swatches\" id=\"color-swatches-2_3\" name=\"color-swatches-2\" data-name=\"properties[color-swatches-2]\" data-field-name=\"color-swatches-2\" value=\"option_3\" original-value=\"option_3\" data-color1=\"#00a4ff\">\n          <label for=\"color-swatches-2_3\">\n            <span class=\"gpo-swatch__inner\">\n              <span class=\"swatch-top\" style=\"width:32px;height:32px;background-color:#00a4ff\"></span>\n                          </span>\n                          <div class=\"gpo-tooltip\">\n                <div class=\"gpo-tooltip__title\">\n                  <span class=\"break-word\">option_3</span>\n                                  </div>\n              </div>\n                      </label>\n          <div class=\"gpo-ov-extend\">\n                                  </div>\n        </div>\n                </div>\n\n    \n    \n  \n  \n    <div class=\"messages\"></div>\n  ",
+      "id": "color-swatches-2"
+    },
+    {
+      "cls": "gpo-element gpo-form__group  gpo-col-12 ",
+      "html": "\n    \n    \n    \n      <label for=\"\" class=\"gpo-label expanded\">\n      <span class=\"label-content\">Image Swatch</span>\n                              </label>\n          <div class=\"gpo-selected-values break-word\"></div>\n          \n    <div class=\"gpo-ov-wrapper horizontal gpo-oos--show\">\n\n      \n                      <div class=\"gpo-swatches image-swatches gpo-ov-item \">\n          <input type=\"radio\" data-type=\"image-swatches\" id=\"image-swatches-1_1\" name=\"image-swatches-1\" data-name=\"properties[image-swatches-1]\" data-field-name=\"image-swatches-1\" value=\"option_1\" original-value=\"option_1\">\n          <label for=\"image-swatches-1_1\">\n            <span class=\"gpo-swatch__inner\">\n              <img class=\"swatch-image\" src=\"https://5er1i1lbqz3rdn8k-69620498584.shopifypreview.com/cdn/shop/files/swatch-17905794921030.png?width=90\" loading=\"lazy\" style=\"width:60px;height:60px;\">\n            </span>\n                                          <div class=\"gpo-tooltip\">\n                  <div class=\"gpo-tooltip__title\">\n                    <span class=\"break-word\">option_1</span>\n                                      </div>\n                </div>\n                                    </label>\n          <div class=\"gpo-ov-extend\">\n                                  </div>\n        </div>\n                      <div class=\"gpo-swatches image-swatches gpo-ov-item \">\n          <input type=\"radio\" data-type=\"image-swatches\" id=\"image-swatches-1_2\" name=\"image-swatches-1\" data-name=\"properties[image-swatches-1]\" data-field-name=\"image-swatches-1\" value=\"option_2\" original-value=\"option_2\">\n          <label for=\"image-swatches-1_2\">\n            <span class=\"gpo-swatch__inner\">\n              <img class=\"swatch-image\" src=\"https://5er1i1lbqz3rdn8k-69620498584.shopifypreview.com/cdn/shop/files/swatch-17905794992827.png?width=90\" loading=\"lazy\" style=\"width:60px;height:60px;\">\n            </span>\n                                          <div class=\"gpo-tooltip\">\n                  <div class=\"gpo-tooltip__title\">\n                    <span class=\"break-word\">option_2</span>\n                                      </div>\n                </div>\n                                    </label>\n          <div class=\"gpo-ov-extend\">\n                                  </div>\n        </div>\n                </div>\n\n    \n    \n  \n  \n    <div class=\"messages\"></div>\n  ",
+      "id": "image-swatches-1"
+    },
+    {
+      "cls": "gpo-element gpo-form__group  gpo-col-12",
+      "html": "\n    <div class=\"gpo-modal gpo-tinymce\">\n              <span data-element-id=\"modal-1\" class=\"gpo-modal__title\">Open modal</span>\n          </div>\n  ",
+      "id": "modal-1"
+    },
+    {
+      "cls": "gpo-element gpo-form__group  gpo-col-12",
+      "html": "\n    <div class=\"gpo-tabs gpo-tinymce \">\n                      <h3 class=\"gpo-tabs-title\">\n          <span id=\"gpo-tabs_tab-0\" class=\"gpo-tabs-tab gpo-tab-active\">\n            <span class=\"gpo-tabs-tabtext\">option_1</span>\n          </span>\n        </h3>\n        <div id=\"gpo-tabs-tabpanel_tab-0\" class=\"gpo-tabs-tabpanel gpo-tabs-tabpanel-active\">\n          <div class=\"gpo-tabs-tabcontent\">Tab content</div>\n        </div>\n                      <h3 class=\"gpo-tabs-title\">\n          <span id=\"gpo-tabs_tab-1\" class=\"gpo-tabs-tab\">\n            <span class=\"gpo-tabs-tabtext\">option_2</span>\n          </span>\n        </h3>\n        <div id=\"gpo-tabs-tabpanel_tab-1\" class=\"gpo-tabs-tabpanel\">\n          <div class=\"gpo-tabs-tabcontent\">Tab content</div>\n        </div>\n          </div>\n  ",
+      "id": "tabs-1"
+    },
+    {
+      "cls": "gpo-element gpo-form__group  gpo-col-12",
+      "html": "\n    \n    \n    \n      <label for=\"\" class=\"gpo-label\">\n      <span class=\"label-content\">Product Links</span>\n                </label>\n          \n          <div class=\"gpo-pdLinks gpo-ov-wrapper horizontal gpo-oos--show\">\n                            <div class=\"gpo-pdLinks--item buttons gpo-swatches\">\n            <input type=\"radio\" data-type=\"product-link\" id=\"product-link-1_1\" name=\"product-link-1\" data-field-name=\"product-link-1\" value=\"NIKE | TODDLER ROSHE ONE 2\" data-product-id=\"8875068457112\" data-product-handle=\"nike-toddler-roshe-one\">\n            <label for=\"product-link-1_1\">\n                                                <span class=\"break-word\">NIKE | TODDLER ROSHE ONE 2</span>\n                                                  <div class=\"gpo-tooltip\">\n                    <div class=\"gpo-tooltip__title\">\n                      <span class=\"break-word\">NIKE | TODDLER ROSHE ONE 2</span>\n                                          </div>\n                  </div>\n                                          </label>\n          </div>\n                            <div class=\"gpo-pdLinks--item buttons gpo-swatches\">\n            <input type=\"radio\" data-type=\"product-link\" id=\"product-link-1_2\" name=\"product-link-1\" data-field-name=\"product-link-1\" value=\"PALLADIUM | PALLATECH HI TX | CHEVRON\" data-product-id=\"8875054039192\" data-product-handle=\"palladium-pallatech-hi-tx-chevron\">\n            <label for=\"product-link-1_2\">\n                                                <span class=\"break-word\">PALLADIUM | PALLATECH HI TX | CHEVRON</span>\n                                                  <div class=\"gpo-tooltip\">\n                    <div class=\"gpo-tooltip__title\">\n                      <span class=\"break-word\">PALLADIUM | PALLATECH HI TX | CHEVRON</span>\n                                          </div>\n                  </div>\n                                          </label>\n          </div>\n                            <div class=\"gpo-pdLinks--item buttons gpo-swatches\">\n            <input type=\"radio\" data-type=\"product-link\" id=\"product-link-1_3\" name=\"product-link-1\" data-field-name=\"product-link-1\" value=\"PUMA | SUEDE CLASSIC REGAL\" data-product-id=\"8875054104728\" data-product-handle=\"puma-suede-classic-regal\">\n            <label for=\"product-link-1_3\">\n                                                <span class=\"break-word\">PUMA | SUEDE CLASSIC REGAL</span>\n                                                  <div class=\"gpo-tooltip\">\n                    <div class=\"gpo-tooltip__title\">\n                      <span class=\"break-word\">PUMA | SUEDE CLASSIC REGAL</span>\n                                          </div>\n                  </div>\n                                          </label>\n          </div>\n              </div>\n    \n    \n    <div class=\"messages\"></div>\n  ",
+      "id": "product-link-1"
+    },
+    {
+      "cls": "gpo-element gpo-form__group  gpo-col-12",
+      "html": "\n    \n    \n    \n      <label for=\"\" class=\"gpo-label\">\n      <span class=\"label-content\">Font Picker</span>\n                </label>\n              \n          <div class=\"gpo-font-picker gpo-ov-wrapper horizontal\">\n                            <div class=\"gpo-swatches buttons googlefont-buttons\" data-font-preview=\"true\">\n            <input type=\"radio\" data-type=\"google-font\" id=\"google-font-2_1\" name=\"google-font-2\" data-name=\"properties[google-font-2]\" data-field-name=\"google-font-2\" data-font-type=\"google\" value=\"Roboto\" data-select-text-box=\"text-1\">\n            <label for=\"google-font-2_1\" style=\"font-family:'Roboto';\">\n              <span>Roboto</span>\n            </label>\n          </div>\n                            <div class=\"gpo-swatches buttons googlefont-buttons\" data-font-preview=\"true\">\n            <input type=\"radio\" data-type=\"google-font\" id=\"google-font-2_2\" name=\"google-font-2\" data-name=\"properties[google-font-2]\" data-field-name=\"google-font-2\" data-font-type=\"google\" value=\"Open Sans\" data-select-text-box=\"text-1\">\n            <label for=\"google-font-2_2\" style=\"font-family:'Open Sans';\">\n              <span>Open Sans</span>\n            </label>\n          </div>\n                            <div class=\"gpo-swatches buttons googlefont-buttons\" data-font-preview=\"true\">\n            <input type=\"radio\" data-type=\"google-font\" id=\"google-font-2_3\" name=\"google-font-2\" data-name=\"properties[google-font-2]\" data-field-name=\"google-font-2\" data-font-type=\"google\" value=\"Montserrat\" data-select-text-box=\"text-1\">\n            <label for=\"google-font-2_3\" style=\"font-family:'Montserrat';\">\n              <span>Montserrat</span>\n            </label>\n          </div>\n                            <div class=\"gpo-swatches buttons googlefont-buttons\" data-font-preview=\"true\">\n            <input type=\"radio\" data-type=\"google-font\" id=\"google-font-2_4\" name=\"google-font-2\" data-name=\"properties[google-font-2]\" data-field-name=\"google-font-2\" data-font-type=\"google\" value=\"Poppins\" data-select-text-box=\"text-1\">\n            <label for=\"google-font-2_4\" style=\"font-family:'Poppins';\">\n              <span>Poppins</span>\n            </label>\n          </div>\n                            <div class=\"gpo-swatches buttons googlefont-buttons\" data-font-preview=\"true\">\n            <input type=\"radio\" data-type=\"google-font\" id=\"google-font-2_5\" name=\"google-font-2\" data-name=\"properties[google-font-2]\" data-field-name=\"google-font-2\" data-font-type=\"google\" value=\"Oswald\" data-select-text-box=\"text-1\">\n            <label for=\"google-font-2_5\" style=\"font-family:'Oswald';\">\n              <span>Oswald</span>\n            </label>\n          </div>\n              </div>\n    \n    \n    <div class=\"messages\"></div>\n  ",
+      "id": "google-font-2"
+    }
+  ],
+  "viewport": {
+    "height": 963,
+    "width": 1838
+  }
+}

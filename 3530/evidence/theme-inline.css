@@ -1,0 +1,369 @@
+
+    @font-face {
+  font-family: Poppins;
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url("//hiwlja3cd5c994uf-69620498584.shopifypreview.com/cdn/fonts/poppins/poppins_n4.0ba78fa5af9b0e1a374041b3ceaadf0a43b41362.woff2") format("woff2"),
+       url("//hiwlja3cd5c994uf-69620498584.shopifypreview.com/cdn/fonts/poppins/poppins_n4.214741a72ff2596839fc9760ee7a770386cf16ca.woff") format("woff");
+}
+
+    @font-face {
+  font-family: Poppins;
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url("//hiwlja3cd5c994uf-69620498584.shopifypreview.com/cdn/fonts/poppins/poppins_n7.56758dcf284489feb014a026f3727f2f20a54626.woff2") format("woff2"),
+       url("//hiwlja3cd5c994uf-69620498584.shopifypreview.com/cdn/fonts/poppins/poppins_n7.f34f55d9b3d3205d2cd6f64955ff4b36f0cfd8da.woff") format("woff");
+}
+
+    @font-face {
+  font-family: Poppins;
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+  src: url("//hiwlja3cd5c994uf-69620498584.shopifypreview.com/cdn/fonts/poppins/poppins_i4.846ad1e22474f856bd6b81ba4585a60799a9f5d2.woff2") format("woff2"),
+       url("//hiwlja3cd5c994uf-69620498584.shopifypreview.com/cdn/fonts/poppins/poppins_i4.56b43284e8b52fc64c1fd271f289a39e8477e9ec.woff") format("woff");
+}
+
+    @font-face {
+  font-family: Poppins;
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+  src: url("//hiwlja3cd5c994uf-69620498584.shopifypreview.com/cdn/fonts/poppins/poppins_i7.42fd71da11e9d101e1e6c7932199f925f9eea42d.woff2") format("woff2"),
+       url("//hiwlja3cd5c994uf-69620498584.shopifypreview.com/cdn/fonts/poppins/poppins_i7.ec8499dbd7616004e21155106d13837fff4cf556.woff") format("woff");
+}
+
+    @font-face {
+  font-family: Arapey;
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url("//hiwlja3cd5c994uf-69620498584.shopifypreview.com/cdn/fonts/arapey/arapey_n4.f34340ab9c56baa7f8accf674e253407b725d12c.woff2") format("woff2"),
+       url("//hiwlja3cd5c994uf-69620498584.shopifypreview.com/cdn/fonts/arapey/arapey_n4.003d1426f62522643e43e1d3072a2e7d1ab78130.woff") format("woff");
+}
+
+
+    
+    :root,
+    .color-background-1 {
+    --color-background: 227,200,198;
+    --color-background-2: 246,246,246;
+    --color-background-light: 255,255,255;
+    
+    --gradient-background: #e3c8c6;
+    
+    --color-accent: 4,43,53;
+    --color-accent-2: 4,43,53;
+    --color-accent-3: 255,255,255;
+    --color-foreground: 38,4,3;
+    --color-foreground-2: 255,255,255;
+    --color-foreground-3: 255,255,255;
+    --color-foreground-4: 30,30,30;
+    --color-shadow: 18,18,18;
+    --color-border: 196,149,146;
+    --color-support-error: ,,;
+    --color-button: 53,16,4;
+    --color-button-text: 222,207,198;
+    --color-button-bg-hover: 4,43,53;
+    --color-button-text-hover: 222,207,198;
+    --color-secondary-button: 124,80,80;
+    --color-secondary-button-text: 255,255,255;
+    --color-secondary-button-bg-hover: 4,43,53;
+    --color-secondary-button-text-hover: 222,207,198;
+    --color-tertiary-button: 217,185,155;
+    --color-tertiary-button-text: 255,255,255;
+    --color-gray-button: 238,238,238;
+    --color-gray-button-text: 30,30,30;
+    --color-dark-button: 30,30,30;
+    --color-dark-button-text: 255,255,255;
+    --color-light-button: 255,255,255;
+    --color-light-button-text: 30,30,30;
+    --color-link: 222,207,198;
+    --color-badge-foreground: 38,4,3;
+    --color-badge-background: 227,200,198;
+    --color-badge-border: 38,4,3;
+    --color-layer: 237,223,221;
+    --color-error: 220,20,20;
+    --color-success: 16,167,31;
+    --color-waring: ,,;
+    --color-overlay: 0,0,0;
+    --color-blur: 254,146,16;
+    --payment-terms-background-color: rgb(227 200 198);
+    }
+    
+    
+    .color-background-2 {
+    --color-background: 4,43,53;
+    --color-background-2: 8,37,103;
+    --color-background-light: 255,255,255;
+    
+    --gradient-background: #042b35;
+    
+    --color-accent: 255,255,255;
+    --color-accent-2: 255,255,255;
+    --color-accent-3: 255,255,255;
+    --color-foreground: 221,209,202;
+    --color-foreground-2: 255,255,255;
+    --color-foreground-3: 255,255,255;
+    --color-foreground-4: 30,30,30;
+    --color-shadow: 18,18,18;
+    --color-border: 74,99,105;
+    --color-support-error: ,,;
+    --color-button: 227,200,198;
+    --color-button-text: 50,26,26;
+    --color-button-bg-hover: 7,74,92;
+    --color-button-text-hover: 255,255,255;
+    --color-secondary-button: 124,80,80;
+    --color-secondary-button-text: 255,255,255;
+    --color-secondary-button-bg-hover: 7,74,92;
+    --color-secondary-button-text-hover: 255,255,255;
+    --color-tertiary-button: 217,185,155;
+    --color-tertiary-button-text: 255,255,255;
+    --color-gray-button: 238,238,238;
+    --color-gray-button-text: 18,18,18;
+    --color-dark-button: 30,30,30;
+    --color-dark-button-text: 255,255,255;
+    --color-light-button: 255,255,255;
+    --color-light-button-text: 77,77,77;
+    --color-link: 50,26,26;
+    --color-badge-foreground: 221,209,202;
+    --color-badge-background: 4,43,53;
+    --color-badge-border: 221,209,202;
+    --color-layer: 39,82,93;
+    --color-error: 220,20,20;
+    --color-success: 21,181,37;
+    --color-waring: ,,;
+    --color-overlay: 0,0,0;
+    --color-blur: 254,146,16;
+    --payment-terms-background-color: rgb(4 43 53);
+    }
+    
+    
+    .color-inverse {
+    --color-background: 143,143,143;
+    --color-background-2: 246,246,246;
+    --color-background-light: 255,255,255;
+    
+    --gradient-background: #8f8f8f;
+    
+    --color-accent: 255,255,255;
+    --color-accent-2: 255,255,255;
+    --color-accent-3: 255,255,255;
+    --color-foreground: 255,255,255;
+    --color-foreground-2: 255,255,255;
+    --color-foreground-3: 255,255,255;
+    --color-foreground-4: 30,30,30;
+    --color-shadow: 18,18,18;
+    --color-border: 171,168,162;
+    --color-support-error: ,,;
+    --color-button: 255,255,255;
+    --color-button-text: 50,26,26;
+    --color-button-bg-hover: 4,43,53;
+    --color-button-text-hover: 255,255,255;
+    --color-secondary-button: 124,80,80;
+    --color-secondary-button-text: 255,255,255;
+    --color-secondary-button-bg-hover: 227,200,198;
+    --color-secondary-button-text-hover: 50,26,26;
+    --color-tertiary-button: 217,185,155;
+    --color-tertiary-button-text: 255,255,255;
+    --color-gray-button: 238,238,238;
+    --color-gray-button-text: 30,30,30;
+    --color-dark-button: 30,30,30;
+    --color-dark-button-text: 255,255,255;
+    --color-light-button: 255,255,255;
+    --color-light-button-text: 30,30,30;
+    --color-link: 50,26,26;
+    --color-badge-foreground: 255,255,255;
+    --color-badge-background: 143,143,143;
+    --color-badge-border: 255,255,255;
+    --color-layer: 255,255,255;
+    --color-error: 220,20,20;
+    --color-success: 21,181,37;
+    --color-waring: ,,;
+    --color-overlay: 0,0,0;
+    --color-blur: 254,146,16;
+    --payment-terms-background-color: rgb(143 143 143);
+    }
+    
+    
+    .color-accent-1 {
+    --color-background: 219,182,179;
+    --color-background-2: 246,246,246;
+    --color-background-light: 255,255,255;
+    
+    --gradient-background: #dbb6b3;
+    
+    --color-accent: 50,26,26;
+    --color-accent-2: 50,26,26;
+    --color-accent-3: 255,255,255;
+    --color-foreground: 47,28,24;
+    --color-foreground-2: 255,255,255;
+    --color-foreground-3: 255,255,255;
+    --color-foreground-4: 30,30,30;
+    --color-shadow: 18,18,18;
+    --color-border: 162,128,113;
+    --color-support-error: ,,;
+    --color-button: 47,28,24;
+    --color-button-text: 185,150,131;
+    --color-button-bg-hover: 4,43,53;
+    --color-button-text-hover: 222,207,198;
+    --color-secondary-button: 124,80,80;
+    --color-secondary-button-text: 255,255,255;
+    --color-secondary-button-bg-hover: 4,43,53;
+    --color-secondary-button-text-hover: 222,207,198;
+    --color-tertiary-button: 217,185,155;
+    --color-tertiary-button-text: 255,255,255;
+    --color-gray-button: 238,238,238;
+    --color-gray-button-text: 30,30,30;
+    --color-dark-button: 30,30,30;
+    --color-dark-button-text: 255,255,255;
+    --color-light-button: 255,255,255;
+    --color-light-button-text: 30,30,30;
+    --color-link: 185,150,131;
+    --color-badge-foreground: 47,28,24;
+    --color-badge-background: 219,182,179;
+    --color-badge-border: 47,28,24;
+    --color-layer: 255,255,255;
+    --color-error: 220,20,20;
+    --color-success: 21,181,37;
+    --color-waring: ,,;
+    --color-overlay: 0,0,0;
+    --color-blur: 254,146,16;
+    --payment-terms-background-color: rgb(219 182 179);
+    }
+    
+
+    body, .color-background-1, .color-background-2, .color-inverse, .color-accent-1 {
+      color: rgba(var(--color-foreground));
+      background-color: rgb(var(--color-background));
+    }
+
+    :root {
+
+    /* corner-radius */
+    --product-card-radius: 2.8rem;
+    --collection-card-radius: 2rem;
+    --article-card-radius: 0;
+    --article-image-radius: 1rem;
+    --button-radius: 3.4rem;
+    --button-radius-1: 2.8rem;
+    --add-cart-radius: 0.6rem;
+    --pagination-radius: 0.8rem;
+    --input-radius: 8.6rem;
+    --textarea-radius: 0.6rem;
+    --chart-radius: 2rem;
+    --tag-radius: 0.5rem;
+    --tag-popular-radius: 0.6rem;
+    --badge-radius: 1.6rem;
+    --gallery-radius: 2rem;
+    --drawer-radius: 10rem;
+    --header-radius-1: 1.4rem;
+    --header-radius-2: 2.35rem;
+    --mega-menu-radius: 2rem;
+    --toggle-tab-radius: 1rem;
+    --toggle-trigger-radius: 5.6rem;
+    --circle-radius: 50%;
+    --image-radius: 1rem;
+    --general-radius-1: 1rem;
+    --general-radius-2: 1.5rem;
+    --general-radius-3: 2rem;
+    --modal-corner-radius: 2rem;
+    --drawer-corner-radius: 0;
+
+    --font-body-desktop-size: 1.6rem;
+    --font-body-mobile-size: 1.5rem;
+    --font-body-family: Poppins, sans-serif;
+    --font-body-style: normal;
+    --font-body-weight: 400;
+    --font-body-weight-bold: 400;
+
+  --font-heading-family: Arapey, serif;
+    --font-heading-style: normal;
+    --font-heading-weight: 400;
+
+    --font-body-scale: 1.0;
+    --font-heading-1-scale: 1.0;
+    --font-heading-2-scale: 1.0;
+    --font-heading-3-scale: 1.0;
+    --font-heading-4-scale: 1.0;
+    --font-heading-5-scale: 1.0;
+    --font-heading-6-scale: 1.0;
+
+    --media-padding: px;
+    --media-border-opacity: 0.05;
+    --media-border-width: 0px;
+    --media-radius: 0px;
+
+    --page-width: 192rem;
+    --page-width-margin: 0rem;
+
+    --product-card-image-padding: 0.0rem;
+    --product-card-content-padding-horizontal: 0.0rem;
+    --product-card-content-padding-vertical: 0.0rem;
+    --product-card-text-alignment: left;
+    --product-card-border-width: 0.0rem;
+    --product-card-border-opacity: 0.1;
+    --product-card-corner-radius: 0.0rem;
+
+    --collection-card-image-padding: 0.0rem;
+    --collection-card-content-padding-horizontal: 0.0rem;
+    --collection-card-content-padding-vertical: 0.0rem;
+    --collection-card-corner-radius: 0.0rem;
+    --collection-card-text-alignment: ;
+    --collection-card-border-width: 0.0rem;
+    --collection-card-border-opacity: 0.0;
+
+    --article-card-image-padding: 0.0rem;
+    --article-card-content-padding-vertical: 1.3rem;
+    --article-card-content-padding-horizontal: 0.0rem;
+    --article-card-text-alignment: left;
+    --article-card-border-width: 0.0rem;
+    --article-card-border-opacity: 0.1;
+    --article-card-corner-radius: 0.0rem;
+
+    --badge-corner-radius: 0.0rem;
+
+    --modal-border-width: 0px;
+    --modal-border-opacity: 0.0;
+    --modal-corner-radius: 0px;
+    --modal-padding: 20px;
+    --modal-margin: 20px;
+    --modal-backdrop-opacity: 0.5;
+    --modal-backdrop-blur: 0px;
+
+    --drawer-border-width: 0px;
+    --drawer-border-opacity: 0.0;
+    --drawer-corner-radius: 0px;
+    --drawer-padding: 40px;
+    --drawer-margin: 0px;
+    --drawer-backdrop-opacity: 0.4;
+    --drawer-backdrop-blur: 0px;
+
+    --spacing-sections-desktop: px;
+    --spacing-sections-mobile: 20px;
+    --grid-desktop-vertical-spacing: 28px;
+    --grid-desktop-horizontal-spacing: 28px;
+    --grid-mobile-vertical-spacing: 14px;
+    --grid-mobile-horizontal-spacing: 14px;
+
+    --buttons-radius: 35px;
+    --buttons-radius-outset: 35px;
+    --buttons-border-width: 0px;
+    --buttons-border-opacity: 0.1;
+    --buttons-border-offset: 0.3px;
+    --buttons-background-opacity: 1;
+    --buttons-scale: 1.0;
+
+    --variant-pills-radius: px;
+    --variant-pills-border-width: px;
+    --variant-pills-border-opacity: 0.0;
+    --variant-pills-shadow-opacity: 0.0;
+    --variant-pills-shadow-horizontal-offset: px;
+    --variant-pills-shadow-vertical-offset: px;
+    --variant-pills-shadow-blur-radius: px;
+    /* add */
+    --logo: ;
+    --logo-size: 90px;
+  }

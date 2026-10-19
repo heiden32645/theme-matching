@@ -1,0 +1,369 @@
+{
+  "controls": [
+    {
+      "items": [
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "border": [
+            "0px none rgba(0, 0, 0, 0)",
+            "1px solid rgb(83, 99, 98)"
+          ],
+          "color": "rgb(83, 99, 98)",
+          "font": "16px",
+          "h": 40.5,
+          "line": "normal",
+          "w": 844.3125
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "border": [
+            "0px none rgba(0, 0, 0, 0)",
+            "1px solid rgb(83, 99, 98)"
+          ],
+          "color": "rgb(83, 99, 98)",
+          "font": "16px",
+          "h": 40.5,
+          "line": "normal",
+          "w": 844.3125
+        }
+      ],
+      "sel": "variant-selects select"
+    },
+    {
+      "items": [
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "border": [
+            "0px none rgb(83, 99, 98)",
+            "0px none rgb(83, 99, 98)"
+          ],
+          "color": "rgb(83, 99, 98)",
+          "font": "12.8px",
+          "h": 19.1953125,
+          "line": "19.2px",
+          "w": 24.671875
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "border": [
+            "0px none rgb(83, 99, 98)",
+            "0px none rgb(83, 99, 98)"
+          ],
+          "color": "rgb(83, 99, 98)",
+          "font": "12.8px",
+          "h": 19.1953125,
+          "line": "19.2px",
+          "w": 32.3515625
+        }
+      ],
+      "sel": "variant-selects .form__label"
+    },
+    {
+      "items": [
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "border": [
+            "0px none rgb(83, 99, 98)",
+            "1px solid rgb(83, 99, 98)"
+          ],
+          "color": "rgb(83, 99, 98)",
+          "font": "16px",
+          "h": 40.5,
+          "line": "normal",
+          "w": 844.3125
+        }
+      ],
+      "sel": ".gpo-select"
+    },
+    {
+      "items": [
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "border": [
+            "0px none rgb(83, 99, 98)",
+            "1px solid rgb(83, 99, 98)"
+          ],
+          "color": "rgb(83, 99, 98)",
+          "font": "16px",
+          "h": 40.5,
+          "line": "normal",
+          "w": 844.3125
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "border": [
+            "0px none rgb(83, 99, 98)",
+            "1px solid rgb(83, 99, 98)"
+          ],
+          "color": "rgb(83, 99, 98)",
+          "font": "16px",
+          "h": 40.5,
+          "line": "normal",
+          "w": 844.3125
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "border": [
+            "0px none rgb(83, 99, 98)",
+            "1px solid rgb(83, 99, 98)"
+          ],
+          "color": "rgb(83, 99, 98)",
+          "font": "16px",
+          "h": 40.5,
+          "line": "normal",
+          "w": 844.3125
+        }
+      ],
+      "sel": ".gpo-dropdown .dropdown-button"
+    },
+    {
+      "items": [
+        {
+          "bg": "rgb(247, 243, 224)",
+          "border": [
+            "1px solid rgb(83, 99, 98)",
+            "1px solid rgb(83, 99, 98)"
+          ],
+          "color": "rgb(83, 99, 98)",
+          "font": "16px",
+          "h": 41.5,
+          "line": "24px",
+          "w": 844.3125
+        },
+        {
+          "bg": "rgb(247, 243, 224)",
+          "border": [
+            "1px solid rgb(83, 99, 98)",
+            "1px solid rgb(83, 99, 98)"
+          ],
+          "color": "rgb(83, 99, 98)",
+          "font": "16px",
+          "h": 102,
+          "line": "24px",
+          "w": 844.3125
+        },
+        {
+          "bg": "rgb(247, 243, 224)",
+          "border": [
+            "1px solid rgb(83, 99, 98)",
+            "1px solid rgb(83, 99, 98)"
+          ],
+          "color": "rgb(83, 99, 98)",
+          "font": "16px",
+          "h": 41.5,
+          "line": "24px",
+          "w": 844.3125
+        }
+      ],
+      "sel": ".gpo-input-wrap"
+    },
+    {
+      "items": [
+        {
+          "bg": "rgb(247, 243, 224)",
+          "border": [
+            "1px solid rgb(83, 99, 98)",
+            "1px solid rgb(83, 99, 98)"
+          ],
+          "color": "rgb(83, 99, 98)",
+          "font": "16px",
+          "h": 41.5,
+          "line": "24px",
+          "w": 276.1015625
+        },
+        {
+          "bg": "rgb(247, 243, 224)",
+          "border": [
+            "1px solid rgb(83, 99, 98)",
+            "1px solid rgb(83, 99, 98)"
+          ],
+          "color": "rgb(83, 99, 98)",
+          "font": "16px",
+          "h": 41.5,
+          "line": "24px",
+          "w": 276.1015625
+        },
+        {
+          "bg": "rgb(247, 243, 224)",
+          "border": [
+            "1px solid rgb(83, 99, 98)",
+            "1px solid rgb(83, 99, 98)"
+          ],
+          "color": "rgb(83, 99, 98)",
+          "font": "16px",
+          "h": 41.5,
+          "line": "24px",
+          "w": 276.1015625
+        }
+      ],
+      "sel": ".gpo-dimension-input-wrap"
+    },
+    {
+      "items": [
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "border": [
+            "0px none rgb(83, 99, 98)",
+            "0px none rgb(83, 99, 98)"
+          ],
+          "color": "rgb(83, 99, 98)",
+          "font": "16px",
+          "h": 30,
+          "line": "24px",
+          "w": 90
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "border": [
+            "0px none rgb(83, 99, 98)",
+            "0px none rgb(83, 99, 98)"
+          ],
+          "color": "rgb(83, 99, 98)",
+          "font": "16px",
+          "h": 30,
+          "line": "24px",
+          "w": 90
+        }
+      ],
+      "sel": ".gpo-ov-quantity"
+    },
+    {
+      "items": [
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "border": [
+            "0px none rgb(83, 99, 98)",
+            "0px none rgb(83, 99, 98)"
+          ],
+          "color": "rgb(83, 99, 98)",
+          "font": "16px",
+          "h": 30,
+          "line": "24px",
+          "w": 90
+        }
+      ],
+      "sel": "quantity-input"
+    },
+    {
+      "items": [
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "border": [
+            "0px none rgb(83, 99, 98)",
+            "0px none rgb(83, 99, 98)"
+          ],
+          "color": "rgb(83, 99, 98)",
+          "font": "20.8px",
+          "h": 30,
+          "line": "normal",
+          "w": 100
+        }
+      ],
+      "sel": ".gpo-quantity__input"
+    },
+    {
+      "items": [
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "border": [
+            "1px solid rgb(83, 99, 98)",
+            "1px solid rgb(83, 99, 98)"
+          ],
+          "color": "rgb(83, 99, 98)",
+          "font": "16px",
+          "h": 41.5,
+          "line": "normal",
+          "w": 107.09375
+        }
+      ],
+      "sel": ".gpo-dropzone__action"
+    },
+    {
+      "items": [
+        {
+          "bg": "rgb(247, 243, 224)",
+          "border": [
+            "1px solid rgb(83, 99, 98)",
+            "1px solid rgb(83, 99, 98)"
+          ],
+          "color": "rgb(83, 99, 98)",
+          "font": "16px",
+          "h": 46,
+          "line": "24px",
+          "w": 90.75
+        },
+        {
+          "bg": "rgb(247, 243, 224)",
+          "border": [
+            "1px solid rgb(83, 99, 98)",
+            "1px solid rgb(83, 99, 98)"
+          ],
+          "color": "rgb(83, 99, 98)",
+          "font": "16px",
+          "h": 46,
+          "line": "24px",
+          "w": 90.75
+        },
+        {
+          "bg": "rgb(247, 243, 224)",
+          "border": [
+            "1px solid rgb(83, 99, 98)",
+            "1px solid rgb(83, 99, 98)"
+          ],
+          "color": "rgb(83, 99, 98)",
+          "font": "16px",
+          "h": 46,
+          "line": "24px",
+          "w": 221.4375
+        }
+      ],
+      "sel": ".gpo-swatches.buttons label"
+    },
+    {
+      "items": [
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "border": [
+            "0px none rgb(83, 99, 98)",
+            "0px none rgb(83, 99, 98)"
+          ],
+          "color": "rgb(83, 99, 98)",
+          "font": "16px",
+          "h": 36,
+          "line": "24px",
+          "w": 36
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "border": [
+            "0px none rgb(83, 99, 98)",
+            "0px none rgb(83, 99, 98)"
+          ],
+          "color": "rgb(83, 99, 98)",
+          "font": "16px",
+          "h": 36,
+          "line": "24px",
+          "w": 36
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "border": [
+            "0px none rgb(83, 99, 98)",
+            "0px none rgb(83, 99, 98)"
+          ],
+          "color": "rgb(83, 99, 98)",
+          "font": "16px",
+          "h": 36,
+          "line": "24px",
+          "w": 36
+        }
+      ],
+      "sel": ".gpo-swatches.color-swatches label"
+    }
+  ],
+  "overflow": -15,
+  "viewport": [
+    1838,
+    907
+  ]
+}

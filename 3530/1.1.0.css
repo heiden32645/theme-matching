@@ -1,0 +1,963 @@
+/* Match theme style: Fullframe 1.1.0 (theme store id 3530) */
+
+.gpo-container .gpo-app {
+    background-color: transparent !important;
+}
+
+.gpo-container .gpo-app input,
+.gpo-container .gpo-app textarea,
+.gpo-container .gpo-app select,
+.gpo-container .gpo-app button {
+    font-family: inherit;
+}
+
+.gpo-app {
+    --gpo-theme-text: rgb(var(--color-foreground));
+    --gpo-theme-muted: rgba(var(--color-foreground), 0.7);
+    --gpo-theme-bg: rgb(var(--color-background));
+    --gpo-theme-border: rgba(var(--color-border), 0.5);
+    --gpo-theme-accent: rgb(var(--color-accent));
+    --gpo-theme-button: rgb(var(--color-button));
+    --gpo-theme-button-text: rgb(var(--color-button-text));
+    /* .xo-field-select__select and .xo-field-input own 5.6rem outer boxes. */
+    --gpo-theme-select-height: 5.6rem;
+    /* .xo-field-select-custom__trigger on the product has a 1.2rem radius. */
+    --gpo-theme-select-radius: 1.2rem;
+    --gpo-theme-input-height: 5.6rem;
+    /* .xo-field-select-custom__trigger: 1.6rem padding and 0.1rem borders. */
+    --gpo-theme-dropdown-height: calc(var(--font-body-scale) * 1.5rem + 4.03rem);
+    /* Compact quantity controls, reduced from the native 4rem size. */
+    --gpo-theme-quantity-height: 3.2rem;
+    --gpo-theme-radius: 2.9rem;
+    --gpo-theme-label-size: calc(var(--font-body-scale) * 1.4rem);
+    --gpo-theme-value-size: calc(var(--font-body-scale) * 1.5rem);
+    --gpo-theme-input-size: calc(var(--font-body-scale) * 1.6rem);
+    --gpo-theme-check: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 12 9' fill='none'%3E%3Cpath d='M1 4.2 4.5 7.5 11 1' stroke='black' stroke-width='1.6'/%3E%3C/svg%3E");
+    /* .xo-field-select-custom__trigger svg, using currentColor. */
+    --gpo-theme-chevron: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M5.67665 8.19406C5.4214 7.92606 5.01684 7.93668 4.77499 8.22171C4.53252 8.50605 4.54335 8.95483 4.79925 9.22428L10.8613 15.6054C10.9838 15.7344 11.1427 15.7997 11.3003 15.7997C11.4579 15.7997 11.6162 15.7344 11.7387 15.6054L17.8007 9.22428C18.0566 8.95486 18.0675 8.50605 17.825 8.22174C17.5825 7.93671 17.1786 7.92537 16.9234 8.19409L11.3003 14.1136L5.67665 8.19406Z'/%3E%3C/svg%3E");
+    color: var(--gpo-theme-text);
+    font-family: var(--font-body-family);
+    font-style: var(--font-body-style);
+    font-weight: var(--font-body-weight);
+    font-size: var(--gpo-theme-input-size);
+    line-height: calc(1 + 0.5 / var(--font-body-scale));
+}
+
+/* Group: like .xo-collapse__trigger */
+
+.gpo-app .gpo-group__wrapper.disclosure {
+    border-bottom: 0.1rem solid rgb(var(--color-border));
+}
+
+.gpo-app .gpo-group__header {
+    padding: 1.2rem 0 0.7rem;
+}
+
+.gpo-app .gpo-group__header .group-icon,
+.gpo-app .gpo-group__header .group-label,
+.gpo-app .gpo-group__header .group-chevron {
+    color: var(--gpo-theme-text);
+}
+
+.gpo-app .gpo-group__header .group-label {
+    font-family: var(--font-body-family);
+    font-size: var(--gpo-theme-value-size);
+    font-weight: 500;
+    line-height: calc(1 + 0.3 / var(--font-body-scale));
+}
+
+/* Label: like .xo-product-variant__inner-name at 70% opacity */
+
+.gpo-app .gpo-label,
+.gpo-app .gpo-dimension-label,
+.gpo-app .gpo-modal__title {
+    display: inline-flex;
+    align-items: center;
+    margin-bottom: 0.8rem;
+}
+
+.gpo-app .gpo-label .label-content,
+.gpo-app .gpo-label span.addOn,
+.gpo-app .gpo-dimension-label .label-content,
+.gpo-app .gpo-modal__title {
+    color: var(--gpo-theme-muted);
+    font-size: var(--gpo-theme-label-size);
+    font-weight: 500;
+    line-height: calc(1 + 0.42 / var(--font-body-scale));
+    letter-spacing: normal;
+    text-transform: none;
+}
+
+.gpo-app .gpo-label.required .label-content::after {
+    color: rgb(var(--color-error));
+}
+
+.gpo-app .gpo-label + .gpo-selected-values.has-value,
+.gpo-app .gpo-dimension-label + .gpo-selected-values.has-value {
+    display: inline-block;
+    margin: 0 0 0.8rem 0.6rem;
+    color: var(--gpo-theme-muted);
+    font-size: var(--gpo-theme-label-size);
+    line-height: calc(1 + 0.42 / var(--font-body-scale));
+}
+
+.gpo-app .gpo-helptext,
+.gpo-app .gpo-ov-helptext,
+.gpo-app .gpo-counter {
+    color: var(--gpo-theme-muted);
+    font-size: calc(var(--font-body-scale) * 1.2rem);
+    line-height: 1.5;
+}
+
+.gpo-app .gpo-tooltip {
+    color: var(--gpo-theme-bg);
+    background: var(--gpo-theme-text);
+    border-radius: 0.5rem;
+    font-size: 1.2rem;
+}
+
+.gpo-app .gpo-tooltip::after {
+    border-color: var(--gpo-theme-text) transparent transparent transparent;
+}
+
+.gpo-app .gpo-total,
+.gpo-app .gpo-total-text {
+    color: var(--gpo-theme-text);
+    font-size: var(--gpo-theme-value-size);
+}
+
+.gpo-app .gpo-total-text .money {
+    color: var(--gpo-theme-button);
+}
+
+/* Button swatches: like .xo-field-radio--boxed .xo-field-radio__label */
+
+.gpo-app .gpo-ov-wrapper.horizontal:has(> .gpo-swatches.buttons) {
+    gap: 0.5rem;
+}
+
+.gpo-app .gpo-swatches.buttons input + label {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 0;
+    min-height: 0;
+    padding: 0.55rem 1.2rem;
+    border: 0;
+    border-radius: 2.5rem;
+    color: rgba(var(--color-button), 0.7);
+    background: rgba(var(--color-button), 0.1);
+    box-shadow: none;
+    font-size: var(--gpo-theme-label-size);
+    font-weight: 500;
+    line-height: calc(1 + 0.5 / var(--font-body-scale));
+    letter-spacing: normal;
+    text-transform: capitalize;
+    transition: all 0.3s;
+}
+
+.gpo-app .gpo-swatches.buttons input + label:hover,
+.gpo-app .gpo-swatches.buttons input:checked + label {
+    color: var(--gpo-theme-button-text);
+    background: var(--gpo-theme-button);
+    border: 0;
+    box-shadow: none;
+}
+
+.gpo-app .gpo-swatches.buttons input + label span,
+.gpo-app .gpo-swatches.buttons .gpo-ov-title,
+.gpo-app .gpo-swatches.buttons .gpo-ov-title > span {
+    color: inherit;
+    font-size: inherit;
+    font-weight: inherit;
+    line-height: inherit;
+}
+
+/* Color / image swatches: round .xo-field-color__item, 1px selected ring */
+
+.gpo-app .gpo-swatches.color-swatches input + label,
+.gpo-app .gpo-swatches.image-swatches input + label {
+    padding: 0.1rem;
+    border: 0;
+    border-radius: 50%;
+    outline: 0.1rem solid transparent;
+    background: transparent;
+    box-shadow: none;
+    transition: all 0.3s ease-in-out;
+}
+
+.gpo-app .gpo-swatches.color-swatches .gpo-swatch__inner,
+.gpo-app .gpo-swatches.color-swatches .swatch-top,
+.gpo-app .gpo-swatches.image-swatches .gpo-swatch__inner,
+.gpo-app .gpo-swatches.image-swatches .swatch-image {
+    border: 0;
+    border-radius: 50%;
+}
+
+.gpo-app .gpo-swatches.color-swatches input:checked + label,
+.gpo-app .gpo-swatches.image-swatches input:checked + label {
+    outline-color: var(--gpo-theme-button);
+    box-shadow: none;
+}
+
+.gpo-app .gpo-ov-wrapper.vertical .gpo-ov-title,
+.gpo-app .gpo-ov-wrapper.vertical .gpo-ov-title > span {
+    color: var(--gpo-theme-text);
+    font-size: var(--gpo-theme-label-size);
+}
+
+/* Quantity: compact controls using the .xo-quantity palette */
+
+.gpo-app .gpo-ov-quantity {
+    box-sizing: border-box;
+    width: 11rem;
+    max-width: 100%;
+    height: var(--gpo-theme-quantity-height);
+    padding: 0.3rem 0.5rem;
+    border: 0.1rem solid var(--gpo-theme-border);
+    border-radius: 2.4rem;
+    background: transparent;
+}
+
+.gpo-app .gpo-choicelist .gpo-ov-quantity {
+    margin-top: 0.8rem;
+}
+
+.gpo-app .gpo-choicelist input:checked ~ .gpo-ov-quantity,
+.gpo-app .gpo-swatches input:checked ~ .gpo-ov-extend .gpo-ov-quantity {
+    border-color: var(--gpo-theme-border);
+}
+
+.gpo-app .gpo-ov-quantity > * {
+    min-height: 0;
+    color: var(--gpo-theme-text);
+}
+
+.gpo-app .gpo-ov-quantity button {
+    flex: 0 0 2.4rem;
+    width: 2.4rem;
+    height: 2.4rem;
+    padding: 0.5rem;
+    border: 0 !important;
+    border-radius: 1rem;
+    box-shadow: none !important;
+    background: transparent;
+    transition: all 0.3s;
+}
+
+.gpo-app .gpo-ov-quantity button:hover {
+    background: rgba(var(--color-button), 0.3);
+}
+
+.gpo-app .gpo-ov-quantity button svg {
+    width: 1.4rem;
+    height: 1.4rem;
+}
+
+.gpo-app .gpo-ov-quantity input {
+    width: 100%;
+    min-width: 0;
+    height: 2.2rem;
+    margin: 0;
+    padding: 0 0.4rem;
+    border: 0 !important;
+    border-radius: 0;
+    box-shadow: none !important;
+    background: transparent !important;
+    font-size: var(--gpo-theme-label-size);
+    font-weight: 400;
+    line-height: calc(1 + 0.42 / var(--font-body-scale));
+    text-align: center;
+}
+
+.gpo-app .gpo-quantity__label {
+    color: var(--gpo-theme-muted);
+    font-size: var(--gpo-theme-label-size);
+    font-weight: 500;
+}
+
+.gpo-app .gpo-quantity .gpo-quantity__input {
+    box-sizing: border-box;
+    width: 8rem;
+    height: var(--gpo-theme-quantity-height);
+    min-height: var(--gpo-theme-quantity-height);
+    max-width: 100%;
+    margin: 0;
+    padding: 0.4rem 0.8rem;
+    border: 0.1rem solid var(--gpo-theme-border);
+    border-radius: 2.4rem;
+    color: var(--gpo-theme-text);
+    background: transparent;
+    font-size: var(--gpo-theme-label-size);
+    font-weight: 400;
+    line-height: calc(1 + 0.42 / var(--font-body-scale));
+    box-shadow: none;
+}
+
+/* Choicelist: .xo-field-radio and .xo-field-checkbox, from theme CSS */
+
+.gpo-app .gpo-choicelist input + label {
+    padding-left: 2.6rem;
+}
+
+.gpo-app .gpo-choicelist input + label,
+.gpo-app .gpo-choicelist input + label span,
+.gpo-app .gpo-choicelist input:checked + label,
+.gpo-app .gpo-choicelist input:checked + label span {
+    color: var(--gpo-theme-muted);
+    font-size: var(--gpo-theme-label-size);
+    font-weight: 500;
+    line-height: calc(1 + 0.5 / var(--font-body-scale));
+}
+
+.gpo-app .gpo-choicelist input + label::before,
+.gpo-app .gpo-choicelist input:not(:checked) + label::before,
+.gpo-app .gpo-choicelist input:checked + label::before {
+    box-sizing: border-box;
+    width: 1.6rem;
+    height: 1.6rem;
+    border: 0.1rem solid rgba(var(--color-foreground), 0.4);
+    border-radius: 50%;
+    background: var(--gpo-theme-bg);
+    box-shadow: none;
+    transition: 0.3s;
+}
+
+.gpo-app .gpo-choicelist input + label::after {
+    left: 0.24rem;
+    width: 1.12rem;
+    height: 1.12rem;
+    border: 0;
+    border-radius: 50%;
+    background: var(--gpo-theme-text);
+}
+
+.gpo-app .gpo-choicelist input:checked + label,
+.gpo-app .gpo-choicelist input:checked + label span {
+    color: var(--gpo-theme-text);
+}
+
+.gpo-app .gpo-choicelist.gpo-checkbox input + label::before {
+    width: 2rem;
+    height: 2rem;
+    border: 0.2rem solid rgb(var(--color-border));
+    border-radius: 0.5rem;
+}
+
+.gpo-app .gpo-choicelist.gpo-checkbox input:checked + label::before {
+    border-color: var(--gpo-theme-button);
+    background: var(--gpo-theme-button);
+}
+
+.gpo-app .gpo-choicelist.gpo-checkbox input + label::after {
+    content: "";
+    left: 0.4rem;
+    width: 1.2rem;
+    height: 0.9rem;
+    border: 0;
+    border-radius: 0;
+    background: var(--gpo-theme-button-text);
+    mask: var(--gpo-theme-check) center / contain no-repeat;
+}
+
+/* Dropdown / Select: product .xo-field-select-custom__trigger radius */
+
+.gpo-app .gpo-select,
+.gpo-app .gpo-dropdown .dropdown-button {
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+    position: relative;
+    width: 100%;
+    min-height: var(--gpo-theme-select-height);
+    border: 0.1rem solid var(--gpo-theme-border) !important;
+    border-radius: var(--gpo-theme-select-radius);
+    color: var(--gpo-theme-text) !important;
+    background-color: var(--gpo-theme-bg);
+    box-shadow: none;
+    font-size: var(--gpo-theme-input-size);
+    font-weight: 500;
+    line-height: calc(1 + 0.5 / var(--font-body-scale));
+}
+
+.gpo-app .gpo-select select {
+    box-sizing: border-box;
+    flex: 1;
+    width: 100%;
+    max-width: none;
+    height: calc(var(--gpo-theme-select-height) - 0.2rem);
+    min-height: 0;
+    margin: 0;
+    padding: 0 4.3rem 0 2.9rem;
+    border: 0;
+    border-radius: inherit;
+    background: transparent;
+    background-image: none !important;
+    appearance: none;
+    color: inherit !important;
+    font: inherit;
+    box-shadow: none;
+}
+
+.gpo-app .gpo-select select:focus,
+.gpo-app .gpo-input:focus,
+.gpo-app .gpo-dimension-input:focus {
+    outline: 0 !important;
+    box-shadow: none !important;
+}
+
+.gpo-app .gpo-dropdown .dropdown-button {
+    min-height: var(--gpo-theme-dropdown-height);
+    padding: 1.6rem 4.2rem 1.6rem 1.4rem;
+    border: 0.1rem solid rgb(var(--color-border)) !important;
+    border-radius: 1.2rem;
+    font-size: var(--gpo-theme-value-size);
+    line-height: calc(1 + 0.42 / var(--font-body-scale));
+    text-transform: capitalize;
+}
+
+.gpo-app .gpo-dropdown .dropdown-button__value {
+    flex: 1;
+    min-width: 0;
+}
+
+/* Arrow: theme caret, rotating over 0.5s on custom dropdowns */
+
+.gpo-app .gpo-select::after,
+.gpo-app .gpo-dropdown .dropdown-button::after {
+    content: "";
+    position: absolute;
+    top: 50%;
+    right: 1.6rem;
+    width: 2rem;
+    height: 2rem;
+    margin: -1rem 0 0;
+    border: 0;
+    background: currentColor;
+    mask: var(--gpo-theme-chevron) center / contain no-repeat;
+    opacity: 0.7;
+    transform: none;
+    transition: transform 0.5s;
+    pointer-events: none;
+}
+
+.gpo-app .gpo-dropdown.expanded .dropdown-button::after {
+    transform: rotate(180deg);
+}
+
+.gpo-app .gpo-dropdown .dropdown-button__icon {
+    display: none !important;
+}
+
+/* List: theme popover fade-up (300ms, 50px) instead of height expansion */
+
+.gpo-app .gpo-dropdown .dropdown-list {
+    display: block;
+    max-height: max(50vh, 40rem);
+    margin-top: 1rem;
+    padding: 1.6rem 1.4rem;
+    border: 0.1rem solid rgba(var(--color-foreground), 0.15);
+    border-radius: 1.2rem;
+    background: var(--gpo-theme-bg);
+    box-shadow: none;
+    opacity: 0;
+    visibility: hidden;
+    transform: translateY(5rem);
+    pointer-events: none;
+    transition: opacity 0.3s cubic-bezier(0, 0, 0.3, 1), transform 0.3s cubic-bezier(0, 0, 0.3, 1), visibility 0.3s;
+}
+
+.gpo-app .gpo-dropdown.expanded .dropdown-list,
+.gpo-app .gpo-dropdown.expanded.gpo-image-dropdown .dropdown-list,
+.gpo-app .gpo-dropdown.expanded.gpo-color-dropdown .dropdown-list {
+    max-height: min(max(50vh, 40rem), 70vh);
+    opacity: 1;
+    visibility: visible;
+    transform: translateY(0);
+    pointer-events: auto;
+}
+
+.gpo-app .gpo-dropdown .dropdown-list .dropdown-list-wrapper {
+    max-height: inherit;
+}
+
+.gpo-app .gpo-dropdown .dropdown-item,
+.gpo-app .gpo-dropdown .dropdown-item:hover,
+.gpo-app .gpo-dropdown.gpo-image-dropdown .dropdown-item,
+.gpo-app .gpo-dropdown.gpo-color-dropdown .dropdown-item {
+    height: auto;
+    min-height: 0;
+    line-height: normal;
+    background: transparent;
+}
+
+.gpo-app .gpo-dropdown .dropdown-item label {
+    min-height: 0;
+    padding: 0.5rem 0;
+    color: var(--gpo-theme-muted);
+    background: transparent;
+    font-size: var(--gpo-theme-value-size);
+    font-weight: 500;
+    line-height: calc(1 + 0.42 / var(--font-body-scale));
+    transition: color 0.3s;
+}
+
+.gpo-app .gpo-dropdown input + label:hover,
+.gpo-app .gpo-font-picker .dropdown-item:hover {
+    background: transparent;
+    color: var(--gpo-theme-text);
+}
+
+.gpo-app .gpo-dropdown input:checked + label,
+.gpo-app .gpo-font-picker .dropdown-item.selected {
+    color: var(--gpo-theme-accent) !important;
+    background: transparent;
+}
+
+.gpo-app .gpo-dropdown input:checked + label::after {
+    content: "";
+    flex: 0 0 1.2rem;
+    width: 1.2rem;
+    height: 0.9rem;
+    background: var(--gpo-theme-accent);
+    mask: var(--gpo-theme-check) center / contain no-repeat;
+}
+
+.gpo-app .gpo-dropdown .dropdown-suggestion {
+    max-width: 100%;
+    padding: 1rem 1.4rem;
+    border: 0.1rem solid var(--gpo-theme-border);
+    border-radius: 1.2rem;
+    color: var(--gpo-theme-text);
+    background: var(--gpo-theme-bg);
+    font-size: var(--gpo-theme-value-size);
+}
+
+/* Input: .xo-field-input wrapper owns the border and 5.6rem height */
+
+.gpo-app .gpo-input-wrap,
+.gpo-app .gpo-dimension-input-wrap {
+    position: relative;
+    width: 100%;
+    border: 0.1rem solid var(--gpo-theme-border) !important;
+    border-radius: var(--gpo-theme-radius) !important;
+    background: var(--gpo-theme-bg);
+    box-shadow: none;
+    overflow: hidden;
+}
+
+.gpo-app .gpo-input-wrap.gpo-color-box,
+.gpo-app .gpo-input-wrap:has(.gpo-phone) {
+    overflow: visible;
+}
+
+.gpo-app .gpo-input,
+.gpo-app .gpo-dimension-input {
+    box-sizing: border-box;
+    width: 100%;
+    max-width: none;
+    min-width: 0;
+    margin: 0;
+    padding: 1.6rem 2.3rem 1.6rem 2.9rem;
+    border: 0;
+    border-radius: inherit !important;
+    color: var(--gpo-theme-text) !important;
+    background: transparent;
+    font-family: var(--font-body-family);
+    font-size: var(--gpo-theme-input-size);
+    font-weight: 500;
+    line-height: calc(1 + 0.5 / var(--font-body-scale));
+    outline: none;
+    box-shadow: none;
+}
+
+.gpo-app .gpo-input:not(.gpo-textarea),
+.gpo-app .gpo-dimension-input:not(.gpo-textarea) {
+    height: calc(var(--gpo-theme-input-height) - 0.2rem);
+    min-height: calc(var(--gpo-theme-input-height) - 0.2rem);
+}
+
+/* Textarea: .xo-field-textarea has a bottom border and remains multiline */
+
+.gpo-app .gpo-input-wrap:has(.gpo-textarea) {
+    border: 0 !important;
+    border-bottom: 0.1rem solid rgb(var(--color-border)) !important;
+    border-radius: 0 !important;
+    background: transparent;
+}
+
+.gpo-app .gpo-input.gpo-textarea {
+    height: auto;
+    min-height: 10rem;
+    padding: 1rem 0;
+    border-radius: 0 !important;
+    line-height: calc(1 + 0.4 / var(--font-body-scale));
+    letter-spacing: calc(var(--font-body-scale) * -0.016rem);
+    resize: vertical;
+}
+
+.gpo-app .gpo-input::placeholder,
+.gpo-app .gpo-dimension-input::placeholder {
+    color: var(--gpo-theme-muted);
+    opacity: 1;
+}
+
+.gpo-app .gpo-input-prefix {
+    padding: 0 0 0 2.9rem;
+    color: var(--gpo-theme-muted);
+}
+
+.gpo-app .gpo-input-prefix svg {
+    fill: currentColor;
+}
+
+.gpo-app .gpo-input-prefix svg,
+.gpo-app .gpo-input-prefix img {
+    width: 2.4rem;
+    height: 2.4rem;
+}
+
+.gpo-app .gpo-input-prefix + .gpo-input,
+.gpo-app .gpo-select .gpo-input-prefix + select {
+    padding-left: 0.8rem;
+}
+
+.gpo-app .gpo-dropdown .dropdown-button .gpo-input-prefix {
+    padding: 0 0.8rem 0 0;
+}
+
+.gpo-app .gpo-input-suffix,
+.gpo-app .gpo-dimension-unit {
+    color: var(--gpo-theme-muted);
+    background: transparent;
+    border: 0;
+    border-radius: 0 !important;
+    padding: 0 2.3rem 0 0.8rem;
+    font-size: var(--gpo-theme-value-size);
+}
+
+.gpo-app .iti {
+    min-height: 0;
+    width: 100%;
+}
+
+.gpo-app .iti__flag-container {
+    padding: 0;
+}
+
+.gpo-app .iti--separate-dial-code .iti__selected-flag {
+    padding: 0 1.2rem;
+    color: var(--gpo-theme-text);
+    background: rgba(var(--color-foreground), 0.05);
+    border-radius: 2.9rem 0 0 2.9rem;
+}
+
+.gpo-app .iti__country-list {
+    max-width: min(34rem, 85vw);
+    border: 0.1rem solid var(--gpo-theme-border);
+    border-radius: 1.2rem;
+    color: var(--gpo-theme-text);
+    background: var(--gpo-theme-bg);
+}
+
+.gpo-app .iti__country.iti__highlight {
+    background: rgba(var(--color-foreground), 0.1);
+}
+
+.gpo-app .iti__dial-code {
+    color: var(--gpo-theme-muted);
+}
+
+.gpo-app .iti__arrow {
+    border-top-color: var(--gpo-theme-text);
+}
+
+.gpo-app .iti__arrow--up {
+    border-bottom-color: var(--gpo-theme-text);
+}
+
+.gpo-app .gpo-color-box .preview-btn {
+    z-index: 1;
+    margin-left: 2.9rem;
+    border-radius: 1rem;
+}
+
+.gpo-app .gpo-color-box .gpo-color {
+    padding-left: 8.5rem;
+}
+
+/* Keyboard focus: theme foreground outline, without changing outer geometry */
+
+.gpo-app .gpo-input-wrap:focus-within,
+.gpo-app .gpo-dimension-input-wrap:focus-within,
+.gpo-app .gpo-select:focus-within,
+.gpo-app .gpo-dropdown .dropdown-button:focus-visible,
+.gpo-app .gpo-quantity .gpo-quantity__input:focus-visible,
+.gpo-app .gpo-swatches input:focus-visible + label,
+.gpo-app .gpo-choicelist input:focus-visible + label,
+.gpo-app .gpo-switch input:focus-visible + label {
+    outline: 0.2rem solid rgba(var(--color-foreground), 0.5);
+    outline-offset: 0.3rem;
+}
+
+.gpo-app .gpo-input-wrap.gpo-error,
+.gpo-app .gpo-select.gpo-error {
+    border-color: rgb(var(--color-error)) !important;
+}
+
+/* File upload: theme field tokens; upload has no native counterpart */
+
+.gpo-app .gpo-dropzone {
+    border: 0.1rem dashed var(--gpo-theme-border) !important;
+    border-radius: var(--gpo-theme-radius);
+    background: var(--gpo-theme-bg);
+    transition: border-color 0.3s;
+}
+
+.gpo-app .gpo-dropzone:hover {
+    border-color: var(--gpo-theme-button) !important;
+    background: var(--gpo-theme-bg);
+}
+
+.gpo-app .gpo-dropzone__input {
+    box-shadow: none;
+}
+
+/* Action: .xo-btn--primary .xo-btn__content typography and button tokens */
+
+.gpo-app .gpo-dropzone__action {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 1.55rem calc(var(--buttons-scale) * 2.6rem);
+    border: max(var(--buttons-border-width), 0.1rem) solid transparent;
+    border-radius: var(--buttons-radius);
+    color: var(--gpo-theme-button-text);
+    background: var(--gpo-theme-button);
+    font-family: var(--font-heading-family);
+    font-size: var(--gpo-theme-input-size);
+    font-weight: var(--font-heading-weight);
+    line-height: calc(1 - 0.02 / var(--font-body-scale));
+    text-transform: uppercase;
+    transition: all 0.3s;
+}
+
+.gpo-app .gpo-dropzone:hover .gpo-dropzone__action {
+    color: rgb(var(--color-button-text-hover));
+    background: rgb(var(--color-button-bg-hover));
+}
+
+.gpo-app .gpo-dropzone__caption {
+    color: var(--gpo-theme-muted);
+    font-size: var(--gpo-theme-label-size);
+}
+
+.gpo-app .gpo-f-card,
+.gpo-app .gpo-uploading {
+    margin-top: 0.8rem;
+    padding: 0.8rem 1.2rem;
+    border: 0.1rem solid var(--gpo-theme-border);
+    border-radius: 1.2rem;
+    color: var(--gpo-theme-text);
+    background: var(--gpo-theme-bg);
+}
+
+.gpo-app .gpo-f-name,
+.gpo-app .gpo-f-link,
+.gpo-app .gpo-uploading span {
+    color: var(--gpo-theme-text);
+    font-size: var(--gpo-theme-label-size);
+}
+
+/* Remove: secondary button palette */
+
+.gpo-app .gpo-f-rm {
+    border: 0;
+    border-radius: 50%;
+    color: rgb(var(--color-secondary-button-text));
+    background: rgb(var(--color-secondary-button));
+    box-shadow: none;
+}
+
+.gpo-app .gpo-f-rm:hover {
+    color: rgb(var(--color-secondary-button-text-hover));
+    background: rgb(var(--color-secondary-button-bg-hover));
+}
+
+/* Switch: adaptation of the theme field and button palette */
+
+.gpo-app .gpo-switch {
+    display: block;
+}
+
+.gpo-app .gpo-switch input + label,
+.gpo-app .gpo-switch input + label span {
+    color: var(--gpo-theme-text);
+    font-size: var(--gpo-theme-label-size);
+}
+
+.gpo-app .gpo-switch input + label::before {
+    background: rgb(var(--color-border));
+}
+
+.gpo-app .gpo-switch input:checked + label::before {
+    background: var(--gpo-theme-button);
+}
+
+.gpo-app .gpo-switch input + label::after {
+    background: var(--gpo-theme-bg);
+}
+
+/* Range: .xo-field-price range palette from theme CSS */
+
+.gpo-app .gpo-range-tooltip {
+    color: var(--gpo-theme-button-text);
+    background: var(--gpo-theme-button);
+    border-radius: 0.5rem;
+    font-size: var(--gpo-theme-label-size);
+}
+
+.gpo-app .gpo-range-tooltip::after {
+    border-color: var(--gpo-theme-button) transparent transparent transparent;
+}
+
+.gpo-app .gpo-range-min,
+.gpo-app .gpo-range-max {
+    color: var(--gpo-theme-muted);
+    font-size: var(--gpo-theme-label-size);
+}
+
+.gpo-app .gpo-range .gpo-range-input {
+    max-width: 100%;
+    height: auto;
+    padding: 0;
+    margin: 0;
+    border: 0;
+    box-shadow: none;
+    background: transparent;
+}
+
+.gpo-app .gpo-range .gpo-range-input::-webkit-slider-runnable-track {
+    height: 0.15rem;
+    background: linear-gradient(to right, var(--gpo-theme-accent) var(--progress), rgba(var(--color-accent), 0.3) var(--progress));
+}
+
+.gpo-app .gpo-range .gpo-range-input::-moz-range-track {
+    background: rgba(var(--color-accent), 0.3);
+}
+
+.gpo-app .gpo-range .gpo-range-input::-moz-range-progress {
+    background: var(--gpo-theme-accent);
+}
+
+.gpo-app .gpo-range .gpo-range-input::-webkit-slider-thumb {
+    width: 1.8rem;
+    height: 1.8rem;
+    background: var(--gpo-theme-bg);
+    border: 0.2rem solid var(--gpo-theme-accent);
+}
+
+.gpo-app .gpo-range .gpo-range-input::-moz-range-thumb {
+    width: 1.8rem;
+    height: 1.8rem;
+    background: var(--gpo-theme-bg);
+    border: 0.2rem solid var(--gpo-theme-accent);
+}
+
+/* Tabs: theme text and border palette */
+
+.gpo-app .gpo-tabs .gpo-tabs-tabpanel .gpo-tabs-tabcontent {
+    border: 0;
+    border-radius: 0;
+    color: var(--gpo-theme-text);
+    background: transparent;
+    font-size: var(--gpo-theme-value-size);
+    line-height: 1.5;
+}
+
+/* Horizontal: theme-token adaptation; no native horizontal tabs on this product */
+
+.gpo-app .gpo-tabs:not(.gpo-tabs-vertical) .gpo-tabs-title .gpo-tabs-tab {
+    padding: 1.2rem 1.6rem;
+    margin: 0;
+    border: 0;
+    border-bottom: 0.1rem solid rgb(var(--color-border));
+    border-radius: 0;
+    color: var(--gpo-theme-muted);
+    background: transparent;
+    font-size: var(--gpo-theme-value-size);
+    font-weight: 500;
+}
+
+.gpo-app .gpo-tabs:not(.gpo-tabs-vertical) .gpo-tabs-title .gpo-tabs-tab.gpo-tab-active {
+    color: var(--gpo-theme-text);
+    background: transparent;
+    border-bottom-color: var(--gpo-theme-button);
+}
+
+/* Vertical: .xo-collapse__trigger with plus / minus icon */
+
+.gpo-app .gpo-tabs.gpo-tabs-vertical {
+    border: 0;
+    border-radius: 0;
+    background: transparent;
+}
+
+.gpo-app .gpo-tabs.gpo-tabs-vertical .gpo-tabs-title .gpo-tabs-tab,
+.gpo-app .gpo-tabs.gpo-tabs-vertical .gpo-tabs-title .gpo-tabs-tab.gpo-tab-active {
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 0;
+    padding: 1.2rem 0 0.7rem;
+    border: 0;
+    border-bottom: 0.1rem solid rgb(var(--color-border));
+    color: var(--gpo-theme-text);
+    background: transparent;
+    font-size: var(--gpo-theme-value-size);
+    font-weight: 500;
+    line-height: calc(1 + 0.3 / var(--font-body-scale));
+}
+
+.gpo-app .gpo-tabs.gpo-tabs-vertical .gpo-tabs-title .gpo-tabs-tab::before {
+    display: none;
+}
+
+.gpo-app .gpo-tabs.gpo-tabs-vertical .gpo-tabs-title .gpo-tabs-tab::after {
+    content: "+";
+    position: static;
+    flex: 0 0 2.4rem;
+    width: 2.4rem;
+    height: 2.4rem;
+    border: 0;
+    font-family: var(--font-body-family);
+    font-size: 2rem;
+    font-weight: 400;
+    line-height: 2.4rem;
+    text-align: center;
+}
+
+.gpo-app .gpo-tabs.gpo-tabs-vertical .gpo-tabs-title .gpo-tabs-tab.gpo-tab-active::after {
+    content: "−";
+}
+
+.gpo-app .gpo-tabs.gpo-tabs-vertical .gpo-tabs-title .gpo-tabs-tab.gpo-tab-active {
+    border-bottom: 0;
+}
+
+.gpo-app .gpo-tabs.gpo-tabs-vertical .gpo-tabs-tabpanel .gpo-tabs-tabcontent {
+    padding: 1rem 0 2rem;
+    background: transparent;
+}
+
+@media (min-width: 740px) {
+    .gpo-app .gpo-group__header,
+    .gpo-app .gpo-tabs.gpo-tabs-vertical .gpo-tabs-title .gpo-tabs-tab {
+        padding: 1.5rem 0 0.8rem;
+    }
+}
+
+@media (min-width: 992px) and (max-width: 1399px) {
+    .gpo-app .gpo-swatches.buttons input + label {
+        padding: 0.6rem 1.2rem;
+    }
+}

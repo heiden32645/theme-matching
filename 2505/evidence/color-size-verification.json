@@ -1,0 +1,45 @@
+{
+  "image": [
+    {
+      "cls": "",
+      "h": 60,
+      "w": 60
+    },
+    {
+      "cls": "swatch-image",
+      "h": 60,
+      "w": 60
+    }
+  ],
+  "selected": true,
+  "twoColor": [
+    {
+      "cls": "",
+      "h": 32,
+      "style": null,
+      "w": 32
+    },
+    {
+      "cls": "gpo-swatch__inner",
+      "h": 32,
+      "style": null,
+      "w": 32
+    },
+    {
+      "cls": "swatch-top",
+      "h": 32,
+      "style": "width:32px;height:32px;background-color:#d4ed54",
+      "w": 32
+    },
+    {
+      "cls": "swatch-bottom",
+      "h": 32,
+      "style": "border-bottom:32px solid #8c29e7;border-left:32px solid transparent",
+      "w": 32
+    }
+  ],
+  "viewport": [
+    1361,
+    963
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "pointerFocus": {
+    "border": "1px solid rgb(218, 213, 201)",
+    "shadow": "rgba(22, 21, 19, 0.35) 0px 0px 0px 3px"
+  },
+  "keyboardFocus": {
+    "focused": "textarea-1",
+    "shadow": "rgba(22, 21, 19, 0.35) 0px 0px 0px 3px"
+  },
+  "phoneOpen": {
+    "overflow": "visible",
+    "rect": {
+      "bottom": 644.2265625,
+      "height": 200,
+      "left": 19.1953125,
+      "right": 194.1484375,
+      "top": 444.2265625,
+      "width": 174.953125,
+      "x": 19.1953125,
+      "y": 444.2265625
+    }
+  }
+}

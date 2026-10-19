@@ -1,0 +1,7 @@
+{
+  "caret": "matrix(-1, 0, 0, -1, 0, 0)",
+  "expanded": "gpo-dropdown gpo-oos--show expanded",
+  "opacity": "1",
+  "transform": "matrix(1, 0, 0, 1, 0, 0)",
+  "transition": "opacity 0.3s cubic-bezier(0, 0, 0.3, 1), transform 0.3s cubic-bezier(0, 0, 0.3, 1), visibility 0.3s"
+}

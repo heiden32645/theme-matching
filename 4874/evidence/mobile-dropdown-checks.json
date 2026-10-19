@@ -1,0 +1,22 @@
+{
+  "dropdownOpen": {
+    "display": "block",
+    "rect": {
+      "bottom": 713.3203125,
+      "height": 264.390625,
+      "left": 19.1953125,
+      "right": 355.8046875,
+      "top": 448.9296875,
+      "width": 336.609375,
+      "x": 19.1953125,
+      "y": 448.9296875
+    },
+    "transition": "none"
+  },
+  "dropdownClosed": {
+    "display": "none"
+  },
+  "outsideClose": {
+    "expanded": false
+  }
+}

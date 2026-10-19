@@ -1,0 +1,40 @@
+{
+  "desktopDropdown": {
+    "height": 1000,
+    "rect": {
+      "bottom": 791.5390625,
+      "height": 264.390625,
+      "left": 935,
+      "right": 1345,
+      "top": 527.1484375,
+      "width": 410,
+      "x": 935,
+      "y": 527.1484375
+    },
+    "transition": "none",
+    "width": 1440
+  },
+  "desktopFocus": {
+    "focused": "textarea-1",
+    "shadow": "rgba(22, 21, 19, 0.35) 0px 0px 0px 3px"
+  },
+  "states": {
+    "fontFaces": [
+      "Roboto",
+      "\"Open Sans\"",
+      "Montserrat",
+      "Poppins",
+      "Oswald"
+    ],
+    "gpoPillHeight": 40,
+    "gpoQuantityHeight": 50,
+    "nativePillHeight": 40,
+    "nativeQuantityHeight": 50,
+    "text": "Match theme",
+    "textarea": "Dòng thứ nhất\nDòng thứ hai",
+    "viewport": {
+      "height": 1000,
+      "width": 1440
+    }
+  }
+}

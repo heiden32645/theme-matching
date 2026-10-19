@@ -1,0 +1,157 @@
+
+
+  @font-face {
+  font-family: "Libre Franklin";
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url("//kbdq65hblv510gof-69620498584.shopifypreview.com/cdn/fonts/libre_franklin/librefranklin_n7.6739620624550b8695d0cc23f92ffd46eb51c7a3.woff2") format("woff2"),
+       url("//kbdq65hblv510gof-69620498584.shopifypreview.com/cdn/fonts/libre_franklin/librefranklin_n7.7cebc205621b23b061b803310af0ad39921ae57d.woff") format("woff");
+}
+
+  @font-face {
+  font-family: "Libre Franklin";
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+  src: url("//kbdq65hblv510gof-69620498584.shopifypreview.com/cdn/fonts/libre_franklin/librefranklin_i4.5cee60cade760b32c7b489f9d561e97341909d7c.woff2") format("woff2"),
+       url("//kbdq65hblv510gof-69620498584.shopifypreview.com/cdn/fonts/libre_franklin/librefranklin_i4.2f9ee939c2cc82522dfb62e1a084861f9beeb411.woff") format("woff");
+}
+
+  @font-face {
+  font-family: "Libre Franklin";
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+  src: url("//kbdq65hblv510gof-69620498584.shopifypreview.com/cdn/fonts/libre_franklin/librefranklin_i7.5cd0952dea701f27d5d0eb294c01347335232ef2.woff2") format("woff2"),
+       url("//kbdq65hblv510gof-69620498584.shopifypreview.com/cdn/fonts/libre_franklin/librefranklin_i7.41af936a1cd17668e4e060c6e0ad838ccf133ddd.woff") format("woff");
+}
+
+  
+  @font-face {
+  font-family: "Libre Franklin";
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url("//kbdq65hblv510gof-69620498584.shopifypreview.com/cdn/fonts/libre_franklin/librefranklin_n4.a9b0508e1ffb743a0fd6d0614768959c54a27d86.woff2") format("woff2"),
+       url("//kbdq65hblv510gof-69620498584.shopifypreview.com/cdn/fonts/libre_franklin/librefranklin_n4.948f6f27caf8552b1a9560176e3f14eeb2c6f202.woff") format("woff");
+}
+
+
+  
+    
+    :root,
+    .color-background-1 {
+    --scheme-id: background-1;
+    --primary-color: 83, 99, 98;
+    --membership: 231, 211, 40;
+    --membership-text: 33, 54, 54;
+
+    --background-color: 247,243, 224;
+    --border-color: 83, 99, 98;
+    --link-color: 83, 99, 98;--container-background: rgba(var(--primary-color), 0.1);
+    --image-overlay:  rgba(var(--primary-color), 0.4);
+
+    --link-color-contrast: #f7f3e0;
+    --text-color: 83, 99, 98;
+
+    --button-primary: 83, 99, 98;
+    --button-primary-text:247, 243, 224;
+    --button-primary-border: 83, 99, 98;
+
+    --button-secondary: 247, 243, 224;
+    --button-secondary-text: 83, 99, 98;
+    --button-secondary-border: 247, 243, 224;
+    }
+  
+    
+    
+    .color-background-2 {
+    --scheme-id: background-2;
+    --primary-color: 83, 99, 98;
+    --membership: 231, 211, 40;
+    --membership-text: 33, 54, 54;
+
+    --background-color: 83,99, 98;
+    --border-color: 247, 243, 224;
+    --link-color: 247, 243, 224;--container-background: rgba(var(--primary-color), 0.1);
+    --image-overlay:  rgba(var(--primary-color), 0.4);
+
+    --link-color-contrast: #f7f3e0;
+    --text-color: 247, 243, 224;
+
+    --button-primary: 247, 243, 224;
+    --button-primary-text:83, 99, 98;
+    --button-primary-border: 247, 243, 224;
+
+    --button-secondary: 247, 243, 224;
+    --button-secondary-text: 83, 99, 98;
+    --button-secondary-border: 247, 243, 224;
+    }
+  
+    
+    
+    .color-background-3 {
+    --scheme-id: background-3;
+    --primary-color: 83, 99, 98;
+    --membership: 231, 211, 40;
+    --membership-text: 83, 99, 98;
+
+    --background-color: 83,99, 98;
+    --border-color: 83, 99, 98;
+    --link-color: 247, 243, 224;--container-background: rgba(var(--primary-color), 0.1);
+    --image-overlay:  rgba(var(--primary-color), 0.4);
+
+    --link-color-contrast: #f7f3e0;
+    --text-color: 247, 243, 224;
+
+    --button-primary: 247, 243, 224;
+    --button-primary-text:83, 99, 98;
+    --button-primary-border: 247, 243, 224;
+
+    --button-secondary: 247, 243, 224;
+    --button-secondary-text: 83, 99, 98;
+    --button-secondary-border: 83, 99, 98;
+    }
+  
+
+  
+:root {
+    --global-spacing: 0.7rem;
+    --max-width: 650px;
+    --font-headings-family: "Trebuchet MS";
+    --font-headings-weight: 700;
+    --font-headings-style: normal;
+    --font-headings-line-height: 1.3;
+    --font-headings-spacing: 0rem;
+    --font-headings-transform: lowercase;
+    --font-headings-scale: 1.0;
+
+    --font-body-family: "Libre Franklin";
+    --font-body-style: normal;
+    --font-body-weight: 400;
+    --font-body-transform: none;
+    --font-body-line-height: 1.5;
+    --font-body-spacing: 0rem;
+    --font-body-scale: 1.0rem;
+    --nav-item-transform: lowercase;
+
+    --gradient-1: rgba(var(--background-color), 1);
+    --gradient-2: rgba(var(--background-color), 0.5);
+    --gradient-3: rgba(var(--background-color), 0.2);
+    --gradient-4: rgba(var(--background-color), 0.0);
+
+    --border-width:  1px;
+    --border-width-icons: 1px;
+    --fields-border-width: var(--border-width);
+    --fields-border-color: var(--border-color);
+    --details-height-lg: 600px; 
+    --details-height-sm: 400px;
+    --scrollbar-padding: 100px; 
+
+    
+      --border-width-icons: 2px; 
+    
+    
+    
+  }

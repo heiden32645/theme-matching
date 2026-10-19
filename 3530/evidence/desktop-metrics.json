@@ -1,0 +1,145 @@
+{
+  "controls": [
+    {
+      "bg": "rgb(4, 43, 53)",
+      "color": "rgb(221, 209, 202)",
+      "font": "500 16px / 24px Poppins, sans-serif",
+      "height": "56px",
+      "rect": {
+        "bottom": 595.046875,
+        "height": 56,
+        "left": 615.9140625,
+        "right": 1145.5390625,
+        "top": 539.046875,
+        "width": 529.625,
+        "x": 615.9140625,
+        "y": 539.046875
+      },
+      "sel": ".gpo-select"
+    },
+    {
+      "bg": "rgb(4, 43, 53)",
+      "color": "rgb(221, 209, 202)",
+      "font": "500 15px / 21.3px Poppins, sans-serif",
+      "height": "55.2969px",
+      "rect": {
+        "bottom": 702.21875,
+        "height": 55.296875,
+        "left": 615.9140625,
+        "right": 1145.5390625,
+        "top": 646.921875,
+        "width": 529.625,
+        "x": 615.9140625,
+        "y": 646.921875
+      },
+      "sel": ".gpo-dropdown .dropdown-button"
+    },
+    {
+      "bg": "rgb(4, 43, 53)",
+      "color": "rgb(221, 209, 202)",
+      "font": "16px / 24px Poppins, sans-serif",
+      "height": "56px",
+      "rect": {
+        "bottom": 1009.4375,
+        "height": 56,
+        "left": 615.9140625,
+        "right": 1145.5390625,
+        "top": 953.4375,
+        "width": 529.625,
+        "x": 615.9140625,
+        "y": 953.4375
+      },
+      "sel": ".gpo-input-wrap"
+    },
+    {
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(221, 209, 202)",
+      "font": "500 16px / 24px Poppins, sans-serif",
+      "height": "54px",
+      "rect": {
+        "bottom": 1008.4375,
+        "height": 54,
+        "left": 669.9140625,
+        "right": 1096.2109375,
+        "top": 954.4375,
+        "width": 426.296875,
+        "x": 669.9140625,
+        "y": 954.4375
+      },
+      "sel": ".gpo-input"
+    },
+    {
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(221, 209, 202)",
+      "font": "15px / 21.3px Poppins, sans-serif",
+      "height": "40px",
+      "rect": {
+        "bottom": 2249.9609375,
+        "height": 40,
+        "left": 718.1640625,
+        "right": 818.1640625,
+        "top": 2209.9609375,
+        "width": 100,
+        "x": 718.1640625,
+        "y": 2209.9609375
+      },
+      "sel": ".gpo-quantity__input"
+    },
+    {
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(221, 209, 202)",
+      "font": "16px / 24px Poppins, sans-serif",
+      "height": "40px",
+      "rect": {
+        "bottom": 2375.8359375,
+        "height": 40,
+        "left": 615.9140625,
+        "right": 765.9140625,
+        "top": 2335.8359375,
+        "width": 150,
+        "x": 615.9140625,
+        "y": 2335.8359375
+      },
+      "sel": ".gpo-ov-quantity"
+    },
+    {
+      "bg": "rgb(227, 200, 198)",
+      "color": "rgb(50, 26, 26)",
+      "font": "500 14px / 21px Poppins, sans-serif",
+      "height": "32px",
+      "rect": {
+        "bottom": 2199.9609375,
+        "height": 32,
+        "left": 615.9140625,
+        "right": 701.5859375,
+        "top": 2167.9609375,
+        "width": 85.671875,
+        "x": 615.9140625,
+        "y": 2167.9609375
+      },
+      "sel": ".gpo-swatches.buttons input + label"
+    },
+    {
+      "bg": "rgb(227, 200, 198)",
+      "color": "rgb(50, 26, 26)",
+      "font": "500 14px / 21px Poppins, sans-serif",
+      "height": "32px",
+      "rect": {
+        "bottom": 435.171875,
+        "height": 32,
+        "left": 712.9140625,
+        "right": 777.90625,
+        "top": 403.171875,
+        "width": 64.9921875,
+        "x": 712.9140625,
+        "y": 403.171875
+      },
+      "sel": ".xo-field-radio__label"
+    }
+  ],
+  "overflow": 1440,
+  "viewport": [
+    1440,
+    1000
+  ]
+}

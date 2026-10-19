@@ -1,0 +1,95 @@
+{
+  "controls": [
+    {
+      "items": [
+        {
+          "height": 40,
+          "width": 49.078125
+        },
+        {
+          "height": 40,
+          "width": 49.46875
+        },
+        {
+          "height": 40,
+          "width": 55.609375
+        },
+        {
+          "height": 40,
+          "width": 54.9140625
+        }
+      ],
+      "sel": ".variant-picker__pills label"
+    },
+    {
+      "items": [
+        {
+          "height": 40,
+          "width": 89.140625
+        },
+        {
+          "height": 40,
+          "width": 90.6796875
+        },
+        {
+          "height": 40,
+          "width": 221.8984375
+        },
+        {
+          "height": 40,
+          "width": 291.546875
+        }
+      ],
+      "sel": ".gpo-swatches.buttons label"
+    },
+    {
+      "items": [
+        {
+          "height": 46,
+          "width": 336.609375
+        }
+      ],
+      "sel": ".gpo-select"
+    },
+    {
+      "items": [
+        {
+          "height": 46,
+          "width": 336.609375
+        },
+        {
+          "height": 111.59375,
+          "width": 336.609375
+        },
+        {
+          "height": 46,
+          "width": 336.609375
+        },
+        {
+          "height": 46,
+          "width": 336.609375
+        }
+      ],
+      "sel": ".gpo-input-wrap"
+    },
+    {
+      "items": [
+        {
+          "height": 50,
+          "width": 114
+        },
+        {
+          "height": 50,
+          "width": 114
+        }
+      ],
+      "sel": ".gpo-ov-quantity"
+    }
+  ],
+  "documentWidth": 375,
+  "overflow": [],
+  "viewport": {
+    "height": 844,
+    "width": 390
+  }
+}

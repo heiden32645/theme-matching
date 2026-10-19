@@ -1,0 +1,135 @@
+{
+  "controls": [
+    {
+      "boxes": [
+        {
+          "border": "1px solid rgb(118, 118, 118)",
+          "font": "13.3333px \"Roboto Mono\", monospace",
+          "h": 30,
+          "right": 215,
+          "w": 200,
+          "x": 15
+        }
+      ],
+      "sel": ".product_select select"
+    },
+    {
+      "boxes": [
+        {
+          "border": "1px solid rgb(118, 118, 118)",
+          "font": "13.3333px \"Roboto Mono\", monospace",
+          "h": 30,
+          "right": 365,
+          "w": 350,
+          "x": 15
+        }
+      ],
+      "sel": ".gpo-select"
+    },
+    {
+      "boxes": [
+        {
+          "border": "1px solid rgb(118, 118, 118)",
+          "font": "13.3333px \"Roboto Mono\", monospace",
+          "h": 30,
+          "right": 365,
+          "w": 350,
+          "x": 15
+        },
+        {
+          "border": "1px solid rgb(118, 118, 118)",
+          "font": "13.3333px \"Roboto Mono\", monospace",
+          "h": 30,
+          "right": 365,
+          "w": 290,
+          "x": 75
+        },
+        {
+          "border": "1px solid rgb(118, 118, 118)",
+          "font": "13.3333px \"Roboto Mono\", monospace",
+          "h": 30,
+          "right": 365,
+          "w": 350,
+          "x": 15
+        }
+      ],
+      "sel": ".gpo-dropdown .dropdown-button"
+    },
+    {
+      "boxes": [
+        {
+          "border": "0px none rgb(24, 13, 5)",
+          "font": "14px / 22.4px \"Roboto Mono\", monospace",
+          "h": 33,
+          "right": 365,
+          "w": 350,
+          "x": 15
+        },
+        {
+          "border": "0px none rgb(24, 13, 5)",
+          "font": "14px / 22.4px \"Roboto Mono\", monospace",
+          "h": 96.78125,
+          "right": 365,
+          "w": 350,
+          "x": 15
+        },
+        {
+          "border": "0px none rgb(24, 13, 5)",
+          "font": "14px / 22.4px \"Roboto Mono\", monospace",
+          "h": 33,
+          "right": 365,
+          "w": 350,
+          "x": 15
+        },
+        {
+          "border": "0px none rgb(24, 13, 5)",
+          "font": "14px / 22.4px \"Roboto Mono\", monospace",
+          "h": 33,
+          "right": 365,
+          "w": 350,
+          "x": 15
+        }
+      ],
+      "sel": ".gpo-input-wrap"
+    },
+    {
+      "boxes": [
+        {
+          "border": "0px none rgb(24, 13, 5)",
+          "font": "14px / 22.4px \"Roboto Mono\", monospace",
+          "h": 30,
+          "right": 145,
+          "w": 130,
+          "x": 15
+        },
+        {
+          "border": "0px none rgb(18, 18, 18)",
+          "font": "14px / 22.4px \"Roboto Mono\", monospace",
+          "h": 30,
+          "right": 287,
+          "w": 130,
+          "x": 157
+        }
+      ],
+      "sel": ".gpo-ov-quantity"
+    },
+    {
+      "boxes": [
+        {
+          "border": "0px none rgb(24, 13, 5)",
+          "font": "13.3333px Arimo, sans-serif",
+          "h": 30,
+          "right": 187.625,
+          "w": 50,
+          "x": 137.625
+        }
+      ],
+      "sel": ".gpo-quantity__input"
+    }
+  ],
+  "pageWidth": 380,
+  "viewport": [
+    390,
+    844
+  ]
+}

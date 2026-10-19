@@ -1,0 +1,70 @@
+[
+  {
+    "border": "1px solid color(srgb 0.290196 0.388235 0.411765)",
+    "font": "16px / 18.4px Poppins, sans-serif",
+    "padding": "16px 14px",
+    "radius": "12px",
+    "rect": {
+      "bottom": 461.46875,
+      "height": 55.296875,
+      "left": 864.328125,
+      "right": 1039.328125,
+      "top": 406.171875,
+      "width": 175,
+      "x": 864.328125,
+      "y": 406.171875
+    },
+    "selector": ".xo-product-info-content__variant .xo-field-select-custom__trigger"
+  },
+  {
+    "border": "1px solid rgba(74, 99, 105, 0.5)",
+    "font": "500 16px / 24px Poppins, sans-serif",
+    "padding": "0px",
+    "radius": "29px",
+    "rect": {
+      "bottom": 611.34375,
+      "height": 56,
+      "left": 781.328125,
+      "right": 1476.3671875,
+      "top": 555.34375,
+      "width": 695.0390625,
+      "x": 781.328125,
+      "y": 555.34375
+    },
+    "selector": ".gpo-select"
+  },
+  {
+    "border": "1px solid rgba(74, 99, 105, 0.5)",
+    "font": "16px / 24px Poppins, sans-serif",
+    "padding": "8px 11px",
+    "radius": "28px",
+    "rect": {
+      "bottom": 2392.1328125,
+      "height": 40,
+      "left": 781.328125,
+      "right": 931.328125,
+      "top": 2352.1328125,
+      "width": 150,
+      "x": 781.328125,
+      "y": 2352.1328125
+    },
+    "selector": ".gpo-ov-quantity"
+  },
+  {
+    "border": "1px solid rgba(74, 99, 105, 0.5)",
+    "font": "15px / 21.3px Poppins, sans-serif",
+    "padding": "8px 11px",
+    "radius": "28px",
+    "rect": {
+      "bottom": 2266.2578125,
+      "height": 40,
+      "left": 883.578125,
+      "right": 983.578125,
+      "top": 2226.2578125,
+      "width": 100,
+      "x": 883.578125,
+      "y": 2226.2578125
+    },
+    "selector": ".gpo-quantity .gpo-quantity__input"
+  }
+]

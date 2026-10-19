@@ -1,0 +1,24 @@
+{
+  "nativeSelect": [
+    {
+      "appearance": "none",
+      "backgroundImage": "none",
+      "height": 46
+    },
+    {
+      "appearance": "none",
+      "backgroundImage": "none",
+      "height": 46
+    }
+  ],
+  "quantities": [
+    34,
+    34,
+    34
+  ],
+  "selectChevron": "none",
+  "viewport": {
+    "height": 844,
+    "width": 390
+  }
+}

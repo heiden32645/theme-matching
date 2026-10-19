@@ -1,0 +1,469 @@
+
+  @font-face {
+  font-family: Inter;
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+  src: url("//4gjui3089rjs7hb0-69620498584.shopifypreview.com/cdn/fonts/inter/inter_n3.6faba940d2e90c9f1c2e0c5c2750b84af59fecc0.woff2") format("woff2"),
+       url("//4gjui3089rjs7hb0-69620498584.shopifypreview.com/cdn/fonts/inter/inter_n3.413aa818ec2103383c4ac7c3744c464d04b4db49.woff") format("woff");
+}
+
+  @font-face {
+  font-family: Inter;
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url("//4gjui3089rjs7hb0-69620498584.shopifypreview.com/cdn/fonts/inter/inter_n7.02711e6b374660cfc7915d1afc1c204e633421e4.woff2") format("woff2"),
+       url("//4gjui3089rjs7hb0-69620498584.shopifypreview.com/cdn/fonts/inter/inter_n7.6dab87426f6b8813070abd79972ceaf2f8d3b012.woff") format("woff");
+}
+
+  @font-face {
+  font-family: Inter;
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+  src: url("//4gjui3089rjs7hb0-69620498584.shopifypreview.com/cdn/fonts/inter/inter_i3.6d51b5c1aff0e6286c06ee460a22e95b7c89d160.woff2") format("woff2"),
+       url("//4gjui3089rjs7hb0-69620498584.shopifypreview.com/cdn/fonts/inter/inter_i3.125e6a7560f210d08832797e294849204cda4973.woff") format("woff");
+}
+
+  @font-face {
+  font-family: Inter;
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+  src: url("//4gjui3089rjs7hb0-69620498584.shopifypreview.com/cdn/fonts/inter/inter_i7.b377bcd4cc0f160622a22d638ae7e2cd9b86ea4c.woff2") format("woff2"),
+       url("//4gjui3089rjs7hb0-69620498584.shopifypreview.com/cdn/fonts/inter/inter_i7.7c69a6a34e3bb44fcf6f975857e13b9a9b25beb4.woff") format("woff");
+}
+
+  @font-face {
+  font-family: "Instrument Sans";
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url("//4gjui3089rjs7hb0-69620498584.shopifypreview.com/cdn/fonts/instrument_sans/instrumentsans_n7.e4ad9032e203f9a0977786c356573ced65a7419a.woff2") format("woff2"),
+       url("//4gjui3089rjs7hb0-69620498584.shopifypreview.com/cdn/fonts/instrument_sans/instrumentsans_n7.b9e40f166fb7639074ba34738101a9d2990bb41a.woff") format("woff");
+}
+
+
+  /* Colors - Schemes */
+  :root,
+    .color-default {
+      --color-foreground: #000000;
+      --color-background: #eff4f9;
+      --color-background-gradient: linear-gradient(45deg, rgba(75,22,214,0.98), rgba(33,222,187,0.94) 60%, rgba(69,21,93,1)),repeating-radial-gradient(circle at center bottom, white 0px, black 40px, white 120px);
+      --color-button-foreground: #ffffff;
+      --color-button-background: #1d1ed2;
+      --color-outlines: #1d1ed2;
+      --color-borders: #dddddd;
+
+      --color-card-foreground: #000000;
+      --color-card-background: #ffffff;
+      --color-card-borders: rgba(0,0,0,0);
+      --color-card-button-foreground: #ffffff;
+      --color-card-button-background: #1d69d2;
+
+      --color-overlay-text: #ffffff;
+      --color-overlay-buttons: #ffffff;
+      --color-overlay: #000000;
+
+      --color-foreground-rgb: 0 0 0;
+      --color-background-rgb: 239 244 249;
+      --color-button-foreground-rgb: 255 255 255;
+      --color-button-background-rgb: 29 30 210;
+      --color-overlay-rgb: 0 0 0;
+
+      --color-background-alt: #d9e5f1;
+      
+  }
+  
+    .color-alternative-1 {
+      --color-foreground: #ffffff;
+      --color-background: #1d1ed2;
+      --color-background-gradient: linear-gradient(0deg, rgba(159, 102, 255, 1) 27%, rgba(29, 105, 210, 1) 100%);
+      --color-button-foreground: #1d1ed2;
+      --color-button-background: #ffffff;
+      --color-outlines: #ffffff;
+      --color-borders: #8c8df4;
+
+      --color-card-foreground: #111111;
+      --color-card-background: #ffffff;
+      --color-card-borders: #dddddd;
+      --color-card-button-foreground: #ffffff;
+      --color-card-button-background: #111111;
+
+      --color-overlay-text: #ffffff;
+      --color-overlay-buttons: #ffffff;
+      --color-overlay: #000000;
+
+      --color-foreground-rgb: 255 255 255;
+      --color-background-rgb: 29 30 210;
+      --color-button-foreground-rgb: 29 30 210;
+      --color-button-background-rgb: 255 255 255;
+      --color-overlay-rgb: 0 0 0;
+
+      --color-background-alt: #2c2de2;
+      
+  }
+  
+    .color-alternative-2 {
+      --color-foreground: #000000;
+      --color-background: #d2e9ff;
+      --color-background-gradient: linear-gradient(0deg, rgba(159, 102, 255, 1) 27%, rgba(29, 105, 210, 1) 100%);
+      --color-button-foreground: #ffffff;
+      --color-button-background: #006fda;
+      --color-outlines: #0062c1;
+      --color-borders: #acd6ff;
+
+      --color-card-foreground: #000000;
+      --color-card-background: #ffffff;
+      --color-card-borders: #dddddd;
+      --color-card-button-foreground: #ffffff;
+      --color-card-button-background: #111111;
+
+      --color-overlay-text: #ffffff;
+      --color-overlay-buttons: #ffffff;
+      --color-overlay: #000000;
+
+      --color-foreground-rgb: 0 0 0;
+      --color-background-rgb: 210 233 255;
+      --color-button-foreground-rgb: 255 255 255;
+      --color-button-background-rgb: 0 111 218;
+      --color-overlay-rgb: 0 0 0;
+
+      --color-background-alt: #b3daff;
+      
+  }
+  
+    .color-scheme-modals-and-drawers {
+      --color-foreground: #000000;
+      --color-background: #ffffff;
+      --color-background-gradient: ;
+      --color-button-foreground: #ffffff;
+      --color-button-background: #1d69d2;
+      --color-outlines: #1d69d2;
+      --color-borders: #dddddd;
+
+      --color-card-foreground: #000000;
+      --color-card-background: #f4f4f4;
+      --color-card-borders: #dddddd;
+      --color-card-button-foreground: #ffffff;
+      --color-card-button-background: #111111;
+
+      --color-overlay-text: #ffffff;
+      --color-overlay-buttons: #ffffff;
+      --color-overlay: #000000;
+
+      --color-foreground-rgb: 0 0 0;
+      --color-background-rgb: 255 255 255;
+      --color-button-foreground-rgb: 255 255 255;
+      --color-button-background-rgb: 29 105 210;
+      --color-overlay-rgb: 0 0 0;
+
+      --color-background-alt: #f0f0f0;
+      
+  }
+  
+
+  body, .color-default, .color-alternative-1, .color-alternative-2, .color-scheme-modals-and-drawers {
+    color: var(--color-foreground);
+    background-color: var(--color-background);
+  }
+
+  :root {
+    --ideal-width: 1440px;
+    --container-inner-width: min(100vw - var(--container-margin)*2  , var(--ideal-width));
+
+     /* Colors - Status indicator */
+    --success: #31862D;
+    --success-foreground: #FFFFFF;
+    --error: #DD4242;
+    --error-foreground: #FFFFFF;
+
+    /* Colors - Special colors */--cart-dot-foreground: #fff;
+    --cart-dot-background: #c72d00;
+    --placeholder-bg: rgba(233, 233, 233);
+    --review-stars: #FFCC00;
+
+
+    /* Typography - Base/Body */
+    --font-body-family: Inter, sans-serif;
+    --font-body-style: normal;
+    --font-body-weight: 300;
+    --font-body-line-height: 1.6;
+    --font-body-letter-spacing: 0.02em;
+    --font-body-text-transform: none;
+
+    /* Typography - Heading/Titles */
+    --font-heading-family: "Instrument Sans", sans-serif;
+    --font-heading-style: normal;
+    --font-heading-weight: 700;
+    --font-heading-line-height: 1.2;
+    --font-heading-letter-spacing: 0.0em;
+    --font-heading-text-transform: none;
+
+    /* Typography - Subheading/Subtitle */
+    --font-subheader-family: var(--font-body-family);
+    --font-subheader-style: var(--font-body-style);
+    --font-subheader-weight: var(--font-body-weight);
+    --font-subheader-text-transform: uppercase;
+    --font-subheader-letter-spacing: 0.2em;
+
+    /* Typography - Buttons */
+    --font-button-family: var(--font-body-family);
+    --font-button-style: var(--font-body-style);
+    --font-button-weight: 700;
+    --font-button-text-transform: none;
+    --font-button-size: 16px;
+    --font-button-letter-spacing: 0.04em;
+
+    /* Typography - Site header */
+    --font-site-header-family: var(--font-body-family);
+    --font-site-header-style: var(--font-body-style);
+    --font-site-header-weight: var(--font-body-weight);
+    --font-site-header-text-transform: none;
+    --font-site-header-size: 16px;
+    --font-site-header-letter-spacing: 0.1em;
+
+    /* Typography - Toolbar */
+    --font-toolbar-family: var(--font-body-family);
+    --font-toolbar-style: var(--font-body-style);
+    --font-toolbar-weight: var(--font-body-weight);
+    --font-toolbar-text-transform: none;
+    --font-toolbar-size: 12px;
+    --font-toolbar-letter-spacing: 0.0em;
+
+    /* Typography - Navigation */
+    --font-navigation-family: var(--font-body-family);
+    --font-navigation-style: var(--font-body-style);
+    --font-navigation-weight: var(--font-body-weight);
+    --font-navigation-size: 16px;
+    --font-navigation-letter-spacing: 0.0em;
+    --font-navigation-text-transform: none;
+
+    /* Badges */
+    --font-badge-family: var(--font-body-family);
+    --font-badge-style: var(--font-body-style);
+    --font-badge-weight: var(--font-body-weight);
+    --font-badge-text-transform: uppercase;
+
+    --font-badge-size: 11px;
+    --font-badge-letter-spacing: 0.2em;
+    --badge-border-radius: 200px;
+
+    --badge-color-foreground--sale: #ffffff;
+    --badge-color-background--sale: #c72d00;
+
+    --badge-color-foreground--preorder: #ffffff;
+    --badge-color-background--preorder: #2b2b2b;
+
+    --badge-color-foreground--new: #ffffff;
+    --badge-color-background--new: #006fda;
+
+    --badge-color-foreground--soldout: #ffffff;
+    --badge-color-background--soldout: #78766f;
+
+    --badge-color-foreground--rating: #000000;
+    --badge-color-background--rating: #FFFFFF;
+
+    --badge-padding: 0.6rem 1.2rem;
+
+    
+
+    /* Drawers */
+    --drawers-overlay-alpha: 0.3;
+    --drawers-overlay-blur: 4px;
+
+    /* Modals */
+    --modals-overlay-alpha: 0.3;
+    --modals-overlay-blur: 4px;
+
+    /* Cards */
+    --card-border-radius: 12px;
+    --card-body-padding: 12px;
+    --card--product-title-transform: none;
+
+
+    /* Aesthetics */
+    --button-padding: 0.6em 1.8em;
+    --button-round-padding: 10px;
+    --button-border-radius: 200px ;
+
+    --hotspot-dot-border-radius: 50%;
+
+    --box-shadow-rgba: rgba(0,0,0,.20);
+    --box-shadow--small: 0 1px 3px var(--box-shadow-rgba);
+    --box-shadow--default: 0 3px 6px var(--box-shadow-rgba);
+    --box-shadow--big: 0 6px 18px var(--box-shadow-rgba);
+    --box-shadow-button: 0 3px 6px var(--box-shadow-rgba);
+
+    --modal-border-radius: 20px;
+    --icon-stroke: 1.6;
+    --icon-stroke-px: 1.6px;--br-img: 12px;/* Forms and inputs */
+    --input-background: #FFFFFF;
+    --input-foreground: #111111;
+    --input-border-width: 1px;
+    --input-border-color: #DDDDDD;
+    --input-border-radius: 6px;
+    --input-box-shadow: inset 2px 2px 6px rgba(0,0,0,.1);
+    --input-letter-spacing: 0;
+
+    /* Other */--css-icon-close: url("data:image/svg+xml,%3Csvg version='1.1' xmlns='http://www.w3.org/2000/svg' x='0px' y='0px' width='48px' height='48px' viewBox='0 0 48 48' %3E%3Cstyle%3E .line%7Bfill:none;stroke:%23000000;stroke-linecap:round;stroke-width:1.6;stroke-linejoin:round;%7D%0A%3C/style%3E%3Ccircle cx='24' cy='24' r='24' fill='%23ffffff' /%3E%3Cline class='line' x1='30' y1='18' x2='18' y2='30'/%3E%3Cline class='line' x1='18' y1='18' x2='30' y2='30'/%3E%3C/svg%3E");
+    --css-icon-full-screen: url("data:image/svg+xml,%3Csvg version='1.1' xmlns='http://www.w3.org/2000/svg' x='0px' y='0px' width='44px' height='44px' viewBox='0 0 44 44' %3E%3Cstyle%3E .line%7Bfill:none;stroke:%23000000;stroke-linecap:round;stroke-width:1.6;stroke-linejoin:round;%7D%0A%3C/style%3E%3Ccircle cx='22' cy='22' r='18' fill='%23ffffff' /%3E%3Cpolyline class='line' points='15 20 15 15 20 15'/%3E %3Cpolyline class='line' points='24 15 29 15 29 20'/%3E %3Cpolyline class='line' points='29 24 29 29 24 29'/%3E %3Cpolyline class='line' points='20 29 15 29 15 24'/%3E %3Cline class='line' x1='15' y1='15' x2='19' y2='19'/%3E %3Cline class='line' x1='29' y1='15' x2='25' y2='19'/%3E %3Cline class='line' x1='29' y1='29' x2='25' y2='25'/%3E %3Cline class='line' x1='15' y1='29' x2='19' y2='25'/%3E%3C/svg%3E");
+    --css-icon-zoom-in: url("data:image/svg+xml,%3Csvg version='1.1' xmlns='http://www.w3.org/2000/svg' x='0px' y='0px' width='44px' height='44px' viewBox='0 0 44 44' %3E%3Cstyle%3E .line%7Bfill:none;stroke:%23000000;stroke-linecap:round;stroke-width:1.6;stroke-linejoin:round;%7D%0A%3C/style%3E%3Ccircle cx='22' cy='22' r='18' fill='%23ffffff' /%3E%3Ccircle class='line' cx='21' cy='21' r='6'/%3E%3Cline class='line' x1='21' y1='19' x2='21' y2='23'/%3E%3Cline class='line' x1='19' y1='21' x2='23' y2='21'/%3E%3Cline class='line' x1='29.6' y1='29.6' x2='25.2' y2='25.2'/%3E%3C/svg%3E");
+    --header-height: auto;
+    --toolbar-height: auto;
+
+    --noise-pattern: url(//4gjui3089rjs7hb0-69620498584.shopifypreview.com/cdn/shop/t/37/assets/noise-pattern-bw_small.png?v=106285770661431872711791949964);
+    --noise-pattern-size: 75px;
+    --noise-pattern-opacity: 0.5;
+    --vignette-opacity: 0.05;
+  }
+
+  html {font-size: 54.6875%;
+
+    --gutter: 24px;
+    --grid-gap: 8px;
+    --section-margin: 0;
+    --section-padding: 32px;
+    --container-margin: 24px;--max-col-width: 120px
+  }
+
+  @media only screen and (min-width: 768px) {
+    :root {
+      /* Cards */
+      --card-body-padding: 20px;
+    }
+    html {font-size: 55.55555555555555%;
+      --gutter: 32px;
+      --grid-gap: 12px;
+      --section-margin: 0;
+      --section-padding: 48px;
+      --container-margin: 80px;
+    }
+  }
+
+  /* ---------- */
+  /* TYPOGRAPHY */
+  body, *.font-body { --font-size: 1.6rem }
+  h1,.h1   { --font-size: 3.2rem }
+  h2,.h2   { --font-size: 2.6rem }
+  h3,.h3   { --font-size: 2.2rem }
+  h4,.h4   { --font-size: 2.0rem }
+  h5,.h5   { --font-size: 1.8rem }
+  h6,.h6   { --font-size: 1.6rem }
+  .caption { --font-size: 1.2rem }
+
+  body, .font-body {
+    font-size: var(--font-size);
+    font-family: var(--font-body-family);
+    font-style: var(--font-body-style);
+    font-weight: var(--font-body-weight);
+    line-height: var(--font-body-line-height);
+    letter-spacing: var(--font-body-letter-spacing);
+    text-transform: var(--font-body-text-transform);
+  }
+
+  h1,h2,h3,h4,h5,h6,
+  .h1,.h2,.h3,.h4,.h5,.h6 {
+    font-size: var(--font-size);
+    font-family: var(--font-heading-family);
+    font-style: var(--font-heading-style);
+    font-weight: var(--font-heading-weight);
+    line-height: var(--font-heading-line-height);
+    letter-spacing: var(--font-heading-letter-spacing);
+    text-transform: var(--font-heading-text-transform);
+    word-break: break-word;
+  }
+
+  @media only screen and (min-width: 768px) {
+    body, *.font-body { --font-size: 1.8rem }
+    h1,.h1   { --font-size: 4.0rem }
+    h2,.h2   { --font-size: 3.2rem }
+    h3,.h3   { --font-size: 2.6rem }
+    h4,.h4   { --font-size: 2.2rem }
+    h5,.h5   { --font-size: 2.0rem }
+    h6,.h6   { --font-size: 1.8rem }
+    .caption { --font-size: 1.4rem }
+  }
+
+  /* Size modifiers */
+  .size--nano, .rte.size--nano *              { font-size: calc(var(--font-size)*0.65) }
+  .size--tiny, .rte.size--tiny *              { font-size: calc(var(--font-size)*0.75) }
+  .size--small, .rte.size--small *            { font-size: calc(var(--font-size)*0.85) }
+  .size--default, .rte.size--default *        { font-size: var(--font-size) }
+  .size--large, .rte.size--large *            { font-size: calc(var(--font-size)*1.25) }
+  .size--huge, .rte.size--huge *              { font-size: calc(var(--font-size)*1.50) }
+  .size--gigantic, .rte.size--gigantic *      { font-size: calc(var(--font-size)*2.00) }
+  .size--outrageous, .rte.size--outrageous *  { font-size: calc(var(--font-size)*3.00) }
+
+  .btn.size--nano, .text-button.size--nano       { font-size: calc(var(--font-button-size)*0.65) !important }
+  .btn.size--tiny, .text-button.size--tiny       { font-size: calc(var(--font-button-size)*0.75) !important }
+  .btn.size--small, .text-button.size--small      { font-size: calc(var(--font-button-size)*0.85) !important }
+  .btn.size--default, .text-button.size--default    { font-size: var(--font-button-size) !important }
+  .btn.size--large, .text-button.size--large      { font-size: calc(var(--font-button-size)*1.25) !important }
+  .btn.size--huge, .text-button.size--huge       { font-size: calc(var(--font-button-size)*1.50) !important }
+  .btn.size--gigantic, .text-button.size--gigantic   { font-size: calc(var(--font-button-size)*2.00) !important }
+  .btn.size--outrageous, .text-button.size--outrageous { font-size: calc(var(--font-button-size)*3.00) !important }
+
+  @media only screen and (min-width: 768px) {
+    .sm-size--nano, .rte.sm-size--nano *              { font-size: calc(var(--font-size)*0.65) }
+    .sm-size--tiny, .rte.sm-size--tiny *              { font-size: calc(var(--font-size)*0.75) }
+    .sm-size--small, .rte.sm-size--small *            { font-size: calc(var(--font-size)*0.85) }
+    .sm-size--default, .rte.sm-size--default *        { font-size: var(--font-size) }
+    .sm-size--large, .rte.sm-size--large *            { font-size: calc(var(--font-size)*1.25) }
+    .sm-size--huge, .rte.sm-size--huge *              { font-size: calc(var(--font-size)*1.50) }
+    .sm-size--gigantic, .rte.sm-size--gigantic *      { font-size: calc(var(--font-size)*2.00) }
+    .sm-size--outrageous, .rte.sm-size--outrageous *  { font-size: calc(var(--font-size)*3.00) }
+
+    .btn.sm-size--nano, .text-button.sm-size--nano       { font-size: calc(var(--font-button-size)*0.65) !important }
+    .btn.sm-size--tiny, .text-button.sm-size--tiny       { font-size: calc(var(--font-button-size)*0.75) !important }
+    .btn.sm-size--small, .text-button.sm-size--small      { font-size: calc(var(--font-button-size)*0.85) !important }
+    .btn.sm-size--default, .text-button.sm-size--default    { font-size: var(--font-button-size) !important }
+    .btn.sm-size--large, .text-button.sm-size--large      { font-size: calc(var(--font-button-size)*1.25) !important }
+    .btn.sm-size--huge, .text-button.sm-size--huge       { font-size: calc(var(--font-button-size)*1.50) !important }
+    .btn.sm-size--gigantic, .text-button.sm-size--gigantic   { font-size: calc(var(--font-button-size)*2.00) !important }
+    .btn.sm-size--outrageous, .text-button.sm-size--outrageous { font-size: calc(var(--font-button-size)*3.00) !important }
+  }
+
+  /* Style modifiers */
+  .style--subdued   { opacity: 0.65 }
+  .style--subdued-light   { opacity: 0.35 }
+  .style--bold      { font-weight: bold !important}
+  .style--uppercase { text-transform: uppercase !important}
+
+  .subheading {
+    font-family: var(--font-subheader-family);
+    font-weight: var(--font-subheader-weight);
+    font-style: var(--font-subheader-style);
+    letter-spacing: var(--font-subheader-letter-spacing);
+    text-transform: var(--font-subheader-text-transform);
+    --font-size: 1.8rem;
+  }
+
+  /* Badge style classes */
+  .badge.sale, .style--badge-sale {
+    color: var(--badge-color-foreground--sale);
+    background-color: var(--badge-color-background--sale);
+  }
+  .badge.preorder, .style--badge-preorder {
+    color: var(--badge-color-foreground--preorder);
+    background: var(--badge-color-background--preorder);
+  }
+  .badge.new, .style--badge-new {
+    color: var(--badge-color-foreground--new);
+    background: var(--badge-color-background--new);
+  }
+  .badge.soldout, .style--badge-soldout {
+    color: var(--badge-color-foreground--soldout);
+    background: var(--badge-color-background--soldout);
+  }
+  .badge.rating, .style--badge-rating {
+    color: var(--badge-color-foreground--rating);
+    background: var(--badge-color-background--rating);
+  }
+
+  
+
+  
+
+  

@@ -1,0 +1,35 @@
+{
+  "controls": [
+    {
+      "fontSize": "14.4px",
+      "lineHeight": "20.16px",
+      "sel": "#text-1"
+    },
+    {
+      "fontSize": "14.4px",
+      "lineHeight": "20.16px",
+      "sel": "#textarea-1"
+    },
+    {
+      "fontSize": "14.4px",
+      "lineHeight": "20.16px",
+      "sel": ".gpo-phone"
+    },
+    {
+      "fontSize": "14.4px",
+      "lineHeight": "20.16px",
+      "sel": ".gpo-dimension-input"
+    },
+    {
+      "fontSize": "14.4px",
+      "lineHeight": "20.16px",
+      "sel": ".gpo-input-suffix"
+    }
+  ],
+  "native": "14.4px",
+  "textHeight": 46,
+  "viewport": {
+    "height": 963,
+    "width": 1334
+  }
+}

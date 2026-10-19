@@ -1,0 +1,14 @@
+[
+  {
+    "action": "mobile open",
+    "class": "gpo-dropdown gpo-oos--show expanded"
+  },
+  {
+    "action": "mobile close trigger",
+    "class": "gpo-dropdown gpo-oos--show"
+  },
+  {
+    "action": "mobile close outside",
+    "class": "gpo-dropdown gpo-oos--show"
+  }
+]

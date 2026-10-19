@@ -1,0 +1,26 @@
+{
+  "quantities": [
+    {
+      "cls": "gpo-quantity__input",
+      "height": 34
+    },
+    {
+      "cls": "gpo-ov-quantity",
+      "height": 34
+    },
+    {
+      "cls": "gpo-ov-quantity",
+      "height": 34
+    }
+  ],
+  "selectBackground": "none",
+  "selectChevron": "none",
+  "selectValue": "option_2",
+  "stepperValue": "2",
+  "viewport": {
+    "height": 907,
+    "width": 1332
+  },
+  "served_matches_deliverable": true,
+  "match_headers": 1
+}
