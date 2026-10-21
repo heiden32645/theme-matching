@@ -1,0 +1,58 @@
+{
+  "controls": [
+    {
+      "fontSize": "16px",
+      "height": 52,
+      "outline": "rgb(249, 246, 236) none 0px",
+      "s": "variant-radios label"
+    },
+    {
+      "fontSize": "16px",
+      "height": 52,
+      "outline": "rgb(254, 70, 16) none 0px",
+      "s": ".gpo-swatches.buttons label"
+    },
+    {
+      "fontSize": "16px",
+      "height": 44,
+      "outline": "rgb(254, 70, 16) none 0px",
+      "s": "quantity-input.quantity"
+    },
+    {
+      "fontSize": "16px",
+      "height": 44,
+      "outline": "rgb(254, 70, 16) none 0px",
+      "s": ".gpo-ov-quantity"
+    },
+    {
+      "fontSize": "16px",
+      "height": 44,
+      "outline": "rgb(254, 70, 16) none 0px",
+      "s": ".gpo-quantity__input"
+    },
+    {
+      "fontSize": "16px",
+      "height": 43.1953125,
+      "outline": "rgb(254, 70, 16) none 0px",
+      "s": ".gpo-input-wrap"
+    },
+    {
+      "fontSize": "16px",
+      "height": 38.3984375,
+      "outline": "rgb(254, 70, 16) none 0px",
+      "s": ".dropdown-button"
+    },
+    {
+      "fontSize": "16px",
+      "height": 42,
+      "outline": "rgb(254, 70, 16) solid 3px",
+      "s": "label[for=\"color-swatches-1_1\"]"
+    }
+  ],
+  "overflow": [],
+  "pageWidth": 390,
+  "viewport": [
+    390,
+    844
+  ]
+}

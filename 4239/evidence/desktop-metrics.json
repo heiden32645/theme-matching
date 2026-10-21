@@ -1,0 +1,553 @@
+{
+  "controls": [
+    {
+      "bg": "rgb(255, 146, 51)",
+      "borders": [
+        "0px none rgb(2, 2, 4)",
+        "0px none rgb(2, 2, 4)"
+      ],
+      "box": [
+        808.5,
+        166.40625,
+        40,
+        40
+      ],
+      "font": "500 14px / 21px Inter, sans-serif",
+      "radius": "0px",
+      "selector": "",
+      "text": "8"
+    },
+    {
+      "bg": "rgb(243, 243, 243)",
+      "borders": [
+        "0px none rgb(2, 2, 4)",
+        "0px none rgb(2, 2, 4)"
+      ],
+      "box": [
+        856.5,
+        166.40625,
+        40,
+        40
+      ],
+      "font": "500 14px / 21px Inter, sans-serif",
+      "radius": "0px",
+      "selector": "",
+      "text": "9"
+    },
+    {
+      "bg": "rgb(243, 243, 243)",
+      "borders": [
+        "0px none rgb(2, 2, 4)",
+        "0px none rgb(2, 2, 4)"
+      ],
+      "box": [
+        904.5,
+        166.40625,
+        40,
+        40
+      ],
+      "font": "500 14px / 21px Inter, sans-serif",
+      "radius": "0px",
+      "selector": "",
+      "text": "10"
+    },
+    {
+      "bg": "rgb(243, 243, 243)",
+      "borders": [
+        "0px none rgb(2, 2, 4)",
+        "0px none rgb(2, 2, 4)"
+      ],
+      "box": [
+        952.5,
+        166.40625,
+        40,
+        40
+      ],
+      "font": "500 14px / 21px Inter, sans-serif",
+      "radius": "0px",
+      "selector": "",
+      "text": "13"
+    },
+    {
+      "bg": "rgb(0, 0, 255)",
+      "borders": [
+        "0px none rgb(2, 2, 4)",
+        "1px solid rgb(2, 2, 4)"
+      ],
+      "box": [
+        808.5,
+        256,
+        68,
+        90
+      ],
+      "font": "500 14px / 21px Inter, sans-serif",
+      "radius": "0px",
+      "selector": "color-swatch variant-swatch variant-swatch--portrait variant-swatch--color",
+      "text": "blue"
+    },
+    {
+      "bg": "rgb(255, 0, 0)",
+      "borders": [
+        "0px none rgba(2, 2, 4, 0.1)",
+        "1px solid rgba(2, 2, 4, 0.1)"
+      ],
+      "box": [
+        888.5,
+        256,
+        68,
+        90
+      ],
+      "font": "500 14px / 21px Inter, sans-serif",
+      "radius": "0px",
+      "selector": "color-swatch variant-swatch variant-swatch--portrait variant-swatch--color",
+      "text": "red"
+    },
+    {
+      "bg": "rgb(0, 0, 0)",
+      "borders": [
+        "0px none rgba(2, 2, 4, 0.1)",
+        "1px solid rgba(2, 2, 4, 0.1)"
+      ],
+      "box": [
+        968.5,
+        256,
+        68,
+        90
+      ],
+      "font": "500 14px / 21px Inter, sans-serif",
+      "radius": "0px",
+      "selector": "color-swatch variant-swatch variant-swatch--portrait variant-swatch--color",
+      "text": "black"
+    },
+    {
+      "bg": "rgba(0, 0, 0, 0)",
+      "borders": [
+        "1px solid rgb(217, 212, 207)",
+        "1px solid rgb(217, 212, 207)"
+      ],
+      "box": [
+        808.5,
+        418.59375,
+        419,
+        44
+      ],
+      "font": "14px / 19.6px Inter, sans-serif",
+      "radius": "0px",
+      "selector": "gpo-select",
+      "text": "-- Please select -- "
+    },
+    {
+      "bg": "rgba(0, 0, 0, 0)",
+      "borders": [
+        "1px solid rgb(217, 212, 207)",
+        "1px solid rgb(217, 212, 207)"
+      ],
+      "box": [
+        808.5,
+        513.1875,
+        419,
+        44
+      ],
+      "font": "14px / 19.6px Inter, sans-serif",
+      "radius": "0px",
+      "selector": "dropdown-button",
+      "text": "-- Please select --"
+    },
+    {
+      "bg": "rgba(0, 0, 0, 0)",
+      "borders": [
+        "1px solid rgb(217, 212, 207)",
+        "1px solid rgb(217, 212, 207)"
+      ],
+      "box": [
+        808.5,
+        602.78125,
+        419,
+        44
+      ],
+      "font": "14px / 19.6px Inter, sans-serif",
+      "radius": "0px",
+      "selector": "dropdown-button",
+      "text": "-- Please select --"
+    },
+    {
+      "bg": "rgba(0, 0, 0, 0)",
+      "borders": [
+        "1px solid rgb(217, 212, 207)",
+        "1px solid rgb(217, 212, 207)"
+      ],
+      "box": [
+        808.5,
+        692.375,
+        419,
+        44
+      ],
+      "font": "14px / 19.6px Inter, sans-serif",
+      "radius": "0px",
+      "selector": "dropdown-button",
+      "text": "-- Select a font --"
+    },
+    {
+      "bg": "rgba(0, 0, 0, 0)",
+      "borders": [
+        "1px solid rgb(217, 212, 207)",
+        "1px solid rgb(217, 212, 207)"
+      ],
+      "box": [
+        808.5,
+        781.96875,
+        419,
+        42
+      ],
+      "font": "14px / 19.6px Inter, sans-serif",
+      "radius": "0px",
+      "selector": "gpo-input-wrap",
+      "text": "px"
+    },
+    {
+      "bg": "rgba(0, 0, 0, 0)",
+      "borders": [
+        "1px solid rgb(217, 212, 207)",
+        "1px solid rgb(217, 212, 207)"
+      ],
+      "box": [
+        808.5,
+        869.5625,
+        419,
+        102
+      ],
+      "font": "14px / 19.6px Inter, sans-serif",
+      "radius": "0px",
+      "selector": "gpo-input-wrap",
+      "text": ""
+    },
+    {
+      "bg": "rgba(0, 0, 0, 0)",
+      "borders": [
+        "1px solid rgb(217, 212, 207)",
+        "1px solid rgb(217, 212, 207)"
+      ],
+      "box": [
+        808.5,
+        1017.15625,
+        419,
+        42
+      ],
+      "font": "14px / 19.6px Inter, sans-serif",
+      "radius": "0px",
+      "selector": "gpo-input-wrap",
+      "text": "+1United States+1Afg"
+    },
+    {
+      "bg": "rgba(0, 0, 0, 0)",
+      "borders": [
+        "1px solid rgb(217, 212, 207)",
+        "1px solid rgb(217, 212, 207)"
+      ],
+      "box": [
+        808.5,
+        1250.34375,
+        419,
+        42
+      ],
+      "font": "14px / 19.6px Inter, sans-serif",
+      "radius": "0px",
+      "selector": "gpo-input-wrap gpo-color-box",
+      "text": ""
+    },
+    {
+      "bg": "rgba(0, 0, 0, 0)",
+      "borders": [
+        "1px solid rgb(217, 212, 207)",
+        "1px solid rgb(217, 212, 207)"
+      ],
+      "box": [
+        808.5,
+        1511.015625,
+        134.328125,
+        42
+      ],
+      "font": "14px / 19.6px Inter, sans-serif",
+      "radius": "0px",
+      "selector": "gpo-dimension-input-wrap",
+      "text": ""
+    },
+    {
+      "bg": "rgba(0, 0, 0, 0)",
+      "borders": [
+        "1px solid rgb(217, 212, 207)",
+        "1px solid rgb(217, 212, 207)"
+      ],
+      "box": [
+        950.828125,
+        1511.015625,
+        134.3359375,
+        42
+      ],
+      "font": "14px / 19.6px Inter, sans-serif",
+      "radius": "0px",
+      "selector": "gpo-dimension-input-wrap",
+      "text": ""
+    },
+    {
+      "bg": "rgba(0, 0, 0, 0)",
+      "borders": [
+        "1px solid rgb(217, 212, 207)",
+        "1px solid rgb(217, 212, 207)"
+      ],
+      "box": [
+        1093.1640625,
+        1511.015625,
+        134.328125,
+        42
+      ],
+      "font": "14px / 19.6px Inter, sans-serif",
+      "radius": "0px",
+      "selector": "gpo-dimension-input-wrap",
+      "text": ""
+    },
+    {
+      "bg": "rgb(255, 146, 51)",
+      "borders": [
+        "0px none rgb(2, 2, 4)",
+        "0px none rgb(2, 2, 4)"
+      ],
+      "box": [
+        808.5,
+        1876.953125,
+        73.0625,
+        40
+      ],
+      "font": "500 14px / 21px Inter, sans-serif",
+      "radius": "0px",
+      "selector": "",
+      "text": "option_1\n           "
+    },
+    {
+      "bg": "rgb(243, 243, 243)",
+      "borders": [
+        "0px none rgb(2, 2, 4)",
+        "0px none rgb(2, 2, 4)"
+      ],
+      "box": [
+        889.5625,
+        1876.953125,
+        77.390625,
+        40
+      ],
+      "font": "500 14px / 21px Inter, sans-serif",
+      "radius": "0px",
+      "selector": "",
+      "text": "option_2\n           "
+    },
+    {
+      "bg": "rgb(243, 243, 243)",
+      "borders": [
+        "0px none rgb(2, 2, 4)",
+        "0px none rgb(2, 2, 4)"
+      ],
+      "box": [
+        905.6796875,
+        1926.953125,
+        100,
+        40
+      ],
+      "font": "600 14px / 19.6px Inter, sans-serif",
+      "radius": "0px",
+      "selector": "gpo-quantity__input",
+      "text": ""
+    },
+    {
+      "bg": "rgb(243, 243, 243)",
+      "borders": [
+        "0px none rgb(2, 2, 4)",
+        "0px none rgb(2, 2, 4)"
+      ],
+      "box": [
+        808.5,
+        2050.546875,
+        108,
+        40
+      ],
+      "font": "14px / 19.6px Inter, sans-serif",
+      "radius": "0px",
+      "selector": "gpo-ov-quantity",
+      "text": ""
+    },
+    {
+      "bg": "rgb(243, 243, 243)",
+      "borders": [
+        "0px none rgb(2, 2, 4)",
+        "0px none rgb(2, 2, 4)"
+      ],
+      "box": [
+        928.5,
+        2050.546875,
+        108,
+        40
+      ],
+      "font": "14px / 19.6px Inter, sans-serif",
+      "radius": "0px",
+      "selector": "gpo-ov-quantity",
+      "text": ""
+    },
+    {
+      "bg": "rgb(243, 243, 243)",
+      "borders": [
+        "0px none rgb(2, 2, 4)",
+        "0px none rgb(2, 2, 4)"
+      ],
+      "box": [
+        808.5,
+        2478.53125,
+        227.1640625,
+        40
+      ],
+      "font": "500 14px / 21px Inter, sans-serif",
+      "radius": "0px",
+      "selector": "",
+      "text": "NIKE | TODDLER ROSHE"
+    },
+    {
+      "bg": "rgb(243, 243, 243)",
+      "borders": [
+        "0px none rgb(2, 2, 4)",
+        "0px none rgb(2, 2, 4)"
+      ],
+      "box": [
+        808.5,
+        2526.53125,
+        316.0234375,
+        40
+      ],
+      "font": "500 14px / 21px Inter, sans-serif",
+      "radius": "0px",
+      "selector": "",
+      "text": "PALLADIUM | PALLATEC"
+    },
+    {
+      "bg": "rgb(243, 243, 243)",
+      "borders": [
+        "0px none rgb(2, 2, 4)",
+        "0px none rgb(2, 2, 4)"
+      ],
+      "box": [
+        808.5,
+        2574.53125,
+        233.890625,
+        40
+      ],
+      "font": "500 14px / 21px Inter, sans-serif",
+      "radius": "0px",
+      "selector": "",
+      "text": "PUMA | SUEDE CLASSIC"
+    },
+    {
+      "bg": "rgb(243, 243, 243)",
+      "borders": [
+        "0px none rgb(2, 2, 4)",
+        "0px none rgb(2, 2, 4)"
+      ],
+      "box": [
+        808.5,
+        2660.125,
+        64.890625,
+        40
+      ],
+      "font": "500 14px / 21px Roboto",
+      "radius": "0px",
+      "selector": "",
+      "text": "Roboto"
+    },
+    {
+      "bg": "rgb(243, 243, 243)",
+      "borders": [
+        "0px none rgb(2, 2, 4)",
+        "0px none rgb(2, 2, 4)"
+      ],
+      "box": [
+        881.390625,
+        2660.125,
+        90.2578125,
+        40
+      ],
+      "font": "500 14px / 21px \"Open Sans\"",
+      "radius": "0px",
+      "selector": "",
+      "text": "Open Sans"
+    },
+    {
+      "bg": "rgb(243, 243, 243)",
+      "borders": [
+        "0px none rgb(2, 2, 4)",
+        "0px none rgb(2, 2, 4)"
+      ],
+      "box": [
+        979.6484375,
+        2660.125,
+        97.0703125,
+        40
+      ],
+      "font": "500 14px / 21px Montserrat",
+      "radius": "0px",
+      "selector": "",
+      "text": "Montserrat"
+    },
+    {
+      "bg": "rgb(243, 243, 243)",
+      "borders": [
+        "0px none rgb(2, 2, 4)",
+        "0px none rgb(2, 2, 4)"
+      ],
+      "box": [
+        1084.71875,
+        2660.125,
+        75.7109375,
+        40
+      ],
+      "font": "500 14px / 21px Poppins",
+      "radius": "0px",
+      "selector": "",
+      "text": "Poppins"
+    },
+    {
+      "bg": "rgb(243, 243, 243)",
+      "borders": [
+        "0px none rgb(2, 2, 4)",
+        "0px none rgb(2, 2, 4)"
+      ],
+      "box": [
+        1168.4296875,
+        2660.125,
+        56.0546875,
+        40
+      ],
+      "font": "500 14px / 21px Oswald",
+      "radius": "0px",
+      "selector": "",
+      "text": "Oswald"
+    },
+    {
+      "bg": "rgb(243, 243, 243)",
+      "borders": [
+        "0px none rgb(2, 2, 4)",
+        "0px none rgb(2, 2, 4)"
+      ],
+      "box": [
+        808.5,
+        2743.625,
+        108,
+        40
+      ],
+      "font": "600 14px / 19.6px Inter, sans-serif",
+      "radius": "0px",
+      "selector": "quantity",
+      "text": "Decrease quantity fo"
+    }
+  ],
+  "viewport": [
+    1273,
+    907
+  ],
+  "width": 1258
+}

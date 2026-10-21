@@ -1,0 +1,10 @@
+{
+  "button": "option_2",
+  "checkbox": "option_1",
+  "dimension": "12",
+  "quantity": "2",
+  "radio": "option_2",
+  "range": "1",
+  "switch": true,
+  "tab": "gpo-tabs_tab-1"
+}

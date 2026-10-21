@@ -1,0 +1,56 @@
+[
+  {
+    "height": 209.171875,
+    "scroll": 207,
+    "state": "open",
+    "transition": "none",
+    "visibility": "visible"
+  },
+  {
+    "height": 0,
+    "state": "closed",
+    "visibility": "hidden"
+  },
+  {
+    "id": "dropdown-1",
+    "previewFont": "Lato, sans-serif",
+    "selected": "option_2",
+    "value": "option_2"
+  },
+  {
+    "height": 194,
+    "scroll": 192,
+    "state": "open",
+    "transition": "none",
+    "visibility": "visible"
+  },
+  {
+    "height": 0,
+    "state": "closed",
+    "visibility": "hidden"
+  },
+  {
+    "id": "image-dropdown-1",
+    "previewFont": "Lato, sans-serif",
+    "selected": "option_2",
+    "value": "option_2"
+  },
+  {
+    "height": 175.9765625,
+    "scroll": 174,
+    "state": "open",
+    "transition": "none",
+    "visibility": "visible"
+  },
+  {
+    "height": 0,
+    "state": "closed",
+    "visibility": "hidden"
+  },
+  {
+    "id": "google-font-1",
+    "previewFont": "\"Open Sans\"",
+    "selected": "Open Sans",
+    "value": "Open Sans"
+  }
+]

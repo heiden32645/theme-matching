@@ -1,0 +1,177 @@
+{
+  "controls": [
+    {
+      "bg": "rgba(0, 0, 0, 0)",
+      "border": "1px solid rgb(217, 212, 207)",
+      "box": [
+        12,
+        2896.53125,
+        351,
+        44
+      ],
+      "cls": "dropdown-select__current focus-inset",
+      "color": "rgb(2, 2, 4)",
+      "font": "14px / 19.6px Inter, sans-serif",
+      "padding": "7px 12px 7px 16px"
+    },
+    {
+      "bg": "rgb(255, 255, 255)",
+      "border": "0px none rgb(2, 2, 4)",
+      "box": [
+        23,
+        2890.53125,
+        32.0546875,
+        14.625
+      ],
+      "cls": "form-active-placeholder-text",
+      "color": "rgb(2, 2, 4)",
+      "font": "11px / 14.63px Inter, sans-serif",
+      "padding": "0px 5px"
+    },
+    {
+      "bg": "rgba(0, 0, 0, 0)",
+      "border": "0px none rgb(2, 2, 4)",
+      "box": [
+        29,
+        2909.21875,
+        8.7109375,
+        18.6171875
+      ],
+      "cls": "form-text",
+      "color": "rgb(2, 2, 4)",
+      "font": "14px / 18.62px Inter, sans-serif",
+      "padding": "0px"
+    },
+    {
+      "bg": "rgb(255, 255, 255)",
+      "border": "0px none rgb(2, 2, 4)",
+      "box": [
+        23,
+        3041.53125,
+        42.4375,
+        14.625
+      ],
+      "cls": "gpo-label",
+      "color": "rgb(2, 2, 4)",
+      "font": "11px / 14.63px Inter, sans-serif",
+      "padding": "0px 5px"
+    },
+    {
+      "bg": "rgba(0, 0, 0, 0)",
+      "border": "1px solid rgb(217, 212, 207)",
+      "box": [
+        12,
+        3047.53125,
+        351,
+        44
+      ],
+      "cls": "gpo-select",
+      "color": "rgb(2, 2, 4)",
+      "font": "14px / 18.62px Inter, sans-serif",
+      "padding": "0px"
+    },
+    {
+      "bg": "rgb(255, 255, 255)",
+      "border": "0px none rgb(2, 2, 4)",
+      "box": [
+        23,
+        3106.53125,
+        72.3828125,
+        14.625
+      ],
+      "cls": "gpo-label required",
+      "color": "rgb(2, 2, 4)",
+      "font": "11px / 14.63px Inter, sans-serif",
+      "padding": "0px 5px"
+    },
+    {
+      "bg": "rgba(0, 0, 0, 0)",
+      "border": "1px solid rgb(217, 212, 207)",
+      "box": [
+        12,
+        3112.53125,
+        351,
+        44
+      ],
+      "cls": "dropdown-button",
+      "color": "rgb(2, 2, 4)",
+      "font": "14px / 18.62px Inter, sans-serif",
+      "padding": "7px 40px 7px 16px"
+    },
+    {
+      "bg": "rgba(0, 0, 0, 0)",
+      "border": "1px solid rgb(217, 212, 207)",
+      "box": [
+        12,
+        3172.53125,
+        351,
+        44
+      ],
+      "cls": "dropdown-button",
+      "color": "rgb(2, 2, 4)",
+      "font": "14px / 18.62px Inter, sans-serif",
+      "padding": "7px 40px 7px 16px"
+    },
+    {
+      "bg": "rgba(0, 0, 0, 0)",
+      "border": "1px solid rgb(217, 212, 207)",
+      "box": [
+        12,
+        3232.53125,
+        351,
+        44
+      ],
+      "cls": "dropdown-button",
+      "color": "rgb(2, 2, 4)",
+      "font": "14px / 18.62px Inter, sans-serif",
+      "padding": "7px 40px 7px 16px"
+    },
+    {
+      "bg": "rgb(243, 243, 243)",
+      "border": "0px none rgb(2, 2, 4)",
+      "box": [
+        109.1796875,
+        4467.109375,
+        60,
+        30
+      ],
+      "cls": "gpo-quantity__input",
+      "color": "rgb(2, 2, 4)",
+      "font": "600 12px / 16.8px Inter, sans-serif",
+      "padding": "0px 10px"
+    },
+    {
+      "bg": "rgb(243, 243, 243)",
+      "border": "0px none rgb(2, 2, 4)",
+      "box": [
+        12,
+        4580.703125,
+        84,
+        30
+      ],
+      "cls": "gpo-ov-quantity",
+      "color": "rgb(2, 2, 4)",
+      "font": "14px / 19.6px Inter, sans-serif",
+      "padding": "0px"
+    },
+    {
+      "bg": "rgb(243, 243, 243)",
+      "border": "0px none rgb(2, 2, 4)",
+      "box": [
+        108,
+        4580.703125,
+        84,
+        30
+      ],
+      "cls": "gpo-ov-quantity",
+      "color": "rgb(2, 2, 4)",
+      "font": "14px / 19.6px Inter, sans-serif",
+      "padding": "0px"
+    }
+  ],
+  "scrollWidth": 375,
+  "viewport": [
+    390,
+    844
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "boxes": [
+    {
+      "cls": "gpo-quantity__input",
+      "h": 32,
+      "value": "2",
+      "w": 64
+    },
+    {
+      "cls": "gpo-ov-quantity",
+      "h": 32,
+      "value": "",
+      "w": 96
+    },
+    {
+      "cls": "gpo-ov-quantity",
+      "h": 32,
+      "value": "",
+      "w": 96
+    }
+  ],
+  "labels": [
+    {
+      "id": "buttons-1",
+      "separator": "\":\"",
+      "text": "option_2 | 2"
+    },
+    {
+      "id": "color-swatches-1",
+      "separator": "\":\"",
+      "text": "option_1 | 2"
+    },
+    {
+      "id": "dropdown-1",
+      "separator": "none",
+      "text": ""
+    }
+  ],
+  "nativeQuantity": 45
+}

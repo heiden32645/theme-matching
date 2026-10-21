@@ -1,0 +1,2 @@
+.swatch{--swatch--size: 2.2rem;--swatch--border-radius: 100rem;display:block;width:var(--swatch--size);max-width:100%;aspect-ratio:1 / 1;background:var(--swatch--background);background-position:var(--swatch-focal-point, initial);background-size:cover;background-origin:border-box;border:2px solid color-mix(in srgb,rgba(var(--color-foreground)),transparent 85%);border-radius:var(--swatch--border-radius)}.swatch--square{--swatch--border-radius: 0}
+/*# sourceMappingURL=/cdn/shop/t/43/assets/component-swatch.css.map?v=54201183300001294441792397771 */

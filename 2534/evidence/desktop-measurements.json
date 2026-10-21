@@ -1,0 +1,373 @@
+{
+  "controls": [
+    {
+      "rect": {
+        "bottom": -1357.875,
+        "height": 48.59375,
+        "left": 777.5,
+        "right": 866.53125,
+        "top": -1406.46875,
+        "width": 89.03125,
+        "x": 777.5,
+        "y": -1406.46875
+      },
+      "selector": "variant-radios label",
+      "style": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "border": "4.5px solid rgba(0, 0, 0, 0)",
+        "borderRadius": "30px",
+        "color": "rgb(249, 246, 236)",
+        "fontFamily": "\"DM Sans\", sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "lineHeight": "18px",
+        "outline": "rgb(249, 246, 236) none 0px",
+        "outlineOffset": "0px",
+        "padding": "3.6px 14.4px"
+      }
+    },
+    {
+      "rect": {
+        "bottom": -1410.0625,
+        "height": 25.1953125,
+        "left": 782,
+        "right": 837.171875,
+        "top": -1435.2578125,
+        "width": 55.171875,
+        "x": 782,
+        "y": -1435.2578125
+      },
+      "selector": "variant-radios .form__label",
+      "style": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "border": "0px none rgb(254, 70, 16)",
+        "borderRadius": "0px",
+        "color": "rgb(254, 70, 16)",
+        "fontFamily": "\"DM Sans\", sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "lineHeight": "25.2px",
+        "outline": "rgb(254, 70, 16) none 0px",
+        "outlineOffset": "0px",
+        "padding": "0px 2px"
+      }
+    },
+    {
+      "rect": {
+        "bottom": 1291.3046875,
+        "height": 39.59375,
+        "left": 879.765625,
+        "right": 1059.765625,
+        "top": 1251.7109375,
+        "width": 180,
+        "x": 879.765625,
+        "y": 1251.7109375
+      },
+      "selector": "quantity-input.quantity",
+      "style": {
+        "backgroundColor": "color(srgb 0.996078 0.27451 0.0627451 / 0.1)",
+        "border": "0px none rgb(254, 70, 16)",
+        "borderRadius": "30px",
+        "color": "rgb(254, 70, 16)",
+        "fontFamily": "\"DM Sans\", sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "lineHeight": "25.2px",
+        "outline": "rgb(254, 70, 16) none 0px",
+        "outlineOffset": "0px",
+        "padding": "0px"
+      }
+    },
+    {
+      "rect": {
+        "bottom": 1291.3046875,
+        "height": 39.59375,
+        "left": 919.359375,
+        "right": 1020.171875,
+        "top": 1251.7109375,
+        "width": 100.8125,
+        "x": 919.359375,
+        "y": 1251.7109375
+      },
+      "selector": "quantity-input.quantity .quantity__input",
+      "style": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "border": "0px none rgb(254, 70, 16)",
+        "borderRadius": "0px",
+        "color": "rgb(254, 70, 16)",
+        "fontFamily": "\"DM Sans\", sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "lineHeight": "normal",
+        "outline": "rgb(254, 70, 16) none 0px",
+        "outlineOffset": "0px",
+        "padding": "6.435px"
+      }
+    },
+    {
+      "rect": {
+        "bottom": -1213.390625,
+        "height": 25.1953125,
+        "left": 780,
+        "right": 831.9453125,
+        "top": -1238.5859375,
+        "width": 51.9453125,
+        "x": 780,
+        "y": -1238.5859375
+      },
+      "selector": ".gpo-app .gpo-label",
+      "style": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "border": "0px none rgb(254, 70, 16)",
+        "borderRadius": "0px",
+        "color": "rgb(254, 70, 16)",
+        "fontFamily": "\"DM Sans\", sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "lineHeight": "18px",
+        "outline": "rgb(254, 70, 16) none 0px",
+        "outlineOffset": "0px",
+        "padding": "0px"
+      }
+    },
+    {
+      "rect": {
+        "bottom": 384.0234375,
+        "height": 48.59375,
+        "left": 780,
+        "right": 888.2890625,
+        "top": 335.4296875,
+        "width": 108.2890625,
+        "x": 780,
+        "y": 335.4296875
+      },
+      "selector": ".gpo-swatches.buttons label",
+      "style": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "border": "4.5px solid rgba(0, 0, 0, 0)",
+        "borderRadius": "30px",
+        "color": "rgb(249, 246, 236)",
+        "fontFamily": "\"DM Sans\", sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "lineHeight": "18px",
+        "outline": "rgb(249, 246, 236) none 0px",
+        "outlineOffset": "0px",
+        "padding": "3.6px 14.4px"
+      }
+    },
+    {
+      "rect": {
+        "bottom": -1166.6015625,
+        "height": 43.1953125,
+        "left": 780,
+        "right": 1344,
+        "top": -1209.796875,
+        "width": 564,
+        "x": 780,
+        "y": -1209.796875
+      },
+      "selector": ".gpo-select",
+      "style": {
+        "backgroundColor": "color(srgb 0.996078 0.27451 0.0627451 / 0.1)",
+        "border": "0px none rgb(254, 70, 16)",
+        "borderRadius": "30px",
+        "color": "rgb(254, 70, 16)",
+        "fontFamily": "\"DM Sans\", sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "lineHeight": "25.2px",
+        "outline": "rgb(254, 70, 16) none 0px",
+        "outlineOffset": "0px",
+        "padding": "0px"
+      }
+    },
+    {
+      "rect": {
+        "bottom": -1166.6015625,
+        "height": 43.1953125,
+        "left": 780,
+        "right": 1344,
+        "top": -1209.796875,
+        "width": 564,
+        "x": 780,
+        "y": -1209.796875
+      },
+      "selector": "#select-1",
+      "style": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "border": "0px none rgb(254, 70, 16)",
+        "borderRadius": "30px",
+        "color": "rgb(254, 70, 16)",
+        "fontFamily": "\"DM Sans\", sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "lineHeight": "25.2px",
+        "outline": "rgb(254, 70, 16) none 0px",
+        "outlineOffset": "0px",
+        "padding": "9px 39.6px 9px 14.4px"
+      }
+    },
+    {
+      "rect": {
+        "bottom": -1073.6171875,
+        "height": 43.1953125,
+        "left": 780,
+        "right": 1344,
+        "top": -1116.8125,
+        "width": 564,
+        "x": 780,
+        "y": -1116.8125
+      },
+      "selector": ".dropdown-button",
+      "style": {
+        "backgroundColor": "color(srgb 0.996078 0.27451 0.0627451 / 0.1)",
+        "border": "0px none rgb(254, 70, 16)",
+        "borderRadius": "30px",
+        "color": "rgb(254, 70, 16)",
+        "fontFamily": "\"DM Sans\", sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "lineHeight": "25.2px",
+        "outline": "rgb(254, 70, 16) none 0px",
+        "outlineOffset": "0px",
+        "padding": "9px 39.6px 9px 14.4px"
+      }
+    },
+    {
+      "rect": {
+        "bottom": -804.265625,
+        "height": 48.59375,
+        "left": 780,
+        "right": 1344,
+        "top": -852.859375,
+        "width": 564,
+        "x": 780,
+        "y": -852.859375
+      },
+      "selector": ".gpo-input-wrap",
+      "style": {
+        "backgroundColor": "color(srgb 0.996078 0.27451 0.0627451 / 0.1)",
+        "border": "0px none rgb(254, 70, 16)",
+        "borderRadius": "30px",
+        "color": "rgb(254, 70, 16)",
+        "fontFamily": "\"DM Sans\", sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "lineHeight": "25.2px",
+        "outline": "rgb(254, 70, 16) none 0px",
+        "outlineOffset": "0px",
+        "padding": "0px"
+      }
+    },
+    {
+      "rect": {
+        "bottom": -629.8984375,
+        "height": 129.578125,
+        "left": 780,
+        "right": 1344,
+        "top": -759.4765625,
+        "width": 564,
+        "x": 780,
+        "y": -759.4765625
+      },
+      "selector": ".gpo-input.gpo-textarea",
+      "style": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "border": "0px none rgb(254, 70, 16)",
+        "borderRadius": "30px",
+        "color": "rgb(254, 70, 16)",
+        "fontFamily": "\"DM Sans\", sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "lineHeight": "25.2px",
+        "outline": "rgb(254, 70, 16) none 0px",
+        "outlineOffset": "0px",
+        "padding": "14.4px"
+      }
+    },
+    {
+      "rect": {
+        "bottom": 565.8671875,
+        "height": 39.59375,
+        "left": 780,
+        "right": 960,
+        "top": 526.2734375,
+        "width": 180,
+        "x": 780,
+        "y": 526.2734375
+      },
+      "selector": ".gpo-ov-quantity",
+      "style": {
+        "backgroundColor": "color(srgb 0.996078 0.27451 0.0627451 / 0.1)",
+        "border": "0px none rgb(18, 18, 18)",
+        "borderRadius": "30px",
+        "color": "rgb(254, 70, 16)",
+        "fontFamily": "\"DM Sans\", sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "lineHeight": "25.2px",
+        "outline": "rgb(254, 70, 16) none 0px",
+        "outlineOffset": "0px",
+        "padding": "0px"
+      }
+    },
+    {
+      "rect": {
+        "bottom": 433.6171875,
+        "height": 39.59375,
+        "left": 903.921875,
+        "right": 1003.921875,
+        "top": 394.0234375,
+        "width": 100,
+        "x": 903.921875,
+        "y": 394.0234375
+      },
+      "selector": ".gpo-quantity__input",
+      "style": {
+        "backgroundColor": "color(srgb 0.996078 0.27451 0.0627451 / 0.1)",
+        "border": "0px none rgb(254, 70, 16)",
+        "borderRadius": "30px",
+        "color": "rgb(254, 70, 16)",
+        "fontFamily": "\"DM Sans\", sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "lineHeight": "normal",
+        "outline": "rgb(254, 70, 16) none 0px",
+        "outlineOffset": "0px",
+        "padding": "6.435px"
+      }
+    },
+    {
+      "rect": {
+        "bottom": 521.140625,
+        "height": 42.734375,
+        "left": 848.6328125,
+        "right": 891.3671875,
+        "top": 478.40625,
+        "width": 42.734375,
+        "x": 848.6328125,
+        "y": 478.40625
+      },
+      "selector": "label[for=\"color-swatches-1_1\"]",
+      "style": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "border": "3.5px solid rgba(0, 0, 0, 0)",
+        "borderRadius": "1800px",
+        "color": "rgb(254, 70, 16)",
+        "fontFamily": "\"DM Sans\", sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "lineHeight": "25.2px",
+        "outline": "rgba(254, 70, 16, 0.576) solid 3.5px",
+        "outlineOffset": "3.5px",
+        "padding": "1.87367px"
+      }
+    }
+  ],
+  "viewport": [
+    1440,
+    1000
+  ],
+  "width": 1425
+}

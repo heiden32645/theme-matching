@@ -1,0 +1,182 @@
+{
+  "phone": {
+    "box": {
+      "bottom": 641.875,
+      "height": 200,
+      "left": 12,
+      "right": 191.015625,
+      "top": 441.875,
+      "width": 179.015625,
+      "x": 12,
+      "y": 441.875
+    },
+    "overflow": "visible"
+  },
+  "checks": [
+    {
+      "action": "plain open",
+      "state": {
+        "caret": "matrix(1, 0, 0, 1, 0, -9)",
+        "display": "block",
+        "expanded": true,
+        "rect": {
+          "bottom": 667.078125,
+          "height": 219.171875,
+          "left": 12,
+          "right": 363,
+          "top": 447.90625,
+          "width": 351,
+          "x": 12,
+          "y": 447.90625
+        },
+        "transition": "none",
+        "value": "-- Please select --"
+      }
+    },
+    {
+      "action": "plain selected",
+      "state": {
+        "caret": "matrix(1, 0, 0, 1, 0, -9)",
+        "display": "none",
+        "expanded": false,
+        "rect": {
+          "bottom": 0,
+          "height": 0,
+          "left": 0,
+          "right": 0,
+          "top": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0
+        },
+        "selected": "option_2",
+        "transition": "none",
+        "value": "option_2"
+      }
+    },
+    {
+      "action": "trigger closed",
+      "state": {
+        "caret": "matrix(1, 0, 0, 1, 0, -9)",
+        "display": "none",
+        "expanded": false,
+        "rect": {
+          "bottom": 0,
+          "height": 0,
+          "left": 0,
+          "right": 0,
+          "top": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0
+        },
+        "selected": "option_2",
+        "transition": "none",
+        "value": "option_2"
+      }
+    },
+    {
+      "action": "image open",
+      "state": {
+        "caret": "matrix(1, 0, 0, 1, 0, -9)",
+        "display": "block",
+        "expanded": true,
+        "rect": {
+          "bottom": 650,
+          "height": 202,
+          "left": 12,
+          "right": 363,
+          "top": 448,
+          "width": 351,
+          "x": 12,
+          "y": 448
+        },
+        "transition": "none",
+        "value": "-- Please select --"
+      }
+    },
+    {
+      "action": "image selected",
+      "state": {
+        "caret": "matrix(1, 0, 0, 1, 0, -9)",
+        "display": "none",
+        "expanded": false,
+        "rect": {
+          "bottom": 0,
+          "height": 0,
+          "left": 0,
+          "right": 0,
+          "top": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0
+        },
+        "selected": "option_2",
+        "transition": "none",
+        "value": "option_2"
+      }
+    },
+    {
+      "action": "font open",
+      "state": {
+        "caret": "matrix(1, 0, 0, 1, 0, -9)",
+        "display": "block",
+        "expanded": true,
+        "rect": {
+          "bottom": 631.0703125,
+          "height": 182.9765625,
+          "left": 12,
+          "right": 363,
+          "top": 448.09375,
+          "width": 351,
+          "x": 12,
+          "y": 448.09375
+        },
+        "transition": "none",
+        "value": "-- Select a font --"
+      }
+    },
+    {
+      "action": "font selected",
+      "state": {
+        "caret": "matrix(1, 0, 0, 1, 0, -9)",
+        "display": "none",
+        "expanded": false,
+        "rect": {
+          "bottom": 0,
+          "height": 0,
+          "left": 0,
+          "right": 0,
+          "top": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0
+        },
+        "selected": "Poppins",
+        "transition": "none",
+        "value": "Poppins"
+      }
+    },
+    {
+      "action": "outside closed",
+      "state": {
+        "caret": "matrix(1, 0, 0, 1, 0, -9)",
+        "display": "none",
+        "expanded": false,
+        "rect": {
+          "bottom": 0,
+          "height": 0,
+          "left": 0,
+          "right": 0,
+          "top": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0
+        },
+        "selected": "option_2",
+        "transition": "none",
+        "value": "option_2"
+      }
+    }
+  ]
+}

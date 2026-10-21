@@ -1,0 +1,16 @@
+{
+  "active": "text-1",
+  "border": "1px solid rgb(2, 2, 4)",
+  "box": {
+    "bottom": 474.46875,
+    "height": 42,
+    "left": 808.5,
+    "right": 1227.5,
+    "top": 432.46875,
+    "width": 419,
+    "x": 808.5,
+    "y": 432.46875
+  },
+  "font": "14px / 18.62px Poppins, sans-serif",
+  "value": "Shift sample"
+}

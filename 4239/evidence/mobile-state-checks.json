@@ -1,0 +1,35 @@
+{
+  "overflow": [],
+  "range": "1",
+  "selected": [
+    [
+      "switch-1",
+      "Yes"
+    ],
+    [
+      "radio-1_2",
+      "option_2"
+    ],
+    [
+      "checkbox-1_1",
+      "option_1"
+    ],
+    [
+      "buttons-1_1",
+      "option_1"
+    ],
+    [
+      "color-swatches-1_2",
+      "option_2"
+    ],
+    [
+      "image-swatches-1_2",
+      "option_2"
+    ]
+  ],
+  "stepper": [
+    "1",
+    "2"
+  ],
+  "tab": "\n            option_2\n          "
+}

@@ -1,0 +1,12 @@
+{
+  "rules": 119,
+  "declarations": 481,
+  "errors": [],
+  "vendorPseudoSelectors": [
+    ".gpo-app .gpo-range .gpo-range-input::-webkit-slider-runnable-track",
+    ".gpo-app .gpo-range .gpo-range-input::-moz-range-track",
+    ".gpo-app .gpo-range .gpo-range-input::-moz-range-progress",
+    ".gpo-app .gpo-range .gpo-range-input::-moz-range-thumb",
+    ".gpo-app .gpo-range .gpo-range-input::-webkit-slider-thumb"
+  ]
+}

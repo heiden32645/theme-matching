@@ -1,0 +1,113 @@
+[
+  {
+    "action": "open",
+    "state": {
+      "animation": "none",
+      "caretTransform": "matrix(1, 0, 0, 1, 0, -9)",
+      "display": "block",
+      "expanded": true,
+      "maxHeight": "300px",
+      "transition": "none",
+      "value": "-- Please select --"
+    }
+  },
+  {
+    "action": "close trigger",
+    "state": {
+      "animation": "none",
+      "caretTransform": "matrix(1, 0, 0, 1, 0, -9)",
+      "display": "none",
+      "expanded": false,
+      "maxHeight": "300px",
+      "transition": "none",
+      "value": "-- Please select --"
+    }
+  },
+  {
+    "action": "select option_2",
+    "state": {
+      "animation": "none",
+      "caretTransform": "matrix(1, 0, 0, 1, 0, -9)",
+      "display": "none",
+      "expanded": false,
+      "maxHeight": "300px",
+      "selected": "option_2",
+      "transition": "none",
+      "value": "option_2"
+    }
+  },
+  {
+    "action": "click on covered Text label selected option_6; not outside-close coverage",
+    "state": {
+      "animation": "none",
+      "caretTransform": "matrix(1, 0, 0, 1, 0, -9)",
+      "display": "none",
+      "expanded": false,
+      "maxHeight": "300px",
+      "selected": "option_6",
+      "transition": "none",
+      "value": "option_6"
+    }
+  },
+  {
+    "action": "image open",
+    "state": {
+      "animation": "none",
+      "caretTransform": "matrix(1, 0, 0, 1, 0, -9)",
+      "display": "block",
+      "expanded": true,
+      "maxHeight": "300px",
+      "transition": "none",
+      "value": "-- Please select --"
+    }
+  },
+  {
+    "action": "image selected",
+    "state": {
+      "animation": "none",
+      "caretTransform": "matrix(1, 0, 0, 1, 0, -9)",
+      "display": "none",
+      "expanded": false,
+      "maxHeight": "300px",
+      "selected": "option_2",
+      "transition": "none",
+      "value": "option_2"
+    }
+  },
+  {
+    "action": "font open",
+    "state": {
+      "animation": "none",
+      "caretTransform": "matrix(1, 0, 0, 1, 0, -9)",
+      "display": "block",
+      "expanded": true,
+      "maxHeight": "300px",
+      "transition": "none",
+      "value": "-- Select a font --"
+    }
+  },
+  {
+    "action": "font selected",
+    "state": {
+      "animation": "none",
+      "caretTransform": "matrix(1, 0, 0, 1, 0, -9)",
+      "display": "none",
+      "expanded": false,
+      "maxHeight": "300px",
+      "selected": "Poppins",
+      "transition": "none",
+      "value": "Poppins"
+    }
+  },
+  {
+    "action": "outside close corrected: click h1.product__title",
+    "state": {
+      "expanded": false,
+      "display": "none",
+      "transition": "none",
+      "selected": "option_2",
+      "value": "option_2",
+      "caretTransform": "matrix(1, 0, 0, 1, 0, -9)"
+    }
+  }
+]

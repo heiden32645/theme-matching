@@ -1,0 +1,32 @@
+:root {
+    /* Font Library - 4 Base Fonts */
+    --font-primary-family: Lato, sans-serif;
+    --font-primary-style: normal;
+    --font-primary-weight: 400;
+
+    --font-heading-family: Montserrat, sans-serif;
+    --font-heading-style: normal;
+    --font-heading-weight: 700;
+
+    --font-accent-family: Montserrat, sans-serif;
+    --font-accent-style: normal;
+    --font-accent-weight: 600;
+
+    --font-display-family: Montserrat, sans-serif;
+    --font-display-style: normal;
+    --font-display-weight: 600;
+
+    /* Backward Compatibility - Body Font Variables */--font-body-family: var(--font-primary-family);
+        --font-body-style: var(--font-primary-style);
+        --font-body-weight: var(--font-primary-weight);/* Body Typography Controls */
+    --body-line-height: 1.6;
+    --body-letter-spacing: 0px;
+
+    /* Global Heading Font Variables */--heading-global-family: var(--font-heading-family);
+        --heading-global-style: var(--font-heading-style);
+        --heading-global-weight: var(--font-heading-weight);/* Global Heading Typography Controls */
+    --heading-global-line-height: 1.2;
+    --heading-global-letter-spacing: 0px;
+    --heading-global-text-transform: none;
+
+    /* Per-Heading Variables with Fallbacks */}

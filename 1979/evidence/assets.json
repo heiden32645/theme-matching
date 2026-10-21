@@ -1,0 +1,69 @@
+{
+  "assets": [
+    {
+      "contentType": "text/css",
+      "id": "22afa44dd795bc0c",
+      "kind": "stylesheet",
+      "name": "base.css",
+      "path": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/dbd56a5d-e876-4f9d-b1f2-d4ee4bb31748/22afa44dd795bc0c.css",
+      "url": "https://9kk41vlfycrvmn5l-69620498584.shopifypreview.com/cdn/shop/t/50/assets/base.css?v=129273787112203990461792519086"
+    },
+    {
+      "contentType": "text/css",
+      "id": "e054ccf1bc7aa64c",
+      "kind": "stylesheet",
+      "name": "swiper-bundle.min.css",
+      "path": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/dbd56a5d-e876-4f9d-b1f2-d4ee4bb31748/e054ccf1bc7aa64c.css",
+      "url": "https://9kk41vlfycrvmn5l-69620498584.shopifypreview.com/cdn/shop/t/50/assets/swiper-bundle.min.css?v=139857924144629129411792519086"
+    },
+    {
+      "contentType": "",
+      "id": "43223e585056cf01",
+      "kind": "stylesheet",
+      "name": "accelerated-checkout.css",
+      "path": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/dbd56a5d-e876-4f9d-b1f2-d4ee4bb31748/43223e585056cf01.css",
+      "url": "https://9kk41vlfycrvmn5l-69620498584.shopifypreview.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout.css"
+    },
+    {
+      "contentType": "",
+      "id": "d9e8b8ff9955164b",
+      "kind": "stylesheet",
+      "name": "styles.css",
+      "path": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/dbd56a5d-e876-4f9d-b1f2-d4ee4bb31748/d9e8b8ff9955164b.css",
+      "url": "https://9kk41vlfycrvmn5l-69620498584.shopifypreview.com/cdn/shop/t/50/compiled_assets/styles.css?v=7834736103799923161792519135&subset=AAAAAAAAAIAAAAAAAIIAAAQABiF8sLsEAkECMAAAAAAAAAAAAAEEgAJSAuAEAQ"
+    },
+    {
+      "contentType": "text/css",
+      "id": "a315b43623dc54e2",
+      "kind": "stylesheet",
+      "name": "styles.css",
+      "path": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/dbd56a5d-e876-4f9d-b1f2-d4ee4bb31748/a315b43623dc54e2.css",
+      "url": "https://9kk41vlfycrvmn5l-69620498584.shopifypreview.com/cdn/shop/t/50/compiled_assets/styles.css?v=7834736103799923161792519135"
+    },
+    {
+      "contentType": "text/css",
+      "id": "c5bca741e2ca3be0",
+      "kind": "stylesheet",
+      "name": "component-predictive-search.css",
+      "path": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/dbd56a5d-e876-4f9d-b1f2-d4ee4bb31748/c5bca741e2ca3be0.css",
+      "url": "https://9kk41vlfycrvmn5l-69620498584.shopifypreview.com/cdn/shop/t/50/assets/component-predictive-search.css?v=176934529193051224131792519086"
+    },
+    {
+      "contentType": "text/css",
+      "id": "33da3403da971581",
+      "kind": "stylesheet",
+      "name": "css",
+      "path": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/dbd56a5d-e876-4f9d-b1f2-d4ee4bb31748/33da3403da971581",
+      "url": "https://fonts.googleapis.com/css?family=Roboto|Open+Sans|Montserrat|Poppins|Oswald&display=swap"
+    }
+  ],
+  "directoryPath": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/dbd56a5d-e876-4f9d-b1f2-d4ee4bb31748",
+  "failures": [],
+  "manifestPath": "/var/folders/3v/1bhvhp2173d862pbs_0tx9940000gn/T/browser-use/assets/dbd56a5d-e876-4f9d-b1f2-d4ee4bb31748/manifest.json",
+  "summary": {
+    "downloadedCount": 7,
+    "elapsedMs": 165.0983750000014,
+    "failedCount": 0,
+    "requestedCount": 7
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "desktopImage": {
+    "labelFont": "11px / 14.63px Inter, sans-serif",
+    "labelOffset": [
+      11,
+      -6
+    ]
+  },
+  "mobile": {
+    "imageLabelOffset": [
+      11,
+      -6
+    ],
+    "scrollWidth": 375,
+    "singleQuantity": [
+      60,
+      30
+    ],
+    "stepper": [
+      84,
+      30
+    ],
+    "viewport": [
+      390,
+      844
+    ]
+  },
+  "editorExact": true,
+  "servedExact": true
+}

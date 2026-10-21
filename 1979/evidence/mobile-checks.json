@@ -1,0 +1,50 @@
+{
+  "gpoBox": {
+    "w": 370,
+    "x": 10
+  },
+  "heights": [
+    {
+      "h": 45,
+      "s": ".gpo-select"
+    },
+    {
+      "h": 50,
+      "s": ".gpo-input-wrap"
+    },
+    {
+      "h": 45,
+      "s": ".gpo-ov-quantity"
+    },
+    {
+      "h": 36,
+      "s": ".gpo-swatches.buttons input+label"
+    }
+  ],
+  "optionQuantity": "2",
+  "overflow": [],
+  "override": true,
+  "pageWidth": 390,
+  "values": [
+    {
+      "id": "dropdown-1",
+      "value": "option_1"
+    },
+    {
+      "id": "image-dropdown-1",
+      "value": "option_2"
+    },
+    {
+      "id": "google-font-1",
+      "value": "Open Sans"
+    },
+    {
+      "id": "buttons-1",
+      "value": "option_2"
+    }
+  ],
+  "viewport": [
+    390,
+    790
+  ]
+}

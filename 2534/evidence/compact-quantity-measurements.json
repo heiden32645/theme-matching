@@ -1,0 +1,56 @@
+{
+  "desktop": {
+    "controls": [
+      {
+        "font": "18px",
+        "h": 32,
+        "s": ".gpo-app .gpo-ov-quantity",
+        "w": 100
+      },
+      {
+        "font": "14px",
+        "h": 32,
+        "s": ".gpo-app .gpo-ov-quantity input",
+        "w": 36
+      },
+      {
+        "font": "14px",
+        "h": 32,
+        "s": ".gpo-app .gpo-quantity .gpo-quantity__input",
+        "w": 64
+      }
+    ],
+    "loaded": true,
+    "viewport": [
+      1838,
+      907
+    ]
+  },
+  "mobile": {
+    "controls": [
+      {
+        "font": "16px",
+        "h": 32,
+        "s": ".gpo-app .gpo-ov-quantity",
+        "w": 100
+      },
+      {
+        "font": "14px",
+        "h": 32,
+        "s": ".gpo-app .gpo-ov-quantity input",
+        "w": 36
+      },
+      {
+        "font": "14px",
+        "h": 32,
+        "s": ".gpo-app .gpo-quantity .gpo-quantity__input",
+        "w": 64
+      }
+    ],
+    "loaded": true,
+    "viewport": [
+      390,
+      844
+    ]
+  }
+}

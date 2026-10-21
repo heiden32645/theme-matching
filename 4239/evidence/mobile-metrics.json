@@ -1,0 +1,425 @@
+{
+  "controls": [
+    {
+      "border": "0px none rgb(2, 2, 4)",
+      "box": [
+        12,
+        2926.125,
+        40,
+        40
+      ],
+      "cls": "",
+      "font": "500 14px / 21px Inter, sans-serif",
+      "radius": "0px",
+      "text": "8"
+    },
+    {
+      "border": "0px none rgb(2, 2, 4)",
+      "box": [
+        60,
+        2926.125,
+        40,
+        40
+      ],
+      "cls": "",
+      "font": "500 14px / 21px Inter, sans-serif",
+      "radius": "0px",
+      "text": "9"
+    },
+    {
+      "border": "0px none rgb(2, 2, 4)",
+      "box": [
+        108,
+        2926.125,
+        40,
+        40
+      ],
+      "cls": "",
+      "font": "500 14px / 21px Inter, sans-serif",
+      "radius": "0px",
+      "text": "10"
+    },
+    {
+      "border": "0px none rgb(2, 2, 4)",
+      "box": [
+        156,
+        2926.125,
+        40,
+        40
+      ],
+      "cls": "",
+      "font": "500 14px / 21px Inter, sans-serif",
+      "radius": "0px",
+      "text": "13"
+    },
+    {
+      "border": "",
+      "box": [
+        12,
+        3015.71875,
+        68,
+        90
+      ],
+      "cls": "color-swatch variant-swatch variant-swatch--portrait variant-swatch--color",
+      "font": "500 14px / 21px Inter, sans-serif",
+      "radius": "0px",
+      "text": "blue"
+    },
+    {
+      "border": "",
+      "box": [
+        92,
+        3015.71875,
+        68,
+        90
+      ],
+      "cls": "color-swatch variant-swatch variant-swatch--portrait variant-swatch--color",
+      "font": "500 14px / 21px Inter, sans-serif",
+      "radius": "0px",
+      "text": "red"
+    },
+    {
+      "border": "",
+      "box": [
+        172,
+        3015.71875,
+        68,
+        90
+      ],
+      "cls": "color-swatch variant-swatch variant-swatch--portrait variant-swatch--color",
+      "font": "500 14px / 21px Inter, sans-serif",
+      "radius": "0px",
+      "text": "black"
+    },
+    {
+      "border": "1px solid rgb(217, 212, 207)",
+      "box": [
+        12,
+        3178.3125,
+        351,
+        44
+      ],
+      "cls": "gpo-select",
+      "font": "14px / 19.6px Inter, sans-serif",
+      "radius": "0px",
+      "text": "-- Please select -"
+    },
+    {
+      "border": "1px solid rgb(217, 212, 207)",
+      "box": [
+        12,
+        3272.90625,
+        351,
+        44
+      ],
+      "cls": "dropdown-button",
+      "font": "14px / 19.6px Inter, sans-serif",
+      "radius": "0px",
+      "text": "-- Please select -"
+    },
+    {
+      "border": "1px solid rgb(217, 212, 207)",
+      "box": [
+        12,
+        3362.5,
+        351,
+        44
+      ],
+      "cls": "dropdown-button",
+      "font": "14px / 19.6px Inter, sans-serif",
+      "radius": "0px",
+      "text": "-- Please select -"
+    },
+    {
+      "border": "1px solid rgb(217, 212, 207)",
+      "box": [
+        12,
+        3452.09375,
+        351,
+        44
+      ],
+      "cls": "dropdown-button",
+      "font": "14px / 19.6px Inter, sans-serif",
+      "radius": "0px",
+      "text": "-- Select a font -"
+    },
+    {
+      "border": "1px solid rgb(217, 212, 207)",
+      "box": [
+        12,
+        3541.6875,
+        351,
+        42
+      ],
+      "cls": "gpo-input-wrap",
+      "font": "14px / 19.6px Inter, sans-serif",
+      "radius": "0px",
+      "text": "px"
+    },
+    {
+      "border": "1px solid rgb(217, 212, 207)",
+      "box": [
+        12,
+        3629.28125,
+        351,
+        102
+      ],
+      "cls": "gpo-input-wrap",
+      "font": "14px / 19.6px Inter, sans-serif",
+      "radius": "0px",
+      "text": ""
+    },
+    {
+      "border": "1px solid rgb(217, 212, 207)",
+      "box": [
+        12,
+        3776.875,
+        351,
+        42
+      ],
+      "cls": "gpo-input-wrap",
+      "font": "14px / 19.6px Inter, sans-serif",
+      "radius": "0px",
+      "text": "+1United States+1A"
+    },
+    {
+      "border": "1px solid rgb(217, 212, 207)",
+      "box": [
+        12,
+        4010.0625,
+        351,
+        42
+      ],
+      "cls": "gpo-input-wrap gpo-color-box",
+      "font": "14px / 19.6px Inter, sans-serif",
+      "radius": "0px",
+      "text": ""
+    },
+    {
+      "border": "1px solid rgb(217, 212, 207)",
+      "box": [
+        12,
+        4270.734375,
+        111.6640625,
+        42
+      ],
+      "cls": "gpo-dimension-input-wrap",
+      "font": "14px / 19.6px Inter, sans-serif",
+      "radius": "0px",
+      "text": ""
+    },
+    {
+      "border": "1px solid rgb(217, 212, 207)",
+      "box": [
+        131.6640625,
+        4270.734375,
+        111.6640625,
+        42
+      ],
+      "cls": "gpo-dimension-input-wrap",
+      "font": "14px / 19.6px Inter, sans-serif",
+      "radius": "0px",
+      "text": ""
+    },
+    {
+      "border": "1px solid rgb(217, 212, 207)",
+      "box": [
+        251.328125,
+        4270.734375,
+        111.6640625,
+        42
+      ],
+      "cls": "gpo-dimension-input-wrap",
+      "font": "14px / 19.6px Inter, sans-serif",
+      "radius": "0px",
+      "text": ""
+    },
+    {
+      "border": "0px none rgb(2, 2, 4)",
+      "box": [
+        12,
+        4636.671875,
+        73.0625,
+        40
+      ],
+      "cls": "",
+      "font": "500 14px / 21px Inter, sans-serif",
+      "radius": "0px",
+      "text": "option_1\n         "
+    },
+    {
+      "border": "0px none rgb(2, 2, 4)",
+      "box": [
+        93.0625,
+        4636.671875,
+        77.390625,
+        40
+      ],
+      "cls": "",
+      "font": "500 14px / 21px Inter, sans-serif",
+      "radius": "0px",
+      "text": "option_2\n         "
+    },
+    {
+      "border": "0px none rgb(2, 2, 4)",
+      "box": [
+        109.1796875,
+        4686.671875,
+        100,
+        40
+      ],
+      "cls": "gpo-quantity__input",
+      "font": "600 14px / 19.6px Inter, sans-serif",
+      "radius": "0px",
+      "text": ""
+    },
+    {
+      "border": "0px none rgb(2, 2, 4)",
+      "box": [
+        12,
+        4810.265625,
+        108,
+        40
+      ],
+      "cls": "gpo-ov-quantity",
+      "font": "14px / 19.6px Inter, sans-serif",
+      "radius": "0px",
+      "text": ""
+    },
+    {
+      "border": "0px none rgb(2, 2, 4)",
+      "box": [
+        132,
+        4810.265625,
+        108,
+        40
+      ],
+      "cls": "gpo-ov-quantity",
+      "font": "14px / 19.6px Inter, sans-serif",
+      "radius": "0px",
+      "text": ""
+    },
+    {
+      "border": "0px none rgb(2, 2, 4)",
+      "box": [
+        12,
+        5238.25,
+        227.1640625,
+        40
+      ],
+      "cls": "",
+      "font": "500 14px / 21px Inter, sans-serif",
+      "radius": "0px",
+      "text": "NIKE | TODDLER ROS"
+    },
+    {
+      "border": "0px none rgb(2, 2, 4)",
+      "box": [
+        12,
+        5286.25,
+        316.0234375,
+        40
+      ],
+      "cls": "",
+      "font": "500 14px / 21px Inter, sans-serif",
+      "radius": "0px",
+      "text": "PALLADIUM | PALLAT"
+    },
+    {
+      "border": "0px none rgb(2, 2, 4)",
+      "box": [
+        12,
+        5334.25,
+        233.890625,
+        40
+      ],
+      "cls": "",
+      "font": "500 14px / 21px Inter, sans-serif",
+      "radius": "0px",
+      "text": "PUMA | SUEDE CLASS"
+    },
+    {
+      "border": "0px none rgb(2, 2, 4)",
+      "box": [
+        12,
+        5419.84375,
+        64.890625,
+        40
+      ],
+      "cls": "",
+      "font": "500 14px / 21px Roboto",
+      "radius": "0px",
+      "text": "Roboto"
+    },
+    {
+      "border": "0px none rgb(2, 2, 4)",
+      "box": [
+        84.890625,
+        5419.84375,
+        90.2578125,
+        40
+      ],
+      "cls": "",
+      "font": "500 14px / 21px \"Open Sans\"",
+      "radius": "0px",
+      "text": "Open Sans"
+    },
+    {
+      "border": "0px none rgb(2, 2, 4)",
+      "box": [
+        183.1484375,
+        5419.84375,
+        97.0703125,
+        40
+      ],
+      "cls": "",
+      "font": "500 14px / 21px Montserrat",
+      "radius": "0px",
+      "text": "Montserrat"
+    },
+    {
+      "border": "0px none rgb(2, 2, 4)",
+      "box": [
+        12,
+        5467.84375,
+        75.7109375,
+        40
+      ],
+      "cls": "",
+      "font": "500 14px / 21px Poppins",
+      "radius": "0px",
+      "text": "Poppins"
+    },
+    {
+      "border": "0px none rgb(2, 2, 4)",
+      "box": [
+        95.7109375,
+        5467.84375,
+        56.0546875,
+        40
+      ],
+      "cls": "",
+      "font": "500 14px / 21px Oswald",
+      "radius": "0px",
+      "text": "Oswald"
+    },
+    {
+      "border": "0px none rgb(2, 2, 4)",
+      "box": [
+        12,
+        5551.34375,
+        108,
+        40
+      ],
+      "cls": "quantity",
+      "font": "600 14px / 19.6px Inter, sans-serif",
+      "radius": "0px",
+      "text": "Decrease quantity "
+    }
+  ],
+  "scrollWidth": 375,
+  "viewport": [
+    390,
+    844
+  ]
+}

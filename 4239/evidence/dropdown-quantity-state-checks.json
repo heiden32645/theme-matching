@@ -1,0 +1,282 @@
+{
+  "nativeOpen": {
+    "caret": "none",
+    "listDisplay": "block",
+    "listTransition": "0s",
+    "rows": [
+      40,
+      40,
+      40,
+      40
+    ]
+  },
+  "nativeKeyboard": "block",
+  "checks": [
+    {
+      "platform": "desktop",
+      "id": "dropdown-1",
+      "opened": {
+        "caret": "matrix(1, 0, 0, 1, 0, -9)",
+        "display": "block",
+        "rowHeights": [
+          40,
+          40,
+          40,
+          40,
+          40,
+          40
+        ],
+        "transition": "0s"
+      },
+      "selected": {
+        "caret": "matrix(1, 0, 0, 1, 0, -9)",
+        "display": "none",
+        "value": "option_2"
+      }
+    },
+    {
+      "platform": "desktop",
+      "id": "image-dropdown-1",
+      "opened": {
+        "caret": "matrix(1, 0, 0, 1, 0, -9)",
+        "display": "block",
+        "rowHeights": [
+          50,
+          50,
+          50,
+          50
+        ],
+        "transition": "0s"
+      },
+      "selected": {
+        "caret": "matrix(1, 0, 0, 1, 0, -9)",
+        "display": "none",
+        "value": "option_2"
+      }
+    },
+    {
+      "platform": "desktop",
+      "id": "google-font-1",
+      "opened": {
+        "caret": "matrix(1, 0, 0, 1, 0, -9)",
+        "display": "block",
+        "rowHeights": [
+          40,
+          40,
+          40,
+          40,
+          40
+        ],
+        "transition": "0s"
+      },
+      "selected": {
+        "caret": "matrix(1, 0, 0, 1, 0, -9)",
+        "display": "none",
+        "value": "Poppins"
+      }
+    },
+    {
+      "platform": "desktop",
+      "quantities": {
+        "fonts": [
+          [
+            "Roboto",
+            "Roboto"
+          ],
+          [
+            "\"Open Sans\"",
+            "\"Open Sans\""
+          ],
+          [
+            "Montserrat",
+            "Montserrat"
+          ],
+          [
+            "Poppins",
+            "Poppins"
+          ],
+          [
+            "Oswald",
+            "Oswald"
+          ],
+          [
+            "Roboto",
+            "Roboto"
+          ],
+          [
+            "\"Open Sans\"",
+            "\"Open Sans\""
+          ],
+          [
+            "Montserrat",
+            "Montserrat"
+          ],
+          [
+            "Poppins",
+            "Poppins"
+          ],
+          [
+            "Oswald",
+            "Oswald"
+          ]
+        ],
+        "single": {
+          "box": [
+            60,
+            30
+          ],
+          "value": "2"
+        },
+        "stepper": [
+          {
+            "box": [
+              84,
+              30
+            ],
+            "value": "1"
+          },
+          {
+            "box": [
+              84,
+              30
+            ],
+            "value": "2"
+          }
+        ]
+      }
+    },
+    {
+      "platform": "mobile",
+      "id": "dropdown-1",
+      "opened": {
+        "caret": "matrix(1, 0, 0, 1, 0, -9)",
+        "display": "block",
+        "rowHeights": [
+          40,
+          40,
+          40,
+          40,
+          40,
+          40
+        ],
+        "transition": "0s"
+      },
+      "selected": {
+        "caret": "matrix(1, 0, 0, 1, 0, -9)",
+        "display": "none",
+        "value": "option_2"
+      }
+    },
+    {
+      "platform": "mobile",
+      "id": "image-dropdown-1",
+      "opened": {
+        "caret": "matrix(1, 0, 0, 1, 0, -9)",
+        "display": "block",
+        "rowHeights": [
+          50,
+          50,
+          50,
+          50
+        ],
+        "transition": "0s"
+      },
+      "selected": {
+        "caret": "matrix(1, 0, 0, 1, 0, -9)",
+        "display": "none",
+        "value": "option_2"
+      }
+    },
+    {
+      "platform": "mobile",
+      "id": "google-font-1",
+      "opened": {
+        "caret": "matrix(1, 0, 0, 1, 0, -9)",
+        "display": "block",
+        "rowHeights": [
+          40,
+          40,
+          40,
+          40,
+          40
+        ],
+        "transition": "0s"
+      },
+      "selected": {
+        "caret": "matrix(1, 0, 0, 1, 0, -9)",
+        "display": "none",
+        "value": "Poppins"
+      }
+    },
+    {
+      "platform": "mobile",
+      "quantities": {
+        "fonts": [
+          [
+            "Roboto",
+            "Roboto"
+          ],
+          [
+            "\"Open Sans\"",
+            "\"Open Sans\""
+          ],
+          [
+            "Montserrat",
+            "Montserrat"
+          ],
+          [
+            "Poppins",
+            "Poppins"
+          ],
+          [
+            "Oswald",
+            "Oswald"
+          ],
+          [
+            "Roboto",
+            "Roboto"
+          ],
+          [
+            "\"Open Sans\"",
+            "\"Open Sans\""
+          ],
+          [
+            "Montserrat",
+            "Montserrat"
+          ],
+          [
+            "Poppins",
+            "Poppins"
+          ],
+          [
+            "Oswald",
+            "Oswald"
+          ]
+        ],
+        "single": {
+          "box": [
+            60,
+            30
+          ],
+          "value": "2"
+        },
+        "stepper": [
+          {
+            "box": [
+              84,
+              30
+            ],
+            "value": "1"
+          },
+          {
+            "box": [
+              84,
+              30
+            ],
+            "value": "2"
+          }
+        ]
+      }
+    }
+  ]
+}
