@@ -1,0 +1,26 @@
+{
+  "items": [
+    {
+      "cls": "gpo-quantity__input",
+      "height": 32,
+      "width": 70
+    },
+    {
+      "cls": "gpo-ov-quantity",
+      "height": 32,
+      "width": 90
+    },
+    {
+      "cls": "gpo-ov-quantity",
+      "height": 32,
+      "width": 90
+    }
+  ],
+  "overrideCount": 1,
+  "singleValue": "2",
+  "stepperValue": "2",
+  "viewport": [
+    1598,
+    877
+  ]
+}

@@ -1,0 +1,1671 @@
+
+    @font-face {
+  font-family: "DM Sans";
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+  src: url("//ahlx0ixhryqx7fhn-69620498584.shopifypreview.com/cdn/fonts/dm_sans/dmsans_n5.8a0f1984c77eb7186ceb87c4da2173ff65eb012e.woff2") format("woff2"),
+       url("//ahlx0ixhryqx7fhn-69620498584.shopifypreview.com/cdn/fonts/dm_sans/dmsans_n5.9ad2e755a89e15b3d6c53259daad5fc9609888e6.woff") format("woff");
+}
+
+    @font-face {
+  font-family: Jost;
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+  src: url("//ahlx0ixhryqx7fhn-69620498584.shopifypreview.com/cdn/fonts/jost/jost_n6.ec1178db7a7515114a2d84e3dd680832b7af8b99.woff2") format("woff2"),
+       url("//ahlx0ixhryqx7fhn-69620498584.shopifypreview.com/cdn/fonts/jost/jost_n6.b1178bb6bdd3979fef38e103a3816f6980aeaff9.woff") format("woff");
+}
+
+    @font-face {
+  font-family: "DM Sans";
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+  src: url("//ahlx0ixhryqx7fhn-69620498584.shopifypreview.com/cdn/fonts/dm_sans/dmsans_n5.8a0f1984c77eb7186ceb87c4da2173ff65eb012e.woff2") format("woff2"),
+       url("//ahlx0ixhryqx7fhn-69620498584.shopifypreview.com/cdn/fonts/dm_sans/dmsans_n5.9ad2e755a89e15b3d6c53259daad5fc9609888e6.woff") format("woff");
+}
+
+    @font-face {
+  font-family: "DM Sans";
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url("//ahlx0ixhryqx7fhn-69620498584.shopifypreview.com/cdn/fonts/dm_sans/dmsans_n7.97e21d81502002291ea1de8aefb79170c6946ce5.woff2") format("woff2"),
+       url("//ahlx0ixhryqx7fhn-69620498584.shopifypreview.com/cdn/fonts/dm_sans/dmsans_n7.af5c214f5116410ca1d53a2090665620e78e2e1b.woff") format("woff");
+}
+
+    @font-face {
+  font-family: "DM Sans";
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url("//ahlx0ixhryqx7fhn-69620498584.shopifypreview.com/cdn/fonts/dm_sans/dmsans_n7.97e21d81502002291ea1de8aefb79170c6946ce5.woff2") format("woff2"),
+       url("//ahlx0ixhryqx7fhn-69620498584.shopifypreview.com/cdn/fonts/dm_sans/dmsans_n7.af5c214f5116410ca1d53a2090665620e78e2e1b.woff") format("woff");
+}
+
+    @font-face {
+  font-family: "DM Sans";
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+  src: url("//ahlx0ixhryqx7fhn-69620498584.shopifypreview.com/cdn/fonts/dm_sans/dmsans_n5.8a0f1984c77eb7186ceb87c4da2173ff65eb012e.woff2") format("woff2"),
+       url("//ahlx0ixhryqx7fhn-69620498584.shopifypreview.com/cdn/fonts/dm_sans/dmsans_n5.9ad2e755a89e15b3d6c53259daad5fc9609888e6.woff") format("woff");
+}
+
+    @font-face {
+  font-family: "DM Sans";
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+  src: url("//ahlx0ixhryqx7fhn-69620498584.shopifypreview.com/cdn/fonts/dm_sans/dmsans_n5.8a0f1984c77eb7186ceb87c4da2173ff65eb012e.woff2") format("woff2"),
+       url("//ahlx0ixhryqx7fhn-69620498584.shopifypreview.com/cdn/fonts/dm_sans/dmsans_n5.9ad2e755a89e15b3d6c53259daad5fc9609888e6.woff") format("woff");
+}
+
+    @font-face {
+  font-family: "DM Sans";
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+  src: url("//ahlx0ixhryqx7fhn-69620498584.shopifypreview.com/cdn/fonts/dm_sans/dmsans_n5.8a0f1984c77eb7186ceb87c4da2173ff65eb012e.woff2") format("woff2"),
+       url("//ahlx0ixhryqx7fhn-69620498584.shopifypreview.com/cdn/fonts/dm_sans/dmsans_n5.9ad2e755a89e15b3d6c53259daad5fc9609888e6.woff") format("woff");
+}
+
+    @font-face {
+  font-family: "DM Sans";
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url("//ahlx0ixhryqx7fhn-69620498584.shopifypreview.com/cdn/fonts/dm_sans/dmsans_n7.97e21d81502002291ea1de8aefb79170c6946ce5.woff2") format("woff2"),
+       url("//ahlx0ixhryqx7fhn-69620498584.shopifypreview.com/cdn/fonts/dm_sans/dmsans_n7.af5c214f5116410ca1d53a2090665620e78e2e1b.woff") format("woff");
+}
+
+    @font-face {
+  font-family: "DM Sans";
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+  src: url("//ahlx0ixhryqx7fhn-69620498584.shopifypreview.com/cdn/fonts/dm_sans/dmsans_n5.8a0f1984c77eb7186ceb87c4da2173ff65eb012e.woff2") format("woff2"),
+       url("//ahlx0ixhryqx7fhn-69620498584.shopifypreview.com/cdn/fonts/dm_sans/dmsans_n5.9ad2e755a89e15b3d6c53259daad5fc9609888e6.woff") format("woff");
+}
+
+    @font-face {
+  font-family: "DM Sans";
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+  src: url("//ahlx0ixhryqx7fhn-69620498584.shopifypreview.com/cdn/fonts/dm_sans/dmsans_n3.d218434bb518134511e5205d90c23cfb8a1b261b.woff2") format("woff2"),
+       url("//ahlx0ixhryqx7fhn-69620498584.shopifypreview.com/cdn/fonts/dm_sans/dmsans_n3.0c324a11de656e0e3f656188ad5de9ff34f70c04.woff") format("woff");
+}
+
+    @font-face {
+  font-family: "DM Sans";
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url("//ahlx0ixhryqx7fhn-69620498584.shopifypreview.com/cdn/fonts/dm_sans/dmsans_n4.ec80bd4dd7e1a334c969c265873491ae56018d72.woff2") format("woff2"),
+       url("//ahlx0ixhryqx7fhn-69620498584.shopifypreview.com/cdn/fonts/dm_sans/dmsans_n4.87bdd914d8a61247b911147ae68e754d695c58a6.woff") format("woff");
+}
+
+    @font-face {
+  font-family: "DM Sans";
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+  src: url("//ahlx0ixhryqx7fhn-69620498584.shopifypreview.com/cdn/fonts/dm_sans/dmsans_n5.8a0f1984c77eb7186ceb87c4da2173ff65eb012e.woff2") format("woff2"),
+       url("//ahlx0ixhryqx7fhn-69620498584.shopifypreview.com/cdn/fonts/dm_sans/dmsans_n5.9ad2e755a89e15b3d6c53259daad5fc9609888e6.woff") format("woff");
+}
+
+    @font-face {
+  font-family: "DM Sans";
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url("//ahlx0ixhryqx7fhn-69620498584.shopifypreview.com/cdn/fonts/dm_sans/dmsans_n7.97e21d81502002291ea1de8aefb79170c6946ce5.woff2") format("woff2"),
+       url("//ahlx0ixhryqx7fhn-69620498584.shopifypreview.com/cdn/fonts/dm_sans/dmsans_n7.af5c214f5116410ca1d53a2090665620e78e2e1b.woff") format("woff");
+}
+
+    @font-face {
+  font-family: "DM Sans";
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+  src: url("//ahlx0ixhryqx7fhn-69620498584.shopifypreview.com/cdn/fonts/dm_sans/dmsans_i5.8654104650c013677e3def7db9b31bfbaa34e59a.woff2") format("woff2"),
+       url("//ahlx0ixhryqx7fhn-69620498584.shopifypreview.com/cdn/fonts/dm_sans/dmsans_i5.a0dc844d8a75a4232f255fc600ad5a295572bed9.woff") format("woff");
+}
+
+    @font-face {
+  font-family: Jost;
+  font-weight: 600;
+  font-style: italic;
+  font-display: swap;
+  src: url("//ahlx0ixhryqx7fhn-69620498584.shopifypreview.com/cdn/fonts/jost/jost_i6.9af7e5f39e3a108c08f24047a4276332d9d7b85e.woff2") format("woff2"),
+       url("//ahlx0ixhryqx7fhn-69620498584.shopifypreview.com/cdn/fonts/jost/jost_i6.2bf310262638f998ed206777ce0b9a3b98b6fe92.woff") format("woff");
+}
+
+    @font-face {
+  font-family: "DM Sans";
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+  src: url("//ahlx0ixhryqx7fhn-69620498584.shopifypreview.com/cdn/fonts/dm_sans/dmsans_i7.52b57f7d7342eb7255084623d98ab83fd96e7f9b.woff2") format("woff2"),
+       url("//ahlx0ixhryqx7fhn-69620498584.shopifypreview.com/cdn/fonts/dm_sans/dmsans_i7.d5e14ef18a1d4a8ce78a4187580b4eb1759c2eda.woff") format("woff");
+}
+
+
+  	
+  		:root,
+  		[data-scheme=light] .color-background-1 {
+  			--color-background: 255,255,255; --color-background-secondary: 242,244,245;
+
+  --gradient-background: #ffffff;
+
+--color-foreground: 0, 0,
+0; --color-foreground-secondary: 103,
+103, 103;
+--color-foreground-title: 0, 0,
+0;
+
+--color-button-text: 0,
+0, 0;
+--color-button-text-hover: 0,
+0,
+0; --color-button:
+255,
+222,
+27; --color-button-hover:
+255,
+212,
+0;
+
+--color-button-secondary: 33,
+0,
+154; --color-button-secondary-hover:
+33,
+0,
+154; --color-button-secondary-text:
+255, 255,
+255; --color-button-secondary-text-hover:
+255,
+255,
+255;
+
+--color-button-tertiary-text: 33,
+0, 154;
+--color-button-tertiary-text-hover: 33,
+0,
+154;
+
+
+--color-cart-counter-custom-text: 255,
+255, 255;
+--color-cart-counter-custom-background: 103,
+72, 248;
+
+--color-overlay: 0,
+0, 0;
+--color-border-input: 242, 244,
+245; --color-border-input-hover:
+229, 229,
+229; --color-background-input:
+242, 244,
+245; --color-text-input: 0,
+0, 0; --color-border:
+229, 229,
+229; --color-checkmark: 255,
+255, 255; --color-slider-arrows:
+33, 0,
+154; --color-accent: 33,0,154; --color-alert: 227,44,2;
+
+--color-price-regular: 0,0,0; --color-price-after-sale: 252,53,53; --color-price-before-sale: 103,103,103;
+
+--color-sale-badge-text: 0,
+0, 0;
+--color-sale-badge-background: 255,
+222, 27;
+--color-soldout-badge-text: 146,
+147, 148;
+--color-soldout-badge-background: 255,
+255, 255;
+--color-soldout-badge-border: 229,
+229, 229;
+--color-custom-badge-text: 255,
+255, 255;
+--color-custom-badge-background: 252,
+53, 145;
+--color-inventory-status-in: 69,
+165, 69;
+--color-inventory-status-out: 146,
+147, 148;
+
+  		}
+  		@media (prefers-color-scheme: light) {
+  			:root,
+  			[data-scheme=auto] .color-background-1 {
+  				--color-background: 255,255,255; --color-background-secondary: 242,244,245;
+
+  --gradient-background: #ffffff;
+
+--color-foreground: 0, 0,
+0; --color-foreground-secondary: 103,
+103, 103;
+--color-foreground-title: 0, 0,
+0;
+
+--color-button-text: 0,
+0, 0;
+--color-button-text-hover: 0,
+0,
+0; --color-button:
+255,
+222,
+27; --color-button-hover:
+255,
+212,
+0;
+
+--color-button-secondary: 33,
+0,
+154; --color-button-secondary-hover:
+33,
+0,
+154; --color-button-secondary-text:
+255, 255,
+255; --color-button-secondary-text-hover:
+255,
+255,
+255;
+
+--color-button-tertiary-text: 33,
+0, 154;
+--color-button-tertiary-text-hover: 33,
+0,
+154;
+
+
+--color-cart-counter-custom-text: 255,
+255, 255;
+--color-cart-counter-custom-background: 103,
+72, 248;
+
+--color-overlay: 0,
+0, 0;
+--color-border-input: 242, 244,
+245; --color-border-input-hover:
+229, 229,
+229; --color-background-input:
+242, 244,
+245; --color-text-input: 0,
+0, 0; --color-border:
+229, 229,
+229; --color-checkmark: 255,
+255, 255; --color-slider-arrows:
+33, 0,
+154; --color-accent: 33,0,154; --color-alert: 227,44,2;
+
+--color-price-regular: 0,0,0; --color-price-after-sale: 252,53,53; --color-price-before-sale: 103,103,103;
+
+--color-sale-badge-text: 0,
+0, 0;
+--color-sale-badge-background: 255,
+222, 27;
+--color-soldout-badge-text: 146,
+147, 148;
+--color-soldout-badge-background: 255,
+255, 255;
+--color-soldout-badge-border: 229,
+229, 229;
+--color-custom-badge-text: 255,
+255, 255;
+--color-custom-badge-background: 252,
+53, 145;
+--color-inventory-status-in: 69,
+165, 69;
+--color-inventory-status-out: 146,
+147, 148;
+
+  			}
+  		}
+  		[data-scheme=dark],
+  			.color-inverse,
+  		[data-scheme=dark] .color-background-1 {
+  			--color-background: 30, 30, 30;
+
+  --color-background: 30, 30, 30; --color-background-secondary: 16, 16, 16; --color-border-input: 44, 44, 44;
+  --color-border-input-hover: 48, 48, 48; --color-background-input: 44, 44, 44; --color-background-input-hover: 48, 48,
+  48; --color-text-input: 255, 255, 255;
+
+
+  --gradient-background: rgb(var(--color-background));
+
+--color-blog-slider-heading-hover: 203, 211, 218; --color-overlay: 0, 0, 0; --color-foreground: 231, 231, 232;
+--color-foreground-secondary: 255, 255, 255; --color-foreground-title: 255, 255, 255; --color-border: 56, 54, 57;
+--color-checkmark: 0, 0, 0; --color-slider-arrows: 0, 0, 0; --color-link: 229, 229, 229; --alpha-link: 0.5;
+
+
+--color-button-text: 0,
+0, 0;
+--color-button-text-hover: 0,
+0,
+0; --color-button:
+255,
+222,
+27; --color-button-hover:
+255,
+212,
+0;
+
+--color-button-secondary: 33,
+0,
+154; --color-button-secondary-hover:
+33,
+0,
+154; --color-button-secondary-text:
+255, 255,
+255; --color-button-secondary-text-hover:
+255,
+255,
+255;
+
+--color-button-tertiary-text: 33,
+0, 154;
+--color-button-tertiary-text-hover: 33,
+0,
+154;
+
+--color-sale-badge-text: 0,
+0, 0;
+--color-sale-badge-background: 255,
+222, 27;
+--color-soldout-badge-text: 146,
+147, 148;
+--color-soldout-badge-background: 255,
+255, 255;
+--color-soldout-badge-border: 229,
+229, 229;
+--color-custom-badge-text: 255,
+255, 255;
+--color-custom-badge-background: 252,
+53, 145;
+--color-inventory-status-in: 69,
+165, 69;
+--color-inventory-status-out: 146,
+147, 148;
+
+--alpha-button-background: 1; --alpha-button-border: 1; --color-social: 255, 255, 255; --color-placeholder-input: 255,
+255, 255; --color-price-regular: 229, 229, 229; --color-price-after-sale: 229, 229, 229; --color-price-before-sale: 169,
+169, 169; --color-error-background: 0, 0, 0; --color-title-text: 255, 255, 255; --color-accent : 180, 180, 180;
+--menu-shadow-color: 0,0,0; --menu-shadow-alpha: 0.3; --swiper-navigation-color: rgb(var(--color-foreground));
+--swiper-pagination-color : rgb(var(--color-foreground)); --color-slider-arrows: 255, 255, 255;
+--color-pagination-bullet-active: 255, 255, 255; --color-badge-background: 255, 255, 255; --color-badge-text: 255, 255,
+255; --color-badge-custom-background: 245, 245, 245; --color-badge-custom-text: 231, 231, 232;
+--color-pagination-bullet-dis: 109, 107, 107; --color-border-btn: 56, 54, 57;
+
+.product-card { --color-overlay: 255, 255, 255; }
+
+
+
+  		}
+  		@media (prefers-color-scheme: dark) {
+  			[data-scheme=auto],
+  			[data-scheme=auto] .color-background-1 {
+  				--color-background: 30, 30, 30;
+
+  --color-background: 30, 30, 30; --color-background-secondary: 16, 16, 16; --color-border-input: 44, 44, 44;
+  --color-border-input-hover: 48, 48, 48; --color-background-input: 44, 44, 44; --color-background-input-hover: 48, 48,
+  48; --color-text-input: 255, 255, 255;
+
+
+  --gradient-background: rgb(var(--color-background));
+
+--color-blog-slider-heading-hover: 203, 211, 218; --color-overlay: 0, 0, 0; --color-foreground: 231, 231, 232;
+--color-foreground-secondary: 255, 255, 255; --color-foreground-title: 255, 255, 255; --color-border: 56, 54, 57;
+--color-checkmark: 0, 0, 0; --color-slider-arrows: 0, 0, 0; --color-link: 229, 229, 229; --alpha-link: 0.5;
+
+
+--color-button-text: 0,
+0, 0;
+--color-button-text-hover: 0,
+0,
+0; --color-button:
+255,
+222,
+27; --color-button-hover:
+255,
+212,
+0;
+
+--color-button-secondary: 33,
+0,
+154; --color-button-secondary-hover:
+33,
+0,
+154; --color-button-secondary-text:
+255, 255,
+255; --color-button-secondary-text-hover:
+255,
+255,
+255;
+
+--color-button-tertiary-text: 33,
+0, 154;
+--color-button-tertiary-text-hover: 33,
+0,
+154;
+
+--color-sale-badge-text: 0,
+0, 0;
+--color-sale-badge-background: 255,
+222, 27;
+--color-soldout-badge-text: 146,
+147, 148;
+--color-soldout-badge-background: 255,
+255, 255;
+--color-soldout-badge-border: 229,
+229, 229;
+--color-custom-badge-text: 255,
+255, 255;
+--color-custom-badge-background: 252,
+53, 145;
+--color-inventory-status-in: 69,
+165, 69;
+--color-inventory-status-out: 146,
+147, 148;
+
+--alpha-button-background: 1; --alpha-button-border: 1; --color-social: 255, 255, 255; --color-placeholder-input: 255,
+255, 255; --color-price-regular: 229, 229, 229; --color-price-after-sale: 229, 229, 229; --color-price-before-sale: 169,
+169, 169; --color-error-background: 0, 0, 0; --color-title-text: 255, 255, 255; --color-accent : 180, 180, 180;
+--menu-shadow-color: 0,0,0; --menu-shadow-alpha: 0.3; --swiper-navigation-color: rgb(var(--color-foreground));
+--swiper-pagination-color : rgb(var(--color-foreground)); --color-slider-arrows: 255, 255, 255;
+--color-pagination-bullet-active: 255, 255, 255; --color-badge-background: 255, 255, 255; --color-badge-text: 255, 255,
+255; --color-badge-custom-background: 245, 245, 245; --color-badge-custom-text: 231, 231, 232;
+--color-pagination-bullet-dis: 109, 107, 107; --color-border-btn: 56, 54, 57;
+
+.product-card { --color-overlay: 255, 255, 255; }
+
+
+
+  			}
+  		}
+
+  	
+  		
+  		[data-scheme=light] .color-background-2 {
+  			--color-background: 242,244,245; --color-background-secondary: 255,255,255;
+
+  --gradient-background: #f2f4f5;
+
+--color-foreground: 0, 0,
+0; --color-foreground-secondary: 103,
+103, 103;
+--color-foreground-title: 0, 0,
+0;
+
+--color-button-text: 0,
+0, 0;
+--color-button-text-hover: 0,
+0,
+0; --color-button:
+255,
+222,
+27; --color-button-hover:
+255,
+212,
+0;
+
+--color-button-secondary: 243,
+240,
+255; --color-button-secondary-hover:
+233,
+228,
+255; --color-button-secondary-text:
+103, 72,
+248; --color-button-secondary-text-hover:
+103,
+72,
+248;
+
+--color-button-tertiary-text: 103,
+72, 248;
+--color-button-tertiary-text-hover: 103,
+72,
+248;
+
+
+--color-cart-counter-custom-text: 255,
+255, 255;
+--color-cart-counter-custom-background: 103,
+72, 248;
+
+--color-overlay: 0,
+0, 0;
+--color-border-input: 255, 255,
+255; --color-border-input-hover:
+229, 229,
+229; --color-background-input:
+255, 255,
+255; --color-text-input: 0,
+0, 0; --color-border:
+229, 229,
+229; --color-checkmark: 255,
+255, 255; --color-slider-arrows:
+33, 0,
+154; --color-accent: 97,62,251; --color-alert: 227,44,2;
+
+--color-price-regular: 0,0,0; --color-price-after-sale: 252,53,53; --color-price-before-sale: 103,103,103;
+
+--color-sale-badge-text: 0,
+0, 0;
+--color-sale-badge-background: 255,
+222, 27;
+--color-soldout-badge-text: 146,
+147, 148;
+--color-soldout-badge-background: 255,
+255, 255;
+--color-soldout-badge-border: 229,
+229, 229;
+--color-custom-badge-text: 255,
+255, 255;
+--color-custom-badge-background: 252,
+53, 145;
+--color-inventory-status-in: 69,
+165, 69;
+--color-inventory-status-out: 146,
+147, 148;
+
+  		}
+  		@media (prefers-color-scheme: light) {
+  			
+  			[data-scheme=auto] .color-background-2 {
+  				--color-background: 242,244,245; --color-background-secondary: 255,255,255;
+
+  --gradient-background: #f2f4f5;
+
+--color-foreground: 0, 0,
+0; --color-foreground-secondary: 103,
+103, 103;
+--color-foreground-title: 0, 0,
+0;
+
+--color-button-text: 0,
+0, 0;
+--color-button-text-hover: 0,
+0,
+0; --color-button:
+255,
+222,
+27; --color-button-hover:
+255,
+212,
+0;
+
+--color-button-secondary: 243,
+240,
+255; --color-button-secondary-hover:
+233,
+228,
+255; --color-button-secondary-text:
+103, 72,
+248; --color-button-secondary-text-hover:
+103,
+72,
+248;
+
+--color-button-tertiary-text: 103,
+72, 248;
+--color-button-tertiary-text-hover: 103,
+72,
+248;
+
+
+--color-cart-counter-custom-text: 255,
+255, 255;
+--color-cart-counter-custom-background: 103,
+72, 248;
+
+--color-overlay: 0,
+0, 0;
+--color-border-input: 255, 255,
+255; --color-border-input-hover:
+229, 229,
+229; --color-background-input:
+255, 255,
+255; --color-text-input: 0,
+0, 0; --color-border:
+229, 229,
+229; --color-checkmark: 255,
+255, 255; --color-slider-arrows:
+33, 0,
+154; --color-accent: 97,62,251; --color-alert: 227,44,2;
+
+--color-price-regular: 0,0,0; --color-price-after-sale: 252,53,53; --color-price-before-sale: 103,103,103;
+
+--color-sale-badge-text: 0,
+0, 0;
+--color-sale-badge-background: 255,
+222, 27;
+--color-soldout-badge-text: 146,
+147, 148;
+--color-soldout-badge-background: 255,
+255, 255;
+--color-soldout-badge-border: 229,
+229, 229;
+--color-custom-badge-text: 255,
+255, 255;
+--color-custom-badge-background: 252,
+53, 145;
+--color-inventory-status-in: 69,
+165, 69;
+--color-inventory-status-out: 146,
+147, 148;
+
+  			}
+  		}
+  		
+  		[data-scheme=dark] .color-background-2 {
+  			--color-background: 30, 30, 30;
+
+  --color-background: 44, 44, 44; --color-background-secondary: 71, 71, 71; --color-border-input: 35, 35, 35;
+  --color-border-input-hover: 37, 37, 37; --color-background-input: 35, 35, 35; --color-background-input-hover: 37, 37,
+  37; --color-text-input: 255, 255, 255;
+
+
+  --gradient-background: rgb(var(--color-background));
+
+--color-blog-slider-heading-hover: 203, 211, 218; --color-overlay: 0, 0, 0; --color-foreground: 231, 231, 232;
+--color-foreground-secondary: 255, 255, 255; --color-foreground-title: 255, 255, 255; --color-border: 56, 54, 57;
+--color-checkmark: 0, 0, 0; --color-slider-arrows: 0, 0, 0; --color-link: 229, 229, 229; --alpha-link: 0.5;
+
+
+--color-button-text: 0,
+0, 0;
+--color-button-text-hover: 0,
+0,
+0; --color-button:
+255,
+222,
+27; --color-button-hover:
+255,
+212,
+0;
+
+--color-button-secondary: 243,
+240,
+255; --color-button-secondary-hover:
+233,
+228,
+255; --color-button-secondary-text:
+103, 72,
+248; --color-button-secondary-text-hover:
+103,
+72,
+248;
+
+--color-button-tertiary-text: 103,
+72, 248;
+--color-button-tertiary-text-hover: 103,
+72,
+248;
+
+--color-sale-badge-text: 0,
+0, 0;
+--color-sale-badge-background: 255,
+222, 27;
+--color-soldout-badge-text: 146,
+147, 148;
+--color-soldout-badge-background: 255,
+255, 255;
+--color-soldout-badge-border: 229,
+229, 229;
+--color-custom-badge-text: 255,
+255, 255;
+--color-custom-badge-background: 252,
+53, 145;
+--color-inventory-status-in: 69,
+165, 69;
+--color-inventory-status-out: 146,
+147, 148;
+
+--alpha-button-background: 1; --alpha-button-border: 1; --color-social: 255, 255, 255; --color-placeholder-input: 255,
+255, 255; --color-price-regular: 229, 229, 229; --color-price-after-sale: 229, 229, 229; --color-price-before-sale: 169,
+169, 169; --color-error-background: 0, 0, 0; --color-title-text: 255, 255, 255; --color-accent : 180, 180, 180;
+--menu-shadow-color: 0,0,0; --menu-shadow-alpha: 0.3; --swiper-navigation-color: rgb(var(--color-foreground));
+--swiper-pagination-color : rgb(var(--color-foreground)); --color-slider-arrows: 255, 255, 255;
+--color-pagination-bullet-active: 255, 255, 255; --color-badge-background: 255, 255, 255; --color-badge-text: 255, 255,
+255; --color-badge-custom-background: 245, 245, 245; --color-badge-custom-text: 231, 231, 232;
+--color-pagination-bullet-dis: 109, 107, 107; --color-border-btn: 56, 54, 57;
+
+.product-card { --color-overlay: 255, 255, 255; }
+
+
+
+  		}
+  		@media (prefers-color-scheme: dark) {
+  			
+  			[data-scheme=auto] .color-background-2 {
+  				--color-background: 30, 30, 30;
+
+  --color-background: 44, 44, 44; --color-background-secondary: 71, 71, 71; --color-border-input: 35, 35, 35;
+  --color-border-input-hover: 37, 37, 37; --color-background-input: 35, 35, 35; --color-background-input-hover: 37, 37,
+  37; --color-text-input: 255, 255, 255;
+
+
+  --gradient-background: rgb(var(--color-background));
+
+--color-blog-slider-heading-hover: 203, 211, 218; --color-overlay: 0, 0, 0; --color-foreground: 231, 231, 232;
+--color-foreground-secondary: 255, 255, 255; --color-foreground-title: 255, 255, 255; --color-border: 56, 54, 57;
+--color-checkmark: 0, 0, 0; --color-slider-arrows: 0, 0, 0; --color-link: 229, 229, 229; --alpha-link: 0.5;
+
+
+--color-button-text: 0,
+0, 0;
+--color-button-text-hover: 0,
+0,
+0; --color-button:
+255,
+222,
+27; --color-button-hover:
+255,
+212,
+0;
+
+--color-button-secondary: 243,
+240,
+255; --color-button-secondary-hover:
+233,
+228,
+255; --color-button-secondary-text:
+103, 72,
+248; --color-button-secondary-text-hover:
+103,
+72,
+248;
+
+--color-button-tertiary-text: 103,
+72, 248;
+--color-button-tertiary-text-hover: 103,
+72,
+248;
+
+--color-sale-badge-text: 0,
+0, 0;
+--color-sale-badge-background: 255,
+222, 27;
+--color-soldout-badge-text: 146,
+147, 148;
+--color-soldout-badge-background: 255,
+255, 255;
+--color-soldout-badge-border: 229,
+229, 229;
+--color-custom-badge-text: 255,
+255, 255;
+--color-custom-badge-background: 252,
+53, 145;
+--color-inventory-status-in: 69,
+165, 69;
+--color-inventory-status-out: 146,
+147, 148;
+
+--alpha-button-background: 1; --alpha-button-border: 1; --color-social: 255, 255, 255; --color-placeholder-input: 255,
+255, 255; --color-price-regular: 229, 229, 229; --color-price-after-sale: 229, 229, 229; --color-price-before-sale: 169,
+169, 169; --color-error-background: 0, 0, 0; --color-title-text: 255, 255, 255; --color-accent : 180, 180, 180;
+--menu-shadow-color: 0,0,0; --menu-shadow-alpha: 0.3; --swiper-navigation-color: rgb(var(--color-foreground));
+--swiper-pagination-color : rgb(var(--color-foreground)); --color-slider-arrows: 255, 255, 255;
+--color-pagination-bullet-active: 255, 255, 255; --color-badge-background: 255, 255, 255; --color-badge-text: 255, 255,
+255; --color-badge-custom-background: 245, 245, 245; --color-badge-custom-text: 231, 231, 232;
+--color-pagination-bullet-dis: 109, 107, 107; --color-border-btn: 56, 54, 57;
+
+.product-card { --color-overlay: 255, 255, 255; }
+
+
+
+  			}
+  		}
+
+  	
+  		
+  		[data-scheme=light] .color-background-3 {
+  			--color-background: 33,0,154; --color-background-secondary: 31,31,31;
+
+  --gradient-background: #21009a;
+
+--color-foreground: 255, 255,
+255; --color-foreground-secondary: 169,
+169, 169;
+--color-foreground-title: 255, 255,
+255;
+
+--color-button-text: 0,
+0, 0;
+--color-button-text-hover: 0,
+0,
+0; --color-button:
+255,
+222,
+27; --color-button-hover:
+255,
+212,
+0;
+
+--color-button-secondary: 243,
+240,
+255; --color-button-secondary-hover:
+233,
+228,
+255; --color-button-secondary-text:
+103, 72,
+248; --color-button-secondary-text-hover:
+103,
+72,
+248;
+
+--color-button-tertiary-text: 255,
+222, 27;
+--color-button-tertiary-text-hover: 255,
+222,
+27;
+
+
+--color-cart-counter-custom-text: 255,
+255, 255;
+--color-cart-counter-custom-background: 103,
+72, 248;
+
+--color-overlay: 0,
+0, 0;
+--color-border-input: 31, 50,
+62; --color-border-input-hover:
+229, 229,
+229; --color-background-input:
+21, 41,
+54; --color-text-input: 0,
+0, 0; --color-border:
+31, 50,
+62; --color-checkmark: 0,
+0, 0; --color-slider-arrows:
+33, 0,
+154; --color-accent: 255,255,255; --color-alert: 227,44,2;
+
+--color-price-regular: 0,0,0; --color-price-after-sale: 252,53,53; --color-price-before-sale: 103,103,103;
+
+--color-sale-badge-text: 0,
+0, 0;
+--color-sale-badge-background: 255,
+222, 27;
+--color-soldout-badge-text: 146,
+147, 148;
+--color-soldout-badge-background: 255,
+255, 255;
+--color-soldout-badge-border: 229,
+229, 229;
+--color-custom-badge-text: 255,
+255, 255;
+--color-custom-badge-background: 252,
+53, 145;
+--color-inventory-status-in: 69,
+165, 69;
+--color-inventory-status-out: 146,
+147, 148;
+
+  		}
+  		@media (prefers-color-scheme: light) {
+  			
+  			[data-scheme=auto] .color-background-3 {
+  				--color-background: 33,0,154; --color-background-secondary: 31,31,31;
+
+  --gradient-background: #21009a;
+
+--color-foreground: 255, 255,
+255; --color-foreground-secondary: 169,
+169, 169;
+--color-foreground-title: 255, 255,
+255;
+
+--color-button-text: 0,
+0, 0;
+--color-button-text-hover: 0,
+0,
+0; --color-button:
+255,
+222,
+27; --color-button-hover:
+255,
+212,
+0;
+
+--color-button-secondary: 243,
+240,
+255; --color-button-secondary-hover:
+233,
+228,
+255; --color-button-secondary-text:
+103, 72,
+248; --color-button-secondary-text-hover:
+103,
+72,
+248;
+
+--color-button-tertiary-text: 255,
+222, 27;
+--color-button-tertiary-text-hover: 255,
+222,
+27;
+
+
+--color-cart-counter-custom-text: 255,
+255, 255;
+--color-cart-counter-custom-background: 103,
+72, 248;
+
+--color-overlay: 0,
+0, 0;
+--color-border-input: 31, 50,
+62; --color-border-input-hover:
+229, 229,
+229; --color-background-input:
+21, 41,
+54; --color-text-input: 0,
+0, 0; --color-border:
+31, 50,
+62; --color-checkmark: 0,
+0, 0; --color-slider-arrows:
+33, 0,
+154; --color-accent: 255,255,255; --color-alert: 227,44,2;
+
+--color-price-regular: 0,0,0; --color-price-after-sale: 252,53,53; --color-price-before-sale: 103,103,103;
+
+--color-sale-badge-text: 0,
+0, 0;
+--color-sale-badge-background: 255,
+222, 27;
+--color-soldout-badge-text: 146,
+147, 148;
+--color-soldout-badge-background: 255,
+255, 255;
+--color-soldout-badge-border: 229,
+229, 229;
+--color-custom-badge-text: 255,
+255, 255;
+--color-custom-badge-background: 252,
+53, 145;
+--color-inventory-status-in: 69,
+165, 69;
+--color-inventory-status-out: 146,
+147, 148;
+
+  			}
+  		}
+  		
+  		[data-scheme=dark] .color-background-3 {
+  			--color-background: 30, 30, 30;
+
+  --color-background: 44, 44, 44; --color-background-secondary: 71, 71, 71; --color-border-input: 35, 35, 35;
+  --color-border-input-hover: 37, 37, 37; --color-background-input: 35, 35, 35; --color-background-input-hover: 37, 37,
+  37; --color-text-input: 255, 255, 255;
+
+
+  --gradient-background: rgb(var(--color-background));
+
+--color-blog-slider-heading-hover: 203, 211, 218; --color-overlay: 0, 0, 0; --color-foreground: 231, 231, 232;
+--color-foreground-secondary: 255, 255, 255; --color-foreground-title: 255, 255, 255; --color-border: 56, 54, 57;
+--color-checkmark: 0, 0, 0; --color-slider-arrows: 0, 0, 0; --color-link: 229, 229, 229; --alpha-link: 0.5;
+
+
+--color-button-text: 0,
+0, 0;
+--color-button-text-hover: 0,
+0,
+0; --color-button:
+255,
+222,
+27; --color-button-hover:
+255,
+212,
+0;
+
+--color-button-secondary: 243,
+240,
+255; --color-button-secondary-hover:
+233,
+228,
+255; --color-button-secondary-text:
+103, 72,
+248; --color-button-secondary-text-hover:
+103,
+72,
+248;
+
+--color-button-tertiary-text: 255,
+222, 27;
+--color-button-tertiary-text-hover: 255,
+222,
+27;
+
+--color-sale-badge-text: 0,
+0, 0;
+--color-sale-badge-background: 255,
+222, 27;
+--color-soldout-badge-text: 146,
+147, 148;
+--color-soldout-badge-background: 255,
+255, 255;
+--color-soldout-badge-border: 229,
+229, 229;
+--color-custom-badge-text: 255,
+255, 255;
+--color-custom-badge-background: 252,
+53, 145;
+--color-inventory-status-in: 69,
+165, 69;
+--color-inventory-status-out: 146,
+147, 148;
+
+--alpha-button-background: 1; --alpha-button-border: 1; --color-social: 255, 255, 255; --color-placeholder-input: 255,
+255, 255; --color-price-regular: 229, 229, 229; --color-price-after-sale: 229, 229, 229; --color-price-before-sale: 169,
+169, 169; --color-error-background: 0, 0, 0; --color-title-text: 255, 255, 255; --color-accent : 180, 180, 180;
+--menu-shadow-color: 0,0,0; --menu-shadow-alpha: 0.3; --swiper-navigation-color: rgb(var(--color-foreground));
+--swiper-pagination-color : rgb(var(--color-foreground)); --color-slider-arrows: 255, 255, 255;
+--color-pagination-bullet-active: 255, 255, 255; --color-badge-background: 255, 255, 255; --color-badge-text: 255, 255,
+255; --color-badge-custom-background: 245, 245, 245; --color-badge-custom-text: 231, 231, 232;
+--color-pagination-bullet-dis: 109, 107, 107; --color-border-btn: 56, 54, 57;
+
+.product-card { --color-overlay: 255, 255, 255; }
+
+
+
+  		}
+  		@media (prefers-color-scheme: dark) {
+  			
+  			[data-scheme=auto] .color-background-3 {
+  				--color-background: 30, 30, 30;
+
+  --color-background: 44, 44, 44; --color-background-secondary: 71, 71, 71; --color-border-input: 35, 35, 35;
+  --color-border-input-hover: 37, 37, 37; --color-background-input: 35, 35, 35; --color-background-input-hover: 37, 37,
+  37; --color-text-input: 255, 255, 255;
+
+
+  --gradient-background: rgb(var(--color-background));
+
+--color-blog-slider-heading-hover: 203, 211, 218; --color-overlay: 0, 0, 0; --color-foreground: 231, 231, 232;
+--color-foreground-secondary: 255, 255, 255; --color-foreground-title: 255, 255, 255; --color-border: 56, 54, 57;
+--color-checkmark: 0, 0, 0; --color-slider-arrows: 0, 0, 0; --color-link: 229, 229, 229; --alpha-link: 0.5;
+
+
+--color-button-text: 0,
+0, 0;
+--color-button-text-hover: 0,
+0,
+0; --color-button:
+255,
+222,
+27; --color-button-hover:
+255,
+212,
+0;
+
+--color-button-secondary: 243,
+240,
+255; --color-button-secondary-hover:
+233,
+228,
+255; --color-button-secondary-text:
+103, 72,
+248; --color-button-secondary-text-hover:
+103,
+72,
+248;
+
+--color-button-tertiary-text: 255,
+222, 27;
+--color-button-tertiary-text-hover: 255,
+222,
+27;
+
+--color-sale-badge-text: 0,
+0, 0;
+--color-sale-badge-background: 255,
+222, 27;
+--color-soldout-badge-text: 146,
+147, 148;
+--color-soldout-badge-background: 255,
+255, 255;
+--color-soldout-badge-border: 229,
+229, 229;
+--color-custom-badge-text: 255,
+255, 255;
+--color-custom-badge-background: 252,
+53, 145;
+--color-inventory-status-in: 69,
+165, 69;
+--color-inventory-status-out: 146,
+147, 148;
+
+--alpha-button-background: 1; --alpha-button-border: 1; --color-social: 255, 255, 255; --color-placeholder-input: 255,
+255, 255; --color-price-regular: 229, 229, 229; --color-price-after-sale: 229, 229, 229; --color-price-before-sale: 169,
+169, 169; --color-error-background: 0, 0, 0; --color-title-text: 255, 255, 255; --color-accent : 180, 180, 180;
+--menu-shadow-color: 0,0,0; --menu-shadow-alpha: 0.3; --swiper-navigation-color: rgb(var(--color-foreground));
+--swiper-pagination-color : rgb(var(--color-foreground)); --color-slider-arrows: 255, 255, 255;
+--color-pagination-bullet-active: 255, 255, 255; --color-badge-background: 255, 255, 255; --color-badge-text: 255, 255,
+255; --color-badge-custom-background: 245, 245, 245; --color-badge-custom-text: 231, 231, 232;
+--color-pagination-bullet-dis: 109, 107, 107; --color-border-btn: 56, 54, 57;
+
+.product-card { --color-overlay: 255, 255, 255; }
+
+
+
+  			}
+  		}
+
+  	
+  		
+  		[data-scheme=light] .color-background-4 {
+  			--color-background: 255,255,255; --color-background-secondary: 242,244,245;
+
+  --gradient-background: #ffffff;
+
+--color-foreground: 255, 255,
+255; --color-foreground-secondary: 255,
+255, 255;
+--color-foreground-title: 255, 255,
+255;
+
+--color-button-text: 0,
+0, 0;
+--color-button-text-hover: 0,
+0,
+0; --color-button:
+255,
+222,
+27; --color-button-hover:
+255,
+212,
+0;
+
+--color-button-secondary: 243,
+240,
+255; --color-button-secondary-hover:
+233,
+228,
+255; --color-button-secondary-text:
+103, 72,
+248; --color-button-secondary-text-hover:
+103,
+72,
+248;
+
+--color-button-tertiary-text: 103,
+72, 248;
+--color-button-tertiary-text-hover: 103,
+72,
+248;
+
+
+--color-cart-counter-custom-text: 255,
+255, 255;
+--color-cart-counter-custom-background: 103,
+72, 248;
+
+--color-overlay: 0,
+0, 0;
+--color-border-input: 242, 244,
+245; --color-border-input-hover:
+229, 229,
+229; --color-background-input:
+255, 255,
+255; --color-text-input: 33,
+0, 154; --color-border:
+229, 229,
+229; --color-checkmark: 255,
+255, 255; --color-slider-arrows:
+103, 72,
+248; --color-accent: 103,72,248; --color-alert: 227,44,2;
+
+--color-price-regular: 0,0,0; --color-price-after-sale: 252,53,53; --color-price-before-sale: 103,103,103;
+
+--color-sale-badge-text: 0,
+0, 0;
+--color-sale-badge-background: 255,
+222, 27;
+--color-soldout-badge-text: 146,
+147, 148;
+--color-soldout-badge-background: 255,
+255, 255;
+--color-soldout-badge-border: 229,
+229, 229;
+--color-custom-badge-text: 255,
+255, 255;
+--color-custom-badge-background: 252,
+53, 145;
+--color-inventory-status-in: 69,
+165, 69;
+--color-inventory-status-out: 146,
+147, 148;
+
+  		}
+  		@media (prefers-color-scheme: light) {
+  			
+  			[data-scheme=auto] .color-background-4 {
+  				--color-background: 255,255,255; --color-background-secondary: 242,244,245;
+
+  --gradient-background: #ffffff;
+
+--color-foreground: 255, 255,
+255; --color-foreground-secondary: 255,
+255, 255;
+--color-foreground-title: 255, 255,
+255;
+
+--color-button-text: 0,
+0, 0;
+--color-button-text-hover: 0,
+0,
+0; --color-button:
+255,
+222,
+27; --color-button-hover:
+255,
+212,
+0;
+
+--color-button-secondary: 243,
+240,
+255; --color-button-secondary-hover:
+233,
+228,
+255; --color-button-secondary-text:
+103, 72,
+248; --color-button-secondary-text-hover:
+103,
+72,
+248;
+
+--color-button-tertiary-text: 103,
+72, 248;
+--color-button-tertiary-text-hover: 103,
+72,
+248;
+
+
+--color-cart-counter-custom-text: 255,
+255, 255;
+--color-cart-counter-custom-background: 103,
+72, 248;
+
+--color-overlay: 0,
+0, 0;
+--color-border-input: 242, 244,
+245; --color-border-input-hover:
+229, 229,
+229; --color-background-input:
+255, 255,
+255; --color-text-input: 33,
+0, 154; --color-border:
+229, 229,
+229; --color-checkmark: 255,
+255, 255; --color-slider-arrows:
+103, 72,
+248; --color-accent: 103,72,248; --color-alert: 227,44,2;
+
+--color-price-regular: 0,0,0; --color-price-after-sale: 252,53,53; --color-price-before-sale: 103,103,103;
+
+--color-sale-badge-text: 0,
+0, 0;
+--color-sale-badge-background: 255,
+222, 27;
+--color-soldout-badge-text: 146,
+147, 148;
+--color-soldout-badge-background: 255,
+255, 255;
+--color-soldout-badge-border: 229,
+229, 229;
+--color-custom-badge-text: 255,
+255, 255;
+--color-custom-badge-background: 252,
+53, 145;
+--color-inventory-status-in: 69,
+165, 69;
+--color-inventory-status-out: 146,
+147, 148;
+
+  			}
+  		}
+  		
+  		[data-scheme=dark] .color-background-4 {
+  			--color-background: 30, 30, 30;
+
+  --color-background: 44, 44, 44; --color-background-secondary: 71, 71, 71; --color-border-input: 35, 35, 35;
+  --color-border-input-hover: 37, 37, 37; --color-background-input: 35, 35, 35; --color-background-input-hover: 37, 37,
+  37; --color-text-input: 255, 255, 255;
+
+
+  --gradient-background: rgb(var(--color-background));
+
+--color-blog-slider-heading-hover: 203, 211, 218; --color-overlay: 0, 0, 0; --color-foreground: 231, 231, 232;
+--color-foreground-secondary: 255, 255, 255; --color-foreground-title: 255, 255, 255; --color-border: 56, 54, 57;
+--color-checkmark: 0, 0, 0; --color-slider-arrows: 0, 0, 0; --color-link: 229, 229, 229; --alpha-link: 0.5;
+
+
+--color-button-text: 0,
+0, 0;
+--color-button-text-hover: 0,
+0,
+0; --color-button:
+255,
+222,
+27; --color-button-hover:
+255,
+212,
+0;
+
+--color-button-secondary: 243,
+240,
+255; --color-button-secondary-hover:
+233,
+228,
+255; --color-button-secondary-text:
+103, 72,
+248; --color-button-secondary-text-hover:
+103,
+72,
+248;
+
+--color-button-tertiary-text: 103,
+72, 248;
+--color-button-tertiary-text-hover: 103,
+72,
+248;
+
+--color-sale-badge-text: 0,
+0, 0;
+--color-sale-badge-background: 255,
+222, 27;
+--color-soldout-badge-text: 146,
+147, 148;
+--color-soldout-badge-background: 255,
+255, 255;
+--color-soldout-badge-border: 229,
+229, 229;
+--color-custom-badge-text: 255,
+255, 255;
+--color-custom-badge-background: 252,
+53, 145;
+--color-inventory-status-in: 69,
+165, 69;
+--color-inventory-status-out: 146,
+147, 148;
+
+--alpha-button-background: 1; --alpha-button-border: 1; --color-social: 255, 255, 255; --color-placeholder-input: 255,
+255, 255; --color-price-regular: 229, 229, 229; --color-price-after-sale: 229, 229, 229; --color-price-before-sale: 169,
+169, 169; --color-error-background: 0, 0, 0; --color-title-text: 255, 255, 255; --color-accent : 180, 180, 180;
+--menu-shadow-color: 0,0,0; --menu-shadow-alpha: 0.3; --swiper-navigation-color: rgb(var(--color-foreground));
+--swiper-pagination-color : rgb(var(--color-foreground)); --color-slider-arrows: 255, 255, 255;
+--color-pagination-bullet-active: 255, 255, 255; --color-badge-background: 255, 255, 255; --color-badge-text: 255, 255,
+255; --color-badge-custom-background: 245, 245, 245; --color-badge-custom-text: 231, 231, 232;
+--color-pagination-bullet-dis: 109, 107, 107; --color-border-btn: 56, 54, 57;
+
+.product-card { --color-overlay: 255, 255, 255; }
+
+
+  --color-background: 0, 0, 0;
+
+
+  		}
+  		@media (prefers-color-scheme: dark) {
+  			
+  			[data-scheme=auto] .color-background-4 {
+  				--color-background: 30, 30, 30;
+
+  --color-background: 44, 44, 44; --color-background-secondary: 71, 71, 71; --color-border-input: 35, 35, 35;
+  --color-border-input-hover: 37, 37, 37; --color-background-input: 35, 35, 35; --color-background-input-hover: 37, 37,
+  37; --color-text-input: 255, 255, 255;
+
+
+  --gradient-background: rgb(var(--color-background));
+
+--color-blog-slider-heading-hover: 203, 211, 218; --color-overlay: 0, 0, 0; --color-foreground: 231, 231, 232;
+--color-foreground-secondary: 255, 255, 255; --color-foreground-title: 255, 255, 255; --color-border: 56, 54, 57;
+--color-checkmark: 0, 0, 0; --color-slider-arrows: 0, 0, 0; --color-link: 229, 229, 229; --alpha-link: 0.5;
+
+
+--color-button-text: 0,
+0, 0;
+--color-button-text-hover: 0,
+0,
+0; --color-button:
+255,
+222,
+27; --color-button-hover:
+255,
+212,
+0;
+
+--color-button-secondary: 243,
+240,
+255; --color-button-secondary-hover:
+233,
+228,
+255; --color-button-secondary-text:
+103, 72,
+248; --color-button-secondary-text-hover:
+103,
+72,
+248;
+
+--color-button-tertiary-text: 103,
+72, 248;
+--color-button-tertiary-text-hover: 103,
+72,
+248;
+
+--color-sale-badge-text: 0,
+0, 0;
+--color-sale-badge-background: 255,
+222, 27;
+--color-soldout-badge-text: 146,
+147, 148;
+--color-soldout-badge-background: 255,
+255, 255;
+--color-soldout-badge-border: 229,
+229, 229;
+--color-custom-badge-text: 255,
+255, 255;
+--color-custom-badge-background: 252,
+53, 145;
+--color-inventory-status-in: 69,
+165, 69;
+--color-inventory-status-out: 146,
+147, 148;
+
+--alpha-button-background: 1; --alpha-button-border: 1; --color-social: 255, 255, 255; --color-placeholder-input: 255,
+255, 255; --color-price-regular: 229, 229, 229; --color-price-after-sale: 229, 229, 229; --color-price-before-sale: 169,
+169, 169; --color-error-background: 0, 0, 0; --color-title-text: 255, 255, 255; --color-accent : 180, 180, 180;
+--menu-shadow-color: 0,0,0; --menu-shadow-alpha: 0.3; --swiper-navigation-color: rgb(var(--color-foreground));
+--swiper-pagination-color : rgb(var(--color-foreground)); --color-slider-arrows: 255, 255, 255;
+--color-pagination-bullet-active: 255, 255, 255; --color-badge-background: 255, 255, 255; --color-badge-text: 255, 255,
+255; --color-badge-custom-background: 245, 245, 245; --color-badge-custom-text: 231, 231, 232;
+--color-pagination-bullet-dis: 109, 107, 107; --color-border-btn: 56, 54, 57;
+
+.product-card { --color-overlay: 255, 255, 255; }
+
+
+  --color-background: 0, 0, 0;
+
+
+  			}
+  		}
+
+  	
+
+    body, .color-background-1, .color-background-2, .color-background-3, .color-background-4 {
+    color: rgba(var(--color-foreground));
+      background: rgb(var(--color-background));
+    background: var(--gradient-background);
+  background-attachment: fixed;
+    }
+
+    :root {
+      --column-count: 1;
+      --announcement-height: 0px;
+      --ann-height: 0px;
+      --header-height: 0px;
+      --breadcrumbs-height: 0px;
+      --margin-header: 0px;
+
+      --spaced-section: 5rem;
+
+      --font-body-family: "DM Sans", sans-serif;
+      --font-body-style: normal;
+      --font-body-weight: 500;
+
+      --font-body-scale: 1.6;
+  		--font-body-scale-xs: 1.2;
+  		--font-body-scale-s: 1.4;
+  		--font-body-scale-l: 1.8;
+  		--font-body-scale-xl: 0.0;
+      --font-body-line-height: 1.4;
+      --font-body-letter-spacing: -0.1em;
+
+      --font-heading-family: Jost, sans-serif;
+      --font-heading-style: normal;
+      --font-heading-weight: 600;
+      --font-heading-letter-spacing: -0.2em;
+      --font-heading-line-height: 1.1;
+      --font-heading-text-transform: none;
+
+      --font-subtitle-family: "DM Sans", sans-serif;
+      --font-subtitle-style: normal;
+      --font-subtitle-weight: 500;
+      --font-subtitle-text-transform: none;
+      --font-subtitle-scale: 1.2;
+
+      --font-heading-h1-scale: 1.0;
+      --font-heading-h2-scale: 1.0;
+      --font-heading-h3-scale: 1.0;
+      --font-heading-h4-scale: 1.0;
+      --font-heading-h5-scale: 1.0;
+
+      --font-heading-card-family: "DM Sans", sans-serif;
+      --font-heading-card-style: normal;
+      --font-heading-card-weight: 700;
+  		--font-heading-card-letter-spacing: -0.1em;
+  		--font-price-card-family: "DM Sans", sans-serif;
+  		--font-prcie-card-style: normal;
+  		--font-prcie-card-weight: 700;
+  		--font-price-card-letter-spacing: -0.1em;
+      --font-text-card-family: "DM Sans", sans-serif;
+      --font-text-card-style: normal;
+      --font-text-card-weight: 500;
+
+      --font-heading-card-scale: 1.6;
+  		--font-price-card-scale: 2.0;
+      --font-text-card-scale: 1.0;
+
+      --font-button-family: "DM Sans", sans-serif;
+      --font-button-style: normal;
+      --font-button-weight: 700;
+      --font-button-text-transform: none;
+  		--font-button-scale: 1.6;
+  		--font-button-letter-spacing: -0.1em;
+
+      --font-subtitle-letter-spacing: 0.04em;
+      --font-subtitle-secondary-letter-spacing: -0.04em;
+
+      --font-header-menu-family: "DM Sans", sans-serif;
+      --font-header-menu-style: normal;
+      --font-header-menu-weight: 500;
+      --font-header-menu-text-transform: none;
+
+      --font-footer-menu-family: "DM Sans", sans-serif;
+      --font-footer-menu-style: normal;
+      --font-footer-menu-weight: 500;
+      --font-footer-link-size: px;
+      --font-footer-bottom-link-size: px;
+
+      --font-popups-heading-family: "DM Sans", sans-serif;
+      --font-popups-heading-style: normal;
+      --font-popups-heading-weight: 700;
+      --font-popups-text-family: "DM Sans", sans-serif;
+      --font-popups-text-style: normal;
+      --font-popups-text-weight: 500;
+      --font-popup-heading-scale: 1.31;
+      --font-popup-desc-scale: 1.0;
+      --font-popup-text-scale: 1.0;
+      --font-notification-heading-scale: 1.0;
+      --font-notification-text-scale: 1.0;
+
+      --border-radius-button: 10px;
+      --payment-terms-background-color: ;
+
+      --color-shadow: var(--color-foreground);
+
+  		--border-radius-small: 4px;
+  		--border-radius-medium: 8px;
+  		--border-radius-large: 10px;
+    }
+
+    @media screen and (min-width: 990px) {
+      :root {
+        --spaced-section: 16rem;
+      }
+    }
+
+    *,
+    *::before,
+    *::after {
+    	box-sizing: inherit;
+    }
+
+    html {
+    box-sizing: border-box;
+    font-size: 10px;
+    height: 100%;
+    }
+
+    body {
+  		position: relative;
+  		display: flex;
+  		flex-direction: column;
+  		min-height: 100%;
+  		margin: 0;
+  		font-size: calc(var(--font-body-scale) * 0.9rem);
+  		line-height: 1.4;
+  		font-family: var(--font-body-family);
+  		font-style: var(--font-body-style);
+  		font-weight: var(--font-body-weight);
+  		overflow-x: hidden;
+    }
+
+    @media screen and (min-width: 1150px) {
+      body {
+        font-size: calc(var(--font-body-scale) * 1rem);
+      }
+    }
+
+
+  shopify-account {
+    --shopify-account-color-card-text: rgb(var(--color-foreground));
+    --shopify-account-color-accent: rgb(var(--color-foreground));
+    --shopify-account-color-accent-hover: rgba(var(--color-foreground), 0.8);
+    --shopify-account-color-accent-text: rgb(var(--color-background));
+    --shopify-account-color-background: rgb(var(--color-background));
+    --shopify-account-color-background-subdued: rgb(var(--color-background-secondary));
+    --shopify-account-color-border: rgb(var(--color-border));
+    --shopify-account-color-card-background: rgb(var(--color-background));
+    --shopify-account-color-control-background: rgb(var(--color-background));
+    --shopify-account-color-shadow: 0px 8px 14px 0px rgba(var(--color-shadow), 0.08);
+    --shopify-account-color-text: rgb(var(--color-foreground));
+    --shopify-account-color-text-subdued: rgb(var(--color-foreground));
+    --shopify-account-dialog-position-top: calc(var(--header-height) + var(--announcement-height));
+    --shopify-account-font-body: var(--font-body-family);
+    --shopify-account-font-body-weight: var(--font-body-weight);
+    --shopify-account-font-heading: var(--font-heading-family);
+    --shopify-account-font-heading-weight: var(--font-heading-weight);
+    --shopify-account-radius-base: 0; /* var(--border-radius-button); */
+    --shopify-account-radius-button: var(--border-radius-button);
+    --shopify-account-radius-button-small: min(var(--border-radius-button), 0.4rem);
+    --shopify-account-radius-dialog: 0; /* max(var(--border-radius-button), 0.2rem); */
+    --shopify-account-radius-input: var(--border-radius-button);
+    --shopify-account-signed-in-avatar-color-background: rgb(var(--color-background));
+    --shopify-account-signed-in-avatar-color-text: rgb(var(--color-foreground));
+    --shopify-account-signed-in-avatar-size: 28px;
+  }

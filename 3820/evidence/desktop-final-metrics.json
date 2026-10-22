@@ -1,0 +1,93 @@
+{
+  "metrics": [
+    {
+      "bg": "rgba(0, 0, 0, 0)",
+      "border": "0px none rgb(0, 0, 0)",
+      "font": "500 16px / 22.4px \"DM Sans\", sans-serif",
+      "height": 22.3984375,
+      "radius": "0px",
+      "sel": ".product-form__group-name",
+      "width": 550
+    },
+    {
+      "bg": "rgba(0, 0, 0, 0)",
+      "border": "0px none rgb(0, 0, 0)",
+      "font": "500 16px / 22.4px \"DM Sans\", sans-serif",
+      "height": 22.3984375,
+      "radius": "0px",
+      "sel": ".gpo-label",
+      "width": 47.3203125
+    },
+    {
+      "bg": "rgba(0, 0, 0, 0)",
+      "border": "1px solid rgb(33, 0, 154)",
+      "font": "500 16px / 22.4px \"DM Sans\", sans-serif",
+      "height": 44,
+      "radius": "10px",
+      "sel": ".product-form__controls-group input[name=Size]+label",
+      "width": 44
+    },
+    {
+      "bg": "rgba(0, 0, 0, 0)",
+      "border": "1px solid rgb(229, 229, 229)",
+      "font": "500 16px / 22.4px \"DM Sans\", sans-serif",
+      "height": 44,
+      "radius": "10px",
+      "sel": ".gpo-swatches.buttons input+label",
+      "width": 88.8359375
+    },
+    {
+      "bg": "rgba(0, 0, 0, 0)",
+      "border": "1px solid rgb(229, 229, 229)",
+      "font": "500 16px / 22.4px \"DM Sans\", sans-serif",
+      "height": 44,
+      "radius": "10px",
+      "sel": ".quantity",
+      "width": 120
+    },
+    {
+      "bg": "rgba(0, 0, 0, 0)",
+      "border": "1px solid rgb(229, 229, 229)",
+      "font": "500 16px / 22.4px \"DM Sans\", sans-serif",
+      "height": 44,
+      "radius": "10px",
+      "sel": ".gpo-ov-quantity",
+      "width": 120
+    },
+    {
+      "bg": "rgb(242, 244, 245)",
+      "border": "1px solid rgb(242, 244, 245)",
+      "font": "500 16px / 22.4px \"DM Sans\", sans-serif",
+      "height": 44,
+      "radius": "10px",
+      "sel": ".gpo-select",
+      "width": 550
+    },
+    {
+      "bg": "rgb(242, 244, 245)",
+      "border": "2px solid rgb(242, 244, 245)",
+      "font": "500 16px / 22.4px \"DM Sans\", sans-serif",
+      "height": 44.3984375,
+      "radius": "10px",
+      "sel": ".gpo-input-wrap",
+      "width": 550
+    },
+    {
+      "bg": "rgba(0, 0, 0, 0)",
+      "border": "1px solid rgb(33, 0, 154)",
+      "font": "500 16px / 22.4px \"DM Sans\", sans-serif",
+      "height": 44.3984375,
+      "radius": "10px",
+      "sel": ".gpo-tabs-tab",
+      "width": 96.8359375
+    }
+  ],
+  "page": [
+    1440,
+    1440
+  ],
+  "viewport": [
+    1440,
+    1000
+  ]
+}

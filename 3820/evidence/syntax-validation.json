@@ -1,0 +1,15 @@
+{
+  "rules": 129,
+  "declarations": 481,
+  "errors": [],
+  "vendor_pseudo_elements": [
+    ".gpo-app .gpo-range .gpo-range-input::-webkit-slider-runnable-track",
+    ".gpo-app .gpo-range .gpo-range-input::-moz-range-track",
+    ".gpo-app .gpo-range .gpo-range-input::-moz-range-progress",
+    ".gpo-app .gpo-range .gpo-range-input::-webkit-slider-thumb",
+    ".gpo-app .gpo-range .gpo-range-input::-moz-range-thumb"
+  ],
+  "undefined_tokens": [],
+  "unused_tokens": [],
+  "exact_deliverable_in_served_css": true
+}

@@ -1,0 +1,21 @@
+{
+  "overflow": [],
+  "page": [
+    390,
+    390
+  ],
+  "values": {
+    "color": "#00ccff",
+    "dimension": "12",
+    "dropdown": "option_3",
+    "font": "Poppins",
+    "image": "option_3",
+    "range": "1",
+    "switch": true,
+    "textarea": "First line\nSecond line"
+  },
+  "viewport": [
+    390,
+    844
+  ]
+}
